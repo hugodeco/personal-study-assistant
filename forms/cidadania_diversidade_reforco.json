@@ -1,0 +1,772 @@
+{
+  "metadata": {
+    "title": "🎯 Quiz de Reforço: Cidadania e Diversidade - Aprofundando o Conhecimento",
+    "description": [
+      "Este quiz especial foi criado para reforçar os conceitos onde mais estudantes tiveram dificuldades.",
+      "Aqui você encontrará explicações mais detalhadas e novas questões para fixar o aprendizado.",
+      "Prepare-se para dominar completamente os temas de cidadania, diversidade e direitos!",
+      "Vamos transformar as dificuldades em conhecimento sólido!"
+    ],
+    "subject": "História e Geografia",
+    "grade": "5ª série",
+    "topic": "Cidadania, Diversidade e Direitos - Reforço",
+    "author": "IA",
+    "version": "1.0",
+    "created_date": "2025-08-04"
+  },
+  "content": {
+    "introduction": "Bem-vindo(a) ao quiz de reforço! Este formulário foi especialmente criado para ajudar você a dominar os conceitos que são mais desafiadores. Cada questão traz explicações detalhadas para fortalecer seu aprendizado. Vamos começar?",
+    "instructions": [
+      "Leia cada pergunta com calma e atenção redobrada.",
+      "As explicações são mais detalhadas para ajudar no aprendizado.",
+      "Não se preocupe se errar - o importante é aprender com cada questão.",
+      "Este quiz foi feito especialmente para reforçar conceitos importantes!"
+    ],
+    "sections": [
+      {
+        "name": "Documentos e Instituições Fundamentais",
+        "description": "Reforçando conceitos sobre os documentos e instituições mais importantes para a cidadania."
+      },
+      {
+        "name": "Representação Política e Democracia",
+        "description": "Aprofundando o conhecimento sobre como funciona nosso sistema político."
+      },
+      {
+        "name": "Origens e Manifestações Culturais",
+        "description": "Reforçando o aprendizado sobre as raízes culturais do Brasil."
+      },
+      {
+        "name": "Geografia e Organização do Território",
+        "description": "Consolidando conhecimentos sobre a organização do espaço brasileiro."
+      },
+      {
+        "name": "Marcos Históricos e Personagens",
+        "description": "Reforçando o aprendizado sobre momentos e pessoas importantes da história."
+      },
+      {
+        "name": "Símbolos Nacionais e Identidade",
+        "description": "Aprofundando o conhecimento sobre nossos símbolos e identidade nacional."
+      },
+      {
+        "name": "Direitos e Lutas Sociais",
+        "description": "Reforçando conceitos sobre direitos humanos e movimentos sociais."
+      },
+      {
+        "name": "Conceitos Políticos e Sociais",
+        "description": "Consolidando entendimento sobre conceitos importantes da vida em sociedade."
+      }
+    ]
+  },
+  "questions": [
+    {
+      "id": 1,
+      "section": "Documentos e Instituições Fundamentais",
+      "question": "Por que a Constituição Federal é mais importante que a Carteira de Identidade (RG) para garantir os direitos dos brasileiros?",
+      "options": [
+        "Porque a Constituição é um documento pessoal de cada cidadão.",
+        "Porque a Constituição define as regras gerais do país e os direitos de todos, enquanto o RG apenas identifica uma pessoa.",
+        "Porque o RG é um documento muito antigo.",
+        "Porque a Constituição é feita de papel mais resistente."
+      ],
+      "correct_answer": 1,
+      "explanation": "A Constituição Federal é a lei máxima do país. Ela estabelece os direitos e deveres de TODOS os brasileiros, organiza o Estado e define como o país deve funcionar. O RG é apenas um documento de identificação pessoal, enquanto a Constituição garante direitos fundamentais como educação, saúde e liberdade para toda a população.",
+      "difficulty": "médio"
+    },
+    {
+      "id": 2,
+      "section": "Documentos e Instituições Fundamentais",
+      "question": "Qual a diferença entre a Certidão de Nascimento e a Constituição Federal em relação aos direitos dos cidadãos?",
+      "options": [
+        "A Certidão de Nascimento prova que você existe, mas a Constituição define quais são seus direitos.",
+        "A Certidão de Nascimento é mais importante que a Constituição.",
+        "Ambos têm a mesma função.",
+        "A Constituição só serve para adultos."
+      ],
+      "correct_answer": 0,
+      "explanation": "A Certidão de Nascimento é um documento que prova que você nasceu e existe legalmente no Brasil. Já a Constituição Federal é o conjunto de leis que define QUAIS são os direitos que você tem por ser brasileiro, como direito à educação, saúde, moradia e liberdade. Uma prova que você existe, a outra define seus direitos.",
+      "difficulty": "médio"
+    },
+    {
+      "id": 3,
+      "section": "Representação Política e Democracia",
+      "question": "Por que os vereadores NÃO são responsáveis pela limpeza das ruas, mesmo sendo representantes da cidade?",
+      "options": [
+        "Porque eles são preguiçosos.",
+        "Porque vereadores são legisladores (fazem leis) e fiscalizadores, não executores de serviços públicos.",
+        "Porque a limpeza das ruas não é importante.",
+        "Porque eles só trabalham de dia."
+      ],
+      "correct_answer": 1,
+      "explanation": "Os vereadores fazem parte do PODER LEGISLATIVO, que significa que eles criam leis e fiscalizam. A limpeza das ruas é responsabilidade do PODER EXECUTIVO (prefeito e secretarias). É como numa escola: o diretor (executivo) organiza a limpeza, mas o conselho escolar (legislativo) faz as regras gerais. Cada poder tem sua função específica na democracia.",
+      "difficulty": "difícil"
+    },
+    {
+      "id": 4,
+      "section": "Representação Política e Democracia",
+      "question": "Qual é a verdadeira diferença entre direito e dever quando falamos sobre o voto?",
+      "options": [
+        "Voto é só um direito, não é dever.",
+        "É um direito porque podemos escolher nossos candidatos, e é um dever porque a democracia precisa da participação de todos.",
+        "Podemos escolher se queremos votar ou não.",
+        "Voto é só uma obrigação chata."
+      ],
+      "correct_answer": 1,
+      "explanation": "O voto é um DIREITO porque numa democracia você tem a liberdade de escolher seus representantes - ninguém pode forçar você a votar em alguém específico. Mas também é um DEVER porque a democracia só funciona se os cidadãos participarem das decisões. É como numa família: você tem o direito de dar sua opinião, mas também o dever de participar das decisões familiares.",
+      "difficulty": "difícil"
+    },
+    {
+      "id": 5,
+      "section": "Origens e Manifestações Culturais",
+      "question": "Por que a capoeira tem origem AFRO-BRASILEIRA e não indígena, mesmo sendo criada no Brasil?",
+      "options": [
+        "Porque os indígenas não sabiam lutar.",
+        "Porque foi criada pelos africanos escravizados como forma de resistência, misturando elementos de luta, dança e música de suas culturas.",
+        "Porque a capoeira veio diretamente da África.",
+        "Porque os portugueses trouxeram a capoeira."
+      ],
+      "correct_answer": 1,
+      "explanation": "A capoeira é AFRO-BRASILEIRA porque foi criada pelos africanos que foram trazidos como escravos para o Brasil. Eles usaram conhecimentos de luta e dança de suas culturas africanas e criaram a capoeira como forma de se exercitar, resistir e manter sua cultura viva, disfarçando a luta como dança. Nasceu no Brasil, mas com raízes africanas, por isso é afro-brasileira.",
+      "difficulty": "médio"
+    },
+    {
+      "id": 6,
+      "section": "Origens e Manifestações Culturais",
+      "question": "Por que o Rio de Janeiro é mais famoso mundialmente pelos desfiles de carnaval do que São Paulo, mesmo que São Paulo também tenha carnaval?",
+      "options": [
+        "Porque São Paulo não tem carnaval.",
+        "Porque o Rio de Janeiro foi a primeira cidade do Brasil.",
+        "Porque o Rio criou os grandiosos desfiles no Sambódromo, que se tornaram mundialmente famosos.",
+        "Porque o carnaval do Rio é mais antigo que o do resto do mundo."
+      ],
+      "correct_answer": 2,
+      "explanation": "Embora várias cidades brasileiras tenham carnaval, o Rio de Janeiro ficou mundialmente famoso pelos DESFILES DAS ESCOLAS DE SAMBA no Sambódromo. Esses desfiles grandiosos, com carros alegóricos enormes, milhares de participantes e uma competição organizada, se tornaram um espetáculo único que atrai atenção mundial. Outras cidades têm carnavais lindos, mas com características diferentes.",
+      "difficulty": "médio"
+    },
+    {
+      "id": 7,
+      "section": "Geografia e Organização do Território",
+      "question": "Por que o Brasil tem 5 regiões (Norte, Nordeste, Centro-Oeste, Sudeste, Sul) e não 4 ou 6?",
+      "options": [
+        "Porque 5 é um número bonito.",
+        "Porque o IBGE dividiu considerando características similares de geografia, economia e cultura de cada região.",
+        "Porque temos 5 dedos na mão.",
+        "Porque foi decidido por sorteio."
+      ],
+      "correct_answer": 1,
+      "explanation": "O IBGE (Instituto Brasileiro de Geografia e Estatística) dividiu o Brasil em 5 regiões porque agrupou estados que têm características SIMILARES em relação ao clima, relevo, economia e cultura. Por exemplo: os estados do Nordeste têm clima mais seco e economia similar; os do Sul têm mais influência europeia; os do Norte têm muita floresta. É uma divisão científica que facilita estudos e planejamento governamental.",
+      "difficulty": "difícil"
+    },
+    {
+      "id": 8,
+      "section": "Geografia e Organização do Território",
+      "question": "Por que Salvador foi a primeira capital do Brasil e não o Rio de Janeiro?",
+      "options": [
+        "Porque Salvador é mais bonita.",
+        "Porque Salvador estava mais próxima da Europa e era o centro da produção de açúcar, principal atividade econômica da época.",
+        "Porque o Rio de Janeiro não existia ainda.",
+        "Porque em Salvador fazia menos calor."
+      ],
+      "correct_answer": 1,
+      "explanation": "Salvador foi escolhida como primeira capital (1549-1763) porque estava estrategicamente localizada: mais próxima da Europa (facilitando comunicação com Portugal), e era o centro da produção de AÇÚCAR, que era a principal fonte de riqueza da colônia. A capital sempre fica onde há mais atividade econômica e facilidade de administração. Depois, a capital mudou para o Rio quando o centro econômico se deslocou.",
+      "difficulty": "difícil"
+    },
+    {
+      "id": 9,
+      "section": "Marcos Históricos e Personagens",
+      "question": "Qual foi exatamente a diferença entre a Lei Áurea de 1888 e o direito de voto das mulheres em 1932?",
+      "options": [
+        "A Lei Áurea deu direitos às mulheres e o voto foi dado aos escravos.",
+        "A Lei Áurea libertou os escravizados e o voto feminino deu direitos políticos às mulheres.",
+        "Ambas aconteceram no mesmo ano.",
+        "A Lei Áurea foi mais importante que o voto feminino."
+      ],
+      "correct_answer": 1,
+      "explanation": "Foram duas conquistas diferentes em épocas diferentes: A LEI ÁUREA (1888) acabou com a escravidão, dando LIBERDADE aos africanos e seus descendentes. O VOTO FEMININO (1932) deu às mulheres o direito de PARTICIPAR DA POLÍTICA votando e sendo votadas. A primeira foi sobre liberdade física, a segunda sobre participação política. Ambas foram importantes para grupos que estavam excluídos de direitos.",
+      "difficulty": "difícil"
+    },
+    {
+      "id": 10,
+      "section": "Marcos Históricos e Personagens",
+      "question": "Por que a Guerra do Paraguai (e não Guerra do Contestado) foi o conflito que o Brasil disputou com o Paraguai?",
+      "options": [
+        "Porque a Guerra do Contestado foi entre Brasil e Argentina.",
+        "Porque a Guerra do Paraguai foi o maior conflito da América do Sul, envolvendo Brasil, Argentina e Uruguai contra o Paraguai.",
+        "Porque a Guerra do Contestado aconteceu antes.",
+        "Porque o Paraguai não existia na época da Guerra do Contestado."
+      ],
+      "correct_answer": 1,
+      "explanation": "A GUERRA DO PARAGUAI (1864-1870) foi realmente entre Brasil, Argentina e Uruguai CONTRA o Paraguai. Já a GUERRA DO CONTESTADO (1912-1916) foi um conflito INTERNO do Brasil, entre o governo brasileiro e populações rurais na região entre Santa Catarina e Paraná. São duas guerras completamente diferentes: uma internacional (contra outro país) e outra interna (dentro do próprio Brasil).",
+      "difficulty": "difícil"
+    },
+    {
+      "id": 11,
+      "section": "Símbolos Nacionais e Identidade",
+      "question": "Quais são EXATAMENTE os outros três símbolos oficiais do Brasil além da Bandeira Nacional?",
+      "options": [
+        "Hino Nacional, Cristo Redentor e Pão de Açúcar.",
+        "Hino Nacional, Armas Nacionais e Selo Nacional.",
+        "Carnaval, Futebol e Feijoada.",
+        "Hino da Independência, Bandeira Imperial e Hino à Bandeira."
+      ],
+      "correct_answer": 1,
+      "explanation": "Os 4 símbolos OFICIAIS da República Federativa do Brasil são: 1) BANDEIRA NACIONAL (que você já conhece), 2) HINO NACIONAL (música oficial), 3) ARMAS NACIONAIS (brasão/escudo oficial usado em documentos), 4) SELO NACIONAL (usado para autenticar documentos oficiais). Cristo Redentor, futebol e carnaval são símbolos culturais importantes, mas não são os símbolos oficiais estabelecidos por lei.",
+      "difficulty": "difícil"
+    },
+    {
+      "id": 12,
+      "section": "Símbolos Nacionais e Identidade",
+      "question": "Por que o Dia da Bandeira é 19 de novembro e não 7 de setembro (Independência)?",
+      "options": [
+        "Porque 19 de novembro foi quando a bandeira republicana foi adotada, 4 dias após a Proclamação da República.",
+        "Porque 7 de setembro é o Dia da Independência.",
+        "Porque novembro é um mês mais bonito.",
+        "Porque foi escolhido por sorteio."
+      ],
+      "correct_answer": 0,
+      "explanation": "O Dia da Bandeira é 19 de novembro porque foi nessa data, em 1889, que a BANDEIRA REPUBLICANA (nossa bandeira atual) foi oficialmente adotada. Isso aconteceu 4 dias DEPOIS da Proclamação da República (15 de novembro). A bandeira imperial era diferente. Então comemoramos no dia que nossa bandeira atual foi criada, não no dia da Independência, que foi na época do Império.",
+      "difficulty": "difícil"
+    },
+    {
+      "id": 13,
+      "section": "Conceitos Políticos e Sociais",
+      "question": "O que significa exatamente dizer que o Brasil é um país LAICO em relação às religiões?",
+      "options": [
+        "Que o Brasil tem uma religião oficial.",
+        "Que é proibido ter religião no Brasil.",
+        "Que o Estado não adota religião oficial e garante liberdade religiosa para todas as crenças.",
+        "Que o governo e a religião são a mesma coisa."
+      ],
+      "correct_answer": 2,
+      "explanation": "Um país LAICO significa que há SEPARAÇÃO entre Estado (governo) e Igreja (religiões). O governo brasileiro não pode ter uma religião oficial, não pode favorecer uma religião específica, e deve garantir que TODAS as pessoas tenham liberdade para seguir qualquer religião ou nenhuma religião. É diferente de países que têm religião oficial ou que proíbem religiões.",
+      "difficulty": "difícil"
+    },
+    {
+      "id": 14,
+      "section": "Conceitos Políticos e Sociais",
+      "question": "O que é exatamente 'identidade nacional' e por que não é apenas 'ter documento de identidade'?",
+      "options": [
+        "Identidade nacional é ter CPF e RG.",
+        "É o sentimento de pertencer ao Brasil, compartilhando cultura, língua, história e valores brasileiros.",
+        "É ser idêntico a todas as outras pessoas do país.",
+        "É não gostar de outros países."
+      ],
+      "correct_answer": 1,
+      "explanation": "IDENTIDADE NACIONAL é um sentimento de PERTENCIMENTO ao Brasil. É quando você se sente brasileiro porque compartilha a língua portuguesa, conhece nossa história, participa de nossas tradições (como festa junina), torce pela seleção, come feijoada, sabe o hino nacional. É muito mais que ter documentos - é se sentir parte da 'família brasileira' com nossa cultura única.",
+      "difficulty": "médio"
+    },
+    {
+      "id": 15,
+      "section": "Origens e Manifestações Culturais",
+      "question": "Por que as Festas Juninas são consideradas de origem portuguesa se hoje são tão brasileiras?",
+      "options": [
+        "Porque os portugueses inventaram o milho.",
+        "Porque vieram das festas de santos populares de Portugal, mas no Brasil se misturaram com elementos indígenas e africanos.",
+        "Porque as Festas Juninas não existem em Portugal.",
+        "Porque os africanos trouxeram as festas juninas."
+      ],
+      "correct_answer": 1,
+      "explanation": "As Festas Juninas têm ORIGEM portuguesa (festas dos santos António, João e Pedro), mas se tornaram BRASILEIRAS pela mistura cultural. Os portugueses trouxeram as celebrações religiosas, os indígenas contribuíram com alimentos como milho e mandioca, os africanos trouxeram ritmos e danças. Resultado: uma festa que nasceu portuguesa mas virou tipicamente brasileira pela nossa mistura cultural.",
+      "difficulty": "médio"
+    },
+    {
+      "id": 16,
+      "section": "Geografia e Organização do Território",
+      "question": "Por que a região Sul é famosa pelo chimarrão e não pelo açaí?",
+      "options": [
+        "Porque o açaí não existe no Sul.",
+        "Porque o chimarrão faz parte da cultura gaúcha com influência europeia, típica da região Sul.",
+        "Porque no Sul faz muito calor.",
+        "Porque o chimarrão foi inventado no Sul."
+      ],
+      "correct_answer": 1,
+      "explanation": "O CHIMARRÃO é típico da região Sul (especialmente Rio Grande do Sul) porque faz parte da CULTURA GAÚCHA, influenciada pelos imigrantes europeus e pela vida rural da região. O açaí é típico da região Norte (Amazônia). Cada região do Brasil desenvolveu tradições próprias baseadas no clima, na história e nos povos que se estabeleceram lá. O Sul tem mais influência europeia, o Norte mais indígena.",
+      "difficulty": "médio"
+    },
+    {
+      "id": 17,
+      "section": "Origens e Manifestações Culturais",
+      "question": "O que é exatamente o Círio de Nazaré e por que acontece em Belém?",
+      "options": [
+        "É uma festa de rodeio.",
+        "É uma das maiores procissões religiosas do mundo em homenagem a Nossa Senhora de Nazaré, que acontece em Belém, Pará.",
+        "É um campeonato de surfe.",
+        "É uma dança típica."
+      ],
+      "correct_answer": 1,
+      "explanation": "O CÍRIO DE NAZARÉ é uma gigantesca manifestação religiosa católica que acontece todo ano em BELÉM (Pará). Milhões de pessoas participam da procissão carregando uma corda ligada à berlinda (carrinho) com a imagem de Nossa Senhora de Nazaré. É considerado uma das maiores festas religiosas do mundo. Acontece em Belém porque lá foi encontrada uma imagem da santa no século XVIII.",
+      "difficulty": "difícil"
+    },
+    {
+      "id": 18,
+      "section": "Marcos Históricos e Personagens",
+      "question": "Por que a imigração japonesa foi especialmente importante para São Paulo e não para outros estados?",
+      "options": [
+        "Porque São Paulo tinha mais dinheiro.",
+        "Porque São Paulo precisava de trabalhadores para a agricultura do café e ofereceu melhores condições.",
+        "Porque o Japão fica mais perto de São Paulo.",
+        "Porque os japoneses só sabiam falar português de São Paulo."
+      ],
+      "correct_answer": 1,
+      "explanation": "No início do século XX, SÃO PAULO era o centro da produção de CAFÉ, principal produto de exportação do Brasil. Com o fim da escravidão, os fazendeiros precisavam de trabalhadores. O governo de São Paulo fez acordos com o Japão para trazer imigrantes japoneses para trabalhar nas fazendas de café. Eles vieram especialmente para São Paulo porque era lá que havia trabalho e oportunidades na agricultura.",
+      "difficulty": "difícil"
+    },
+    {
+      "id": 19,
+      "section": "Documentos e Instituições Fundamentais",
+      "question": "Qual a diferença entre o Estatuto da Criança e do Adolescente (ECA) e a Constituição Federal?",
+      "options": [
+        "O ECA protege especificamente crianças e adolescentes, enquanto a Constituição protege todos os brasileiros.",
+        "O ECA é mais importante que a Constituição.",
+        "Ambos têm a mesma função.",
+        "O ECA só vale para crianças ricas."
+      ],
+      "correct_answer": 0,
+      "explanation": "A CONSTITUIÇÃO FEDERAL estabelece direitos gerais para TODOS os brasileiros (adultos, idosos, crianças). O ECA (Estatuto da Criança e do Adolescente) é uma lei ESPECÍFICA que detalha e protege os direitos das pessoas com MENOS DE 18 ANOS. O ECA existe porque crianças e adolescentes precisam de proteção especial. É como se a Constituição fosse a regra geral da casa, e o ECA fosse regras específicas para proteger os filhos menores.",
+      "difficulty": "médio"
+    },
+    {
+      "id": 20,
+      "section": "Direitos e Lutas Sociais",
+      "question": "Por que as greves são importantes para os trabalhadores se elas param a produção?",
+      "options": [
+        "Porque é uma forma pacífica e legal dos trabalhadores pressionarem por melhores condições quando o diálogo não funciona.",
+        "Porque é uma forma de prejudicar a empresa.",
+        "Porque é um dia de folga para passear.",
+        "Porque greves não têm importância."
+      ],
+      "correct_answer": 0,
+      "explanation": "A GREVE é um DIREITO dos trabalhadores reconhecido pela Constituição. É uma forma PACÍFICA e LEGAL de pressionar patrões quando as negociações normais não resolvem problemas como salários baixos, condições ruins de trabalho ou falta de segurança. Quando os trabalhadores se unem e param de trabalhar temporariamente, isso força os patrões a negociar melhor. É um instrumento democrático de luta por direitos.",
+      "difficulty": "médio"
+    },
+    {
+      "id": 21,
+      "section": "Conceitos Políticos e Sociais",
+      "question": "O que são exatamente 'ações afirmativas' como as cotas universitárias?",
+      "options": [
+        "Uma forma de prejudicar estudantes brancos.",
+        "Políticas temporárias para corrigir desigualdades históricas, facilitando acesso de grupos excluídos como negros e indígenas.",
+        "Uma prova de que não existe racismo no Brasil.",
+        "Um tipo de bolsa de estudos para qualquer pessoa."
+      ],
+      "correct_answer": 1,
+      "explanation": "AÇÕES AFIRMATIVAS são políticas TEMPORÁRIAS para corrigir injustiças históricas. Durante séculos, negros e indígenas foram impedidos de estudar. As cotas facilitam o acesso desses grupos às universidades para compensar essa desvantagem histórica. É como dar uma 'ajuda extra' para quem ficou para trás poder alcançar os outros. O objetivo é criar uma sociedade mais justa e igual para todos.",
+      "difficulty": "difícil"
+    },
+    {
+      "id": 22,
+      "section": "Direitos e Lutas Sociais",
+      "question": "Por que a demarcação de terras indígenas é importante se o Brasil é de todos os brasileiros?",
+      "options": [
+        "Para tirar os indígenas de suas terras.",
+        "Para garantir aos povos originários o direito à terra onde sempre viveram e preservar suas culturas únicas.",
+        "Para construir cidades em cima das aldeias.",
+        "Para proibir os indígenas de saírem de suas terras."
+      ],
+      "correct_answer": 1,
+      "explanation": "Os povos indígenas são os PRIMEIROS habitantes do Brasil, vivendo aqui há milhares de anos antes da chegada dos europeus. A DEMARCAÇÃO garante que eles tenham direito às terras onde sempre viveram e possam manter suas culturas, línguas e tradições únicas. É um direito garantido pela Constituição. É como garantir que os 'donos originais' tenham seu espaço respeitado numa terra que sempre foi deles.",
+      "difficulty": "médio"
+    },
+    {
+      "id": 23,
+      "section": "Marcos Históricos e Personagens",
+      "question": "Qual foi a importância específica de Zumbi dos Palmares na luta contra a escravidão?",
+      "options": [
+        "Ele foi um presidente do Brasil.",
+        "Ele foi o líder do maior quilombo (refúgio de escravos fugitivos) do Brasil, Palmares, símbolo da resistência negra.",
+        "Ele foi um bandeirante famoso.",
+        "Ele foi um jogador de futebol."
+      ],
+      "correct_answer": 1,
+      "explanation": "ZUMBI DOS PALMARES foi o último líder do QUILOMBO DOS PALMARES, a maior comunidade de africanos fugitivos da escravidão na história do Brasil. Palmares existiu por quase 100 anos (1580-1695) e chegou a ter 30 mil habitantes. Zumbi se tornou símbolo da RESISTÊNCIA NEGRA porque lutou pela liberdade de seu povo e defendeu uma comunidade onde ex-escravos viviam livres. Por isso é considerado herói nacional.",
+      "difficulty": "médio"
+    },
+    {
+      "id": 24,
+      "section": "Marcos Históricos e Personagens",
+      "question": "Por que Tiradentes é considerado herói se a Inconfidência Mineira não conseguiu a independência?",
+      "options": [
+        "Porque ele foi um dentista famoso.",
+        "Porque foi o único condenado à morte e se tornou símbolo da luta pela independência do Brasil.",
+        "Porque ele foi o primeiro presidente do Brasil.",
+        "Porque ele era muito rico."
+      ],
+      "correct_answer": 1,
+      "explanation": "TIRADENTES participou da INCONFIDÊNCIA MINEIRA (1789), um dos primeiros movimentos pela independência do Brasil. Embora o movimento tenha falhado, Tiradentes foi o ÚNICO condenado à MORTE pela Coroa Portuguesa (os outros foram exilados). Ele se tornou HERÓI NACIONAL porque morreu pela ideia de liberdade do Brasil, inspirando outros movimentos de independência. Às vezes, quem morre por uma causa se torna mais importante que a própria causa.",
+      "difficulty": "difícil"
+    },
+    {
+      "id": 25,
+      "section": "Conceitos Políticos e Sociais",
+      "question": "O que significa exatamente 'liberdade de expressão' e quais são seus limites?",
+      "options": [
+        "O direito de falar qualquer coisa sem consequências.",
+        "O direito de expressar ideias e opiniões com responsabilidade, sem cometer crimes como racismo ou difamação.",
+        "O direito de ficar em silêncio para sempre.",
+        "O direito de obrigar os outros a concordarem com você."
+      ],
+      "correct_answer": 1,
+      "explanation": "LIBERDADE DE EXPRESSÃO é o direito de expressar suas ideias, opiniões e sentimentos sem censura prévia. MAS esse direito tem LIMITES: você não pode usar a liberdade de expressão para cometer CRIMES como racismo, difamação, ameaças ou incitar violência. É como dirigir: você tem liberdade para dirigir, mas deve respeitar as leis de trânsito. Sua liberdade termina onde começa o direito dos outros.",
+      "difficulty": "médio"
+    },
+    {
+      "id": 26,
+      "section": "Marcos Históricos e Personagens",
+      "question": "Qual foi a importância específica do movimento 'Diretas Já' para a democracia brasileira?",
+      "options": [
+        "Foi um movimento para acabar com a Monarquia.",
+        "Foi uma campanha popular que pediu eleições diretas para presidente, ajudando a acabar com a Ditadura Militar.",
+        "Foi um protesto para diminuir preços.",
+        "Foi uma campanha publicitária."
+      ],
+      "correct_answer": 1,
+      "explanation": "O movimento DIRETAS JÁ (1983-1984) foi uma gigantesca mobilização popular que pediu o fim da DITADURA MILITAR e o retorno das eleições diretas para presidente. Milhões de brasileiros foram às ruas em comícios históricos. Embora a emenda das Diretas tenha sido rejeitada no Congresso, o movimento foi fundamental para pressionar pela REDEMOCRATIZAÇÃO do Brasil. Foi o povo exigindo de volta seu direito de escolher o presidente.",
+      "difficulty": "médio"
+    },
+    {
+      "id": 27,
+      "section": "Marcos Históricos e Personagens",
+      "question": "O que foi exatamente a Ditadura Militar (1964-1985) e por que foi diferente da democracia?",
+      "options": [
+        "Foi um período de muita liberdade e festas.",
+        "Foi um período em que militares governaram sem eleições diretas, com censura e repressão.",
+        "Foi um governo democrático eleito pelo povo.",
+        "Foi um período em que todos eram militares."
+      ],
+      "correct_answer": 1,
+      "explanation": "A DITADURA MILITAR (1964-1985) foi um período em que os militares tomaram o poder à força, sem eleições. Características: NÃO havia eleições diretas para presidente, havia CENSURA (jornais e músicas eram proibidos), pessoas que criticavam o governo eram PRESAS ou TORTURADAS, direitos constitucionais foram suspensos. É o oposto da DEMOCRACIA, onde o povo escolhe seus governantes e tem liberdades garantidas.",
+      "difficulty": "médio"
+    },
+    {
+      "id": 28,
+      "section": "Direitos e Lutas Sociais",
+      "question": "Por que a luta pelos direitos das pessoas com deficiência busca 'acessibilidade' e não 'privilégios'?",
+      "options": [
+        "Para dar privilégios especiais.",
+        "Para garantir igualdade de oportunidades através de rampas, elevadores, braile, libras e outras adaptações.",
+        "Para que elas não precisem estudar ou trabalhar.",
+        "Para mantê-las isoladas da sociedade."
+      ],
+      "correct_answer": 1,
+      "explanation": "ACESSIBILIDADE significa adaptar a sociedade para que pessoas com deficiência tenham as MESMAS OPORTUNIDADES que todos. Não são privilégios, são ADAPTAÇÕES necessárias: rampas para cadeirantes, braile para cegos, libras para surdos, etc. É como óculos para quem não enxerga bem - não é privilégio, é ferramenta para igualar oportunidades. O objetivo é INCLUIR, não excluir ou dar privilégios especiais.",
+      "difficulty": "médio"
+    },
+    {
+      "id": 29,
+      "section": "Origens e Manifestações Culturais",
+      "question": "Por que palavras como 'mandioca', 'abacaxi' e 'tapioca' têm origem Tupi-Guarani?",
+      "options": [
+        "Porque os portugueses inventaram essas palavras.",
+        "Porque os povos indígenas Tupi-Guarani já conheciam e nomearam esses alimentos antes da chegada dos europeus.",
+        "Porque são palavras africanas.",
+        "Porque são palavras inglesas antigas."
+      ],
+      "correct_answer": 1,
+      "explanation": "Os povos indígenas do grupo TUPI-GUARANI já viviam no Brasil há milhares de anos e JÁ CONHECIAM esses alimentos nativos. Quando os portugueses chegaram, aprenderam os nomes indígenas para plantas e animais brasileiros que não existiam na Europa. Por isso mantivemos muitas palavras indígenas no português brasileiro - eles foram nossos 'primeiros professores' sobre a natureza do Brasil.",
+      "difficulty": "médio"
+    },
+    {
+      "id": 30,
+      "section": "Marcos Históricos e Personagens",
+      "question": "Qual foi a diferença entre a Proclamação da República (1889) e a Independência (1822)?",
+      "options": [
+        "Não há diferença, foram a mesma coisa.",
+        "A Independência rompeu com Portugal (de colônia para país), a República mudou o sistema de governo (de Monarquia para República).",
+        "A República aconteceu antes da Independência.",
+        "A Independência foi menos importante."
+      ],
+      "correct_answer": 1,
+      "explanation": "São dois momentos diferentes: INDEPENDÊNCIA (1822) = Brasil deixou de ser COLÔNIA de Portugal e virou um PAÍS independente, mas continuou sendo MONARQUIA (governado por imperador). PROCLAMAÇÃO DA REPÚBLICA (1889) = Brasil deixou de ser MONARQUIA e virou REPÚBLICA (governado por presidente eleito). Primeira mudança: de colônia para país. Segunda mudança: de monarquia para república.",
+      "difficulty": "difícil"
+    },
+    {
+      "id": 31,
+      "section": "Marcos Históricos e Personagens",
+      "question": "Por que a cana-de-açúcar era o principal produto colonial e não o café?",
+      "options": [
+        "Porque o café não existia no Brasil colonial.",
+        "Porque a cana-de-açúcar se adaptou bem ao clima tropical e havia grande demanda de açúcar na Europa.",
+        "Porque a cana era mais bonita que o café.",
+        "Porque os portugueses não gostavam de café."
+      ],
+      "correct_answer": 1,
+      "explanation": "No período COLONIAL (1500-1822), a cana-de-açúcar foi o principal produto porque: 1) Se adaptou perfeitamente ao clima TROPICAL brasileiro, 2) Havia GRANDE DEMANDA de açúcar na Europa (era produto de luxo), 3) Os portugueses já dominavam a técnica de produção. O CAFÉ só se tornou importante no século XIX (após a Independência), quando o açúcar perdeu importância no mercado mundial.",
+      "difficulty": "difícil"
+    },
+    {
+      "id": 32,
+      "section": "Marcos Históricos e Personagens",
+      "question": "Quem eram exatamente os bandeirantes e por que são figuras controversas?",
+      "options": [
+        "Eram padres que ensinavam indígenas.",
+        "Eram exploradores que expandiram o território brasileiro, mas também atacaram e escravizaram indígenas.",
+        "Eram soldados que defendiam a fronteira.",
+        "Eram apenas heróis que descobriram ouro."
+      ],
+      "correct_answer": 1,
+      "explanation": "Os BANDEIRANTES foram exploradores paulistas dos séculos XVII-XVIII que EXPANDIRAM o território brasileiro muito além do Tratado de Tordesilhas, descobriram ouro e pedras preciosas. Porém, são figuras CONTROVERSAS porque também atacavam aldeias indígenas para escravizar nativos. Contribuíram para formar o Brasil atual, mas através de métodos violentos contra os povos originários. História complexa: heróis para uns, vilões para outros.",
+      "difficulty": "difícil"
+    },
+    {
+      "id": 33,
+      "section": "Marcos Históricos e Personagens",
+      "question": "O que foi exatamente o 'Ciclo do Ouro' e onde aconteceu?",
+      "options": [
+        "Foi a época em que o Brasil vendeu muito ouro para outros países.",
+        "Foi o período de descoberta e exploração de ouro principalmente em Minas Gerais, Goiás e Mato Grosso (séc. XVIII).",
+        "Foi uma corrida para comprar joias.",
+        "Foi um campeonato de mineração."
+      ],
+      "correct_answer": 1,
+      "explanation": "O CICLO DO OURO (principalmente século XVIII) foi o período de descoberta e exploração intensa de ouro e pedras preciosas, especialmente em MINAS GERAIS, mas também em Goiás e Mato Grosso. Isso provocou a primeira grande migração interna do Brasil, desenvolvimento de cidades como Ouro Preto, mudança da capital para o Rio de Janeiro (mais perto das minas) e grande arrecadação para Portugal através de impostos.",
+      "difficulty": "médio"
+    },
+    {
+      "id": 34,
+      "section": "Marcos Históricos e Personagens",
+      "question": "Qual foi a importância da vinda da Família Real (1808) para a independência do Brasil?",
+      "options": [
+        "Não teve importância para a independência.",
+        "Modernizou o Brasil e criou condições que facilitaram a independência posterior.",
+        "Fez o Brasil voltar a ser colônia simples.",
+        "Atrasou a independência em 200 anos."
+      ],
+      "correct_answer": 1,
+      "explanation": "A vinda da FAMÍLIA REAL PORTUGUESA (1808) foi fundamental para a independência porque MODERNIZOU o Brasil: criou bancos, universidades, imprensa, teatro, jardim botânico, abriu portos para comércio mundial. Isso desenvolveu o Brasil econômica e culturalmente, criando uma elite brasileira educada que depois lideraria a independência. O Brasil deixou de ser apenas colônia extrativista e virou centro do império português.",
+      "difficulty": "difícil"
+    },
+    {
+      "id": 35,
+      "section": "Marcos Históricos e Personagens",
+      "question": "O que foi o Tratado de Tordesilhas e como afetou a formação do Brasil?",
+      "options": [
+        "Foi um acordo de paz entre Brasil e Argentina.",
+        "Foi um tratado de 1494 entre Portugal e Espanha que dividiu as terras do Novo Mundo, definindo os limites iniciais do Brasil.",
+        "Foi a primeira constituição do Brasil.",
+        "Foi a lei que acabou com a escravidão."
+      ],
+      "correct_answer": 1,
+      "explanation": "O TRATADO DE TORDESILHAS (1494) foi assinado ANTES mesmo do descobrimento do Brasil. Portugal e Espanha dividiram as terras que seriam descobertas: terras A LESTE da linha imaginária seriam de Portugal, A OESTE seriam da Espanha. Por isso o Brasil fala português (ficou do lado português) e o resto da América do Sul fala espanhol. Esse tratado definiu inicialmente as fronteiras do Brasil colonial.",
+      "difficulty": "difícil"
+    },
+    {
+      "id": 36,
+      "section": "Direitos e Lutas Sociais",
+      "question": "O que são exatamente os 'movimentos sociais' e por que são importantes na democracia?",
+      "options": [
+        "São grupos de pessoas que gostam de dançar.",
+        "São organizações de cidadãos que lutam por direitos e mudanças sociais específicas, fortalecendo a democracia.",
+        "São pessoas que se mudam de cidade.",
+        "São apenas protestos sem organização."
+      ],
+      "correct_answer": 1,
+      "explanation": "MOVIMENTOS SOCIAIS são grupos organizados de cidadãos que se unem para lutar por direitos ou mudanças específicas: movimento negro (contra racismo), movimento feminista (direitos das mulheres), movimento estudantil (educação), etc. São importantes na DEMOCRACIA porque canalizam as demandas da sociedade, pressionam por mudanças e mantêm o governo atento às necessidades do povo. É a sociedade civil se organizando para participar da política.",
+      "difficulty": "médio"
+    },
+    {
+      "id": 37,
+      "section": "Origens e Manifestações Culturais",
+      "question": "Por que o Frevo é considerado típico de Pernambuco e não de outros estados?",
+      "options": [
+        "Porque outros estados não têm carnaval.",
+        "Porque foi criado nas ruas de Recife e Olinda, com características musicais e de dança únicas da região.",
+        "Porque Pernambuco é o maior estado do Brasil.",
+        "Porque o frevo foi inventado por um político pernambucano."
+      ],
+      "correct_answer": 1,
+      "explanation": "O FREVO nasceu especificamente nas ruas de RECIFE e OLINDA (Pernambuco) no final do século XIX. É resultado da mistura de marchas, polcas e elementos afro-brasileiros locais. As características únicas (música acelerada, passos acrobáticos, sombrinhas coloridas) se desenvolveram na cultura específica pernambucana. Cada região desenvolve manifestações culturais próprias baseadas em sua história e influências particulares.",
+      "difficulty": "médio"
+    },
+    {
+      "id": 38,
+      "section": "Conceitos Políticos e Sociais",
+      "question": "Por que é importante respeitar a diversidade cultural se isso significa aceitar diferenças?",
+      "options": [
+        "Porque todas as culturas são exatamente iguais.",
+        "Porque a mistura de diferentes culturas enriquece a sociedade e cria inovação, respeitando a dignidade humana.",
+        "Porque não temos escolha na questão.",
+        "Porque uma cultura é sempre melhor que outra."
+      ],
+      "correct_answer": 1,
+      "explanation": "Respeitar DIVERSIDADE CULTURAL é importante porque: 1) Cada cultura traz conhecimentos únicos (culinária, música, medicina tradicional, etc.), 2) A MISTURA cultural gera inovação e criatividade, 3) Todos os seres humanos têm DIGNIDADE e direito de manter suas tradições, 4) A diversidade fortalece a sociedade como um todo. O Brasil é um exemplo: nossa riqueza cultural vem exatamente da mistura de povos diferentes.",
+      "difficulty": "médio"
+    },
+    {
+      "id": 39,
+      "section": "Símbolos Nacionais e Identidade",
+      "question": "Por que é importante conhecer e respeitar os símbolos nacionais do Brasil?",
+      "options": [
+        "Porque são bonitos de se ver.",
+        "Porque representam nossa história, cultura e união como povo brasileiro.",
+        "Porque é obrigatório por lei decorar todos os símbolos.",
+        "Porque outros países não têm símbolos."
+      ],
+      "correct_answer": 1,
+      "explanation": "Os símbolos nacionais (bandeira, hino, armas e selo) são importantes porque REPRESENTAM nossa identidade coletiva como brasileiros. Eles simbolizam nossa HISTÓRIA (lutas e conquistas), nossa CULTURA (valores e tradições) e nossa UNIÃO como povo. Respeitar os símbolos é demonstrar amor pelo país e por todos os brasileiros. É como respeitar a foto da família - representa o que somos juntos.",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 40,
+      "section": "Símbolos Nacionais e Identidade",
+      "question": "O que representa exatamente o verde e o amarelo da bandeira brasileira?",
+      "options": [
+        "Verde representa o mar e amarelo representa o sol.",
+        "Verde representa nossas florestas e matas, amarelo representa nossas riquezas minerais como o ouro.",
+        "Verde representa a esperança e amarelo representa a alegria.",
+        "Verde e amarelo foram escolhidos por serem cores bonitas."
+      ],
+      "correct_answer": 1,
+      "explanation": "Oficialmente, o VERDE representa a exuberância de nossas FLORESTAS e matas (Amazônia, Mata Atlântica, Cerrado), e o AMARELO representa nossas RIQUEZAS MINERAIS, especialmente o ouro, que foi muito importante na história brasileira (Ciclo do Ouro em Minas Gerais). Essas cores foram escolhidas porque representam características reais e importantes do território e da economia brasileira.",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 41,
+      "section": "Direitos e Lutas Sociais",
+      "question": "Por que preservar o patrimônio público é um dever cidadão e não apenas responsabilidade do governo?",
+      "options": [
+        "Porque o governo não tem dinheiro para cuidar sozinho.",
+        "Porque patrimônio público pertence a todos os cidadãos e será usado pelas futuras gerações.",
+        "Porque é mais barato para o governo.",
+        "Porque cidadãos têm mais tempo livre."
+      ],
+      "correct_answer": 1,
+      "explanation": "PATRIMÔNIO PÚBLICO (escolas, praças, hospitais, bibliotecas) pertence a TODOS os brasileiros e foi construído com dinheiro dos IMPOSTOS que todos pagamos. Cuidar desses bens é dever de cada cidadão porque: 1) São NOSSOS bens, 2) Serão usados pelas FUTURAS GERAÇÕES, 3) Quando destruímos, todos perdem, 4) Conservar é mais barato que reconstruir. É como cuidar da casa da família - todos devem colaborar.",
+      "difficulty": "médio"
+    },
+    {
+      "id": 42,
+      "section": "Direitos e Lutas Sociais",
+      "question": "Por que preservar o meio ambiente é um direito de todos e não apenas uma preocupação de ecologistas?",
+      "options": [
+        "Porque dá multa quem não preserva.",
+        "Porque ambiente saudável é direito fundamental que garante qualidade de vida para todos e futuras gerações.",
+        "Porque ecologistas mandam no governo.",
+        "Porque só biólogos entendem de meio ambiente."
+      ],
+      "correct_answer": 1,
+      "explanation": "Meio ambiente saudável é um DIREITO FUNDAMENTAL de todos porque garante: ar puro para respirar, água limpa para beber, alimentos seguros, clima estável. A CONSTITUIÇÃO garante esse direito. Não é questão apenas de ecologistas - é questão de SOBREVIVÊNCIA e QUALIDADE DE VIDA. Degradar o ambiente afeta a saúde, a economia e o futuro de todos os brasileiros e de nossos filhos.",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 43,
+      "section": "Conceitos Políticos e Sociais",
+      "question": "Qual é a relação entre impostos e serviços públicos que justifica o pagamento obrigatório?",
+      "options": [
+        "Impostos são uma doação voluntária para o governo.",
+        "Impostos financiam serviços públicos como saúde, educação e segurança que beneficiam toda a sociedade.",
+        "Impostos servem para pagar salários de jogadores de futebol.",
+        "Impostos são uma multa por mau comportamento."
+      ],
+      "correct_answer": 1,
+      "explanation": "IMPOSTOS são a principal fonte de receita do governo para financiar SERVIÇOS PÚBLICOS que beneficiam todos: hospitais, escolas, policiamento, estradas, transporte público, etc. É uma CONTRIBUIÇÃO OBRIGATÓRIA porque esses serviços são essenciais para toda a sociedade funcionar. É como uma 'mensalidade' que todos pagam para ter acesso aos serviços básicos que nenhum cidadão conseguiria pagar sozinho.",
+      "difficulty": "médio"
+    },
+    {
+      "id": 44,
+      "section": "Origens e Manifestações Culturais",
+      "question": "Por que dizemos que o Brasil tem três grupos étnicos principais (indígenas, africanos, europeus) se hoje há muitos outros grupos?",
+      "options": [
+        "Porque outros grupos não são importantes.",
+        "Porque foram os três grupos que formaram a BASE da população e cultura brasileira desde o período colonial.",
+        "Porque são os únicos grupos que existem no Brasil.",
+        "Porque foi decidido por lei que só esses três contam."
+      ],
+      "correct_answer": 1,
+      "explanation": "Indígenas, africanos e europeus (principalmente portugueses) são considerados os TRÊS GRUPOS BÁSICOS porque foram eles que formaram a população e cultura brasileira desde o INÍCIO da colonização (século XVI). Outros grupos (japoneses, árabes, alemães, etc.) chegaram depois e também são importantes, mas a BASE cultural brasileira (língua, religião, culinária, música) veio principalmente da mistura desses três grupos originais.",
+      "difficulty": "médio"
+    },
+    {
+      "id": 45,
+      "section": "Conceitos Políticos e Sociais",
+      "question": "O que significa exatamente 'compartilhar uma língua, cultura, história e território' para formar uma nação?",
+      "options": [
+        "Significa que todos devem pensar exatamente igual.",
+        "Significa ter elementos em comum que criam identidade coletiva e sentimento de pertencimento ao mesmo país.",
+        "Significa morar na mesma casa.",
+        "Significa torcer para o mesmo time de futebol."
+      ],
+      "correct_answer": 1,
+      "explanation": "Uma NAÇÃO se forma quando pessoas compartilham elementos que criam IDENTIDADE COLETIVA: LÍNGUA comum (português), CULTURA comum (festas, música, costumes), HISTÓRIA comum (independência, heróis, marcos) e TERRITÓRIO comum (fronteiras definidas). Isso cria o sentimento de 'SER BRASILEIRO' - mesmo com diferenças regionais, todos se sentem parte do mesmo povo. É o que nos une como uma grande família nacional.",
+      "difficulty": "médio"
+    },
+    {
+      "id": 46,
+      "section": "Marcos Históricos e Personagens",
+      "question": "Por que Brasília foi construída no Centro-Oeste e não em uma região mais populosa?",
+      "options": [
+        "Porque o Centro-Oeste tinha mais dinheiro.",
+        "Para desenvolver o interior do país e integrar todas as regiões brasileiras.",
+        "Porque o Centro-Oeste é mais bonito.",
+        "Porque foi escolhido por sorteio."
+      ],
+      "correct_answer": 1,
+      "explanation": "Brasília foi construída no CENTRO-OESTE (projeto de Juscelino Kubitschek, 1960) para: 1) INTEGRAR o território nacional (estar no centro do país), 2) DESENVOLVER o interior (maior parte da população vivia no litoral), 3) Facilitar administração de todas as regiões, 4) Promover crescimento econômico do Centro-Oeste. Foi uma estratégia geopolítica para 'interiorizar' o desenvolvimento e unificar melhor o país continentalmente grande.",
+      "difficulty": "difícil"
+    },
+    {
+      "id": 47,
+      "section": "Direitos e Lutas Sociais",
+      "question": "Por que a educação é direito de TODAS as crianças e não apenas das que podem pagar?",
+      "options": [
+        "Porque crianças ricas não precisam estudar.",
+        "Porque educação é direito fundamental garantido pela Constituição e essencial para o desenvolvimento de qualquer pessoa.",
+        "Porque apenas crianças pobres são inteligentes.",
+        "Porque escolas particulares são proibidas."
+      ],
+      "correct_answer": 1,
+      "explanation": "A educação é DIREITO FUNDAMENTAL de todas as crianças porque: 1) É essencial para o desenvolvimento humano, 2) Garante IGUALDADE DE OPORTUNIDADES na vida, 3) É base da CIDADANIA (pessoas educadas participam melhor da democracia), 4) Beneficia toda a SOCIEDADE (país mais educado é mais desenvolvido). A Constituição garante educação gratuita para que a origem social não determine o futuro das crianças.",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 48,
+      "section": "Conceitos Políticos e Sociais",
+      "question": "Qual é a diferença entre direitos e deveres na cidadania?",
+      "options": [
+        "Direitos são o que podemos exigir, deveres são nossas responsabilidades para com a sociedade.",
+        "Direitos e deveres são a mesma coisa.",
+        "Só adultos têm direitos e deveres.",
+        "Direitos são mais importantes que deveres."
+      ],
+      "correct_answer": 0,
+      "explanation": "DIREITOS são aquilo que podemos EXIGIR do Estado e da sociedade (saúde, educação, segurança, liberdade). DEVERES são nossas RESPONSABILIDADES para que a sociedade funcione bem (respeitar leis, votar, pagar impostos, preservar ambiente). É uma relação de EQUILÍBRIO: a sociedade nos garante direitos, nós cumprimos deveres para manter a sociedade funcionando. Um depende do outro para a vida em comunidade dar certo.",
+      "difficulty": "médio"
+    },
+    {
+      "id": 49,
+      "section": "Símbolos Nacionais e Identidade",
+      "question": "Por que devemos cantar o Hino Nacional 'de pé e em atitude de respeito'?",
+      "options": [
+        "Porque é mais fácil cantar de pé.",
+        "Como forma de demonstrar respeito ao país e a todos os brasileiros que o hino representa.",
+        "Porque de pé a voz sai mais forte.",
+        "Porque é obrigatório por lei ficar de pé."
+      ],
+      "correct_answer": 1,
+      "explanation": "Cantar o Hino Nacional DE PÉ e em SILÊNCIO respeitoso é uma forma de demonstrar RESPEITO ao Brasil e a todos os brasileiros. O hino representa nossa história, nossas lutas, nossos valores como nação. É como quando respeitamos nossos pais ou professores - é uma forma de demonstrar que valorizamos o que eles representam. É um momento de UNIÃO de todos os brasileiros em torno dos mesmos símbolos.",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 50,
+      "section": "Conceitos Políticos e Sociais",
+      "question": "Por que é importante que os cidadãos participem da política além de apenas votar?",
+      "options": [
+        "Para ganhar dinheiro com política.",
+        "Para fiscalizar governantes, propor soluções e garantir que a democracia funcione todo o tempo.",
+        "Para se tornar famoso.",
+        "Para criticar tudo o que o governo faz."
+      ],
+      "correct_answer": 1,
+      "explanation": "Participação política vai além do voto porque a DEMOCRACIA precisa de cidadãos ativos TODO O TEMPO: fiscalizando se governantes cumprem promessas, participando de audiências públicas, propondo soluções para problemas da comunidade, participando de movimentos sociais, cobrando transparência. VOTAR é apenas o primeiro passo - o acompanhamento constante é que garante que a democracia funcione de verdade para o povo.",
+      "difficulty": "difícil"
+    }
+  ],
+  "evaluation": {
+    "include_evaluation": false
+  },
+  "settings": {
+    "public": true,
+    "allow_multiple_responses": false,
+    "show_progress_bar": true,
+    "collect_email": true,
+    "require_login": true
+  }
+}
