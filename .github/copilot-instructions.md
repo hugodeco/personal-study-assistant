@@ -20,3 +20,4 @@ This project integrates with Google Forms API to create and manage forms program
 * Each form should be defined in a separate JSON file within the `forms/` directory.
 * If not specified, ask about the level of difficulty for the quiz.
 * After generating a new form, review all created questions and answers to ensure there are no duplicate answers.
+* Avoid naming sections in a way that suggests the answer to the question, e.g. Section: "Personal Pronouns" for the question "What type of pronoun is used in the sentence: ______ ?".
