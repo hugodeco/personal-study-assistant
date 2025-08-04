@@ -1,0 +1,62 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "Install Dependencies",
+			"type": "shell",
+			"command": "pip",
+			"args": [
+				"install",
+				"-r",
+				"requirements.txt"
+			],
+			"group": "build",
+			"isBackground": false,
+			"problemMatcher": []
+		},
+		{
+			"label": "Run Google Forms Example",
+			"type": "shell",
+			"command": "Z:/Desenvolvimento/personal-studying/.venv/Scripts/python.exe",
+			"args": [
+				"example_create_form.py"
+			],
+			"group": "build",
+			"isBackground": false,
+			"problemMatcher": []
+		},
+		{
+			"label": "Run Google Forms API",
+			"type": "shell",
+			"command": "Z:/Desenvolvimento/personal-studying/.venv/Scripts/python.exe",
+			"args": [
+				"google_forms_api.py"
+			],
+			"group": "build",
+			"isBackground": false,
+			"problemMatcher": []
+		},
+		{
+			"label": "Test Credentials",
+			"type": "shell",
+			"command": "Z:/Desenvolvimento/personal-studying/.venv/Scripts/python.exe",
+			"args": [
+				"test_credentials.py"
+			],
+			"group": "test",
+			"isBackground": false,
+			"problemMatcher": []
+		},
+		{
+			"label": "Create Test Form (Service Account)",
+			"type": "shell",
+			"command": "Z:/Desenvolvimento/personal-studying/.venv/Scripts/python.exe",
+			"args": [
+				"create_test_form_sa.py"
+			],
+			"group": "build",
+			"isBackground": false,
+			"problemMatcher": []
+		}
+	]
+}

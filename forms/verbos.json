@@ -1,0 +1,902 @@
+{
+  "metadata": {
+    "title": "✍️ Quiz: O Mundo dos Verbos",
+    "description": [
+      "Olá, futuro mestre da gramática! Este quiz é uma aventura pelo universo dos verbos.",
+      "Você vai aprender o que são verbos, como eles mudam para indicar o tempo e muito mais.",
+      "Vamos conjugar conhecimento? Boa sorte!"
+    ],
+    "subject": "Português",
+    "grade": "5ª série",
+    "topic": "Verbos e Tempos Verbais",
+    "author": "IA",
+    "version": "1.0",
+    "created_date": "2025-08-04"
+  },
+  "content": {
+    "introduction": "Bem-vindo(a) ao nosso desafio sobre verbos! Verbos são as palavras que indicam ação, estado ou fenômeno da natureza. Eles são o coração das frases. Preparado(a) para começar?",
+    "instructions": [
+      "Leia cada pergunta com atenção.",
+      "Pense na ação ou no tempo que a frase indica.",
+      "Escolha a alternativa que você considera correta e divirta-se aprendendo!"
+    ],
+    "sections": [
+      {
+        "name": "O Que São Verbos?",
+        "description": "Questões para identificar e entender a função dos verbos."
+      },
+      {
+        "name": "Tempo Presente",
+        "description": "Perguntas sobre ações que acontecem agora."
+      },
+      {
+        "name": "Tempo Passado (Pretérito)",
+        "description": "Vamos viajar no tempo para falar de ações que já aconteceram."
+      },
+      {
+        "name": "Tempo Futuro",
+        "description": "Questões sobre ações que ainda vão acontecer."
+      },
+      {
+        "name": "Modos Verbais (Indicativo)",
+        "description": "Entendendo como os verbos expressam certezas."
+      },
+      {
+        "name": "Verbos em Ação (Misto)",
+        "description": "Um desafio com todos os tempos verbais misturados."
+      }
+    ]
+  },
+  "questions": [
+    {
+      "id": 1,
+      "section": "O Que São Verbos?",
+      "question": "Qual palavra na frase 'O menino correu para casa' é um verbo?",
+      "options": [
+        "O",
+        "menino",
+        "correu",
+        "casa"
+      ],
+      "correct_answer": 2,
+      "explanation": "O verbo é 'correu', pois indica a ação que o menino praticou.",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 2,
+      "section": "O Que São Verbos?",
+      "question": "O que os verbos indicam?",
+      "options": [
+        "Apenas nomes de objetos.",
+        "Ação, estado ou fenômeno da natureza.",
+        "Qualidades das pessoas.",
+        "Lugares."
+      ],
+      "correct_answer": 1,
+      "explanation": "Verbos são palavras que expressam uma ação (correr), um estado (ser, estar) ou um fenômeno da natureza (chover).",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 3,
+      "section": "O Que São Verbos?",
+      "question": "Na frase 'Hoje choveu muito', qual palavra é um verbo que indica um fenômeno da natureza?",
+      "options": [
+        "Hoje",
+        "choveu",
+        "muito",
+        "Na"
+      ],
+      "correct_answer": 1,
+      "explanation": "'Choveu' é um verbo que indica um fenômeno da natureza, algo que acontece sem a intervenção de uma pessoa.",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 4,
+      "section": "O Que São Verbos?",
+      "question": "Qual das frases abaixo NÃO contém um verbo?",
+      "options": [
+        "Eu gosto de sorvete.",
+        "A casa bonita e amarela.",
+        "Ele pulou o muro.",
+        "Nós estudamos para a prova."
+      ],
+      "correct_answer": 1,
+      "explanation": "A frase 'A casa bonita e amarela' apenas descreve a casa, dando qualidades a ela, mas não indica nenhuma ação ou estado.",
+      "difficulty": "médio"
+    },
+    {
+      "id": 5,
+      "section": "O Que São Verbos?",
+      "question": "Na frase 'Maria está feliz', o verbo 'está' indica:",
+      "options": [
+        "Uma ação.",
+        "Um estado.",
+        "Um fenômeno da natureza.",
+        "Um objeto."
+      ],
+      "correct_answer": 1,
+      "explanation": "O verbo 'estar' (conjugado como 'está') indica o estado de Maria, ou seja, como ela se sente no momento.",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 6,
+      "section": "O Que São Verbos?",
+      "question": "Qual dos verbos abaixo está no infinitivo (forma original do verbo)?",
+      "options": [
+        "cantando",
+        "falei",
+        "comer",
+        "escreveu"
+      ],
+      "correct_answer": 2,
+      "explanation": "O infinitivo é o 'nome' do verbo, geralmente terminado em -ar, -er ou -ir. 'Comer' é um exemplo.",
+      "difficulty": "médio"
+    },
+    {
+      "id": 7,
+      "section": "O Que São Verbos?",
+      "question": "Identifique o verbo na frase: 'O cachorro latiu para o gato.'",
+      "options": [
+        "cachorro",
+        "latiu",
+        "para",
+        "gato"
+      ],
+      "correct_answer": 1,
+      "explanation": "O verbo é 'latiu', pois indica a ação que o cachorro realizou.",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 8,
+      "section": "O Que São Verbos?",
+      "question": "Qual das alternativas contém apenas verbos?",
+      "options": [
+        "correr, pular, feliz",
+        "bonito, casa, falar",
+        "cantar, vender, partir",
+        "mesa, cadeira, estudar"
+      ],
+      "correct_answer": 2,
+      "explanation": "'Cantar', 'vender' e 'partir' são exemplos de verbos, pois todos indicam ações.",
+      "difficulty": "médio"
+    },
+    {
+      "id": 9,
+      "section": "O Que São Verbos?",
+      "question": "Na frase 'Ventou forte ontem', o verbo 'ventou' indica:",
+      "options": [
+        "Uma ação de uma pessoa.",
+        "Um estado de um objeto.",
+        "Um fenômeno da natureza.",
+        "Uma qualidade do tempo."
+      ],
+      "correct_answer": 2,
+      "explanation": "Assim como 'chover' e 'nevar', 'ventar' é um verbo que expressa um fenômeno da natureza.",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 10,
+      "section": "O Que São Verbos?",
+      "question": "O que significa conjugar um verbo?",
+      "options": [
+        "Inventar um verbo novo.",
+        "Mudar a forma do verbo para combinar com a pessoa (eu, tu, ele) e o tempo (presente, passado, futuro).",
+        "Escrever o verbo ao contrário.",
+        "Apagar o verbo da frase."
+      ],
+      "correct_answer": 1,
+      "explanation": "Conjugar é adaptar o verbo. Por exemplo, o verbo 'cantar' vira 'eu canto', 'ele cantou', 'nós cantaremos'.",
+      "difficulty": "médio"
+    },
+    {
+      "id": 11,
+      "section": "Tempo Presente",
+      "question": "Qual frase está no tempo presente?",
+      "options": [
+        "Eu comi uma maçã.",
+        "Eu como uma maçã.",
+        "Eu comerei uma maçã.",
+        "Eu comia uma maçã."
+      ],
+      "correct_answer": 1,
+      "explanation": "O tempo presente indica uma ação que está acontecendo agora. 'Eu como' é presente.",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 12,
+      "section": "Tempo Presente",
+      "question": "Complete a frase no presente: 'Nós _________ muito todos os dias.'",
+      "options": [
+        "estudamos",
+        "estudaremos",
+        "estudando",
+        "estudávamos"
+      ],
+      "correct_answer": 0,
+      "explanation": "Para a pessoa 'nós', a forma correta do verbo 'estudar' no presente é 'estudamos'.",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 13,
+      "section": "Tempo Presente",
+      "question": "Como o verbo 'viver' fica na primeira pessoa do singular (eu) no presente?",
+      "options": [
+        "Eu vive",
+        "Eu vivemos",
+        "Eu vivo",
+        "Eu viverá"
+      ],
+      "correct_answer": 2,
+      "explanation": "A conjugação correta para 'eu' no presente é 'vivo'. 'Eu vivo em uma casa grande.'",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 14,
+      "section": "Tempo Presente",
+      "question": "Qual frase descreve uma ação que acontece habitualmente, no presente?",
+      "options": [
+        "Ele viajou para a praia.",
+        "Ela sempre acorda cedo.",
+        "Nós vamos ao cinema amanhã.",
+        "Eles brincaram no parque."
+      ],
+      "correct_answer": 1,
+      "explanation": "O presente também é usado para falar de hábitos e rotinas. 'Ela sempre acorda cedo' é um exemplo disso.",
+      "difficulty": "médio"
+    },
+    {
+      "id": 15,
+      "section": "Tempo Presente",
+      "question": "Complete com o verbo 'ser' no presente: 'Tu _______ meu melhor amigo.'",
+      "options": [
+        "é",
+        "és",
+        "somos",
+        "são"
+      ],
+      "correct_answer": 1,
+      "explanation": "A conjugação do verbo 'ser' para a pessoa 'tu' no presente é 'és'. 'Tu és'.",
+      "difficulty": "médio"
+    },
+    {
+      "id": 16,
+      "section": "Tempo Presente",
+      "question": "Passe a frase para o presente: 'Eles jogaram bola.'",
+      "options": [
+        "Eles jogam bola.",
+        "Eles jogarão bola.",
+        "Eles jogavam bola.",
+        "Eles jogariam bola."
+      ],
+      "correct_answer": 0,
+      "explanation": "'Jogaram' está no passado. A forma no presente para 'eles' é 'jogam'.",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 17,
+      "section": "Tempo Presente",
+      "question": "Qual a forma correta do verbo 'ler' para 'vocês' no presente?",
+      "options": [
+        "Vocês lemos.",
+        "Vocês lê.",
+        "Vocês leem.",
+        "Vocês leram."
+      ],
+      "correct_answer": 2,
+      "explanation": "Para 'vocês' (que usa a mesma conjugação de 'eles' e 'elas'), a forma correta é 'leem'.",
+      "difficulty": "médio"
+    },
+    {
+      "id": 18,
+      "section": "Tempo Presente",
+      "question": "A frase 'O sol brilha no céu' está em qual tempo verbal?",
+      "options": [
+        "Passado",
+        "Futuro",
+        "Presente",
+        "Nenhuma das opções"
+      ],
+      "correct_answer": 2,
+      "explanation": "A ação de brilhar está acontecendo no momento da fala, portanto, está no presente.",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 19,
+      "section": "Tempo Presente",
+      "question": "Complete com o verbo 'ter' no presente: 'Eu ______ muitos brinquedos.'",
+      "options": [
+        "tem",
+        "tenho",
+        "terei",
+        "tinha"
+      ],
+      "correct_answer": 1,
+      "explanation": "A forma correta para a primeira pessoa (eu) do verbo 'ter' no presente é 'tenho'.",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 20,
+      "section": "Tempo Presente",
+      "question": "Qual verbo completa a frase no presente? 'Os pássaros ________ nas árvores.'",
+      "options": [
+        "cantou",
+        "cantarão",
+        "cantam",
+        "cantavam"
+      ],
+      "correct_answer": 2,
+      "explanation": "'Os pássaros' corresponde a 'eles'. A forma correta do verbo 'cantar' para 'eles' no presente é 'cantam'.",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 21,
+      "section": "Tempo Passado (Pretérito)",
+      "question": "Qual frase está no tempo passado (pretérito)?",
+      "options": [
+        "Eu estudo português.",
+        "Eu estudei português.",
+        "Eu estudarei português.",
+        "Eu estudo português agora."
+      ],
+      "correct_answer": 1,
+      "explanation": "O tempo passado, ou pretérito, indica uma ação que já aconteceu. 'Estudei' é uma ação finalizada no passado.",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 22,
+      "section": "Tempo Passado (Pretérito)",
+      "question": "Complete a frase no passado: 'Ontem, nós ________ ao parque.'",
+      "options": [
+        "vamos",
+        "iremos",
+        "fomos",
+        "íamos"
+      ],
+      "correct_answer": 2,
+      "explanation": "Para a pessoa 'nós', a forma do verbo 'ir' no passado (pretérito perfeito) é 'fomos'.",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 23,
+      "section": "Tempo Passado (Pretérito)",
+      "question": "Como o verbo 'fazer' fica na terceira pessoa do singular (ele/ela) no passado?",
+      "options": [
+        "Ele faz.",
+        "Ele fará.",
+        "Ele fazia.",
+        "Ele fez."
+      ],
+      "correct_answer": 3,
+      "explanation": "A conjugação correta para 'ele' ou 'ela' no passado (pretérito perfeito) é 'fez'. 'Ele fez o dever.'",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 24,
+      "section": "Tempo Passado (Pretérito)",
+      "question": "Passe a frase para o passado: 'Eu bebo água.'",
+      "options": [
+        "Eu beberei água.",
+        "Eu bebia água.",
+        "Eu bebo água.",
+        "Eu bebi água."
+      ],
+      "correct_answer": 3,
+      "explanation": "'Bebo' está no presente. A forma no passado (pretérito perfeito) para 'eu' é 'bebi'.",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 25,
+      "section": "Tempo Passado (Pretérito)",
+      "question": "Qual a forma correta do verbo 'ver' para 'eles' no passado?",
+      "options": [
+        "Eles veem.",
+        "Eles viram.",
+        "Eles verão.",
+        "Eles viam."
+      ],
+      "correct_answer": 1,
+      "explanation": "Para 'eles', a forma correta do verbo 'ver' no passado (pretérito perfeito) é 'viram'.",
+      "difficulty": "médio"
+    },
+    {
+      "id": 26,
+      "section": "Tempo Passado (Pretérito)",
+      "question": "A frase 'Quando eu era criança, eu brincava muito' usa um tipo de passado que indica uma ação que acontecia com frequência. Qual o nome desse tempo?",
+      "options": [
+        "Pretérito Perfeito.",
+        "Pretérito Imperfeito.",
+        "Futuro do Presente.",
+        "Presente."
+      ],
+      "correct_answer": 1,
+      "explanation": "O Pretérito Imperfeito (terminações como -ava, -ia) é usado para descrever ações habituais ou contínuas no passado.",
+      "difficulty": "difícil"
+    },
+    {
+      "id": 27,
+      "section": "Tempo Passado (Pretérito)",
+      "question": "Complete com o verbo 'trazer' no passado: 'Você ________ o livro que eu pedi?'",
+      "options": [
+        "traz",
+        "trará",
+        "trouxe",
+        "trazia"
+      ],
+      "correct_answer": 2,
+      "explanation": "A forma correta para 'você' no passado (pretérito perfeito) do verbo 'trazer' é 'trouxe'.",
+      "difficulty": "médio"
+    },
+    {
+      "id": 28,
+      "section": "Tempo Passado (Pretérito)",
+      "question": "Qual frase está no pretérito imperfeito?",
+      "options": [
+        "Ele comeu todo o bolo.",
+        "Ele comia bolo todos os dias.",
+        "Ele comerá o bolo.",
+        "Ele come o bolo."
+      ],
+      "correct_answer": 1,
+      "explanation": "A forma 'comia' indica uma ação que era um hábito no passado, característica do pretérito imperfeito.",
+      "difficulty": "médio"
+    },
+    {
+      "id": 29,
+      "section": "Tempo Passado (Pretérito)",
+      "question": "Complete com o verbo 'ser' no passado: 'Eles ________ bons amigos na escola.'",
+      "options": [
+        "são",
+        "serão",
+        "foram",
+        "eram"
+      ],
+      "correct_answer": 3,
+      "explanation": "Para descrever um estado ou característica contínua no passado, usamos o pretérito imperfeito. A forma correta é 'eram'. 'Foram' também é passado, mas indica uma ação pontual.",
+      "difficulty": "difícil"
+    },
+    {
+      "id": 30,
+      "section": "Tempo Passado (Pretérito)",
+      "question": "Passe para o passado (pretérito perfeito): 'Nós partimos o pão.'",
+      "options": [
+        "Nós partíamos o pão.",
+        "Nós partiremos o pão.",
+        "Nós partimos o pão.",
+        "Nós partirmos o pão."
+      ],
+      "correct_answer": 2,
+      "explanation": "A forma do verbo 'partir' para 'nós' é a mesma no presente e no pretérito perfeito: 'partimos'. O que muda é o contexto (ex: 'Hoje nós partimos' vs 'Ontem nós partimos').",
+      "difficulty": "médio"
+    },
+    {
+      "id": 31,
+      "section": "Tempo Futuro",
+      "question": "Qual frase está no tempo futuro?",
+      "options": [
+        "Ela viajou ontem.",
+        "Ela viaja hoje.",
+        "Ela viajará amanhã.",
+        "Ela viajava sempre."
+      ],
+      "correct_answer": 2,
+      "explanation": "O tempo futuro indica uma ação que ainda vai acontecer. 'Viajará' é uma ação que ocorrerá no futuro.",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 32,
+      "section": "Tempo Futuro",
+      "question": "Complete a frase no futuro: 'No próximo ano, eu _________ para o 6º ano.'",
+      "options": [
+        "fui",
+        "vou",
+        "irei",
+        "ia"
+      ],
+      "correct_answer": 2,
+      "explanation": "Para a pessoa 'eu', a forma do verbo 'ir' no futuro é 'irei'.",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 33,
+      "section": "Tempo Futuro",
+      "question": "Como o verbo 'estudar' fica na terceira pessoa do plural (eles/elas) no futuro?",
+      "options": [
+        "Eles estudam.",
+        "Eles estudaram.",
+        "Eles estudarão.",
+        "Eles estudavam."
+      ],
+      "correct_answer": 2,
+      "explanation": "A conjugação correta para 'eles' ou 'elas' no futuro é 'estudarão' (com -ão no final).",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 34,
+      "section": "Tempo Futuro",
+      "question": "Passe a frase para o futuro: 'Você me ajuda.'",
+      "options": [
+        "Você me ajudou.",
+        "Você me ajudava.",
+        "Você me ajudará.",
+        "Você me ajudaria."
+      ],
+      "correct_answer": 2,
+      "explanation": "'Ajuda' está no presente. A forma no futuro para 'você' é 'ajudará'.",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 35,
+      "section": "Tempo Futuro",
+      "question": "Qual a diferença entre 'falaram' e 'falarão'?",
+      "options": [
+        "Não há diferença.",
+        "'Falaram' é passado e 'falarão' é futuro.",
+        "'Falaram' é futuro e 'falarão' é passado.",
+        "Ambas estão no presente."
+      ],
+      "correct_answer": 1,
+      "explanation": "A terminação -am (falaram) indica passado, enquanto a terminação -ão (falarão) indica futuro. A pronúncia também é diferente!",
+      "difficulty": "médio"
+    },
+    {
+      "id": 36,
+      "section": "Tempo Futuro",
+      "question": "Complete com o verbo 'ser' no futuro: 'Um dia, nós ________ astronautas.'",
+      "options": [
+        "fomos",
+        "somos",
+        "seremos",
+        "éramos"
+      ],
+      "correct_answer": 2,
+      "explanation": "A forma correta do verbo 'ser' para 'nós' no futuro é 'seremos'.",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 37,
+      "section": "Tempo Futuro",
+      "question": "Qual verbo completa a frase no futuro? 'Amanhã, eles ________ um bolo.'",
+      "options": [
+        "fazem",
+        "fizeram",
+        "faziam",
+        "farão"
+      ],
+      "correct_answer": 3,
+      "explanation": "Para indicar uma ação futura para 'eles', usamos a terminação -ão. A forma correta é 'farão'.",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 38,
+      "section": "Tempo Futuro",
+      "question": "Passe para o futuro: 'Eu escrevo uma carta.'",
+      "options": [
+        "Eu escrevi uma carta.",
+        "Eu escreverei uma carta.",
+        "Eu escrevia uma carta.",
+        "Eu escreveria uma carta."
+      ],
+      "correct_answer": 1,
+      "explanation": "A forma do verbo 'escrever' para 'eu' no futuro é 'escreverei'.",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 39,
+      "section": "Tempo Futuro",
+      "question": "Complete com o verbo 'poder' no futuro: 'Você ________ me visitar no sábado?'",
+      "options": [
+        "pode",
+        "pôde",
+        "poderia",
+        "poderá"
+      ],
+      "correct_answer": 3,
+      "explanation": "Para perguntar sobre uma possibilidade futura, usamos 'poderá'.",
+      "difficulty": "médio"
+    },
+    {
+      "id": 40,
+      "section": "Tempo Futuro",
+      "question": "A frase 'Se eu tivesse dinheiro, eu viajaria' usa um tipo de futuro que depende de uma condição. Qual o nome desse tempo?",
+      "options": [
+        "Futuro do Presente.",
+        "Futuro do Pretérito.",
+        "Presente.",
+        "Pretérito Imperfeito."
+      ],
+      "correct_answer": 1,
+      "explanation": "O Futuro do Pretérito (terminação -ia) é usado para falar de uma ação que aconteceria no futuro, se uma condição no passado tivesse sido cumprida.",
+      "difficulty": "difícil"
+    },
+    {
+      "id": 41,
+      "section": "Modos Verbais (Indicativo)",
+      "question": "O modo Indicativo é usado para expressar:",
+      "options": [
+        "Uma dúvida ou incerteza.",
+        "Uma ordem ou um pedido.",
+        "Um fato, uma certeza.",
+        "Um desejo."
+      ],
+      "correct_answer": 2,
+      "explanation": "Usamos o modo Indicativo quando temos certeza do que estamos falando. Todos os tempos que estudamos (presente, pretérito e futuro) fazem parte do modo Indicativo.",
+      "difficulty": "médio"
+    },
+    {
+      "id": 42,
+      "section": "Modos Verbais (Indicativo)",
+      "question": "Qual frase está no modo Indicativo?",
+      "options": [
+        "Talvez eu vá ao cinema.",
+        "Tomara que chova!",
+        "Eu estudo todos os dias.",
+        "Faça o dever de casa!"
+      ],
+      "correct_answer": 2,
+      "explanation": "A frase 'Eu estudo todos os dias' afirma um fato, uma certeza. As outras expressam dúvida, desejo ou ordem.",
+      "difficulty": "médio"
+    },
+    {
+      "id": 43,
+      "section": "Modos Verbais (Indicativo)",
+      "question": "A frase 'Ele ganhou a corrida' expressa uma certeza sobre um fato que aconteceu no passado. Portanto, o verbo está no modo:",
+      "options": [
+        "Subjuntivo.",
+        "Imperativo.",
+        "Infinitivo.",
+        "Indicativo."
+      ],
+      "correct_answer": 3,
+      "explanation": "Como a frase afirma com certeza algo que aconteceu, o verbo está no modo Indicativo (no tempo pretérito perfeito).",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 44,
+      "section": "Modos Verbais (Indicativo)",
+      "question": "Qual dos tempos verbais abaixo pertence ao modo Indicativo?",
+      "options": [
+        "Presente do Subjuntivo.",
+        "Futuro do Pretérito do Indicativo.",
+        "Imperativo Afirmativo.",
+        "Infinitivo Pessoal."
+      ],
+      "correct_answer": 1,
+      "explanation": "O Futuro do Pretérito (viajaria, comeria) é um dos tempos do modo Indicativo, que expressa certezas ou ações condicionadas.",
+      "difficulty": "difícil"
+    },
+    {
+      "id": 45,
+      "section": "Modos Verbais (Indicativo)",
+      "question": "A frase 'O sol nascerá amanhã' está no modo Indicativo porque:",
+      "options": [
+        "Expressa uma dúvida sobre o sol.",
+        "Dá uma ordem para o sol.",
+        "Expressa uma certeza sobre um evento futuro.",
+        "Expressa um desejo."
+      ],
+      "correct_answer": 2,
+      "explanation": "Temos certeza de que o sol vai nascer amanhã. Como é uma afirmação sobre um fato futuro, usamos o modo Indicativo.",
+      "difficulty": "médio"
+    },
+    {
+      "id": 46,
+      "section": "Verbos em Ação (Misto)",
+      "question": "Na frase 'Eu corri, mas não alcancei o ônibus', os verbos estão em qual tempo?",
+      "options": [
+        "Presente.",
+        "Futuro.",
+        "Passado.",
+        "Um no presente e um no futuro."
+      ],
+      "correct_answer": 2,
+      "explanation": "Ambos os verbos, 'corri' e 'alcancei', indicam ações que já aconteceram, portanto, estão no passado (pretérito).",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 47,
+      "section": "Verbos em Ação (Misto)",
+      "question": "Qual a sequência correta de tempos verbais na frase: 'Eu ________ agora, porque ontem não ________ e amanhã não ________.'?",
+      "options": [
+        "estudo, estudei, estudarei",
+        "estudarei, estudo, estudei",
+        "estudei, estudarei, estudo",
+        "estudo, estudarei, estudei"
+      ],
+      "correct_answer": 0,
+      "explanation": "A frase segue a ordem: presente ('agora'), passado ('ontem') e futuro ('amanhã'). A sequência correta é 'estudo', 'estudei', 'estudarei'.",
+      "difficulty": "médio"
+    },
+    {
+      "id": 48,
+      "section": "Verbos em Ação (Misto)",
+      "question": "Identifique o tempo do verbo na frase: 'Se eu pudesse, eu viajaria pelo mundo.'",
+      "options": [
+        "Presente.",
+        "Pretérito Perfeito.",
+        "Futuro do Presente.",
+        "Futuro do Pretérito."
+      ],
+      "correct_answer": 3,
+      "explanation": "O verbo 'viajaria' está no Futuro do Pretérito, pois indica uma ação que aconteceria sob uma determinada condição ('Se eu pudesse').",
+      "difficulty": "difícil"
+    },
+    {
+      "id": 49,
+      "section": "Verbos em Ação (Misto)",
+      "question": "Passe a frase para o futuro: 'Nós fomos à escola.'",
+      "options": [
+        "Nós vamos à escola.",
+        "Nós iremos à escola.",
+        "Nós íamos à escola.",
+        "Nós fôramos à escola."
+      ],
+      "correct_answer": 1,
+      "explanation": "'Fomos' está no passado. A forma do verbo 'ir' para 'nós' no futuro é 'iremos'.",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 50,
+      "section": "Verbos em Ação (Misto)",
+      "question": "Qual verbo completa a frase corretamente? 'Quando cheguei, ele já ________.'",
+      "options": [
+        "sai",
+        "sairá",
+        "tinha saído",
+        "saiu"
+      ],
+      "correct_answer": 2,
+      "explanation": "Para indicar uma ação no passado que aconteceu ANTES de outra ação também no passado, usamos o pretérito mais-que-perfeito, como 'tinha saído'.",
+      "difficulty": "difícil"
+    },
+    {
+      "id": 51,
+      "section": "Verbos em Ação (Misto)",
+      "question": "Na frase 'Ele canta e dança muito bem', os verbos estão no:",
+      "options": [
+        "Presente.",
+        "Passado.",
+        "Futuro.",
+        "Infinitivo."
+      ],
+      "correct_answer": 0,
+      "explanation": "Os verbos 'canta' e 'dança' estão no presente, indicando uma habilidade ou uma ação que ele faz habitualmente.",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 52,
+      "section": "Verbos em Ação (Misto)",
+      "question": "Passe para o passado (pretérito perfeito): 'Ela vende doces.'",
+      "options": [
+        "Ela venderá doces.",
+        "Ela vendia doces.",
+        "Ela vendeu doces.",
+        "Ela vende doces."
+      ],
+      "correct_answer": 2,
+      "explanation": "'Vende' está no presente. A forma no passado para 'ela' é 'vendeu'.",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 53,
+      "section": "Verbos em Ação (Misto)",
+      "question": "Qual a forma do verbo 'querer' no futuro para 'eu'?",
+      "options": [
+        "Eu quis.",
+        "Eu quero.",
+        "Eu quererei.",
+        "Eu queria."
+      ],
+      "correct_answer": 2,
+      "explanation": "A conjugação do verbo 'querer' para a primeira pessoa (eu) no futuro é 'quererei'.",
+      "difficulty": "médio"
+    },
+    {
+      "id": 54,
+      "section": "Verbos em Ação (Misto)",
+      "question": "A frase 'Chovia quando saí de casa' contém verbos em quais tempos?",
+      "options": [
+        "Ambos no presente.",
+        "Ambos no pretérito perfeito.",
+        "Um no pretérito imperfeito e um no pretérito perfeito.",
+        "Um no presente e um no futuro."
+      ],
+      "correct_answer": 2,
+      "explanation": "'Chovia' (ação contínua no passado) está no pretérito imperfeito, e 'saí' (ação pontual no passado) está no pretérito perfeito.",
+      "difficulty": "difícil"
+    },
+    {
+      "id": 55,
+      "section": "Verbos em Ação (Misto)",
+      "question": "Complete: 'Se nós _________ mais, nós _________ a resposta.'",
+      "options": [
+        "estudássemos, saberíamos",
+        "estudamos, sabemos",
+        "estudaremos, saberemos",
+        "estudamos, soubemos"
+      ],
+      "correct_answer": 0,
+      "explanation": "Esta é uma frase condicional. 'Estudássemos' está no pretérito imperfeito do subjuntivo (condição) e 'saberíamos' está no futuro do pretérito (resultado).",
+      "difficulty": "difícil"
+    },
+    {
+      "id": 56,
+      "section": "Verbos em Ação (Misto)",
+      "question": "Qual é o verbo na frase 'A menina parecia cansada'?",
+      "options": [
+        "menina",
+        "parecia",
+        "cansada",
+        "A"
+      ],
+      "correct_answer": 1,
+      "explanation": "O verbo é 'parecia', que indica o estado da menina. É um verbo de ligação.",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 57,
+      "section": "Verbos em Ação (Misto)",
+      "question": "Passe para o presente: 'Eles foram felizes.'",
+      "options": [
+        "Eles serão felizes.",
+        "Eles eram felizes.",
+        "Eles são felizes.",
+        "Eles seriam felizes."
+      ],
+      "correct_answer": 2,
+      "explanation": "'Foram' é o verbo 'ser' no passado. No presente, para 'eles', a forma correta é 'são'.",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 58,
+      "section": "Verbos em Ação (Misto)",
+      "question": "Qual o tempo verbal da frase 'Eu falarei com você depois'?",
+      "options": [
+        "Presente.",
+        "Passado.",
+        "Futuro.",
+        "Infinitivo."
+      ],
+      "correct_answer": 2,
+      "explanation": "O verbo 'falarei' indica uma ação que ainda vai acontecer, portanto, está no futuro.",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 59,
+      "section": "Verbos em Ação (Misto)",
+      "question": "Complete com o verbo 'vir' no passado (pretérito perfeito): 'Meus avós ________ me visitar ontem.'",
+      "options": [
+        "vêm",
+        "vinham",
+        "virão",
+        "vieram"
+      ],
+      "correct_answer": 3,
+      "explanation": "A forma correta do verbo 'vir' para 'eles' (meus avós) no passado é 'vieram'.",
+      "difficulty": "médio"
+    },
+    {
+      "id": 60,
+      "section": "Verbos em Ação (Misto)",
+      "question": "Na frase 'Espero que você estude', o verbo 'estude' está no modo Subjuntivo, que expressa:",
+      "options": [
+        "Uma certeza.",
+        "Um fato que já aconteceu.",
+        "Uma ordem.",
+        "Um desejo, uma possibilidade ou uma dúvida."
+      ],
+      "correct_answer": 3,
+      "explanation": "O modo Subjuntivo é usado para falar de incertezas, desejos ou possibilidades. 'Espero que...' indica um desejo.",
+      "difficulty": "difícil"
+    }
+  ],
+  "evaluation": {
+    "include_evaluation": false
+  },
+  "settings": {
+    "public": true,
+    "allow_multiple_responses": false,
+    "show_progress_bar": true,
+    "collect_email": true,
+    "require_login": true
+  }
+}

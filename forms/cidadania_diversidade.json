@@ -1,0 +1,898 @@
+{
+  "metadata": {
+    "title": "🌍 Quiz: Cidadania, Diversidade e Direitos no Brasil",
+    "description": [
+      "Olá! Este quiz vai testar seus conhecimentos sobre o que é ser cidadão, a incrível diversidade do nosso país e a importância de lutar por nossos direitos.",
+      "Prepare-se para uma viagem pela história e geografia do Brasil!",
+      "Boa sorte!"
+    ],
+    "subject": "História e Geografia",
+    "grade": "5ª série",
+    "topic": "Cidadania, Diversidade e Direitos",
+    "author": "IA",
+    "version": "1.0",
+    "created_date": "2025-08-01"
+  },
+  "content": {
+    "introduction": "Bem-vindo(a) ao nosso quiz! Aqui você aprenderá sobre cidadania, a riqueza cultural do Brasil e como os direitos foram conquistados. Vamos começar?",
+    "instructions": [
+      "Leia cada pergunta com muita atenção.",
+      "Escolha a alternativa que você acha que está correta.",
+      "Ao final, você verá sua pontuação. Aprender é o mais importante!"
+    ],
+    "sections": [
+      {
+        "name": "Cidadania e Direitos",
+        "description": "Questões sobre o que significa ser um cidadão, seus direitos e deveres."
+      },
+      {
+        "name": "Diversidade Cultural no Brasil",
+        "description": "Perguntas sobre a mistura de povos, costumes e tradições que formam o Brasil."
+      },
+      {
+        "name": "Formação da Nação Brasileira",
+        "description": "Vamos entender como o nosso país se formou e o que nos une como nação."
+      },
+      {
+        "name": "Lutas por Direitos no Brasil",
+        "description": "Questões sobre momentos importantes em que os brasileiros lutaram por mais justiça e igualdade."
+      },
+      {
+        "name": "Símbolos Nacionais e Identidade",
+        "description": "Perguntas sobre os símbolos que representam o nosso país."
+      }
+    ]
+  },
+  "questions": [
+    {
+      "id": 1,
+      "section": "Cidadania e Direitos",
+      "question": "O que é cidadania?",
+      "options": [
+        "Apenas morar em uma cidade.",
+        "Ter um conjunto de direitos e deveres em um país.",
+        "Apenas votar nas eleições.",
+        "Ser uma pessoa famosa."
+      ],
+      "correct_answer": 1,
+      "explanation": "Cidadania é a condição de quem vive em um país e tem direitos (como saúde e educação) e deveres (como respeitar as leis e votar).",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 2,
+      "section": "Cidadania e Direitos",
+      "question": "Qual é o documento mais importante que garante os direitos e deveres de todos os brasileiros?",
+      "options": [
+        "A Carteira de Identidade (RG).",
+        "A Certidão de Nascimento.",
+        "A Constituição Federal.",
+        "O Código de Trânsito."
+      ],
+      "correct_answer": 2,
+      "explanation": "A Constituição Federal de 1988 é a nossa principal lei. Ela organiza o país e define nossos direitos e deveres fundamentais.",
+      "difficulty": "médio"
+    },
+    {
+      "id": 3,
+      "section": "Cidadania e Direitos",
+      "question": "O que é o voto?",
+      "options": [
+        "Uma forma de escolher nossos representantes, como prefeitos e presidente.",
+        "Uma obrigação que não tem importância.",
+        "Um prêmio que se ganha.",
+        "Uma forma de reclamar do governo."
+      ],
+      "correct_answer": 0,
+      "explanation": "O voto é um direito e um dever do cidadão. É através dele que escolhemos as pessoas que vão governar e criar leis para nossa cidade, estado e país.",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 4,
+      "section": "Cidadania e Direitos",
+      "question": "De acordo com a lei brasileira, quem tem direito à educação?",
+      "options": [
+        "Apenas as crianças que podem pagar.",
+        "Apenas as crianças que moram na cidade.",
+        "Todas as crianças e adolescentes.",
+        "Apenas os adultos."
+      ],
+      "correct_answer": 2,
+      "explanation": "A educação é um direito de todos, garantido pela Constituição. O Estado e a família devem assegurar que todas as crianças e adolescentes frequentem a escola.",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 5,
+      "section": "Cidadania e Direitos",
+      "question": "O que são os impostos que os cidadãos pagam?",
+      "options": [
+        "Um pagamento voluntário para ajudar o governo.",
+        "Dinheiro para pagar o salário dos jogadores de futebol.",
+        "Uma contribuição obrigatória para financiar serviços públicos como hospitais e escolas.",
+        "Uma multa por mau comportamento."
+      ],
+      "correct_answer": 2,
+      "explanation": "Impostos são valores que pagamos ao governo para que ele possa investir em serviços para toda a população, como saúde, segurança, educação e transporte.",
+      "difficulty": "médio"
+    },
+    {
+      "id": 6,
+      "section": "Cidadania e Direitos",
+      "question": "Qual o nome do principal conjunto de leis que protege os direitos das crianças e dos adolescentes no Brasil?",
+      "options": [
+        "Código de Defesa do Consumidor.",
+        "Estatuto do Idoso.",
+        "Estatuto da Criança e do Adolescente (ECA).",
+        "Leis de Trânsito."
+      ],
+      "correct_answer": 2,
+      "explanation": "O ECA (Estatuto da Criança e do Adolescente) foi criado para garantir proteção integral e direitos específicos para as pessoas com menos de 18 anos.",
+      "difficulty": "médio"
+    },
+    {
+      "id": 7,
+      "section": "Cidadania e Direitos",
+      "question": "Qual das opções abaixo é um dever de todo cidadão?",
+      "options": [
+        "Ir à praia todos os fins de semana.",
+        "Respeitar as leis e as outras pessoas.",
+        "Ter o carro do ano.",
+        "Assistir a todos os jogos da seleção."
+      ],
+      "correct_answer": 1,
+      "explanation": "Para viver bem em sociedade, todos nós temos o dever de respeitar as regras e os direitos das outras pessoas, independentemente de quem sejam.",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 8,
+      "section": "Cidadania e Direitos",
+      "question": "Qual das opções abaixo é um direito fundamental de todo cidadão brasileiro?",
+      "options": [
+        "Direito de não respeitar os pais.",
+        "Direito à vida e à liberdade.",
+        "Direito de ter um celular de última geração.",
+        "Direito de não ir à escola."
+      ],
+      "correct_answer": 1,
+      "explanation": "O direito à vida, à liberdade, à igualdade e à segurança são considerados direitos fundamentais, ou seja, essenciais para todos.",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 9,
+      "section": "Cidadania e Direitos",
+      "question": "O que significa 'preservar o patrimônio público'?",
+      "options": [
+        "Guardar o dinheiro do meu pai.",
+        "Cuidar de bens que são de uso de todos, como praças, escolas e postos de saúde.",
+        "Deixar a luz de casa acesa o dia todo.",
+        "Pichar os muros da cidade."
+      ],
+      "correct_answer": 1,
+      "explanation": "Patrimônio público é tudo aquilo que pertence a toda a população. Cuidar dele é um dever de cidadania, pois todos nós usamos esses espaços e serviços.",
+      "difficulty": "médio"
+    },
+    {
+      "id": 10,
+      "section": "Cidadania e Direitos",
+      "question": "Por que é importante para um cidadão preservar o meio ambiente?",
+      "options": [
+        "Porque dá multa.",
+        "Porque a natureza não precisa de cuidados.",
+        "Porque um ambiente saudável é um direito de todos e garante nossa qualidade de vida.",
+        "Porque só os biólogos devem se preocupar com isso."
+      ],
+      "correct_answer": 2,
+      "explanation": "Cuidar do meio ambiente é um dever de todos. Isso garante que nós e as futuras gerações tenhamos ar puro, água limpa e um planeta saudável para viver.",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 11,
+      "section": "Cidadania e Direitos",
+      "question": "Qual é a principal função de um vereador na cidade?",
+      "options": [
+        "Cuidar da limpeza das ruas.",
+        "Criar leis para o município e fiscalizar o trabalho do prefeito.",
+        "Ser o dono da cidade.",
+        "Organizar as festas da cidade."
+      ],
+      "correct_answer": 1,
+      "explanation": "Os vereadores são eleitos por nós para representar a população, criar leis que melhorem a cidade e verificar se o prefeito está aplicando o dinheiro público corretamente.",
+      "difficulty": "difícil"
+    },
+    {
+      "id": 12,
+      "section": "Cidadania e Direitos",
+      "question": "Votar é considerado um direito e um dever ao mesmo tempo. O que isso significa?",
+      "options": [
+        "Que podemos escolher se queremos ou não.",
+        "Que é um direito poder escolher, e um dever participar das decisões do país.",
+        "Que é apenas uma obrigação chata.",
+        "Que só é um direito para algumas pessoas."
+      ],
+      "correct_answer": 1,
+      "explanation": "É um direito porque temos a liberdade de escolher nossos candidatos, e um dever porque nossa participação é fundamental para a democracia e o futuro do país.",
+      "difficulty": "difícil"
+    },
+    {
+      "id": 13,
+      "section": "Diversidade Cultural no Brasil",
+      "question": "Quais são os três principais grupos étnicos que formaram a base da população e da cultura brasileira?",
+      "options": [
+        "Portugueses, espanhóis e franceses.",
+        "Indígenas, africanos e europeus (principalmente portugueses).",
+        "Japoneses, chineses e coreanos.",
+        "Italianos, alemães e poloneses."
+      ],
+      "correct_answer": 1,
+      "explanation": "A nossa grande diversidade cultural vem da mistura dos povos indígenas (que já viviam aqui), dos africanos (trazidos como escravos) e dos europeus (que colonizaram o país).",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 14,
+      "section": "Diversidade Cultural no Brasil",
+      "question": "A capoeira, uma mistura de dança, luta e música, tem sua origem principalmente na cultura:",
+      "options": [
+        "Indígena.",
+        "Portuguesa.",
+        "Afro-brasileira.",
+        "Japonesa."
+      ],
+      "correct_answer": 2,
+      "explanation": "A capoeira foi criada pelos africanos escravizados no Brasil como uma forma de resistência e de manter sua cultura viva. Hoje é um patrimônio cultural do nosso país.",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 15,
+      "section": "Diversidade Cultural no Brasil",
+      "question": "Qual destes pratos é um exemplo famoso da culinária da Bahia, de forte influência africana?",
+      "options": [
+        "Churrasco.",
+        "Pizza.",
+        "Acarajé.",
+        "Pão de queijo."
+      ],
+      "correct_answer": 2,
+      "explanation": "O acarajé é um bolinho de feijão-fradinho frito no azeite de dendê, um prato típico da Bahia que mostra a rica herança da culinária africana no Brasil.",
+      "difficulty": "médio"
+    },
+    {
+      "id": 16,
+      "section": "Diversidade Cultural no Brasil",
+      "question": "O Carnaval é uma das festas mais famosas do Brasil. Qual cidade é mundialmente conhecida pelos desfiles das escolas de samba?",
+      "options": [
+        "Salvador.",
+        "Recife.",
+        "São Paulo.",
+        "Rio de Janeiro."
+      ],
+      "correct_answer": 3,
+      "explanation": "Embora o Carnaval seja comemorado de diferentes formas em todo o Brasil, os desfiles grandiosos das escolas de samba do Rio de Janeiro são famosos no mundo inteiro.",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 17,
+      "section": "Diversidade Cultural no Brasil",
+      "question": "O que é o Frevo?",
+      "options": [
+        "Um tipo de comida do Sul do país.",
+        "Um ritmo musical e uma dança muito rápidos, com sombrinhas coloridas, típico de Pernambuco.",
+        "Uma festa religiosa de Minas Gerais.",
+        "Uma lenda da Amazônia."
+      ],
+      "correct_answer": 1,
+      "explanation": "O Frevo é uma marca registrada do carnaval de Pernambuco, especialmente em Olinda e Recife. É conhecido por sua música contagiante e seus passos de dança acrobáticos.",
+      "difficulty": "médio"
+    },
+    {
+      "id": 18,
+      "section": "Diversidade Cultural no Brasil",
+      "question": "Muitas palavras que usamos no dia a dia, como 'mandioca', 'abacaxi' e 'tapioca', têm origem na língua:",
+      "options": [
+        "Inglesa.",
+        "Tupi-Guarani (indígena).",
+        "Africana.",
+        "Italiana."
+      ],
+      "correct_answer": 1,
+      "explanation": "Herdamos muitas palavras dos povos indígenas, especialmente do tronco linguístico Tupi-Guarani. Elas nomeiam muitas de nossas plantas, animais e alimentos.",
+      "difficulty": "médio"
+    },
+    {
+      "id": 19,
+      "section": "Diversidade Cultural no Brasil",
+      "question": "As Festas Juninas, com suas quadrilhas, fogueiras e comidas de milho, foram trazidas para o Brasil pelos:",
+      "options": [
+        "Africanos.",
+        "Japoneses.",
+        "Portugueses.",
+        "Alemães."
+      ],
+      "correct_answer": 2,
+      "explanation": "As Festas Juninas têm origem em festas de santos populares em Portugal. No Brasil, elas se misturaram com elementos indígenas e africanos, tornando-se uma tradição única.",
+      "difficulty": "médio"
+    },
+    {
+      "id": 20,
+      "section": "Diversidade Cultural no Brasil",
+      "question": "O que significa dizer que o Brasil é um país laico?",
+      "options": [
+        "Que só uma religião é permitida.",
+        "Que o governo não tem uma religião oficial e deve respeitar todas as crenças.",
+        "Que é proibido ter religião no Brasil.",
+        "Que a religião e o governo são a mesma coisa."
+      ],
+      "correct_answer": 1,
+      "explanation": "Um Estado laico significa que há uma separação entre Estado e Igreja. O governo não pode adotar uma religião oficial e deve garantir a liberdade religiosa para todos.",
+      "difficulty": "difícil"
+    },
+    {
+      "id": 21,
+      "section": "Diversidade Cultural no Brasil",
+      "question": "Qual região do Brasil é famosa pelo chimarrão e pela dança da chula, fortes traços da cultura gaúcha?",
+      "options": [
+        "Norte.",
+        "Nordeste.",
+        "Centro-Oeste.",
+        "Sul."
+      ],
+      "correct_answer": 3,
+      "explanation": "O chimarrão e a cultura gaúcha são muito fortes na Região Sul, especialmente no estado do Rio Grande do Sul, com influências europeias e da vida no campo.",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 22,
+      "section": "Diversidade Cultural no Brasil",
+      "question": "O que é o Círio de Nazaré?",
+      "options": [
+        "Uma festa de rodeio em São Paulo.",
+        "Uma das maiores procissões religiosas do mundo, que acontece em Belém, no Pará.",
+        "Um campeonato de surfe no Rio de Janeiro.",
+        "Uma dança típica de Santa Catarina."
+      ],
+      "correct_answer": 1,
+      "explanation": "O Círio de Nazaré é uma gigantesca manifestação de fé católica em homenagem a Nossa Senhora de Nazaré, que reúne milhões de pessoas em Belém (PA) todos os anos.",
+      "difficulty": "difícil"
+    },
+    {
+      "id": 23,
+      "section": "Diversidade Cultural no Brasil",
+      "question": "A imigração de japoneses no início do século XX foi muito importante para qual estado brasileiro?",
+      "options": [
+        "Bahia.",
+        "Amazonas.",
+        "São Paulo.",
+        "Rio Grande do Sul."
+      ],
+      "correct_answer": 2,
+      "explanation": "São Paulo recebeu um grande número de imigrantes japoneses, que contribuíram muito para a agricultura e a cultura do estado. O bairro da Liberdade, na capital, é um marco dessa presença.",
+      "difficulty": "médio"
+    },
+    {
+      "id": 24,
+      "section": "Diversidade Cultural no Brasil",
+      "question": "Por que é importante respeitar a diversidade cultural?",
+      "options": [
+        "Porque todas as culturas são iguais.",
+        "Porque a mistura de diferentes costumes, crenças e tradições enriquece nosso país.",
+        "Porque não temos escolha.",
+        "Porque uma cultura é melhor que a outra."
+      ],
+      "correct_answer": 1,
+      "explanation": "Respeitar a diversidade é entender que as diferenças nos tornam mais fortes e criativos. A riqueza do Brasil está justamente nessa mistura de culturas.",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 25,
+      "section": "Formação da Nação Brasileira",
+      "question": "Quando e por quem a Independência do Brasil foi proclamada?",
+      "options": [
+        "Em 1500, por Pedro Álvares Cabral.",
+        "Em 1888, pela Princesa Isabel.",
+        "Em 1822, por Dom Pedro I.",
+        "Em 1889, pelo Marechal Deodoro da Fonseca."
+      ],
+      "correct_answer": 2,
+      "explanation": "A Independência do Brasil foi proclamada em 7 de setembro de 1822, por Dom Pedro I, às margens do rio Ipiranga, rompendo os laços com Portugal.",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 26,
+      "section": "Formação da Nação Brasileira",
+      "question": "O que foi a Proclamação da República?",
+      "options": [
+        "O fim da escravidão.",
+        "O dia em que o Brasil se tornou independente de Portugal.",
+        "O fim da Monarquia e o início do governo por um presidente.",
+        "A descoberta do Brasil."
+      ],
+      "correct_answer": 2,
+      "explanation": "Em 15 de novembro de 1889, o Brasil deixou de ser uma Monarquia (governada por um imperador) e passou a ser uma República (governada por um presidente).",
+      "difficulty": "médio"
+    },
+    {
+      "id": 27,
+      "section": "Formação da Nação Brasileira",
+      "question": "Qual era o principal produto da economia brasileira na época em que o país era colônia de Portugal?",
+      "options": [
+        "Ouro.",
+        "Café.",
+        "Soja.",
+        "Cana-de-açúcar."
+      ],
+      "correct_answer": 3,
+      "explanation": "Durante grande parte do período colonial, a produção de açúcar nos engenhos, principalmente no Nordeste, foi a atividade econômica mais importante para Portugal.",
+      "difficulty": "médio"
+    },
+    {
+      "id": 28,
+      "section": "Formação da Nação Brasileira",
+      "question": "Quem eram os bandeirantes?",
+      "options": [
+        "Padres que ensinavam os indígenas.",
+        "Exploradores que entravam no interior do Brasil em busca de riquezas e para capturar indígenas.",
+        "Soldados que defendiam a fronteira.",
+        "Políticos que governavam o país."
+      ],
+      "correct_answer": 1,
+      "explanation": "Os bandeirantes foram figuras importantes na expansão do território brasileiro, mas sua atuação também foi marcada pela violência contra os povos indígenas.",
+      "difficulty": "médio"
+    },
+    {
+      "id": 29,
+      "section": "Formação da Nação Brasileira",
+      "question": "O que foi o período conhecido como 'Ciclo do Ouro'?",
+      "options": [
+        "A época em que o Brasil mais vendeu ouro para outros países.",
+        "A época da descoberta de grandes quantidades de ouro, principalmente em Minas Gerais.",
+        "A corrida para comprar joias de ouro.",
+        "Um campeonato de mineração."
+      ],
+      "correct_answer": 1,
+      "explanation": "No século XVIII, a descoberta de ouro em Minas Gerais, Goiás e Mato Grosso atraiu muitas pessoas para o interior e mudou a economia e a sociedade da colônia.",
+      "difficulty": "médio"
+    },
+    {
+      "id": 30,
+      "section": "Formação da Nação Brasileira",
+      "question": "Qual o nome do território que o Brasil e o Paraguai disputaram em uma grande guerra no século XIX?",
+      "options": [
+        "Guerra dos Farrapos.",
+        "Guerra de Canudos.",
+        "Guerra do Paraguai.",
+        "Guerra do Contestado."
+      ],
+      "correct_answer": 2,
+      "explanation": "A Guerra do Paraguai foi o maior conflito armado da história da América do Sul e envolveu Brasil, Argentina e Uruguai contra o Paraguai.",
+      "difficulty": "difícil"
+    },
+    {
+      "id": 31,
+      "section": "Formação da Nação Brasileira",
+      "question": "O que une as pessoas como parte de uma mesma nação?",
+      "options": [
+        "Gostar do mesmo time de futebol.",
+        "Morar na mesma casa.",
+        "Compartilhar uma língua, uma cultura, uma história e um território.",
+        "Ter a mesma idade."
+      ],
+      "correct_answer": 2,
+      "explanation": "Uma nação é formada por um povo que se identifica com uma cultura, língua e história em comum, vivendo em um mesmo território.",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 32,
+      "section": "Formação da Nação Brasileira",
+      "question": "Qual foi a primeira capital do Brasil?",
+      "options": [
+        "Rio de Janeiro.",
+        "Brasília.",
+        "São Paulo.",
+        "Salvador."
+      ],
+      "correct_answer": 3,
+      "explanation": "Salvador, na Bahia, foi a primeira capital do Brasil, de 1549 a 1763, por sua importância na produção de açúcar e sua localização estratégica.",
+      "difficulty": "médio"
+    },
+    {
+      "id": 33,
+      "section": "Formação da Nação Brasileira",
+      "question": "A construção de Brasília como nova capital do Brasil, no governo de Juscelino Kubitschek, tinha como um dos objetivos:",
+      "options": [
+        "Levar a capital para mais perto da praia.",
+        "Desenvolver o interior do país e levar o progresso para o Centro-Oeste.",
+        "Construir uma cidade apenas para os políticos.",
+        "Mudar a capital para um lugar mais frio."
+      ],
+      "correct_answer": 1,
+      "explanation": "A mudança da capital do Rio de Janeiro para Brasília foi um projeto audacioso para integrar o território nacional e incentivar o desenvolvimento do interior do Brasil.",
+      "difficulty": "difícil"
+    },
+    {
+      "id": 34,
+      "section": "Formação da Nação Brasileira",
+      "question": "O que foi o Tratado de Tordesilhas?",
+      "options": [
+        "Um acordo de paz entre Brasil e Argentina.",
+        "Um acordo entre Portugal e Espanha que dividia as terras descobertas e a descobrir no mundo.",
+        "A lei que acabou com a escravidão.",
+        "A primeira constituição do Brasil."
+      ],
+      "correct_answer": 1,
+      "explanation": "Assinado em 1494, antes mesmo da chegada dos portugueses ao Brasil, este tratado dividia o mundo entre Portugal e Espanha, influenciando a colonização da América.",
+      "difficulty": "difícil"
+    },
+    {
+      "id": 35,
+      "section": "Formação da Nação Brasileira",
+      "question": "Qual a importância da vinda da Família Real Portuguesa para o Brasil em 1808?",
+      "options": [
+        "Não teve nenhuma importância.",
+        "Acelerou o processo de independência e trouxe muitas mudanças para o Rio de Janeiro.",
+        "Fez o Brasil voltar a ser uma colônia simples.",
+        "Iniciou a República no Brasil."
+      ],
+      "correct_answer": 1,
+      "explanation": "A vinda da corte portuguesa para o Brasil transformou a colônia, com a abertura dos portos, criação de bancos, universidades e jardins, o que preparou o caminho para a independência.",
+      "difficulty": "médio"
+    },
+    {
+      "id": 36,
+      "section": "Formação da Nação Brasileira",
+      "question": "O território brasileiro é dividido em quantas grandes regiões pelo IBGE (Instituto Brasileiro de Geografia e Estatística)?",
+      "options": [
+        "Três (Norte, Centro e Sul).",
+        "Quatro (Norte, Sul, Leste e Oeste).",
+        "Cinco (Norte, Nordeste, Centro-Oeste, Sudeste e Sul).",
+        "Seis (Norte, Nordeste, Leste, Oeste, Sudeste e Sul)."
+      ],
+      "correct_answer": 2,
+      "explanation": "O Brasil é dividido em 5 grandes regiões para facilitar o estudo e a administração do país. Cada uma tem características físicas, econômicas e culturais próprias.",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 37,
+      "section": "Lutas por Direitos no Brasil",
+      "question": "O que foi a Lei Áurea, assinada pela Princesa Isabel em 1888?",
+      "options": [
+        "A lei que deu voto às mulheres.",
+        "A lei que declarou oficialmente o fim da escravidão no Brasil.",
+        "A lei que criou as escolas públicas.",
+        "A lei que tornou o Brasil independente."
+      ],
+      "correct_answer": 1,
+      "explanation": "A Lei Áurea, assinada em 13 de maio de 1888, foi o resultado de uma longa luta do movimento abolicionista e dos próprios escravizados por liberdade.",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 38,
+      "section": "Lutas por Direitos no Brasil",
+      "question": "O que foi o movimento das 'Diretas Já'?",
+      "options": [
+        "Um movimento para acabar com a Monarquia.",
+        "Uma campanha popular que pedia o direito de votar diretamente para presidente do Brasil no final da Ditadura Militar.",
+        "Um protesto para diminuir o preço dos alimentos.",
+        "Uma campanha para as pessoas andarem em linha reta."
+      ],
+      "correct_answer": 1,
+      "explanation": "Entre 1983 e 1984, milhões de brasileiros foram às ruas para pedir eleições diretas para presidente, um passo fundamental para o fim da Ditadura Militar.",
+      "difficulty": "médio"
+    },
+    {
+      "id": 39,
+      "section": "Lutas por Direitos no Brasil",
+      "question": "Quem foi Zumbi dos Palmares?",
+      "options": [
+        "Um presidente do Brasil.",
+        "Um bandeirante famoso.",
+        "O último líder do Quilombo dos Palmares, um símbolo da resistência contra a escravidão.",
+        "Um jogador de futebol."
+      ],
+      "correct_answer": 2,
+      "explanation": "Zumbi foi o líder do maior refúgio de escravos fugitivos do Brasil, o Quilombo dos Palmares. Ele é um herói nacional e símbolo da luta do povo negro por liberdade.",
+      "difficulty": "médio"
+    },
+    {
+      "id": 40,
+      "section": "Lutas por Direitos no Brasil",
+      "question": "O direito de voto para as mulheres no Brasil foi conquistado em:",
+      "options": [
+        "1822, com a Independência.",
+        "1888, com a Lei Áurea.",
+        "1932, durante o governo de Getúlio Vargas.",
+        "2002, com a eleição do presidente Lula."
+      ],
+      "correct_answer": 2,
+      "explanation": "Após muita luta do movimento feminista, as mulheres conquistaram o direito de votar em 1932, um marco importante na busca por igualdade de direitos.",
+      "difficulty": "difícil"
+    },
+    {
+      "id": 41,
+      "section": "Lutas por Direitos no Brasil",
+      "question": "O que são os 'movimentos sociais'?",
+      "options": [
+        "Grupos de pessoas que gostam de dançar.",
+        "Grupos de pessoas que se organizam para lutar por direitos ou por uma causa comum.",
+        "Pessoas que se mudam de uma cidade para outra.",
+        "Times de futebol."
+      ],
+      "correct_answer": 1,
+      "explanation": "Movimentos sociais são fundamentais na democracia. São grupos como o movimento estudantil, o movimento negro ou o movimento ambientalista, que lutam por mudanças na sociedade.",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 42,
+      "section": "Lutas por Direitos no Brasil",
+      "question": "A demarcação de terras indígenas é importante para:",
+      "options": [
+        "Tirar os indígenas de suas terras.",
+        "Garantir aos povos indígenas o direito à terra onde vivem e a preservação de sua cultura.",
+        "Construir cidades em cima das aldeias.",
+        "Proibir os indígenas de saírem de suas terras."
+      ],
+      "correct_answer": 1,
+      "explanation": "A demarcação é um direito garantido pela Constituição. Ela protege o território e o modo de vida dos povos originários do Brasil, que lutam por isso há séculos.",
+      "difficulty": "médio"
+    },
+    {
+      "id": 43,
+      "section": "Lutas por Direitos no Brasil",
+      "question": "O que foi a Ditadura Militar no Brasil (1964-1985)?",
+      "options": [
+        "Um período de muita liberdade e festas.",
+        "Um governo democrático eleito pelo povo.",
+        "Um período em que os militares governaram o país sem eleições diretas e com restrição de direitos e liberdades.",
+        "Um período em que todos os brasileiros eram militares."
+      ],
+      "correct_answer": 2,
+      "explanation": "Foi um período autoritário em que não havia liberdade de expressão, a imprensa era censurada e muitas pessoas que se opunham ao governo foram perseguidas.",
+      "difficulty": "médio"
+    },
+    {
+      "id": 44,
+      "section": "Lutas por Direitos no Brasil",
+      "question": "Qual a importância das greves para os trabalhadores?",
+      "options": [
+        "Não têm importância nenhuma.",
+        "É uma forma de os trabalhadores se unirem para reivindicar melhores condições de trabalho e salários.",
+        "É um dia de folga para passear.",
+        "É uma forma de prejudicar a empresa."
+      ],
+      "correct_answer": 1,
+      "explanation": "A greve é um direito do trabalhador. É um instrumento de luta para pressionar os patrões a atenderem às reivindicações da categoria por melhores condições.",
+      "difficulty": "médio"
+    },
+    {
+      "id": 45,
+      "section": "Lutas por Direitos no Brasil",
+      "question": "Quem foi Tiradentes?",
+      "options": [
+        "Um dentista famoso do Rio de Janeiro.",
+        "Um participante da Inconfidência Mineira, um movimento que lutava pela independência de Minas Gerais de Portugal.",
+        "O primeiro presidente do Brasil.",
+        "Um rei de Portugal."
+      ],
+      "correct_answer": 1,
+      "explanation": "Tiradentes é considerado um herói nacional por ter participado de um dos primeiros movimentos pela independência no Brasil. Ele foi o único a ser condenado à morte pela Coroa Portuguesa.",
+      "difficulty": "difícil"
+    },
+    {
+      "id": 46,
+      "section": "Lutas por Direitos no Brasil",
+      "question": "O que são 'ações afirmativas', como as cotas em universidades?",
+      "options": [
+        "Uma forma de prejudicar os estudantes brancos.",
+        "Políticas para diminuir a desigualdade, facilitando o acesso de grupos historicamente excluídos, como negros e indígenas.",
+        "Uma prova de que não existe racismo no Brasil.",
+        "Um tipo de bolsa de estudos para qualquer pessoa."
+      ],
+      "correct_answer": 1,
+      "explanation": "Ações afirmativas, como as cotas, são medidas temporárias para corrigir desigualdades históricas e garantir que mais pessoas negras, indígenas e de baixa renda possam acessar o ensino superior.",
+      "difficulty": "difícil"
+    },
+    {
+      "id": 47,
+      "section": "Lutas por Direitos no Brasil",
+      "question": "A luta pelos direitos das pessoas com deficiência busca garantir:",
+      "options": [
+        "Que elas fiquem em casa e não participem da sociedade.",
+        "Acessibilidade, inclusão e igualdade de oportunidades em todos os espaços.",
+        "Privilégios especiais para elas.",
+        "Que elas não precisem estudar ou trabalhar."
+      ],
+      "correct_answer": 1,
+      "explanation": "Essa luta é para que as pessoas com deficiência tenham seus direitos respeitados e possam participar plenamente da sociedade, com rampas, elevadores, Libras, braile e outras ferramentas de acessibilidade.",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 48,
+      "section": "Lutas por Direitos no Brasil",
+      "question": "O que significa 'liberdade de expressão'?",
+      "options": [
+        "O direito de falar o que quiser, mesmo que ofenda ou espalhe mentiras sobre os outros.",
+        "O direito de expressar ideias e opiniões, desde que com responsabilidade e sem cometer crimes.",
+        "O direito de ficar em silêncio para sempre.",
+        "O direito de obrigar os outros a concordarem com você."
+      ],
+      "correct_answer": 1,
+      "explanation": "A liberdade de expressão é um direito fundamental, mas não é absoluto. Ele termina onde começa o direito do outro, por isso não podemos usar esse direito para cometer crimes como racismo ou difamação.",
+      "difficulty": "médio"
+    },
+    {
+      "id": 49,
+      "section": "Símbolos Nacionais e Identidade",
+      "question": "Quais são as quatro cores da bandeira do Brasil?",
+      "options": [
+        "Verde, amarelo, azul e vermelho.",
+        "Verde, amarelo, azul e branco.",
+        "Verde, laranja, azul e branco.",
+        "Verde, amarelo, preto e branco."
+      ],
+      "correct_answer": 1,
+      "explanation": "As cores da nossa bandeira são verde, amarelo, azul e branco. Elas representam nossas matas, riquezas, o céu e a paz.",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 50,
+      "section": "Símbolos Nacionais e Identidade",
+      "question": "O que está escrito na faixa branca da bandeira do Brasil?",
+      "options": [
+        "Ordem e Progresso.",
+        "Liberdade, Igualdade e Fraternidade.",
+        "Pátria Amada, Brasil.",
+        "Independência ou Morte."
+      ],
+      "correct_answer": 0,
+      "explanation": "A frase 'Ordem e Progresso' foi inspirada em ideias do positivismo, uma corrente filosófica que valorizava a ciência e a organização social.",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 51,
+      "section": "Símbolos Nacionais e Identidade",
+      "question": "As estrelas na bandeira do Brasil representam:",
+      "options": [
+        "Os jogadores da seleção brasileira.",
+        "Os estados brasileiros e o Distrito Federal.",
+        "As cidades mais bonitas do país.",
+        "Os presidentes que o Brasil já teve."
+      ],
+      "correct_answer": 1,
+      "explanation": "Cada estrela na bandeira representa um estado brasileiro, e a estrela que fica acima da faixa representa o Distrito Federal, onde fica a capital, Brasília.",
+      "difficulty": "médio"
+    },
+    {
+      "id": 52,
+      "section": "Símbolos Nacionais e Identidade",
+      "question": "Além da Bandeira, quais são os outros três símbolos oficiais do Brasil?",
+      "options": [
+        "O Hino Nacional, o Cristo Redentor e o Pão de Açúcar.",
+        "O Hino Nacional, as Armas Nacionais e o Selo Nacional.",
+        "O Hino da Independência, a Bandeira Imperial e o Hino à Bandeira.",
+        "O Carnaval, o Futebol e a Feijoada."
+      ],
+      "correct_answer": 1,
+      "explanation": "Os quatro símbolos oficiais da República Federativa do Brasil são a Bandeira Nacional, o Hino Nacional, as Armas Nacionais e o Selo Nacional.",
+      "difficulty": "difícil"
+    },
+    {
+      "id": 53,
+      "section": "Símbolos Nacionais e Identidade",
+      "question": "Qual é o animal que é considerado um símbolo da fauna brasileira, famoso por viver no Pantanal?",
+      "options": [
+        "Leão.",
+        "Urso Panda.",
+        "Onça-pintada.",
+        "Pinguim."
+      ],
+      "correct_answer": 2,
+      "explanation": "A onça-pintada é o maior felino das Américas e um animal muito representativo da rica biodiversidade do Brasil, especialmente do Pantanal e da Amazônia.",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 54,
+      "section": "Símbolos Nacionais e Identidade",
+      "question": "Qual é a árvore símbolo do Brasil, que deu nome ao nosso país?",
+      "options": [
+        "Coqueiro.",
+        "Ipê-amarelo.",
+        "Pau-brasil.",
+        "Araucária."
+      ],
+      "correct_answer": 2,
+      "explanation": "O pau-brasil, com sua madeira de cor avermelhada como brasa, foi a primeira riqueza explorada pelos portugueses e deu origem ao nome 'Brasil'.",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 55,
+      "section": "Símbolos Nacionais e Identidade",
+      "question": "O Hino Nacional Brasileiro deve ser cantado em qual postura?",
+      "options": [
+        "Sentado e conversando.",
+        "De pé, em atitude de respeito.",
+        "De costas para a bandeira.",
+        "De qualquer jeito."
+      ],
+      "correct_answer": 1,
+      "explanation": "Ao ouvir ou cantar o Hino Nacional, devemos ficar de pé e em silêncio, como forma de respeito a um dos símbolos do nosso país.",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 56,
+      "section": "Símbolos Nacionais e Identidade",
+      "question": "O que o verde da bandeira do Brasil representa?",
+      "options": [
+        "O céu do nosso país.",
+        "A paz.",
+        "As nossas matas e florestas.",
+        "O ouro e as riquezas."
+      ],
+      "correct_answer": 2,
+      "explanation": "O verde representa a exuberância das florestas brasileiras, como a Floresta Amazônica e a Mata Atlântica.",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 57,
+      "section": "Símbolos Nacionais e Identidade",
+      "question": "O que o amarelo da bandeira do Brasil representa?",
+      "options": [
+        "O mar.",
+        "As nossas matas.",
+        "O céu estrelado.",
+        "As riquezas minerais do país, como o ouro."
+      ],
+      "correct_answer": 3,
+      "explanation": "O amarelo simboliza a riqueza do nosso solo, principalmente o ouro, que foi muito importante na história do Brasil, especialmente em Minas Gerais.",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 58,
+      "section": "Símbolos Nacionais e Identidade",
+      "question": "Qual é a data em que se comemora o Dia da Bandeira no Brasil?",
+      "options": [
+        "7 de Setembro.",
+        "15 de Novembro.",
+        "19 de Novembro.",
+        "21 de Abril."
+      ],
+      "correct_answer": 2,
+      "explanation": "O Dia da Bandeira é comemorado em 19 de novembro, data em que a bandeira republicana foi adotada, quatro dias após a Proclamação da República em 1889.",
+      "difficulty": "difícil"
+    },
+    {
+      "id": 59,
+      "section": "Símbolos Nacionais e Identidade",
+      "question": "O que é identidade nacional?",
+      "options": [
+        "Ter um documento de identidade.",
+        "Um sentimento de pertencer a uma nação, compartilhando sua cultura e valores.",
+        "Ser idêntico a todas as outras pessoas do país.",
+        "Não gostar de outros países."
+      ],
+      "correct_answer": 1,
+      "explanation": "Identidade nacional é o que nos faz sentir parte do Brasil. É um conjunto de costumes, tradições, língua e símbolos que compartilhamos e que nos unem como povo.",
+      "difficulty": "médio"
+    },
+    {
+      "id": 60,
+      "section": "Símbolos Nacionais e Identidade",
+      "question": "Por que é importante conhecer e respeitar os símbolos nacionais?",
+      "options": [
+        "Porque eles representam a história, a cultura e a união do nosso povo.",
+        "Porque é obrigatório saber desenhar a bandeira.",
+        "Porque eles são bonitos.",
+        "Não tem importância."
+      ],
+      "correct_answer": 0,
+      "explanation": "Respeitar os símbolos nacionais é uma forma de demonstrar amor e respeito pelo nosso país, por sua história e por todas as pessoas que formam a nação brasileira.",
+      "difficulty": "fácil"
+    }
+  ],
+  "evaluation": {
+    "include_evaluation": false
+  },
+  "settings": {
+    "public": true,
+    "allow_multiple_responses": false,
+    "show_progress_bar": true,
+    "collect_email": true,
+    "require_login": true
+  }
+}

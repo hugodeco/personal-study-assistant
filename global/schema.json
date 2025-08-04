@@ -1,0 +1,203 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Esquema de Formulário Educacional",
+  "description": "Esquema padrão para todos os formulários educacionais",
+  "type": "object",
+  "required": ["metadata", "content", "questions"],
+  "properties": {
+    "metadata": {
+      "type": "object",
+      "required": ["title", "description", "subject", "grade", "topic"],
+      "properties": {
+        "title": {
+          "type": "string",
+          "description": "Título do formulário com emojis"
+        },
+        "description": {
+          "oneOf": [
+            {
+              "type": "string",
+              "description": "Descrição como string simples"
+            },
+            {
+              "type": "array",
+              "items": {
+                "type": "string"
+              },
+              "description": "Descrição como array de strings para melhor formatação"
+            }
+          ]
+        },
+        "subject": {
+          "type": "string",
+          "description": "Matéria (ex: Português, Matemática)"
+        },
+        "grade": {
+          "type": "string",
+          "description": "Série escolar (ex: 5ª série)"
+        },
+        "topic": {
+          "type": "string",
+          "description": "Tópico específico (ex: Pronomes)"
+        },
+        "author": {
+          "type": "string",
+          "description": "Autor do formulário"
+        },
+        "version": {
+          "type": "string",
+          "description": "Versão do formulário"
+        },
+        "created_date": {
+          "type": "string",
+          "format": "date",
+          "description": "Data de criação"
+        }
+      }
+    },
+    "content": {
+      "type": "object",
+      "required": ["introduction", "instructions"],
+      "properties": {
+        "introduction": {
+          "type": "string",
+          "description": "Introdução para os estudantes"
+        },
+        "instructions": {
+          "oneOf": [
+            {
+              "type": "string",
+              "description": "Instruções como string simples"
+            },
+            {
+              "type": "array",
+              "items": {
+                "type": "string"
+              },
+              "description": "Instruções como array de strings para melhor formatação"
+            }
+          ]
+        },
+        "sections": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": ["name", "description"],
+            "properties": {
+              "name": {
+                "type": "string",
+                "description": "Nome da seção"
+              },
+              "description": {
+                "type": "string",
+                "description": "Descrição da seção"
+              }
+            }
+          }
+        }
+      }
+    },
+    "questions": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["id", "section", "question", "options", "correct_answer"],
+        "properties": {
+          "id": {
+            "type": "integer",
+            "description": "ID único da questão"
+          },
+          "section": {
+            "type": "string",
+            "description": "Seção à qual a questão pertence"
+          },
+          "question": {
+            "type": "string",
+            "description": "Texto da pergunta"
+          },
+          "options": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            },
+            "minItems": 2,
+            "maxItems": 6,
+            "description": "Opções de resposta"
+          },
+          "correct_answer": {
+            "type": "integer",
+            "minimum": 0,
+            "description": "Índice da resposta correta (0-based)"
+          },
+          "explanation": {
+            "type": "string",
+            "description": "Explicação da resposta (opcional)"
+          },
+          "difficulty": {
+            "type": "string",
+            "enum": ["fácil", "médio", "difícil"],
+            "description": "Nível de dificuldade"
+          }
+        }
+      }
+    },
+    "evaluation": {
+      "type": "object",
+      "properties": {
+        "include_evaluation": {
+          "type": "boolean",
+          "default": true,
+          "description": "Se deve incluir questões de avaliação"
+        },
+        "evaluation_questions": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": ["question", "options"],
+            "properties": {
+              "question": {
+                "type": "string"
+              },
+              "options": {
+                "type": "array",
+                "items": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "settings": {
+      "type": "object",
+      "properties": {
+        "public": {
+          "type": "boolean",
+          "default": true,
+          "description": "Se o formulário deve ser público"
+        },
+        "allow_multiple_responses": {
+          "type": "boolean",
+          "default": true,
+          "description": "Permitir múltiplas respostas (false = uma resposta por usuário)"
+        },
+        "show_progress_bar": {
+          "type": "boolean",
+          "default": true,
+          "description": "Mostrar barra de progresso"
+        },
+        "collect_email": {
+          "type": "boolean",
+          "default": false,
+          "description": "Coletar email"
+        },
+        "require_login": {
+          "type": "boolean",
+          "default": false,
+          "description": "Exigir login no Google (implica em collect_email=true)"
+        }
+      }
+    }
+  }
+}

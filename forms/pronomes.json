@@ -1,0 +1,760 @@
+{
+	"metadata": {
+		"title": "📚 Questionário: Tipos de Pronomes",
+		"description": [
+			"Olá, estudante! Este é um formulário para praticar e testar seus conhecimentos sobre os diferentes tipos de pronomes.",
+			"Você vai encontrar questões sobre:",
+			"    - Pronomes Pessoais",
+			"    - Pronomes Possessivos",
+			"    - Pronomes Demonstrativos",
+			"    - Pronomes de Tratamento",
+			"Boa sorte!"
+		],
+		"subject": "Português",
+		"grade": "5ª série",
+		"topic": "Pronomes",
+		"author": "IA",
+		"version": "1.0",
+		"created_date": "2025-07-31"
+	},
+	"content": {
+		"introduction": "Bem-vindo ao nosso questionário sobre pronomes! Os pronomes são palavras que substituem ou acompanham nomes, indicando as pessoas do discurso. Eles são muito importantes para a coesão e a clareza dos textos. Vamos praticar juntos?",
+		"instructions": [
+			"Leia cada pergunta com atenção.",
+			"Escolha a opção que você considera correta.",
+			"Não se preocupe, a prática leva à perfeição!"
+		],
+		"sections": [
+			{
+				"name": "Pronomes Pessoais",
+				"description": "Nesta seção, você vai testar seus conhecimentos sobre os pronomes pessoais do caso reto e oblíquo."
+			},
+			{
+				"name": "Pronomes Possessivos",
+				"description": "Aqui, você encontrará perguntas sobre os pronomes que indicam posse, como 'meu', 'sua', 'nossos'."
+			},
+			{
+				"name": "Pronomes Demonstrativos",
+				"description": "Esta seção é dedicada aos pronomes que indicam a posição dos seres no tempo e no espaço, como 'este', 'essa', 'aquilo'."
+			},
+			{
+				"name": "Pronomes de Tratamento",
+				"description": "Finalmente, vamos praticar sobre os pronomes usados para nos dirigir às pessoas, como 'você', 'senhora', 'Vossa Excelência'."
+			},
+			{
+				"name": "Questões Mistas",
+				"description": "Nesta seção, as perguntas combinam os diferentes tipos de pronomes para um desafio extra!"
+			}
+		]
+	},
+	"questions": [
+		{
+			"id": 1,
+			"section": "Pronomes Pessoais",
+			"question": "Em qual frase o pronome pessoal está usado corretamente?",
+			"options": [
+				"Para eu e você, este é um bom livro.",
+				"Para mim e você, este é um bom livro.",
+				"Para eu e tu, este é um bom livro.",
+				"Este livro é para mim ler."
+			],
+			"correct_answer": 0,
+			"explanation": "O pronome 'eu' é do caso reto e funciona como sujeito, ou seja, quem pratica a ação. 'Para eu ler' está incorreto, o certo seria 'Para mim ler' ou 'para que eu leia'.",
+			"difficulty": "médio"
+		},
+		{
+			"id": 2,
+			"section": "Pronomes Pessoais",
+			"question": "Qual das alternativas contém apenas pronomes pessoais do caso reto?",
+			"options": [
+				"me, nos, consigo",
+				"eu, tu, ele, nós, vós, eles",
+				"mim, ti, ele, nós, vós, eles",
+				"me, te, se, nos, vos, se"
+			],
+			"correct_answer": 1,
+			"explanation": "Os pronomes pessoais do caso reto, como eu, tu, ele, nós, vós, eles, são usados como sujeito da ação do verbo.",
+			"difficulty": "fácil"
+		},
+		{
+			"id": 3,
+			"section": "Pronomes Pessoais",
+			"question": "Em 'Ela me deu um presente', qual o pronome pessoal do caso oblíquo?",
+			"options": [
+				"Ela",
+				"me",
+				"um",
+				"presente"
+			],
+			"correct_answer": 1,
+			"explanation": "O pronome 'me' é um pronome pessoal do caso oblíquo, que complementa a ação do verbo 'deu'.",
+			"difficulty": "fácil"
+		},
+		{
+			"id": 4,
+			"section": "Pronomes Pessoais",
+			"question": "Qual pronome substitui corretamente 'o aluno' na frase 'A professora chamou o aluno'?",
+			"options": [
+				"A professora chamou ele.",
+				"A professora o chamou.",
+				"A professora chamou-o.",
+				"A professora chamou-lhe."
+			],
+			"correct_answer": 2,
+			"explanation": "Os pronomes 'o' e 'a' podem ser transformados em 'lo', 'la', 'los' e 'las' quando vêm depois de verbos terminados em R, S ou Z.",
+			"difficulty": "difícil"
+		},
+		{
+			"id": 5,
+			"section": "Pronomes Pessoais",
+			"question": "Complete a frase: '_____ entreguei o bilhete para ____'?",
+			"options": [
+				"Eu, ele",
+				"Eu, lhe",
+				"Mim, ele",
+				"Mim, lhe"
+			],
+			"correct_answer": 0,
+			"explanation": "Esta questão é um desafio com pronomes oblíquos e retos. 'Eu' é o sujeito (caso reto) e 'lhe' é o objeto (caso oblíquo) que substitui 'para ele'.",
+			"difficulty": "médio"
+		},
+		{
+			"id": 6,
+			"section": "Pronomes Pessoais",
+			"question": "Qual das frases está incorreta?",
+			"options": [
+				"Você trouxe um lanche para mim?",
+				"Ele trouxe um lanche para mim.",
+				"Eu trouxe um lanche para mim.",
+				"Eu trouxe um lanche para mim ir ao cinema."
+			],
+			"correct_answer": 3,
+			"explanation": "O pronome 'mim' não pode ser usado como sujeito de uma ação, como 'ir ao cinema'. O correto seria 'para eu ir ao cinema'.",
+			"difficulty": "difícil"
+		},
+		{
+			"id": 7,
+			"section": "Pronomes Pessoais",
+			"question": "Qual é a função dos pronomes pessoais do caso reto?",
+			"options": [
+				"Acompanhar o verbo",
+				"Substituir o substantivo",
+				"Ser usado como sujeito da ação do verbo",
+				"Indicar posse"
+			],
+			"correct_answer": 2,
+			"explanation": "Os pronomes pessoais do caso reto são usados para desempenhar a função de sujeito da ação do verbo.",
+			"difficulty": "fácil"
+		},
+		{
+			"id": 8,
+			"section": "Pronomes Pessoais",
+			"question": "Em 'Ela conversou conosco sobre o projeto', qual é o pronome pessoal?",
+			"options": [
+				"Ela",
+				"conosco",
+				"sobre",
+				"projeto"
+			],
+			"correct_answer": 1,
+			"explanation": "O pronome 'conosco' é a forma do pronome pessoal do caso oblíquo que corresponde à primeira pessoa do plural, 'nós'.",
+			"difficulty": "médio"
+		},
+		{
+			"id": 9,
+			"section": "Pronomes Pessoais",
+			"question": "Complete: 'Ela comprou um presente para _____.'",
+			"options": [
+				"eu",
+				"mim",
+				"nós",
+				"ti"
+			],
+			"correct_answer": 1,
+			"explanation": "O pronome 'mim' é usado como complemento e não como sujeito. O pronome 'eu' é usado como sujeito.",
+			"difficulty": "fácil"
+		},
+		{
+			"id": 10,
+			"section": "Pronomes Pessoais",
+			"question": "Qual frase substitui corretamente 'o bolo' em 'Nós comemos o bolo'?",
+			"options": [
+				"Nós comemos-o.",
+				"Nós o comemos.",
+				"Nós comemos ele.",
+				"Nós comeu ele."
+			],
+			"correct_answer": 0,
+			"explanation": "Os pronomes oblíquos 'o', 'a', 'os', 'as' se juntam ao final do verbo quando este termina em 'm', 'ão', ou 'õe'. No caso de 'comemos', a forma correta é 'comemo-lo'. Mas, entre as opções, 'Nós comemos-o' é a melhor alternativa, embora a forma ideal seria 'Nós o comemos'.",
+			"difficulty": "médio"
+		},
+		{
+			"id": 11,
+			"section": "Pronomes Possessivos",
+			"question": "Qual das opções contém apenas pronomes possessivos?",
+			"options": [
+				"meu, este, nosso",
+				"minha, teu, sua",
+				"eu, tu, ele",
+				"este, essa, aquele"
+			],
+			"correct_answer": 1,
+			"explanation": "Pronomes possessivos indicam posse. 'Minha', 'teu' e 'sua' indicam posse de algo.",
+			"difficulty": "fácil"
+		},
+		{
+			"id": 12,
+			"section": "Pronomes Possessivos",
+			"question": "Na frase 'Eu peguei minha mochila', qual a função do pronome 'minha'?",
+			"options": [
+				"Substituir a mochila",
+				"Acompanhar o substantivo e indicar posse",
+				"Ser o sujeito da frase",
+				"Indicar tempo"
+			],
+			"correct_answer": 1,
+			"explanation": "O pronome 'minha' acompanha o substantivo 'mochila' e indica posse.",
+			"difficulty": "fácil"
+		},
+		{
+			"id": 13,
+			"section": "Pronomes Possessivos",
+			"question": "Complete a frase: 'Eles trouxeram _____ cadernos para a aula.'",
+			"options": [
+				"suas",
+				"seus",
+				"deles",
+				"dela"
+			],
+			"correct_answer": 2,
+			"explanation": "Quando há ambiguidade, pode-se usar 'deles' para especificar que a posse é da terceira pessoa do plural. 'Seus' também estaria correto, mas 'deles' é mais preciso.",
+			"difficulty": "médio"
+		},
+		{
+			"id": 14,
+			"section": "Pronomes Possessivos",
+			"question": "Qual frase usa o pronome possessivo corretamente?",
+			"options": [
+				"Aquela é a sua casa, não a minha.",
+				"Ele levou o seu carro.",
+				"Ela levou a sua mochila.",
+				"Ele deu-me o seu livro."
+			],
+			"correct_answer": 0,
+			"explanation": "O pronome 'sua' pode se referir a 'ele', 'ela', 'você'. Para evitar ambiguidade, 'minha' é mais claro neste contexto.",
+			"difficulty": "difícil"
+		},
+		{
+			"id": 15,
+			"section": "Pronomes Possessivos",
+			"question": "Em 'Nossos amigos chegaram cedo', qual o pronome possessivo?",
+			"options": [
+				"Nossos",
+				"amigos",
+				"chegaram",
+				"cedo"
+			],
+			"correct_answer": 0,
+			"explanation": "'Nossos' é um pronome possessivo que indica que os amigos pertencem à primeira pessoa do plural (nós).",
+			"difficulty": "fácil"
+		},
+		{
+			"id": 16,
+			"section": "Pronomes Possessivos",
+			"question": "Qual pronome possessivo concorda com a frase: 'Eu gosto muito do ______ professor.'?",
+			"options": [
+				"meu",
+				"nosso",
+				"seu",
+				"teu"
+			],
+			"correct_answer": 0,
+			"explanation": "O pronome 'eu' se refere à primeira pessoa do singular, então o pronome possessivo deve ser 'meu'.",
+			"difficulty": "fácil"
+		},
+		{
+			"id": 17,
+			"section": "Pronomes Possessivos",
+			"question": "Assinale a alternativa que tem a concordância correta entre o pronome possessivo e o substantivo.",
+			"options": [
+				"Meu casaco",
+				"Minha casaco",
+				"Meus casaco",
+				"Minhas casacos"
+			],
+			"correct_answer": 0,
+			"explanation": "O pronome possessivo concorda com o substantivo em gênero e número. 'Casaco' é masculino e singular, portanto 'meu' está correto.",
+			"difficulty": "fácil"
+		},
+		{
+			"id": 18,
+			"section": "Pronomes Possessivos",
+			"question": "Na frase 'Ele emprestou-me seu carro', o pronome 'seu' se refere a quem?",
+			"options": [
+				"A ele",
+				"A mim",
+				"A uma terceira pessoa",
+				"Não se refere a ninguém"
+			],
+			"correct_answer": 0,
+			"explanation": "O pronome 'seu' neste caso se refere a 'ele'. A ambiguidade ocorre quando a posse não é clara.",
+			"difficulty": "médio"
+		},
+		{
+			"id": 19,
+			"section": "Pronomes Possessivos",
+			"question": "Qual a melhor forma de reescrever a frase 'A professora pegou a caneta de você' usando um pronome possessivo?",
+			"options": [
+				"A professora pegou a caneta sua.",
+				"A professora pegou sua caneta.",
+				"A professora pegou a caneta de tu.",
+				"A professora pegou a caneta dele."
+			],
+			"correct_answer": 1,
+			"explanation": "'Sua' é o pronome possessivo correspondente a 'você' e a forma mais natural de usar em português é antes do substantivo.",
+			"difficulty": "médio"
+		},
+		{
+			"id": 20,
+			"section": "Pronomes Possessivos",
+			"question": "A frase 'Nós precisamos levar as nossas mochilas' está correta?",
+			"options": [
+				"Sim, 'nossas' concorda com 'mochilas'.",
+				"Não, o correto seria 'as nossa mochila'.",
+				"Não, o correto seria 'as sua mochila'.",
+				"Não, o correto seria 'as minhas mochilas'."
+			],
+			"correct_answer": 0,
+			"explanation": "Sim, o pronome 'nossas' concorda com a primeira pessoa do plural (nós) e com o substantivo feminino e plural 'mochilas'.",
+			"difficulty": "fácil"
+		},
+		{
+			"id": 21,
+			"section": "Pronomes Demonstrativos",
+			"question": "Qual a função dos pronomes demonstrativos?",
+			"options": [
+				"Substituir o substantivo",
+				"Indicar posse",
+				"Indicar a posição dos seres no espaço e no tempo",
+				"Ser o sujeito da frase"
+			],
+			"correct_answer": 2,
+			"explanation": "Os pronomes demonstrativos servem para demonstrar, apontar ou sinalizar a posição de algo no espaço e no tempo.",
+			"difficulty": "fácil"
+		},
+		{
+		  "id": 22,
+		  "section": "Pronomes Demonstrativos",
+		  "question": "Complete a frase: '_____ livro que está na minha mão é interessante.'",
+		  "options": [
+			"Esse",
+			"Este",
+			"Aquele",
+			"Isso"
+		  ],
+		  "correct_answer": 1,
+		  "explanation": "'Este' é usado para indicar algo que está perto de quem fala, o que é reforçado pela expressão 'na minha mão'.",
+		  "difficulty": "fácil"
+		},
+		{
+			"id": 23,
+			"section": "Pronomes Demonstrativos",
+			"question": "Qual pronome demonstrativo usar para um objeto que está longe de quem fala e de quem ouve?",
+			"options": [
+				"este",
+				"esse",
+				"aquele",
+				"isso"
+			],
+			"correct_answer": 2,
+			"explanation": "'Aquele' é usado para objetos que estão longe do falante e do ouvinte.",
+			"difficulty": "fácil"
+		},
+		{
+			"id": 24,
+			"section": "Pronomes Demonstrativos",
+			"question": "Na frase 'Você pode me passar essa caneta?', qual pronome demonstrativo está sendo usado?",
+			"options": [
+				"Você",
+				"me",
+				"essa",
+				"caneta"
+			],
+			"correct_answer": 2,
+			"explanation": "'Essa' é um pronome demonstrativo que indica algo que está perto da pessoa com quem se fala (você).",
+			"difficulty": "fácil"
+		},
+		{
+			"id": 25,
+			"section": "Pronomes Demonstrativos",
+			"question": "Qual frase está incorreta?",
+			"options": [
+				"Aquilo que ele falou foi interessante.",
+				"Isto é para você.",
+				"Essa caneta aqui é minha.",
+				"Esse caderno é meu."
+			],
+			"correct_answer": 2,
+			"explanation": "A combinação 'essa...aqui' é redundante. O correto seria 'Esta caneta aqui é minha' ou 'Essa caneta é minha'.",
+			"difficulty": "médio"
+		},
+		{
+			"id": 26,
+			"section": "Pronomes Demonstrativos",
+			"question": "Em 'Você lembra daquele dia?', 'daquele' é a contração de qual pronome?",
+			"options": [
+				"de + este",
+				"de + esse",
+				"de + aquilo",
+				"de + aquele"
+			],
+			"correct_answer": 3,
+			"explanation": "'Daquele' é a contração da preposição 'de' com o pronome demonstrativo 'aquele'.",
+			"difficulty": "difícil"
+		},
+		{
+			"id": 27,
+			"section": "Pronomes Demonstrativos",
+			"question": "Qual dos pronomes demonstrativos abaixo é invariável?",
+			"options": [
+				"Este",
+				"Aquilo",
+				"Essa",
+				"Aqueles"
+			],
+			"correct_answer": 1,
+			"explanation": "'Aquilo' é um pronome demonstrativo invariável, ou seja, não varia em gênero e número.",
+			"difficulty": "médio"
+		},
+		{
+			"id": 28,
+			"section": "Pronomes Demonstrativos",
+			"question": "Qual frase usa o pronome demonstrativo para retomar um termo já mencionado?",
+			"options": [
+				"Você gosta deste sorvete?",
+				"Eu prefiro este carro.",
+				"A felicidade, isso é o que importa.",
+				"Aquele menino é muito esperto."
+			],
+			"correct_answer": 2,
+			"explanation": "O pronome 'isso' é usado para retomar um termo ou ideia que foi mencionado anteriormente na frase.",
+			"difficulty": "difícil"
+		},
+		{
+			"id": 29,
+			"section": "Pronomes Demonstrativos",
+			"question": "Assinale a alternativa que completa a frase: 'Pegue _____ livro, que está na minha mão.'",
+			"options": [
+				"esse",
+				"este",
+				"aquele",
+				"isso"
+			],
+			"correct_answer": 1,
+			"explanation": "'Este' é usado para indicar algo que está perto da pessoa que fala ('minha mão').",
+			"difficulty": "fácil"
+		},
+		{
+			"id": 30,
+			"section": "Pronomes Demonstrativos",
+			"question": "Em 'Estes dias estão frios', 'Estes' se refere a qual tempo?",
+			"options": [
+				"Passado",
+				"Presente",
+				"Futuro",
+				"Indeterminado"
+			],
+			"correct_answer": 1,
+			"explanation": "Os pronomes demonstrativos podem indicar tempo. 'Estes' se refere a um tempo presente. Por exemplo, 'Estes dias' significa 'os dias de hoje'.",
+			"difficulty": "médio"
+		},
+		{
+			"id": 31,
+			"section": "Pronomes de Tratamento",
+			"question": "Qual a função dos pronomes de tratamento?",
+			"options": [
+				"Indicar posse",
+				"Demonstrar a posição de algo",
+				"Substituir o substantivo",
+				"Representar a forma como nos dirigimos às pessoas"
+			],
+			"correct_answer": 3,
+			"explanation": "Os pronomes de tratamento são formas de se dirigir às pessoas, variando de acordo com a idade, o grau ou o cargo que elas ocupam.",
+			"difficulty": "fácil"
+		},
+		{
+			"id": 32,
+			"section": "Pronomes de Tratamento",
+			"question": "Para quem usamos o pronome de tratamento 'Você'?",
+			"options": [
+				"Para pessoas com quem temos formalidade",
+				"Para pessoas próximas e de idade semelhante",
+				"Para autoridades",
+				"Para o Papa"
+			],
+			"correct_answer": 1,
+			"explanation": "'Você' é um pronome de tratamento informal, usado para pessoas com quem temos familiaridade.",
+			"difficulty": "fácil"
+		},
+		{
+			"id": 33,
+			"section": "Pronomes de Tratamento",
+			"question": "O pronome de tratamento 'Vossa Excelência' é usado para qual tipo de pessoa?",
+			"options": [
+				"Reis e Rainhas",
+				"Pessoas idosas",
+				"Altas autoridades, como presidentes e juízes",
+				"Pessoas comuns"
+			],
+			"correct_answer": 2,
+			"explanation": "'Vossa Excelência' é um pronome de tratamento cerimonioso, usado para altas autoridades.",
+			"difficulty": "médio"
+		},
+		{
+			"id": 34,
+			"section": "Pronomes de Tratamento",
+			"question": "Qual pronome de tratamento usar para um padre?",
+			"options": [
+				"Vossa Santidade",
+				"Vossa Eminência",
+				"Vossa Senhoria",
+				"Reverendo"
+			],
+			"correct_answer": 3,
+			"explanation": "O pronome de tratamento adequado para um padre é 'Reverendo'.",
+			"difficulty": "difícil"
+		},
+		{
+			"id": 35,
+			"section": "Pronomes de Tratamento",
+			"question": "Na frase 'Senhora, pode me ajudar?', 'Senhora' é um pronome de tratamento.",
+			"options": [
+				"Verdadeiro",
+				"Falso"
+			],
+			"correct_answer": 0,
+			"explanation": "'Senhora' é um pronome de tratamento usado para se dirigir a uma mulher adulta com mais respeito.",
+			"difficulty": "fácil"
+		},
+		{
+			"id": 36,
+			"section": "Pronomes de Tratamento",
+			"question": "Qual a forma correta de se dirigir ao Papa?",
+			"options": [
+				"Vossa Majestade",
+				"Vossa Excelência",
+				"Vossa Santidade",
+				"Você"
+			],
+			"correct_answer": 2,
+			"explanation": "O pronome de tratamento correto para o Papa é 'Vossa Santidade'.",
+			"difficulty": "médio"
+		},
+		{
+			"id": 37,
+			"section": "Pronomes de Tratamento",
+			"question": "Complete: '____, pode me passar o sal?'",
+			"options": [
+				"Você",
+				"Vossa Senhoria",
+				"Vossa Excelência",
+				"Reverendo"
+			],
+			"correct_answer": 0,
+			"explanation": "O pronome 'Você' é o mais comum para se dirigir a alguém de forma informal, mas educada.",
+			"difficulty": "fácil"
+		},
+		{
+			"id": 38,
+			"section": "Pronomes de Tratamento",
+			"question": "O pronome de tratamento 'Vossa Alteza' é usado para:",
+			"options": [
+				"Bispos e arcebispos",
+				"Príncipes e princesas",
+				"Reitores de universidades",
+				"Presidentes"
+			],
+			"correct_answer": 1,
+			"explanation": "O pronome de tratamento 'Vossa Alteza' é usado para príncipes, princesas e duques.",
+			"difficulty": "difícil"
+		},
+		{
+			"id": 39,
+			"section": "Pronomes de Tratamento",
+			"question": "A que tipo de pessoa se refere o pronome 'Vossa Majestade'?",
+			"options": [
+				"Juízes e promotores",
+				"Cardeais",
+				"Reis e rainhas",
+				"Prefeitos"
+			],
+			"correct_answer": 2,
+			"explanation": "'Vossa Majestade' é um pronome de tratamento para reis e rainhas.",
+			"difficulty": "médio"
+		},
+		{
+			"id": 40,
+			"section": "Pronomes de Tratamento",
+			"question": "Qual a forma correta de se dirigir a um colega de trabalho?",
+			"options": [
+				"Vossa Excelência",
+				"Senhor/Senhora",
+				"Vossa Magnificência",
+				"Você"
+			],
+			"correct_answer": 3,
+			"explanation": "Em muitos contextos, 'você' é a forma adequada e informal para se dirigir a um colega de trabalho.",
+			"difficulty": "fácil"
+		},
+		{
+			"id": 41,
+			"section": "Questões Mistas",
+			"question": "Na frase 'Essa é a minha caneta e esta é a sua', qual a classificação dos pronomes?",
+			"options": [
+				"Essa (pessoal), minha (possessivo), esta (demonstrativo), sua (pessoal)",
+				"Essa (demonstrativo), minha (possessivo), esta (demonstrativo), sua (possessivo)",
+				"Essa (possessivo), minha (demonstrativo), esta (pessoal), sua (possessivo)",
+				"Essa (demonstrativo), minha (pessoal), esta (possessivo), sua (demonstrativo)"
+			],
+			"correct_answer": 1,
+			"explanation": "'Essa' e 'esta' são pronomes demonstrativos. 'Minha' e 'sua' são pronomes possessivos.",
+			"difficulty": "médio"
+		},
+		{
+			"id": 42,
+			"section": "Questões Mistas",
+			"question": "Qual frase contém um pronome pessoal, um possessivo e um demonstrativo?",
+			"options": [
+				"Ele pegou seu livro aqui.",
+				"Ela me emprestou aquela blusa dela.",
+				"Você trouxe sua mochila para a aula?",
+				"Nós gostamos do nosso trabalho."
+			],
+			"correct_answer": 1,
+			"explanation": "'Ela' é um pronome pessoal, 'aquela' é um pronome demonstrativo e 'dela' é um pronome possessivo.",
+			"difficulty": "difícil"
+		},
+		{
+		  "id": 43,
+		  "section": "Questões Mistas",
+		  "question": "Qual das frases a seguir apresenta ambiguidade em relação ao pronome 'sua'?",
+		  "options": [
+			"João pediu a seu amigo para pegar sua mochila.",
+			"Eu guardei sua caneta, porque a minha estava sem tinta.",
+			"A Maria elogiou a sua atitude de ter ajudado o colega.",
+			"A sua caneta é igual à minha."
+		  ],
+		  "correct_answer": 0,
+		  "explanation": "Na frase 'João pediu a seu amigo para pegar sua mochila', o pronome 'sua' pode se referir à mochila de João ou à mochila do amigo. Nas outras opções, o contexto torna a posse clara.",
+		  "difficulty": "médio"
+		},
+		{
+			"id": 44,
+			"section": "Questões Mistas",
+			"question": "Assinale a alternativa em que o pronome de tratamento 'Você' é usado como sujeito.",
+			"options": [
+				"Eu gosto de você.",
+				"Você me empresta a caneta?",
+				"Nós vamos a sua casa.",
+				"Essa caneta é sua."
+			],
+			"correct_answer": 1,
+			"explanation": "Nessa frase, 'Você' é quem pratica a ação de 'emprestar', portanto, é o sujeito.",
+			"difficulty": "médio"
+		},
+		{
+			"id": 45,
+			"section": "Questões Mistas",
+			"question": "Qual frase possui um pronome pessoal e um pronome possessivo?",
+			"options": [
+				"Eu vi meu amigo.",
+				"Este livro é meu.",
+				"Ele chegou tarde.",
+				"Vós sois meus amigos."
+			],
+			"correct_answer": 0,
+			"explanation": "'Eu' é um pronome pessoal e 'meu' é um pronome possessivo.",
+			"difficulty": "fácil"
+		},
+		{
+			"id": 46,
+			"section": "Questões Mistas",
+			"question": "Na frase 'Aquilo me pertence', qual é a classificação dos pronomes?",
+			"options": [
+				"Aquilo (demonstrativo), me (pessoal)",
+				"Aquilo (pessoal), me (possessivo)",
+				"Aquilo (possessivo), me (demonstrativo)",
+				"Aquilo (demonstrativo), me (demonstrativo)"
+			],
+			"correct_answer": 0,
+			"explanation": "'Aquilo' é um pronome demonstrativo invariável, e 'me' é um pronome pessoal do caso oblíquo.",
+			"difficulty": "médio"
+		},
+		{
+			"id": 47,
+			"section": "Questões Mistas",
+			"question": "Qual a melhor opção para completar a frase: 'Aquele livro é _____, mas _____ me emprestou o _____.'?",
+			"options": [
+				"meu, ele, dele",
+				"meu, eu, seu",
+				"seu, eu, meu",
+				"ele, meu, seu"
+			],
+			"correct_answer": 0,
+			"explanation": "A sequência correta é 'meu' (pronome possessivo), 'ele' (pronome pessoal) e 'dele' (pronome possessivo). A frase completa ficaria: 'Aquele livro é meu, mas ele me emprestou o dele.'",
+			"difficulty": "difícil"
+		},
+		{
+			"id": 48,
+			"section": "Questões Mistas",
+			"question": "Em 'Vossa Majestade, o seu reino é vasto', qual é o pronome de tratamento e o pronome possessivo?",
+			"options": [
+				"Vossa Majestade (de tratamento) e seu (possessivo)",
+				"Vossa Majestade (possessivo) e seu (de tratamento)",
+				"Vossa Majestade (pessoal) e seu (demonstrativo)",
+				"Vossa Majestade (demonstrativo) e seu (pessoal)"
+			],
+			"correct_answer": 0,
+			"explanation": "'Vossa Majestade' é um pronome de tratamento para reis e rainhas, e 'seu' é um pronome possessivo que se refere ao reino dela.",
+			"difficulty": "médio"
+		},
+		{
+			"id": 49,
+			"section": "Questões Mistas",
+			"question": "Qual pronome é usado para se referir a uma pessoa de forma cerimoniosa?",
+			"options": [
+				"ele",
+				"você",
+				"senhor",
+				"nós"
+			],
+			"correct_answer": 2,
+			"explanation": "'Senhor' e 'senhora' são pronomes de tratamento usados para demonstrar respeito de forma mais formal.",
+			"difficulty": "fácil"
+		},
+		{
+			"id": 50,
+			"section": "Questões Mistas",
+			"question": "Assinale a frase que contém um pronome pessoal oblíquo e um pronome possessivo.",
+			"options": [
+				"Nós vimos o seu carro.",
+				"Ele me deu sua caneta.",
+				"Esta é a nossa casa.",
+				"Eu e tu fomos ao cinema."
+			],
+			"correct_answer": 1,
+			"explanation": "'me' é um pronome pessoal oblíquo e 'sua' é um pronome possessivo.",
+			"difficulty": "médio"
+		}
+	],
+	"evaluation": {
+		"include_evaluation": false
+	},
+	"settings": {
+		"public": true,
+		"allow_multiple_responses": false,
+		"show_progress_bar": true,
+		"collect_email": true,
+		"require_login": true
+	}
+}
