@@ -1,0 +1,883 @@
+{
+  "metadata": {
+    "title": "🧠 Quiz: Verbos e Lógica - Desafie sua Mente!",
+    "description": [
+      "Prepare-se para um desafio que une o poder dos verbos com a clareza do raciocínio lógico!",
+      "Este quiz vai além da gramática, testando sua capacidade de deduzir, ordenar e encontrar padrões.",
+      "Vamos ver como a lógica e os verbos trabalham juntos? Boa sorte!"
+    ],
+    "subject": "Português e Raciocínio Lógico",
+    "grade": "5ª série",
+    "topic": "Verbos, Tempos Verbais e Lógica",
+    "author": "IA",
+    "version": "1.0",
+    "created_date": "2025-08-05"
+  },
+  "content": {
+    "introduction": "Bem-vindo(a) a um quiz diferente! Aqui, não basta saber conjugar verbos, é preciso pensar como um detetive. Use a lógica para resolver os enigmas que preparamos. Pronto(a) para o desafio?",
+    "instructions": [
+      "Leia cada pergunta com muita atenção para entender o desafio lógico.",
+      "Pense na ordem dos eventos, nas causas e nas consequências.",
+      "Escolha a alternativa que resolve o problema de forma lógica.",
+      "Divirta-se exercitando seu cérebro de duas maneiras ao mesmo tempo!"
+    ],
+    "sections": [
+      {
+        "name": "Sequência Lógica com Verbos",
+        "description": "Encontre o padrão e complete a sequência de verbos."
+      },
+      {
+        "name": "Causa, Condição e Consequência",
+        "description": "Entenda a relação de causa e efeito expressa pelos verbos."
+      },
+      {
+        "name": "Ordenando Ações no Tempo",
+        "description": "Use os tempos verbais para colocar os eventos na ordem correta."
+      },
+      {
+        "name": "Dedução Lógica com Verbos",
+        "description": "Use as pistas dos verbos para chegar a uma conclusão lógica."
+      },
+      {
+        "name": "Verdadeiro ou Falso: Lógica Verbal",
+        "description": "Analise as frases e decida se a afirmação lógica é verdadeira ou falsa."
+      },
+      {
+        "name": "Desafios de Lógica Verbal",
+        "description": "Um teste final com os desafios mais complexos de lógica e verbos."
+      }
+    ]
+  },
+  "questions": [
+    {
+      "id": 1,
+      "section": "Sequência Lógica com Verbos",
+      "question": "Qual verbo completa a sequência lógica? Eu ando, tu andas, ele anda. Nós...",
+      "options": [
+        "andamos",
+        "andaremos",
+        "andávamos",
+        "andou"
+      ],
+      "correct_answer": 0,
+      "explanation": "A sequência segue a conjugação do verbo 'andar' no presente do indicativo. A forma correta para 'nós' é 'andamos'.",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 2,
+      "section": "Sequência Lógica com Verbos",
+      "question": "Observe o padrão: comi (passado), como (presente), comerei (futuro). Qual palavra completa a série: bebi, bebo, ___?",
+      "options": [
+        "beberia",
+        "beberá",
+        "bebia",
+        "bebeu"
+      ],
+      "correct_answer": 1,
+      "explanation": "O padrão é uma sequência de tempos verbais: passado, presente e futuro. A forma do verbo 'beber' no futuro para 'eu' é 'beberá' (ou 'beberei'). A opção mais lógica é 'beberá'.",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 3,
+      "section": "Sequência Lógica com Verbos",
+      "question": "A sequência lógica é de verbos que terminam em -AR, -ER, -IR. Qual verbo completa a série: cantar, vender, ___?",
+      "options": [
+        "pular",
+        "partir",
+        "correr",
+        "brincar"
+      ],
+      "correct_answer": 1,
+      "explanation": "A lógica é seguir as três conjugações dos verbos no infinitivo. A sequência é 1ª (-AR), 2ª (-ER), 3ª (-IR). 'Partir' é um verbo da 3ª conjugação.",
+      "difficulty": "médio"
+    },
+    {
+      "id": 4,
+      "section": "Sequência Lógica com Verbos",
+      "question": "O padrão é: singular, plural. 'Ele corre', 'Eles correm'. Qual o plural de 'Eu pulo'?",
+      "options": [
+        "Eles pulam",
+        "Tu pulas",
+        "Nós pulamos",
+        "Vós pulais"
+      ],
+      "correct_answer": 2,
+      "explanation": "O plural da 1ª pessoa do singular ('Eu') é a 1ª pessoa do plural ('Nós'). Portanto, o plural de 'Eu pulo' é 'Nós pulamos'.",
+      "difficulty": "médio"
+    },
+    {
+      "id": 5,
+      "section": "Sequência Lógica com Verbos",
+      "question": "Complete a sequência de tempos do passado: estudei (ação concluída), estudava (ação contínua), ___ (ação anterior a outra no passado).",
+      "options": [
+        "estudarei",
+        "estudaria",
+        "tinha estudado",
+        "estudo"
+      ],
+      "correct_answer": 2,
+      "explanation": "A sequência mostra diferentes tipos de pretérito (passado). Pretérito perfeito (estudei), pretérito imperfeito (estudava) e pretérito mais-que-perfeito (tinha estudado).",
+      "difficulty": "difícil"
+    },
+    {
+      "id": 6,
+      "section": "Sequência Lógica com Verbos",
+      "question": "O padrão é o verbo e depois a pessoa. 'Cantam (Eles)', 'Canto (Eu)'. Qual a pessoa para 'Cantamos'?",
+      "options": [
+        "Tu",
+        "Ele",
+        "Vós",
+        "Nós"
+      ],
+      "correct_answer": 3,
+      "explanation": "A terminação '-amos' é usada para a 1ª pessoa do plural, 'Nós'.",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 7,
+      "section": "Sequência Lógica com Verbos",
+      "question": "A sequência é de verbos de ligação: ser, estar, ficar, ...",
+      "options": [
+        "correr",
+        "parecer",
+        "comer",
+        "falar"
+      ],
+      "correct_answer": 1,
+      "explanation": "Verbos de ligação são aqueles que indicam um estado, não uma ação. 'Parecer' é um verbo de ligação, assim como 'ser', 'estar' e 'ficar'.",
+      "difficulty": "médio"
+    },
+    {
+      "id": 8,
+      "section": "Sequência Lógica com Verbos",
+      "question": "O padrão é o oposto: 'abrir' -> 'fechar'. Qual o oposto de 'chegar'?",
+      "options": [
+        "entrar",
+        "voltar",
+        "partir",
+        "ficar"
+      ],
+      "correct_answer": 2,
+      "explanation": "A lógica é encontrar o antônimo (palavra com sentido contrário). O oposto da ação de 'chegar' a um lugar é 'partir' dele.",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 9,
+      "section": "Sequência Lógica com Verbos",
+      "question": "A sequência aumenta a intensidade: 'gostar', 'amar', 'adorar'. Qual verbo melhor se encaixa na sequência: 'andar', 'correr', ___?",
+      "options": [
+        "parar",
+        "disparar",
+        "sentar",
+        "caminhar"
+      ],
+      "correct_answer": 1,
+      "explanation": "A lógica é de aumento de velocidade/intensidade. 'Andar' é lento, 'correr' é rápido, e 'disparar' (ou voar) é ainda mais rápido.",
+      "difficulty": "médio"
+    },
+    {
+      "id": 10,
+      "section": "Sequência Lógica com Verbos",
+      "question": "Padrão: 'Eu fiz', 'Tu fizeste', 'Ele fez'. Qual completa a série: 'Eu quis', 'Tu quiseste', ___?",
+      "options": [
+        "Ele quereu",
+        "Ele quis",
+        "Ele queria",
+        "Ele quiseste"
+      ],
+      "correct_answer": 1,
+      "explanation": "A sequência segue a conjugação de verbos irregulares no pretérito perfeito. Assim como 'fazer' vira 'fez', 'querer' vira 'quis' para a 3ª pessoa (ele).",
+      "difficulty": "difícil"
+    },
+    {
+      "id": 11,
+      "section": "Causa, Condição e Consequência",
+      "question": "Se a causa é 'estudar muito', qual é a consequência mais provável?",
+      "options": [
+        "Dormir bem.",
+        "Tirar uma boa nota.",
+        "Ficar com fome.",
+        "Brincar mais."
+      ],
+      "correct_answer": 1,
+      "explanation": "A consequência lógica de 'estudar muito' é 'tirar uma boa nota'. Uma ação leva à outra.",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 12,
+      "section": "Causa, Condição e Consequência",
+      "question": "Na frase 'Se chover, não iremos ao parque', qual é a condição para não ir ao parque?",
+      "options": [
+        "Ir ao parque.",
+        "Não chover.",
+        "Chover.",
+        "Fazer sol."
+      ],
+      "correct_answer": 2,
+      "explanation": "A palavra 'Se' introduz uma condição. A condição para a consequência 'não iremos ao parque' acontecer é 'chover'.",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 13,
+      "section": "Causa, Condição e Consequência",
+      "question": "Qual verbo completa a frase com lógica? 'Ele não comeu o dia todo, por isso ele ___ com fome.'",
+      "options": [
+        "estava",
+        "estará",
+        "esteve",
+        "estaria"
+      ],
+      "correct_answer": 0,
+      "explanation": "A causa ('não comeu') leva à consequência ('estava com fome'). O tempo verbal deve ser o passado para concordar com a causa.",
+      "difficulty": "médio"
+    },
+    {
+      "id": 14,
+      "section": "Causa, Condição e Consequência",
+      "question": "Para que o sorvete derreta, é preciso que...",
+      "options": [
+        "esteja no congelador.",
+        "faça frio.",
+        "faça calor.",
+        "chova."
+      ],
+      "correct_answer": 2,
+      "explanation": "A causa para o sorvete derreter (consequência) é o calor. A lógica de causa e efeito é fundamental aqui.",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 15,
+      "section": "Causa, Condição e Consequência",
+      "question": "Na frase 'Eu viajaria se eu tivesse dinheiro', o que me impede de viajar?",
+      "options": [
+        "Eu não quero viajar.",
+        "Eu não tenho tempo.",
+        "Eu não tenho dinheiro.",
+        "Eu não tenho um destino."
+      ],
+      "correct_answer": 2,
+      "explanation": "O verbo 'viajaria' (futuro do pretérito) indica uma ação que depende de uma condição que não foi cumprida. A condição é 'se eu tivesse dinheiro', logo, a falta de dinheiro é o impedimento.",
+      "difficulty": "difícil"
+    },
+    {
+      "id": 16,
+      "section": "Causa, Condição e Consequência",
+      "question": "Se a planta não recebe água, a consequência lógica é que ela...",
+      "options": [
+        "cresce mais rápido.",
+        "dá flores.",
+        "fica mais verde.",
+        "morre."
+      ],
+      "correct_answer": 3,
+      "explanation": "A falta de água (causa) leva à morte da planta (consequência). É uma relação direta de causa e efeito na natureza.",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 17,
+      "section": "Causa, Condição e Consequência",
+      "question": "Qual a relação lógica na frase 'Como estava doente, faltei à aula'?",
+      "options": [
+        "Causa: faltei à aula; Consequência: estava doente.",
+        "Causa: estava doente; Consequência: faltei à aula.",
+        "Não há relação de causa e consequência.",
+        "As duas coisas aconteceram ao mesmo tempo sem ligação."
+      ],
+      "correct_answer": 1,
+      "explanation": "A palavra 'Como' no início da frase indica a causa. O motivo de eu ter faltado à aula (consequência) foi o fato de eu estar doente (causa).",
+      "difficulty": "médio"
+    },
+    {
+      "id": 18,
+      "section": "Causa, Condição e Consequência",
+      "question": "Para que um carro ande, qual condição é necessária?",
+      "options": [
+        "Que ele esteja limpo.",
+        "Que o rádio esteja ligado.",
+        "Que ele tenha combustível.",
+        "Que ele seja novo."
+      ],
+      "correct_answer": 2,
+      "explanation": "A condição fundamental para a ação 'andar' acontecer em um carro é ter combustível. Sem isso, a ação é impossível.",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 19,
+      "section": "Causa, Condição e Consequência",
+      "question": "Se você mistura as cores azul e amarelo, qual é a consequência?",
+      "options": [
+        "Você obtém a cor vermelha.",
+        "Você obtém a cor preta.",
+        "Você obtém a cor verde.",
+        "As cores não se misturam."
+      ],
+      "correct_answer": 2,
+      "explanation": "A mistura das cores primárias azul e amarelo (causa) resulta na cor secundária verde (consequência).",
+      "difficulty": "médio"
+    },
+    {
+      "id": 20,
+      "section": "Causa, Condição e Consequência",
+      "question": "Na frase 'Ele não teria se atrasado se o despertador tocasse', o que podemos concluir?",
+      "options": [
+        "O despertador tocou e ele se atrasou.",
+        "O despertador não tocou e ele não se atrasou.",
+        "O despertador tocou e ele não se atrasou.",
+        "O despertador não tocou e ele se atrasou."
+      ],
+      "correct_answer": 3,
+      "explanation": "A estrutura 'não teria... se... tocasse' indica uma condição no passado que não aconteceu e uma consequência que aconteceu. Logo, o despertador não tocou (a condição falhou) e, por isso, ele se atrasou (a consequência ocorreu).",
+      "difficulty": "difícil"
+    },
+    {
+      "id": 21,
+      "section": "Ordenando Ações no Tempo",
+      "question": "Coloque as ações na ordem lógica do tempo: 1. Jantarei. 2. Jantei. 3. Janto.",
+      "options": [
+        "1, 2, 3",
+        "3, 2, 1",
+        "2, 3, 1",
+        "1, 3, 2"
+      ],
+      "correct_answer": 2,
+      "explanation": "A ordem cronológica correta é: Passado (Jantei), Presente (Janto) e Futuro (Jantarei).",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 22,
+      "section": "Ordenando Ações no Tempo",
+      "question": "Na frase 'Antes de dormir, eu escovei os dentes', o que aconteceu primeiro?",
+      "options": [
+        "Dormir.",
+        "Escovar os dentes.",
+        "As duas coisas ao mesmo tempo.",
+        "Nenhuma das duas."
+      ],
+      "correct_answer": 1,
+      "explanation": "A expressão 'Antes de' indica que a ação seguinte (escovei os dentes) aconteceu primeiro no tempo.",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 23,
+      "section": "Ordenando Ações no Tempo",
+      "question": "Ordene as frases: A) Ele nascerá. B) Ele nasceu. C) Ele vive.",
+      "options": [
+        "A, B, C",
+        "C, B, A",
+        "B, A, C",
+        "B, C, A"
+      ],
+      "correct_answer": 3,
+      "explanation": "A ordem lógica da vida é: nascer (passado), viver (presente) e depois o futuro (nascerá, para outra pessoa). A sequência correta dos eventos é B, C, A.",
+      "difficulty": "médio"
+    },
+    {
+      "id": 24,
+      "section": "Ordenando Ações no Tempo",
+      "question": "Na frase 'Quando cheguei, o filme já tinha começado', o que aconteceu antes?",
+      "options": [
+        "Eu cheguei.",
+        "O filme começou.",
+        "Os dois ao mesmo tempo.",
+        "O filme terminou."
+      ],
+      "correct_answer": 1,
+      "explanation": "O tempo verbal 'tinha começado' (pretérito mais-que-perfeito) indica uma ação que aconteceu ANTES de outra ação no passado ('cheguei'). Portanto, o filme começou antes.",
+      "difficulty": "difícil"
+    },
+    {
+      "id": 25,
+      "section": "Ordenando Ações no Tempo",
+      "question": "Qual é a ordem correta para fazer um bolo? 1. Comer o bolo. 2. Assar o bolo. 3. Misturar os ingredientes.",
+      "options": [
+        "1, 2, 3",
+        "3, 2, 1",
+        "2, 3, 1",
+        "3, 1, 2"
+      ],
+      "correct_answer": 1,
+      "explanation": "A sequência lógica de ações para fazer um bolo é: primeiro misturar os ingredientes, depois assar e, por último, comer.",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 26,
+      "section": "Ordenando Ações no Tempo",
+      "question": "Na frase 'Depois que o sol se pôs, as estrelas apareceram', qual evento ocorreu por último?",
+      "options": [
+        "O sol se pôs.",
+        "As estrelas apareceram.",
+        "Os dois ao mesmo tempo.",
+        "A lua apareceu."
+      ],
+      "correct_answer": 1,
+      "explanation": "A expressão 'Depois que' indica que a segunda ação ('as estrelas apareceram') aconteceu após a primeira ('o sol se pôs').",
+      "difficulty": "médio"
+    },
+    {
+      "id": 27,
+      "section": "Ordenando Ações no Tempo",
+      "question": "Ordene as ações de um dia de aula: 1. Voltar para casa. 2. Ir para a escola. 3. Estudar na sala.",
+      "options": [
+        "2, 3, 1",
+        "1, 2, 3",
+        "3, 2, 1",
+        "2, 1, 3"
+      ],
+      "correct_answer": 0,
+      "explanation": "A ordem lógica de um dia escolar é: primeiro ir para a escola, depois estudar na sala e, finalmente, voltar para casa.",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 28,
+      "section": "Ordenando Ações no Tempo",
+      "question": "Na frase 'Enquanto eu almoçava, o telefone tocou', as ações foram:",
+      "options": [
+        "Uma antes da outra.",
+        "Uma depois da outra.",
+        "Simultâneas (ao mesmo tempo).",
+        "Nenhuma aconteceu."
+      ],
+      "correct_answer": 2,
+      "explanation": "A palavra 'Enquanto' indica que as duas ações (almoçar e o telefone tocar) aconteceram ao mesmo tempo.",
+      "difficulty": "médio"
+    },
+    {
+      "id": 29,
+      "section": "Ordenando Ações no Tempo",
+      "question": "Ordene as fases da vida de uma borboleta: 1. Vira uma borboleta. 2. É uma lagarta. 3. Fica no casulo.",
+      "options": [
+        "1, 2, 3",
+        "2, 1, 3",
+        "2, 3, 1",
+        "3, 2, 1"
+      ],
+      "correct_answer": 2,
+      "explanation": "O ciclo de vida da borboleta segue a ordem: primeiro é uma lagarta, depois forma um casulo (pupa) e, finalmente, emerge como uma borboleta.",
+      "difficulty": "médio"
+    },
+    {
+      "id": 30,
+      "section": "Ordenando Ações no Tempo",
+      "question": "Na frase 'Ele estudará para a prova que será amanhã', qual ação está mais distante no futuro?",
+      "options": [
+        "Ele estudar.",
+        "A prova acontecer.",
+        "As duas acontecerão ao mesmo tempo.",
+        "Não é possível saber."
+      ],
+      "correct_answer": 1,
+      "explanation": "A lógica indica que a prova ('será amanhã') é o evento final. A ação de estudar ('estudará') deve acontecer antes da prova. Portanto, a prova é o evento mais distante.",
+      "difficulty": "difícil"
+    },
+    {
+      "id": 31,
+      "section": "Dedução Lógica com Verbos",
+      "question": "Se a grama está molhada, o que podemos deduzir que aconteceu?",
+      "options": [
+        "Fez muito sol.",
+        "Ventou forte.",
+        "Choveu ou alguém a regou.",
+        "Nevou."
+      ],
+      "correct_answer": 2,
+      "explanation": "A grama molhada é um efeito. A dedução lógica nos leva a duas causas prováveis: a chuva ou a rega artificial.",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 32,
+      "section": "Dedução Lógica com Verbos",
+      "question": "Se alguém diz 'Eu não menti', podemos deduzir que essa pessoa...",
+      "options": [
+        "disse uma mentira.",
+        "disse a verdade.",
+        "não disse nada.",
+        "está confusa."
+      ],
+      "correct_answer": 1,
+      "explanation": "A negação do verbo 'mentir' ('não menti') leva à dedução lógica de que a pessoa está afirmando ter dito a verdade.",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 33,
+      "section": "Dedução Lógica com Verbos",
+      "question": "Na frase 'O bolo foi comido', o que podemos deduzir com certeza?",
+      "options": [
+        "Que o bolo era de chocolate.",
+        "Que alguém comeu o bolo.",
+        "Que o bolo estava ruim.",
+        "Que o bolo caiu no chão."
+      ],
+      "correct_answer": 1,
+      "explanation": "A estrutura 'foi comido' (voz passiva) indica que a ação de comer foi realizada por alguém, mesmo que não saibamos quem. A única dedução certa é que a ação aconteceu.",
+      "difficulty": "médio"
+    },
+    {
+      "id": 34,
+      "section": "Dedução Lógica com Verbos",
+      "question": "Se um amigo seu boceja, o que você pode deduzir?",
+      "options": [
+        "Que ele está com fome.",
+        "Que ele está com sono ou entediado.",
+        "Que ele está feliz.",
+        "Que ele está com frio."
+      ],
+      "correct_answer": 1,
+      "explanation": "O ato de bocejar (verbo) é um sinal físico que nos leva a deduzir que a pessoa provavelmente está com sono ou se sentindo entediada.",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 35,
+      "section": "Dedução Lógica com Verbos",
+      "question": "Se a frase é 'Talvez eu viaje amanhã', o que podemos deduzir?",
+      "options": [
+        "É certeza que eu viajarei.",
+        "É certeza que eu não viajarei.",
+        "A viagem é uma possibilidade, não uma certeza.",
+        "A viagem já aconteceu."
+      ],
+      "correct_answer": 2,
+      "explanation": "O advérbio 'Talvez' junto com o verbo no subjuntivo ('viaje') indica dúvida ou possibilidade. A dedução lógica é que a viagem não é garantida.",
+      "difficulty": "médio"
+    },
+    {
+      "id": 36,
+      "section": "Dedução Lógica com Verbos",
+      "question": "Se as luzes da casa estão acesas à noite, o que é mais lógico deduzir?",
+      "options": [
+        "Que não há ninguém em casa.",
+        "Que a casa está vazia.",
+        "Que provavelmente há alguém em casa.",
+        "Que é dia."
+      ],
+      "correct_answer": 2,
+      "explanation": "A ação de 'acender' as luzes nos leva a deduzir que há pessoas na casa, pois é a causa mais provável para esse efeito.",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 37,
+      "section": "Dedução Lógica com Verbos",
+      "question": "A frase 'Todos os mamíferos respiram'. Um golfinho é um mamífero. O que deduzimos?",
+      "options": [
+        "Que o golfinho não respira.",
+        "Que o golfinho respira.",
+        "Que o golfinho é um peixe.",
+        "Que todos os mamíferos vivem na água."
+      ],
+      "correct_answer": 1,
+      "explanation": "Isso é um silogismo lógico. Se a regra geral ('Todos os mamíferos respiram') é verdadeira, e o caso particular ('Um golfinho é um mamífero') também é, então a conclusão lógica é que o golfinho respira.",
+      "difficulty": "difícil"
+    },
+    {
+      "id": 38,
+      "section": "Dedução Lógica com Verbos",
+      "question": "Se o professor diz 'Guardem o material', o que podemos deduzir que vai acontecer?",
+      "options": [
+        "A aula vai começar.",
+        "A aula vai terminar.",
+        "Haverá uma prova surpresa.",
+        "Haverá mais lição."
+      ],
+      "correct_answer": 1,
+      "explanation": "O comando 'Guardem' (verbo no imperativo) geralmente indica o fim de uma atividade. A dedução lógica é que a aula está prestes a terminar.",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 39,
+      "section": "Dedução Lógica com Verbos",
+      "question": "Se um animal late, podemos deduzir que ele é um...",
+      "options": [
+        "gato.",
+        "pássaro.",
+        "cachorro.",
+        "peixe."
+      ],
+      "correct_answer": 2,
+      "explanation": "A ação de 'latir' é característica dos cachorros. A dedução é direta.",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 40,
+      "section": "Dedução Lógica com Verbos",
+      "question": "A frase é 'Apenas os alunos que estudaram passaram'. João não passou. O que deduzimos?",
+      "options": [
+        "Que João estudou.",
+        "Que João não estudou.",
+        "Que a prova era fácil.",
+        "Que João é muito inteligente."
+      ],
+      "correct_answer": 1,
+      "explanation": "A lógica é clara: a condição para passar era ter estudado. Se João não passou, ele não cumpriu a condição. Logo, deduzimos que ele não estudou.",
+      "difficulty": "difícil"
+    },
+    {
+      "id": 41,
+      "section": "Verdadeiro ou Falso: Lógica Verbal",
+      "question": "Analise a lógica: 'Se todo cão é um animal, então todo animal é um cão'. A afirmação é logicamente verdadeira ou falsa?",
+      "options": [
+        "Verdadeira",
+        "Falsa"
+      ],
+      "correct_answer": 1,
+      "explanation": "Falsa. A primeira parte é verdadeira, mas a segunda não. Um gato é um animal, mas não é um cão. A lógica inversa não se aplica aqui.",
+      "difficulty": "médio"
+    },
+    {
+      "id": 42,
+      "section": "Verdadeiro ou Falso: Lógica Verbal",
+      "question": "Analise a lógica: 'Se está chovendo, então o chão está molhado. O chão está molhado. Logo, está chovendo'. A conclusão é sempre verdadeira?",
+      "options": [
+        "Sim, sempre verdadeira.",
+        "Não, pode ser falsa."
+      ],
+      "correct_answer": 1,
+      "explanation": "Não é sempre verdadeira. O chão pode estar molhado porque alguém o lavou ou regou as plantas. A consequência (chão molhado) pode ter outras causas além da chuva.",
+      "difficulty": "difícil"
+    },
+    {
+      "id": 43,
+      "section": "Verdadeiro ou Falso: Lógica Verbal",
+      "question": "Analise a lógica: 'Nenhum peixe pode voar. O pardal pode voar. Logo, o pardal não é um peixe'. A conclusão é logicamente verdadeira ou falsa?",
+      "options": [
+        "Verdadeira",
+        "Falsa"
+      ],
+      "correct_answer": 0,
+      "explanation": "Verdadeira. A lógica está correta. Se uma categoria (peixes) tem uma característica (não voar), e um ser (pardal) tem a característica oposta (voar), ele não pode pertencer àquela categoria.",
+      "difficulty": "médio"
+    },
+    {
+      "id": 44,
+      "section": "Verdadeiro ou Falso: Lógica Verbal",
+      "question": "Analise a frase: 'Eu sempre minto'. Se a pessoa que diz isso está falando a verdade, ela está mentindo. Se está mentindo, está falando a verdade. Isso é um paradoxo. A afirmação é logicamente solucionável?",
+      "options": [
+        "Sim, é solucionável.",
+        "Não, é um paradoxo sem solução lógica simples."
+      ],
+      "correct_answer": 1,
+      "explanation": "Não. Isso é um famoso paradoxo lógico. A frase se contradiz, não importa se você a considera verdadeira ou falsa. Não há uma solução lógica simples.",
+      "difficulty": "difícil"
+    },
+    {
+      "id": 45,
+      "section": "Verdadeiro ou Falso: Lógica Verbal",
+      "question": "Analise a lógica: 'Se algo é um quadrado, tem quatro lados. Esta figura tem quatro lados. Logo, esta figura é um quadrado'. A conclusão é sempre verdadeira?",
+      "options": [
+        "Sim, sempre verdadeira.",
+        "Não, pode ser falsa."
+      ],
+      "correct_answer": 1,
+      "explanation": "Não. A figura pode ser um retângulo ou um losango, que também têm quatro lados, mas não são quadrados. A lógica está incorreta.",
+      "difficulty": "médio"
+    },
+    {
+      "id": 46,
+      "section": "Verdadeiro ou Falso: Lógica Verbal",
+      "question": "Analise a lógica: 'Eu só vou à praia se fizer sol'. Hoje não fui à praia. Logo, não fez sol. A conclusão é sempre verdadeira?",
+      "options": [
+        "Sim, sempre verdadeira.",
+        "Não, pode ser falsa."
+      ],
+      "correct_answer": 1,
+      "explanation": "Não. Eu posso não ter ido à praia por outros motivos (tinha lição de casa, estava doente), mesmo que tenha feito sol. A condição para ir era o sol, mas não ir não garante a falta de sol.",
+      "difficulty": "difícil"
+    },
+    {
+      "id": 47,
+      "section": "Verdadeiro ou Falso: Lógica Verbal",
+      "question": "Analise a lógica: 'Toda fruta cresce em árvore. O morango é uma fruta. Logo, o morango cresce em árvore'. A afirmação é logicamente verdadeira ou falsa?",
+      "options": [
+        "Verdadeira",
+        "Falsa"
+      ],
+      "correct_answer": 1,
+      "explanation": "Falsa. A premissa inicial ('Toda fruta cresce em árvore') está incorreta, pois o morango cresce em um arbusto rasteiro. Se a premissa é falsa, a conclusão lógica pode ser falsa.",
+      "difficulty": "médio"
+    },
+    {
+      "id": 48,
+      "section": "Verdadeiro ou Falso: Lógica Verbal",
+      "question": "Analise a lógica: 'Se eu corro, eu me canso'. Eu não corri. Logo, eu não me cansei. A conclusão é sempre verdadeira?",
+      "options": [
+        "Sim, sempre verdadeira.",
+        "Não, pode ser falsa."
+      ],
+      "correct_answer": 1,
+      "explanation": "Não. Eu posso ter me cansado por outro motivo, como ter estudado muito ou jogado videogame por horas. Correr é uma causa para o cansaço, mas não é a única.",
+      "difficulty": "difícil"
+    },
+    {
+      "id": 49,
+      "section": "Verdadeiro ou Falso: Lógica Verbal",
+      "question": "Analise a lógica: 'Se um objeto flutua na água, ele é leve'. A madeira flutua. Logo, a madeira é leve. A conclusão é logicamente verdadeira ou falsa?",
+      "options": [
+        "Verdadeira",
+        "Falsa"
+      ],
+      "correct_answer": 0,
+      "explanation": "Verdadeira, dentro da lógica da frase. A leveza aqui se refere à densidade. Como a madeira é menos densa que a água, ela flutua. A lógica da frase está correta.",
+      "difficulty": "médio"
+    },
+    {
+      "id": 50,
+      "section": "Verdadeiro ou Falso: Lógica Verbal",
+      "question": "Analise a lógica: 'Para dirigir, é preciso ter carteira de motorista'. Maria não tem carteira de motorista. Logo, Maria não dirige. A conclusão é logicamente verdadeira ou falsa?",
+      "options": [
+        "Verdadeira",
+        "Falsa"
+      ],
+      "correct_answer": 0,
+      "explanation": "Verdadeira. A condição para dirigir é ter a carteira. Se Maria não cumpre a condição, a conclusão lógica é que ela não pode realizar a ação (legalmente).",
+      "difficulty": "médio"
+    },
+    {
+      "id": 51,
+      "section": "Desafios de Lógica Verbal",
+      "question": "Se 'Cantar' está para 'Cantor' assim como 'Escrever' está para...",
+      "options": [
+        "Leitor",
+        "Escritor",
+        "Livro",
+        "Papel"
+      ],
+      "correct_answer": 1,
+      "explanation": "A lógica é a relação entre o verbo (ação) e o substantivo que representa quem pratica a ação. Quem canta é cantor, quem escreve é escritor.",
+      "difficulty": "médio"
+    },
+    {
+      "id": 52,
+      "section": "Desafios de Lógica Verbal",
+      "question": "Em uma sala, há três caixas. Uma diz 'Maçãs', outra 'Laranjas' e a terceira 'Maçãs e Laranjas'. Todas as etiquetas estão trocadas. Você pode tirar uma única fruta de uma única caixa para descobrir o conteúdo de todas. De qual caixa você tira a fruta?",
+      "options": [
+        "Da caixa 'Maçãs'",
+        "Da caixa 'Laranjas'",
+        "Da caixa 'Maçãs e Laranjas'",
+        "De qualquer uma."
+      ],
+      "correct_answer": 2,
+      "explanation": "Você deve tirar da caixa 'Maçãs e Laranjas'. Como todas estão erradas, essa caixa só pode ter ou maçãs ou laranjas. Se você tirar uma maçã, sabe que ali é a caixa de maçãs. A que diz 'Laranjas' só pode ser a mista, e a que diz 'Maçãs' só pode ser a de laranjas.",
+      "difficulty": "difícil"
+    },
+    {
+      "id": 53,
+      "section": "Desafios de Lógica Verbal",
+      "question": "O que acontece uma vez em um minuto, duas vezes em um momento, mas nunca em cem anos?",
+      "options": [
+        "O som do relógio",
+        "A letra 'M'",
+        "Um piscar de olhos",
+        "O nascer do sol"
+      ],
+      "correct_answer": 1,
+      "explanation": "Este é um enigma de lógica verbal. A resposta é a letra 'M', que aparece uma vez em 'Minuto', duas vezes em 'MoMento' e nenhuma vez em 'ceM aNos'.",
+      "difficulty": "médio"
+    },
+    {
+      "id": 54,
+      "section": "Desafios de Lógica Verbal",
+      "question": "Se um avião cai na fronteira entre o Brasil e a Argentina, onde os sobreviventes devem ser enterrados?",
+      "options": [
+        "No Brasil",
+        "Na Argentina",
+        "No país de sua nacionalidade",
+        "Em nenhum lugar"
+      ],
+      "correct_answer": 3,
+      "explanation": "Este é um enigma clássico de lógica. A pegadinha está no verbo: você não enterra 'sobreviventes'.",
+      "difficulty": "médio"
+    },
+    {
+      "id": 55,
+      "section": "Desafios de Lógica Verbal",
+      "question": "Um pai tem 40 anos e seu filho tem 10. Daqui a quantos anos a idade do pai será o dobro da idade do filho?",
+      "options": [
+        "10 anos",
+        "15 anos",
+        "20 anos",
+        "30 anos"
+      ],
+      "correct_answer": 2,
+      "explanation": "Daqui a 20 anos, o pai terá 60 (40+20) e o filho terá 30 (10+20). 60 é o dobro de 30. É um problema de lógica matemática.",
+      "difficulty": "difícil"
+    },
+    {
+      "id": 56,
+      "section": "Desafios de Lógica Verbal",
+      "question": "O que é que quanto mais se tira, maior fica?",
+      "options": [
+        "Um buraco",
+        "Dinheiro do banco",
+        "Uma foto",
+        "Uma nota baixa"
+      ],
+      "correct_answer": 0,
+      "explanation": "É um enigma de lógica. Quanto mais terra você 'tira' de um lugar, maior o 'buraco' fica.",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 57,
+      "section": "Desafios de Lógica Verbal",
+      "question": "Se ontem fosse amanhã, hoje seria sexta-feira. Que dia é hoje?",
+      "options": [
+        "Quarta-feira",
+        "Quinta-feira",
+        "Sexta-feira",
+        "Domingo"
+      ],
+      "correct_answer": 0,
+      "explanation": "Se 'ontem' (quinta) fosse 'amanhã', então 'hoje' seria quarta-feira. Assim, o 'amanhã' de quarta é quinta, e o 'ontem' de sexta é quinta. A condição se cumpre. Hoje é quarta-feira.",
+      "difficulty": "difícil"
+    },
+    {
+      "id": 58,
+      "section": "Desafios de Lógica Verbal",
+      "question": "Eu tenho cidades, mas não tenho casas. Tenho montanhas, mas não tenho árvores. Tenho água, mas não tenho peixes. O que eu sou?",
+      "options": [
+        "Um sonho",
+        "Um mapa",
+        "Um livro",
+        "Um deserto"
+      ],
+      "correct_answer": 1,
+      "explanation": "É um enigma de lógica que descreve as representações em um mapa.",
+      "difficulty": "médio"
+    },
+    {
+      "id": 59,
+      "section": "Desafios de Lógica Verbal",
+      "question": "Se você está correndo em uma corrida e ultrapassa o segundo colocado, em que posição você fica?",
+      "options": [
+        "Primeiro",
+        "Segundo",
+        "Terceiro",
+        "Último"
+      ],
+      "correct_answer": 1,
+      "explanation": "Se você ultrapassa o segundo, você assume o lugar dele. Você fica em segundo lugar.",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 60,
+      "section": "Desafios de Lógica Verbal",
+      "question": "Um homem está olhando para um retrato. Alguém pergunta: 'De quem é esse retrato?'. Ele responde: 'Irmãos e irmãs eu não tenho, mas o pai deste homem é filho do meu pai'. De quem é o retrato?",
+      "options": [
+        "Dele mesmo",
+        "Do pai dele",
+        "Do filho dele",
+        "Do avô dele"
+      ],
+      "correct_answer": 2,
+      "explanation": "'Filho do meu pai' (como ele não tem irmãos) só pode ser ele mesmo. Então, a frase fica: 'O pai deste homem sou eu'. Logo, o retrato é do filho dele.",
+      "difficulty": "difícil"
+    }
+  ],
+  "evaluation": {
+    "include_evaluation": false
+  },
+  "settings": {
+    "public": true,
+    "allow_multiple_responses": false,
+    "show_progress_bar": true,
+    "collect_email": true,
+    "require_login": true
+  }
+}
