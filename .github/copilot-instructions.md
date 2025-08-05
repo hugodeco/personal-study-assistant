@@ -21,3 +21,14 @@ This project integrates with Google Forms API to create and manage forms program
 * If not specified, ask about the level of difficulty for the quiz.
 * After generating a new form, review all created questions and answers to ensure there are no duplicate answers.
 * Avoid naming sections in a way that suggests the answer to the question, e.g. Section: "Personal Pronouns" for the question "What type of pronoun is used in the sentence: ______ ?".
+
+## Form Generation - IMPORTANT
+* **ALWAYS use the `form.py` script from the project root to create Google Forms**
+* **NEVER use `global/generator.py` directly** - it has path resolution issues
+* Command syntax: `python form.py [quiz_name]` (without .json extension)
+* Examples:
+  - `python form.py pronomes` (creates form from forms/pronomes.json)
+  - `python form.py verbos_e_logica_reforco` (creates reinforcement quiz)
+* The script automatically handles file paths, authentication, and form creation
+* Results are saved in `ultimo_formulario_criado.txt` with links and details
+* If form generation fails, check the terminal output for specific error messages

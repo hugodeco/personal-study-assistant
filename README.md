@@ -64,16 +64,41 @@ pip install google-api-python-client google-auth-httplib2 google-auth-oauthlib
 
 ## Uso Básico
 
-### Criar Formulário
+### ⚡ Comando Correto para Criar Formulários
+
+**IMPORTANTE: Use sempre o script `form.py` da raiz do projeto!**
 
 ```bash
 python form.py [nome_do_arquivo_json]
 ```
 
-**Exemplo:**
+**Exemplos práticos:**
 ```bash
+# Criar formulário de pronomes
 python form.py pronomes
+
+# Criar formulário de reforço de verbos e lógica
+python form.py verbos_e_logica_reforco
+
+# Criar qualquer quiz (nome do arquivo sem .json)
+python form.py nome_do_quiz
 ```
+
+**❌ NÃO use o generator.py diretamente - use sempre o form.py da raiz!**
+
+### 📋 Resultado do Último Formulário Criado
+
+Após cada execução bem-sucedida, o arquivo `ultimo_formulario_criado.txt` é atualizado com:
+- ✅ Link público para os estudantes
+- ✅ Link de edição para o professor
+- ✅ ID do formulário no Google Forms
+- ✅ Total de questões criadas
+- ✅ Distribuição por seções
+
+**Exemplo de formulário criado:**
+- **Nome:** verbos_e_logica_reforco
+- **Total:** 50 questões de reforço
+- **Link:** https://docs.google.com/forms/d/1z3Y6odW5EiMx8CuucZXBjCl9WvhfPBDV8LdswzQ219A/viewform
 
 ### Estrutura do JSON
 
