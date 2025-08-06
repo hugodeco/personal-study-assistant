@@ -1,0 +1,763 @@
+{
+  "metadata": {
+    "title": "💪 Quiz de Reforço Intensivo: Verbos e Lógica - Superação Total!",
+    "description": [
+      "Este é um quiz super especial de reforço intensivo criado especialmente para você dominar de vez os conceitos!",
+      "Focamos nas questões que mais causaram dificuldade para garantir que você entenda completamente.",
+      "Cada questão foi pensada para esclarecer as dúvidas e fortalecer seu aprendizado!"
+    ],
+    "subject": "Português e Raciocínio Lógico",
+    "grade": "5ª série",
+    "topic": "Reforço Intensivo - Verbos, Tempos Verbais e Lógica",
+    "author": "IA",
+    "version": "1.0",
+    "created_date": "2025-08-06"
+  },
+  "content": {
+    "introduction": "Bem-vindo(a) ao seu quiz de reforço intensivo! Este exercício foi criado especialmente baseado nas questões que causaram mais dificuldade. Vamos transformar cada dificuldade em uma nova conquista de aprendizado!",
+    "instructions": [
+      "Leia cada pergunta com muito cuidado e atenção.",
+      "Pense bem na diferença entre os tempos verbais e tipos de verbos.",
+      "Para questões de lógica, analise cada palavra importante.",
+      "Lembre-se: cada erro anterior é agora uma oportunidade de acertar!"
+    ],
+    "sections": [
+      {
+        "name": "Tempos Verbais - Foco Total",
+        "description": "Domine de vez as sequências temporais e correlações verbais."
+      },
+      {
+        "name": "Verbos de Ligação - Esclarecimento Completo",
+        "description": "Entenda definitivamente a diferença entre verbos de ligação e ação."
+      },
+      {
+        "name": "Correlação e Concordância - Treino Especial",
+        "description": "Pratique a concordância perfeita entre tempos verbais."
+      },
+      {
+        "name": "Causa e Consequência - Reforço Dirigido",
+        "description": "Domine as relações lógicas de causa e efeito."
+      },
+      {
+        "name": "Ordenação Temporal - Prática Intensiva",
+        "description": "Organize eventos no tempo com total segurança."
+      },
+      {
+        "name": "Lógica Verbal - Desafios Focados",
+        "description": "Desenvolva estratégias para resolver problemas lógicos."
+      }
+    ]
+  },
+  "questions": [
+    {
+      "id": 1,
+      "section": "Tempos Verbais - Foco Total",
+      "question": "ATENÇÃO à diferença: 'cantava' é passado contínuo, 'cantei' é passado pontual. Na sequência passado → presente → futuro, qual está correta?",
+      "options": [
+        "cantava → canto → cantarei",
+        "cantei → canto → cantarei",
+        "canto → cantei → cantarei",
+        "cantarei → cantei → canto"
+      ],
+      "correct_answer": 1,
+      "explanation": "IMPORTANTE: 'cantei' é pretérito perfeito (ação terminada), 'cantava' é imperfeito (ação contínua). A sequência temporal usa o perfeito: cantei → canto → cantarei.",
+      "difficulty": "médio"
+    },
+    {
+      "id": 2,
+      "section": "Tempos Verbais - Foco Total",
+      "question": "Para expressar futuro de forma mais precisa e formal, qual é melhor: 'Amanhã eu ___ para a escola'?",
+      "options": [
+        "vou",
+        "irei",
+        "fui",
+        "ia"
+      ],
+      "correct_answer": 1,
+      "explanation": "Ambos 'vou' e 'irei' indicam futuro, mas 'irei' (futuro do indicativo) é mais formal e preciso que 'vou' (presente com valor de futuro).",
+      "difficulty": "médio"
+    },
+    {
+      "id": 3,
+      "section": "Tempos Verbais - Foco Total",
+      "question": "Pratique a sequência: dancei (passado), danço (presente), ___ (futuro).",
+      "options": [
+        "dançaria",
+        "dançarei",
+        "dançava",
+        "dancei"
+      ],
+      "correct_answer": 1,
+      "explanation": "Sequência temporal: dancei (pretérito perfeito), danço (presente), dançarei (futuro do indicativo).",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 4,
+      "section": "Tempos Verbais - Foco Total",
+      "question": "Na sequência temporal, qual é a diferença entre 'estudava' e 'estudei'?",
+      "options": [
+        "Não há diferença",
+        "Estudava = ação contínua no passado; Estudei = ação terminada no passado",
+        "Estudava = futuro; Estudei = presente",
+        "Estudava = presente; Estudei = futuro"
+      ],
+      "correct_answer": 1,
+      "explanation": "'Estudava' indica ação que durava (imperfeito). 'Estudei' indica ação que terminou (perfeito). Para sequências temporais, usamos o perfeito.",
+      "difficulty": "médio"
+    },
+    {
+      "id": 5,
+      "section": "Tempos Verbais - Foco Total",
+      "question": "Complete: brinquei (passado), brinco (presente), ___ (futuro).",
+      "options": [
+        "brincava",
+        "brincarei",
+        "brincaria",
+        "brinquei"
+      ],
+      "correct_answer": 1,
+      "explanation": "Sequência: brinquei (pretérito perfeito), brinco (presente), brincarei (futuro do indicativo).",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 6,
+      "section": "Tempos Verbais - Foco Total",
+      "question": "Se hoje eu 'corro', ontem eu ___, e amanhã eu ___.",
+      "options": [
+        "corri, correrei",
+        "corria, correria",
+        "correrei, corri",
+        "corro, corro"
+      ],
+      "correct_answer": 0,
+      "explanation": "Sequência temporal lógica: ontem (passado) = corri, hoje (presente) = corro, amanhã (futuro) = correrei.",
+      "difficulty": "médio"
+    },
+    {
+      "id": 7,
+      "section": "Tempos Verbais - Foco Total",
+      "question": "Qual diferença entre 'comprei' e 'comprava' numa sequência temporal?",
+      "options": [
+        "Comprei = presente; Comprava = futuro",
+        "Comprei = ação terminada; Comprava = ação contínua (ambas no passado)",
+        "São iguais",
+        "Comprei = futuro; Comprava = presente"
+      ],
+      "correct_answer": 1,
+      "explanation": "Para sequências passado→presente→futuro, usamos ações terminadas (perfeito): comprei, não comprava.",
+      "difficulty": "médio"
+    },
+    {
+      "id": 8,
+      "section": "Tempos Verbais - Foco Total",
+      "question": "Na frase 'Ontem eu ___ muito', para uma sequência temporal, qual usar?",
+      "options": [
+        "trabalhava",
+        "trabalhei",
+        "trabalho",
+        "trabalharei"
+      ],
+      "correct_answer": 1,
+      "explanation": "Para sequências temporais, 'trabalhei' (ação terminada) é mais adequado que 'trabalhava' (ação contínua).",
+      "difficulty": "médio"
+    },
+    {
+      "id": 9,
+      "section": "Verbos de Ligação - Esclarecimento Completo",
+      "question": "IMPORTANTE: Verbos de ligação conectam o sujeito a uma característica. Qual destes é verbo de ligação?",
+      "options": [
+        "falar",
+        "parecer",
+        "correr",
+        "comer"
+      ],
+      "correct_answer": 1,
+      "explanation": "LEMBRE-SE: 'Parecer' conecta o sujeito a uma característica (ela parece feliz). 'Falar' é ação que alguém faz.",
+      "difficulty": "médio"
+    },
+    {
+      "id": 10,
+      "section": "Verbos de Ligação - Esclarecimento Completo",
+      "question": "Em qual frase o verbo conecta o sujeito a uma característica (verbo de ligação)?",
+      "options": [
+        "Maria fala português",
+        "João corre no parque",
+        "Ana está feliz",
+        "Pedro come maçã"
+      ],
+      "correct_answer": 2,
+      "explanation": "'Está' conecta Ana à característica 'feliz'. Os outros verbos indicam ações que os sujeitos fazem.",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 11,
+      "section": "Verbos de Ligação - Esclarecimento Completo",
+      "question": "ATENÇÃO: 'O bolo fica pronto' - o verbo 'ficar' aqui indica:",
+      "options": [
+        "Ação do bolo",
+        "Mudança de estado",
+        "Movimento do bolo",
+        "Localização"
+      ],
+      "correct_answer": 1,
+      "explanation": "IMPORTANTE: 'Ficar' aqui é verbo de ligação indicando MUDANÇA DE ESTADO (de não pronto para pronto), não uma ação.",
+      "difficulty": "médio"
+    },
+    {
+      "id": 12,
+      "section": "Verbos de Ligação - Esclarecimento Completo",
+      "question": "Qual verbo NÃO conecta o sujeito a uma característica (NÃO é de ligação)?",
+      "options": [
+        "permanecer",
+        "virar",
+        "pular",
+        "continuar"
+      ],
+      "correct_answer": 2,
+      "explanation": "'Pular' é ação física que alguém faz. Os outros podem conectar sujeito a características (permanecer feliz, virar médico, continuar calmo).",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 13,
+      "section": "Verbos de Ligação - Esclarecimento Completo",
+      "question": "Em 'João virou médico', o verbo 'virar' funciona como:",
+      "options": [
+        "Verbo de ação (movimento)",
+        "Verbo de ligação (mudança de estado/profissão)",
+        "Verbo de movimento físico",
+        "Não é verbo"
+      ],
+      "correct_answer": 1,
+      "explanation": "ATENÇÃO: Aqui 'virar' = 'tornar-se'. João mudou de estado (não era médico → é médico). É verbo de ligação.",
+      "difficulty": "médio"
+    },
+    {
+      "id": 14,
+      "section": "Verbos de Ligação - Esclarecimento Completo",
+      "question": "Identifique o verbo de ligação: 'A criança permanece quieta'.",
+      "options": [
+        "criança",
+        "permanece",
+        "quieta",
+        "não há verbo de ligação"
+      ],
+      "correct_answer": 1,
+      "explanation": "'Permanece' conecta 'a criança' à característica 'quieta'. É verbo de ligação.",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 15,
+      "section": "Verbos de Ligação - Esclarecimento Completo",
+      "question": "Complete com verbos de ligação: ser, estar, ficar, ___",
+      "options": [
+        "correr",
+        "parecer",
+        "falar",
+        "comer"
+      ],
+      "correct_answer": 1,
+      "explanation": "'Parecer' é verbo de ligação como ser, estar, ficar. Todos conectam sujeito a características.",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 16,
+      "section": "Correlação e Concordância - Treino Especial",
+      "question": "REGRA IMPORTANTE: Se a causa está no passado, a consequência deve estar no mesmo tempo. 'Ele não comeu, por isso ___':",
+      "options": [
+        "está com fome",
+        "estará com fome",
+        "estava com fome",
+        "estaria com fome"
+      ],
+      "correct_answer": 2,
+      "explanation": "LEMBRE-SE: Causa no passado (não comeu) → Consequência no passado (estava com fome). Correlação temporal!",
+      "difficulty": "médio"
+    },
+    {
+      "id": 17,
+      "section": "Correlação e Concordância - Treino Especial",
+      "question": "Se a ação de não comer aconteceu ONTEM, a consequência (estar com fome) deve estar em que tempo?",
+      "options": [
+        "Presente",
+        "Futuro",
+        "Passado",
+        "Infinitivo"
+      ],
+      "correct_answer": 2,
+      "explanation": "REGRA: Ação de ontem (passado) → Consequência também no passado. Correlação temporal é fundamental!",
+      "difficulty": "médio"
+    },
+    {
+      "id": 18,
+      "section": "Correlação e Concordância - Treino Especial",
+      "question": "Pratique a correlação: 'Maria estudou muito, por isso ___ uma boa nota.'",
+      "options": [
+        "tira",
+        "tirou",
+        "tirará",
+        "tiraria"
+      ],
+      "correct_answer": 1,
+      "explanation": "Causa no passado (estudou) → Consequência no passado (tirou). Correlação temporal correta.",
+      "difficulty": "médio"
+    },
+    {
+      "id": 19,
+      "section": "Correlação e Concordância - Treino Especial",
+      "question": "Complete: 'Como estava chovendo, eu ___ em casa.'",
+      "options": [
+        "fico",
+        "ficarei",
+        "fiquei",
+        "ficaria"
+      ],
+      "correct_answer": 2,
+      "explanation": "Causa no passado (estava chovendo) → Consequência no passado (fiquei). Correlação temporal.",
+      "difficulty": "médio"
+    },
+    {
+      "id": 20,
+      "section": "Correlação e Concordância - Treino Especial",
+      "question": "No discurso indireto, quando alguém disse no passado 'Eu como pizza', fica:",
+      "options": [
+        "Ele disse que come pizza",
+        "Ele disse que comeu pizza",
+        "Ele disse que comia pizza",
+        "Ele disse que comerá pizza"
+      ],
+      "correct_answer": 2,
+      "explanation": "REGRA do discurso indireto: Presente vira imperfeito. 'Como' (presente) → 'comia' (pretérito imperfeito).",
+      "difficulty": "difícil"
+    },
+    {
+      "id": 21,
+      "section": "Correlação e Concordância - Treino Especial",
+      "question": "Se alguém disse ontem 'Eu estudo', no discurso indireto vira:",
+      "options": [
+        "Ele disse que estuda",
+        "Ele disse que estudou",
+        "Ele disse que estudava",
+        "Ele disse que estudará"
+      ],
+      "correct_answer": 2,
+      "explanation": "No discurso indireto: 'estudo' (presente) vira 'estudava' (pretérito imperfeito).",
+      "difficulty": "difícil"
+    },
+    {
+      "id": 22,
+      "section": "Correlação e Concordância - Treino Especial",
+      "question": "Correlação temporal: 'Porque tinha sede, ele ___ água.'",
+      "options": [
+        "bebe",
+        "beberá",
+        "bebeu",
+        "beberia"
+      ],
+      "correct_answer": 2,
+      "explanation": "Causa no passado (tinha sede) → Consequência no passado (bebeu água).",
+      "difficulty": "médio"
+    },
+    {
+      "id": 23,
+      "section": "Causa e Consequência - Reforço Dirigido",
+      "question": "ATENÇÃO às relações causais: Se chove, qual é um efeito DIRETO?",
+      "options": [
+        "O sol brilha",
+        "Faz muito calor",
+        "As ruas ficam molhadas",
+        "Neva"
+      ],
+      "correct_answer": 2,
+      "explanation": "CAUSA DIRETA: Chuva → Ruas molhadas. Não confunda com outras situações climáticas!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 24,
+      "section": "Causa e Consequência - Reforço Dirigido",
+      "question": "Para que o sorvete derreta, é preciso que:",
+      "options": [
+        "esteja no congelador",
+        "faça frio",
+        "faça calor",
+        "chova"
+      ],
+      "correct_answer": 2,
+      "explanation": "CAUSA necessária: Calor derrete sorvete. Frio ou congelador mantêm sólido.",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 25,
+      "section": "Causa e Consequência - Reforço Dirigido",
+      "question": "Se você não estudar, a consequência mais provável é:",
+      "options": [
+        "tirar uma boa nota",
+        "passar de ano facilmente",
+        "ter dificuldades na prova",
+        "ser o melhor da turma"
+      ],
+      "correct_answer": 2,
+      "explanation": "Relação lógica: Não estudar (causa) → Dificuldades na prova (consequência provável).",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 26,
+      "section": "Causa e Consequência - Reforço Dirigido",
+      "question": "Na frase 'Como estava doente, faltei à aula', qual é a relação correta?",
+      "options": [
+        "Causa: faltei à aula; Consequência: estava doente",
+        "Causa: estava doente; Consequência: faltei à aula",
+        "Não há relação de causa e consequência",
+        "As duas coisas não têm ligação"
+      ],
+      "correct_answer": 1,
+      "explanation": "ATENÇÃO: 'Como' indica a causa. Motivo (causa): estar doente → Resultado (consequência): faltar à aula.",
+      "difficulty": "médio"
+    },
+    {
+      "id": 27,
+      "section": "Causa e Consequência - Reforço Dirigido",
+      "question": "Se não regar as plantas, o que acontece?",
+      "options": [
+        "Elas crescem mais",
+        "Ficam mais verdes",
+        "Morrem",
+        "Dão mais flores"
+      ],
+      "correct_answer": 2,
+      "explanation": "Causa: Falta de água → Consequência: Plantas morrem. Relação biológica fundamental.",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 28,
+      "section": "Ordenação Temporal - Prática Intensiva",
+      "question": "ATENÇÃO à ordem temporal: 1. Jantarei 2. Jantei 3. Janto. Qual a sequência PASSADO → PRESENTE → FUTURO?",
+      "options": [
+        "1, 2, 3",
+        "3, 2, 1",
+        "2, 3, 1",
+        "1, 3, 2"
+      ],
+      "correct_answer": 2,
+      "explanation": "ORDEM TEMPORAL: 2. Jantei (PASSADO) → 3. Janto (PRESENTE) → 1. Jantarei (FUTURO).",
+      "difficulty": "médio"
+    },
+    {
+      "id": 29,
+      "section": "Ordenação Temporal - Prática Intensiva",
+      "question": "Ordem lógica da vida: A) Ele nascerá B) Ele nasceu C) Ele vive. Qual sequência temporal?",
+      "options": [
+        "A, B, C",
+        "C, B, A",
+        "B, A, C",
+        "B, C, A"
+      ],
+      "correct_answer": 3,
+      "explanation": "SEQUÊNCIA TEMPORAL: B) Nasceu (PASSADO) → C) Vive (PRESENTE) → A) Nascerá (FUTURO - pode ser descendência).",
+      "difficulty": "médio"
+    },
+    {
+      "id": 30,
+      "section": "Ordenação Temporal - Prática Intensiva",
+      "question": "Ordem para tomar banho: 1. Sair do banho 2. Entrar no banho 3. Ensaboar-se",
+      "options": [
+        "1, 2, 3",
+        "2, 3, 1",
+        "3, 2, 1",
+        "2, 1, 3"
+      ],
+      "correct_answer": 1,
+      "explanation": "Sequência lógica: 2. Entrar → 3. Ensaboar-se → 1. Sair do banho.",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 31,
+      "section": "Ordenação Temporal - Prática Intensiva",
+      "question": "Sequência de um dia escolar: 1. Ir para casa 2. Ter aula 3. Ir para escola",
+      "options": [
+        "3, 2, 1",
+        "1, 2, 3",
+        "2, 3, 1",
+        "3, 1, 2"
+      ],
+      "correct_answer": 0,
+      "explanation": "Ordem lógica: 3. Ir para escola → 2. Ter aula → 1. Ir para casa.",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 32,
+      "section": "Ordenação Temporal - Prática Intensiva",
+      "question": "Para plantar uma árvore: 1. Regar 2. Fazer o buraco 3. Colocar a muda",
+      "options": [
+        "1, 2, 3",
+        "2, 3, 1",
+        "3, 2, 1",
+        "2, 1, 3"
+      ],
+      "correct_answer": 1,
+      "explanation": "Sequência: 2. Fazer o buraco → 3. Colocar a muda → 1. Regar.",
+      "difficulty": "médio"
+    },
+    {
+      "id": 33,
+      "section": "Ordenação Temporal - Prática Intensiva",
+      "question": "Em que ordem você faz um sanduíche? 1. Comer 2. Cortar 3. Montar",
+      "options": [
+        "3, 2, 1",
+        "2, 3, 1",
+        "1, 2, 3",
+        "3, 1, 2"
+      ],
+      "correct_answer": 1,
+      "explanation": "Ordem: 2. Cortar ingredientes → 3. Montar → 1. Comer.",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 34,
+      "section": "Ordenação Temporal - Prática Intensiva",
+      "question": "Antes de dormir, primeiro você:",
+      "options": [
+        "escova os dentes",
+        "já está dormindo",
+        "acorda",
+        "toma café"
+      ],
+      "correct_answer": 0,
+      "explanation": "Sequência lógica: Escovar os dentes vem ANTES de dormir.",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 35,
+      "section": "Lógica Verbal - Desafios Focados",
+      "question": "IMPORTANTE - Lógica condicional: 'Eu só vou à praia quando faz sol' e 'hoje não fui à praia'. Posso concluir que:",
+      "options": [
+        "Não fez sol",
+        "Pode ter outros motivos para não ir",
+        "Fez sol com certeza",
+        "Estava chovendo"
+      ],
+      "correct_answer": 1,
+      "explanation": "ATENÇÃO: Mesmo fazendo sol, posso não ir por outros motivos (doença, trabalho). Sol é condição necessária, mas não suficiente.",
+      "difficulty": "difícil"
+    },
+    {
+      "id": 36,
+      "section": "Lógica Verbal - Desafios Focados",
+      "question": "Jogo de palavras: O que acontece uma vez em 'minuto', duas vezes em 'momento', mas nunca em 'cem anos'?",
+      "options": [
+        "O som do relógio",
+        "A letra 'M'",
+        "Um piscar de olhos",
+        "O nascer do sol"
+      ],
+      "correct_answer": 1,
+      "explanation": "DICA: Conte as letras! 'M' aparece 1x em 'Minuto', 2x em 'MoMento', 0x em 'ceM aNos'.",
+      "difficulty": "médio"
+    },
+    {
+      "id": 37,
+      "section": "Lógica Verbal - Desafios Focados",
+      "question": "PEGADINHA CLÁSSICA: Se um avião cai na fronteira Brasil-Argentina, onde enterrar os sobreviventes?",
+      "options": [
+        "No Brasil",
+        "Na Argentina",
+        "No país de origem",
+        "Em lugar nenhum"
+      ],
+      "correct_answer": 3,
+      "explanation": "ATENÇÃO à palavra-chave: Não se enterram SOBREVIVENTES! Quem sobrevive está VIVO!",
+      "difficulty": "médio"
+    },
+    {
+      "id": 38,
+      "section": "Lógica Verbal - Desafios Focados",
+      "question": "Analise: 'Eu sempre minto'. Esta frase cria um paradoxo porque:",
+      "options": [
+        "É uma frase muito simples",
+        "Se for verdade, ela é mentira; se for mentira, ela é verdade",
+        "Fala sobre mentiras",
+        "É fácil de entender"
+      ],
+      "correct_answer": 1,
+      "explanation": "Paradoxo do mentiroso: A frase se contradiz logicamente - cria um ciclo impossível.",
+      "difficulty": "difícil"
+    },
+    {
+      "id": 39,
+      "section": "Lógica Verbal - Desafios Focados",
+      "question": "Se todo quadrado tem quatro lados, e esta figura tem quatro lados, ela é necessariamente um quadrado?",
+      "options": [
+        "Sim, sempre",
+        "Não, pode ser um retângulo ou losango",
+        "Depende da cor",
+        "Só se for grande"
+      ],
+      "correct_answer": 1,
+      "explanation": "Ter quatro lados é necessário, mas não suficiente. Retângulos e losangos também têm quatro lados.",
+      "difficulty": "médio"
+    },
+    {
+      "id": 40,
+      "section": "Lógica Verbal - Desafios Focados",
+      "question": "A frase 'Toda fruta cresce em árvore' é verdadeira?",
+      "options": [
+        "Sim, sempre",
+        "Não, porque morangos crescem em arbustos",
+        "Só se for vermelha",
+        "Depende do tamanho"
+      ],
+      "correct_answer": 1,
+      "explanation": "Contra-exemplo: Morangos crescem em plantas rasteiras, não em árvores. A premissa é falsa.",
+      "difficulty": "médio"
+    },
+    {
+      "id": 41,
+      "section": "Lógica Verbal - Desafios Focados",
+      "question": "Se 'correr causa cansaço' e 'não corri', posso garantir que 'não me cansei'?",
+      "options": [
+        "Sim, com certeza",
+        "Não, posso ter me cansado por outros motivos",
+        "Só se dormiu bem",
+        "Depende da idade"
+      ],
+      "correct_answer": 1,
+      "explanation": "Existem outras causas de cansaço: estudar, trabalhar, jogar. Correr é uma causa possível, não a única.",
+      "difficulty": "difícil"
+    },
+    {
+      "id": 42,
+      "section": "Lógica Verbal - Desafios Focados",
+      "question": "Um pai tem 40 anos, filho tem 10. Em quantos anos o pai terá o dobro da idade do filho?",
+      "options": [
+        "10 anos",
+        "15 anos",
+        "20 anos",
+        "30 anos"
+      ],
+      "correct_answer": 2,
+      "explanation": "Em 20 anos: pai = 60 anos, filho = 30 anos. 60 é o dobro de 30. Equação: 40+x = 2(10+x).",
+      "difficulty": "difícil"
+    },
+    {
+      "id": 43,
+      "section": "Tempos Verbais - Foco Total",
+      "question": "Pratique sequências: nadei (passado), nado (presente), ___ (futuro).",
+      "options": [
+        "nadaria",
+        "nadarei",
+        "nadava",
+        "nadei"
+      ],
+      "correct_answer": 1,
+      "explanation": "Sequência: nadei (pretérito perfeito), nado (presente), nadarei (futuro do indicativo).",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 44,
+      "section": "Verbos de Ligação - Esclarecimento Completo",
+      "question": "Em 'A água vira gelo', o verbo 'virar' indica:",
+      "options": [
+        "Movimento da água",
+        "Transformação/mudança de estado",
+        "Ação da água",
+        "Localização"
+      ],
+      "correct_answer": 1,
+      "explanation": "'Virar' aqui = transformar-se. A água muda de estado (líquido → sólido). É verbo de ligação.",
+      "difficulty": "médio"
+    },
+    {
+      "id": 45,
+      "section": "Correlação e Concordância - Treino Especial",
+      "question": "Pratique correlação: 'Já que estava tarde, eu ___ para casa.'",
+      "options": [
+        "vou",
+        "irei",
+        "fui",
+        "iria"
+      ],
+      "correct_answer": 2,
+      "explanation": "Causa no passado (estava tarde) → Consequência no passado (fui para casa).",
+      "difficulty": "médio"
+    },
+    {
+      "id": 46,
+      "section": "Causa e Consequência - Reforço Dirigido",
+      "question": "Se você treina muito um esporte, a consequência lógica é:",
+      "options": [
+        "piorar seu desempenho",
+        "melhorar suas habilidades",
+        "desistir do esporte",
+        "não aprender nada"
+      ],
+      "correct_answer": 1,
+      "explanation": "Treino (causa) → Melhoria das habilidades (consequência). Princípio do aprendizado pela prática.",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 47,
+      "section": "Ordenação Temporal - Prática Intensiva",
+      "question": "Ordem cronológica: 1. Escovei os dentes 2. Escovo os dentes 3. Escovarei os dentes",
+      "options": [
+        "1, 2, 3",
+        "3, 2, 1",
+        "2, 3, 1",
+        "1, 3, 2"
+      ],
+      "correct_answer": 0,
+      "explanation": "Ordem temporal natural: 1. Escovei (passado) → 2. Escovo (presente) → 3. Escovarei (futuro).",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 48,
+      "section": "Lógica Verbal - Desafios Focados",
+      "question": "Que dia é hoje se: 'Se ontem fosse amanhã, hoje seria sexta-feira'?",
+      "options": [
+        "Quarta-feira",
+        "Quinta-feira",
+        "Sexta-feira",
+        "Domingo"
+      ],
+      "correct_answer": 0,
+      "explanation": "Lógica complexa: Se ontem (terça) fosse amanhã de algum dia, hoje seria quarta-feira.",
+      "difficulty": "difícil"
+    },
+    {
+      "id": 49,
+      "section": "Lógica Verbal - Desafios Focados",
+      "question": "Um homem olha um retrato e diz: 'O pai deste homem é filho do meu pai, mas não tenho irmãos'. De quem é o retrato?",
+      "options": [
+        "Dele mesmo",
+        "Do pai dele",
+        "Do filho dele",
+        "Do avô dele"
+      ],
+      "correct_answer": 2,
+      "explanation": "Se não tem irmãos, 'filho do meu pai' = ele mesmo. Logo: 'O pai deste homem sou eu' = retrato do filho dele.",
+      "difficulty": "difícil"
+    },
+    {
+      "id": 50,
+      "section": "Lógica Verbal - Desafios Focados",
+      "question": "Para resolver problemas de lógica verbal, é importante:",
+      "options": [
+        "Responder rapidamente",
+        "Ler com atenção e analisar cada palavra-chave",
+        "Escolher sempre a primeira opção",
+        "Não pensar muito"
+      ],
+      "correct_answer": 1,
+      "explanation": "ESTRATÉGIA: Leia com calma, identifique palavras-chave, analise cada opção. Pressa é inimiga da precisão lógica.",
+      "difficulty": "fácil"
+    }
+  ],
+  "evaluation": {
+    "include_evaluation": false
+  },
+  "settings": {
+    "public": true,
+    "allow_multiple_responses": false,
+    "show_progress_bar": true,
+    "collect_email": true,
+    "require_login": true
+  }
+}

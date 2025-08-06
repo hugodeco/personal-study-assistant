@@ -1,0 +1,903 @@
+{
+  "metadata": {
+    "title": "🚗📱 Quiz: Evolução dos Meios de Comunicação e Transporte",
+    "description": [
+      "Descubra como os meios de comunicação e transporte mudaram ao longo do tempo!",
+      "Explore a fascinante evolução desde carroças e cartas até carros e internet.",
+      "Veja como essas mudanças transformaram o nosso dia a dia!"
+    ],
+    "subject": "História e Geografia",
+    "grade": "5ª série",
+    "topic": "Evolução dos Meios de Comunicação e Transporte",
+    "author": "IA",
+    "version": "1.0",
+    "created_date": "2025-08-06"
+  },
+  "content": {
+    "introduction": "Bem-vindo(a) ao quiz sobre a evolução dos meios de comunicação e transporte! Vamos descobrir juntos como as pessoas se comunicavam e se locomoviam no passado e como isso mudou até os dias de hoje. Prepare-se para uma viagem no tempo!",
+    "instructions": [
+      "Leia cada pergunta com atenção.",
+      "Pense em como era a vida no passado comparada com hoje.",
+      "Considere as vantagens e desvantagens de cada meio de transporte e comunicação.",
+      "Lembre-se: cada invenção trouxe mudanças importantes para a sociedade!"
+    ],
+    "sections": [
+      {
+        "name": "Meios de Transporte Antigos",
+        "description": "Descubra como as pessoas se locomoviam no passado."
+      },
+      {
+        "name": "Evolução dos Transportes",
+        "description": "Acompanhe a transformação dos meios de transporte ao longo do tempo."
+      },
+      {
+        "name": "Meios de Comunicação do Passado",
+        "description": "Explore como as pessoas se comunicavam antigamente."
+      },
+      {
+        "name": "Revolução da Comunicação",
+        "description": "Entenda como a comunicação evoluiu até os dias atuais."
+      },
+      {
+        "name": "Comparações: Ontem e Hoje",
+        "description": "Compare como era antes e como é agora."
+      },
+      {
+        "name": "Impactos na Sociedade",
+        "description": "Analise como essas mudanças afetaram nossa vida."
+      }
+    ]
+  },
+  "questions": [
+    {
+      "id": 1,
+      "section": "Meios de Transporte Antigos",
+      "question": "Qual era o principal meio de transporte terrestre antes da invenção do automóvel?",
+      "options": [
+        "Bicicleta",
+        "Carroça puxada por cavalos",
+        "Trem",
+        "Motocicleta"
+      ],
+      "correct_answer": 1,
+      "explanation": "Antes dos carros, as carroças puxadas por cavalos, bois ou mulas eram o principal meio de transporte terrestre para pessoas e cargas.",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 2,
+      "section": "Meios de Transporte Antigos",
+      "question": "Como as pessoas atravessavam rios e mares antes dos navios a vapor?",
+      "options": [
+        "Nadando",
+        "Usando barcos a vela e remo",
+        "Usando pontes apenas",
+        "Não atravessavam"
+      ],
+      "correct_answer": 1,
+      "explanation": "Antes dos navios a vapor, as pessoas usavam barcos movidos pelo vento (vela) ou pela força humana (remo) para atravessar águas.",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 3,
+      "section": "Meios de Transporte Antigos",
+      "question": "Qual animal era muito usado para transporte em regiões desérticas?",
+      "options": [
+        "Cavalo",
+        "Camelo",
+        "Elefante",
+        "Burro"
+      ],
+      "correct_answer": 1,
+      "explanation": "O camelo era ideal para o deserto porque consegue ficar muito tempo sem água e se adapta bem ao calor e à areia.",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 4,
+      "section": "Meios de Transporte Antigos",
+      "question": "O que as pessoas faziam quando precisavam viajar longas distâncias a pé?",
+      "options": [
+        "Desistiam da viagem",
+        "Levavam provisões e acampavam no caminho",
+        "Corriam o tempo todo",
+        "Viajavam apenas de dia"
+      ],
+      "correct_answer": 1,
+      "explanation": "Viagens longas a pé exigiam planejamento: as pessoas levavam comida, água e equipamentos para acampar durante a jornada.",
+      "difficulty": "médio"
+    },
+    {
+      "id": 5,
+      "section": "Meios de Transporte Antigos",
+      "question": "Por que as estradas antigas eram diferentes das de hoje?",
+      "options": [
+        "Eram feitas de asfalto",
+        "Eram de terra batida ou pedra",
+        "Eram sempre retas",
+        "Não existiam estradas"
+      ],
+      "correct_answer": 1,
+      "explanation": "As estradas antigas eram de terra batida, pedra ou cascalho, pois não existia asfalto. Isso tornava as viagens mais lentas e difíceis.",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 6,
+      "section": "Meios de Transporte Antigos",
+      "question": "Quanto tempo levava para ir de uma cidade a outra de carroça?",
+      "options": [
+        "Alguns minutos",
+        "Algumas horas",
+        "Vários dias ou semanas",
+        "Um ano inteiro"
+      ],
+      "correct_answer": 2,
+      "explanation": "Viagens de carroça eram muito lentas. O que hoje fazemos em horas, antigamente levava dias ou até semanas para completar.",
+      "difficulty": "médio"
+    },
+    {
+      "id": 7,
+      "section": "Meios de Transporte Antigos",
+      "question": "Qual era uma grande dificuldade dos transportes antigos?",
+      "options": [
+        "Eram muito rápidos",
+        "Dependiam do clima e das condições da estrada",
+        "Eram muito silenciosos",
+        "Não precisavam de combustível"
+      ],
+      "correct_answer": 1,
+      "explanation": "Chuva, lama, estradas ruins e o cansaço dos animais faziam com que as viagens fossem imprevisíveis e difíceis.",
+      "difficulty": "médio"
+    },
+    {
+      "id": 8,
+      "section": "Meios de Transporte Antigos",
+      "question": "Como as pessoas carregavam objetos pesados antes dos caminhões?",
+      "options": [
+        "Apenas nas costas",
+        "Com carroças, carroções e animais de carga",
+        "Não carregavam objetos pesados",
+        "Usando guindastes"
+      ],
+      "correct_answer": 1,
+      "explanation": "Carroças grandes (carroções) puxadas por vários animais ou animais de carga como mulas e bois eram usados para transportar objetos pesados.",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 9,
+      "section": "Meios de Transporte Antigos",
+      "question": "Por que os cavalos eram tão importantes no transporte antigo?",
+      "options": [
+        "Eram baratos de manter",
+        "Eram rápidos, fortes e conseguiam carregar pessoas e cargas",
+        "Não precisavam de comida",
+        "Funcionavam com combustível"
+      ],
+      "correct_answer": 1,
+      "explanation": "Os cavalos combinavam velocidade, força e resistência, sendo ideais para puxar carroças e carregar pessoas por longas distâncias.",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 10,
+      "section": "Meios de Transporte Antigos",
+      "question": "O que acontecia quando um animal de transporte ficava doente ou cansado?",
+      "options": [
+        "A viagem continuava normalmente",
+        "A viagem tinha que parar até o animal se recuperar",
+        "Trocavam por um carro",
+        "Usavam outro combustível"
+      ],
+      "correct_answer": 1,
+      "explanation": "Como dependiam dos animais, qualquer problema com eles interrompia a viagem. Era preciso cuidar do animal ou encontrar substituto.",
+      "difficulty": "médio"
+    },
+    {
+      "id": 11,
+      "section": "Evolução dos Transportes",
+      "question": "Qual foi uma das primeiras grandes invenções que mudou o transporte?",
+      "options": [
+        "O avião",
+        "A máquina a vapor",
+        "O computador",
+        "O telefone"
+      ],
+      "correct_answer": 1,
+      "explanation": "A máquina a vapor revolucionou o transporte, criando os primeiros trens e navios a vapor, muito mais rápidos que os meios anteriores.",
+      "difficulty": "médio"
+    },
+    {
+      "id": 12,
+      "section": "Evolução dos Transportes",
+      "question": "O que o trem representou para o transporte de pessoas e cargas?",
+      "options": [
+        "Ficou mais lento",
+        "Não mudou nada",
+        "Ficou muito mais rápido e eficiente",
+        "Ficou mais caro apenas"
+      ],
+      "correct_answer": 2,
+      "explanation": "Os trens podiam carregar muitas pessoas e cargas ao mesmo tempo, viajando muito mais rápido que carroças.",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 13,
+      "section": "Evolução dos Transportes",
+      "question": "Quando os primeiros automóveis surgiram, qual era sua principal desvantagem?",
+      "options": [
+        "Eram muito rápidos",
+        "Eram muito caros e poucos podiam comprar",
+        "Eram silenciosos demais",
+        "Não precisavam de estradas"
+      ],
+      "correct_answer": 1,
+      "explanation": "No início, os carros eram artigos de luxo, muito caros, que apenas pessoas ricas podiam comprar.",
+      "difficulty": "médio"
+    },
+    {
+      "id": 14,
+      "section": "Evolução dos Transportes",
+      "question": "O que Henry Ford fez para tornar os carros mais acessíveis?",
+      "options": [
+        "Parou de fabricá-los",
+        "Criou a linha de montagem para produção em massa",
+        "Fez carros menores",
+        "Usou materiais mais caros"
+      ],
+      "correct_answer": 1,
+      "explanation": "Ford criou a linha de montagem, que permitia produzir muitos carros rapidamente e com menor custo, tornando-os mais baratos.",
+      "difficulty": "médio"
+    },
+    {
+      "id": 15,
+      "section": "Evolução dos Transportes",
+      "question": "Qual foi o impacto da invenção do avião?",
+      "options": [
+        "Nenhum impacto",
+        "Permitiu viajar pelo mundo muito mais rapidamente",
+        "Apenas militares puderam usar",
+        "Substituiu completamente todos os outros transportes"
+      ],
+      "correct_answer": 1,
+      "explanation": "O avião revolucionou viagens longas, permitindo atravessar oceanos e continentes em horas, não mais em semanas ou meses.",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 16,
+      "section": "Evolução dos Transportes",
+      "question": "Como os transportes públicos mudaram as cidades?",
+      "options": [
+        "Tornaram as cidades menores",
+        "Permitiram que as cidades crescessem mais",
+        "Não mudaram nada",
+        "Fizeram as pessoas sair das cidades"
+      ],
+      "correct_answer": 1,
+      "explanation": "Ônibus, trens urbanos e metrôs permitiram que pessoas morassem mais longe do trabalho, fazendo as cidades crescerem.",
+      "difficulty": "médio"
+    },
+    {
+      "id": 17,
+      "section": "Evolução dos Transportes",
+      "question": "Qual é uma vantagem dos transportes modernos sobre os antigos?",
+      "options": [
+        "São mais lentos",
+        "São mais confiáveis e rápidos",
+        "Dependem mais do clima",
+        "Carregam menos carga"
+      ],
+      "correct_answer": 1,
+      "explanation": "Transportes modernos são mais rápidos, confiáveis e menos dependentes de fatores como clima e cansaço de animais.",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 18,
+      "section": "Evolução dos Transportes",
+      "question": "O que permitiu que caminhões grandes transportassem cargas pesadas?",
+      "options": [
+        "Cavalos mais fortes",
+        "Motores potentes e pneus resistentes",
+        "Estradas de terra",
+        "Menos peso nas cargas"
+      ],
+      "correct_answer": 1,
+      "explanation": "Motores a combustão fortes e pneus de borracha resistentes permitiram que caminhões carregassem muito mais peso que carroças.",
+      "difficulty": "médio"
+    },
+    {
+      "id": 19,
+      "section": "Evolução dos Transportes",
+      "question": "Por que navios modernos são melhores que os antigos?",
+      "options": [
+        "São feitos de madeira",
+        "Usam motores e não dependem só do vento",
+        "São menores",
+        "Navegam mais devagar"
+      ],
+      "correct_answer": 1,
+      "explanation": "Navios com motores podem navegar mesmo sem vento, são mais rápidos e conseguem carregar cargas muito maiores.",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 20,
+      "section": "Evolução dos Transportes",
+      "question": "Qual transporte revolucionou o movimento dentro das cidades grandes?",
+      "options": [
+        "Carroça",
+        "Metrô e ônibus",
+        "Cavalo",
+        "Bicicleta apenas"
+      ],
+      "correct_answer": 1,
+      "explanation": "O metrô e os ônibus permitiram que milhões de pessoas se movessem rapidamente dentro de grandes cidades todos os dias.",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 21,
+      "section": "Meios de Comunicação do Passado",
+      "question": "Como as pessoas enviavam mensagens para lugares distantes antes do telefone?",
+      "options": [
+        "Por e-mail",
+        "Por cartas levadas por mensageiros",
+        "Por rádio",
+        "Por telefone celular"
+      ],
+      "correct_answer": 1,
+      "explanation": "Cartas eram escritas e entregues por mensageiros a pé, a cavalo ou por navios, processo que podia levar semanas ou meses.",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 22,
+      "section": "Meios de Comunicação do Passado",
+      "question": "Quanto tempo levava para uma carta chegar ao seu destino no passado?",
+      "options": [
+        "Alguns segundos",
+        "Alguns minutos",
+        "Dias, semanas ou até meses",
+        "Nunca chegava"
+      ],
+      "correct_answer": 2,
+      "explanation": "O tempo dependia da distância e do meio de transporte do mensageiro. Cartas entre países podiam levar meses para chegar.",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 23,
+      "section": "Meios de Comunicação do Passado",
+      "question": "O que eram os pombos-correio?",
+      "options": [
+        "Pombos que cantavam mensagens",
+        "Pombos treinados para levar mensagens pequenas",
+        "Pombos que falavam",
+        "Pombos que voavam muito devagar"
+      ],
+      "correct_answer": 1,
+      "explanation": "Pombos-correio eram treinados para voar para um local específico levando pequenas mensagens amarradas nas patas.",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 24,
+      "section": "Meios de Comunicação do Passado",
+      "question": "Como as pessoas se comunicavam em emergências antes dos telefones?",
+      "options": [
+        "Por sinais de fumaça, sinos ou tambores",
+        "Por internet",
+        "Por televisão",
+        "Por mensagem de texto"
+      ],
+      "correct_answer": 0,
+      "explanation": "Sinais de fumaça, toque de sinos, batidas de tambores ou gritos eram usados para comunicação urgente a curta distância.",
+      "difficulty": "médio"
+    },
+    {
+      "id": 25,
+      "section": "Meios de Comunicação do Passado",
+      "question": "O que era o telégrafo?",
+      "options": [
+        "Um tipo de telefone",
+        "Um aparelho que enviava mensagens por fios usando códigos",
+        "Uma máquina de escrever",
+        "Um tipo de rádio"
+      ],
+      "correct_answer": 1,
+      "explanation": "O telégrafo enviava mensagens em código (código Morse) através de fios elétricos, sendo muito mais rápido que cartas.",
+      "difficulty": "médio"
+    },
+    {
+      "id": 26,
+      "section": "Meios de Comunicação do Passado",
+      "question": "Por que era difícil se comunicar com pessoas em lugares distantes no passado?",
+      "options": [
+        "As pessoas não sabiam escrever",
+        "Era lento, caro e não havia garantia de que a mensagem chegaria",
+        "Não existiam idiomas",
+        "As pessoas não queriam se comunicar"
+      ],
+      "correct_answer": 1,
+      "explanation": "Mensageiros podiam se perder, ser assaltados ou adoecer. Além disso, o processo era lento e caro para a maioria das pessoas.",
+      "difficulty": "médio"
+    },
+    {
+      "id": 27,
+      "section": "Meios de Comunicação do Passado",
+      "question": "Como as notícias se espalhavam nas cidades antigas?",
+      "options": [
+        "Por jornais em todas as casas",
+        "Por pessoas que gritavam as notícias nas praças",
+        "Por televisão",
+        "Por rádio"
+      ],
+      "correct_answer": 1,
+      "explanation": "Arautos ou pregoeiros caminhavam pelas cidades gritando as notícias importantes para que todos pudessem ouvir.",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 28,
+      "section": "Meios de Comunicação do Passado",
+      "question": "Qual era o principal problema das cartas no passado?",
+      "options": [
+        "Eram muito grandes",
+        "Podiam se perder, ser molhadas ou destruídas no caminho",
+        "Eram escritas muito pequeno",
+        "Chegavam muito rápido"
+      ],
+      "correct_answer": 1,
+      "explanation": "Cartas podiam se perder durante a viagem, ser danificadas pela chuva, ou o mensageiro podia ser assaltado.",
+      "difficulty": "médio"
+    },
+    {
+      "id": 29,
+      "section": "Meios de Comunicação do Passado",
+      "question": "Por que apenas algumas pessoas sabiam ler e escrever no passado?",
+      "options": [
+        "Não queriam aprender",
+        "A educação era privilégio de poucos, principalmente ricos",
+        "Era muito fácil",
+        "Não existiam livros"
+      ],
+      "correct_answer": 1,
+      "explanation": "A educação era cara e difícil de acessar. Apenas nobres, religiosos e comerciantes ricos geralmente sabiam ler e escrever.",
+      "difficulty": "médio"
+    },
+    {
+      "id": 30,
+      "section": "Meios de Comunicação do Passado",
+      "question": "Como as pessoas guardavam informações importantes antes dos computadores?",
+      "options": [
+        "Na memória e em documentos escritos",
+        "Em pen drives",
+        "Em CDs",
+        "Em e-mails"
+      ],
+      "correct_answer": 0,
+      "explanation": "As pessoas dependiam da memória e de documentos escritos à mão ou impressos para guardar informações importantes.",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 31,
+      "section": "Revolução da Comunicação",
+      "question": "Qual invenção revolucionou a comunicação permitindo conversas à distância?",
+      "options": [
+        "O rádio",
+        "O telefone",
+        "A televisão",
+        "O computador"
+      ],
+      "correct_answer": 1,
+      "explanation": "O telefone permitiu que pessoas conversassem em tempo real mesmo estando em lugares diferentes, revolucionando a comunicação.",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 32,
+      "section": "Revolução da Comunicação",
+      "question": "O que o rádio trouxe de novo para a comunicação?",
+      "options": [
+        "Permitiu enviar mensagens sem fios para muitas pessoas ao mesmo tempo",
+        "Substituiu completamente as cartas",
+        "Tornou a comunicação mais lenta",
+        "Funcionava apenas durante o dia"
+      ],
+      "correct_answer": 0,
+      "explanation": "O rádio foi o primeiro meio a transmitir voz, música e notícias sem fios para milhares de pessoas simultaneamente.",
+      "difficulty": "médio"
+    },
+    {
+      "id": 33,
+      "section": "Revolução da Comunicação",
+      "question": "Como a televisão mudou a forma de receber informações?",
+      "options": [
+        "Tornou tudo mais complicado",
+        "Permitiu ver e ouvir notícias e entretenimento em casa",
+        "Substituiu completamente os livros",
+        "Funcionava apenas com cartas"
+      ],
+      "correct_answer": 1,
+      "explanation": "A TV trouxe imagens em movimento para dentro das casas, permitindo que as pessoas vissem eventos acontecendo em outros lugares.",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 34,
+      "section": "Revolução da Comunicação",
+      "question": "O que a internet representou para a comunicação mundial?",
+      "options": [
+        "Um retrocesso",
+        "Uma revolução que conectou o mundo inteiro",
+        "Apenas uma diversão",
+        "Um substituto para os livros apenas"
+      ],
+      "correct_answer": 1,
+      "explanation": "A internet conectou pessoas do mundo inteiro, permitindo comunicação instantânea e acesso a informações de qualquer lugar.",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 35,
+      "section": "Revolução da Comunicação",
+      "question": "Qual é a principal vantagem do telefone celular sobre o telefone fixo?",
+      "options": [
+        "É mais caro",
+        "Permite comunicação em qualquer lugar",
+        "É mais pesado",
+        "Funciona apenas em casa"
+      ],
+      "correct_answer": 1,
+      "explanation": "O celular liberta a comunicação do fio e da localização fixa, permitindo que as pessoas se comuniquem de qualquer lugar.",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 36,
+      "section": "Revolução da Comunicação",
+      "question": "Como o e-mail mudou o envio de mensagens?",
+      "options": [
+        "Tornou mais lento",
+        "Permitiu envio instantâneo e barato",
+        "Funciona apenas uma vez por dia",
+        "É mais caro que cartas"
+      ],
+      "correct_answer": 1,
+      "explanation": "O e-mail permite enviar mensagens instantaneamente para qualquer lugar do mundo, com custo muito baixo.",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 37,
+      "section": "Revolução da Comunicação",
+      "question": "O que as redes sociais trouxeram de novo?",
+      "options": [
+        "Dificultaram a comunicação",
+        "Permitiram compartilhar ideias com muitas pessoas rapidamente",
+        "Substituíram completamente a escola",
+        "Funcionam apenas para adultos"
+      ],
+      "correct_answer": 1,
+      "explanation": "Redes sociais permitem que uma pessoa compartilhe pensamentos, fotos e vídeos com centenas ou milhares de pessoas instantaneamente.",
+      "difficulty": "médio"
+    },
+    {
+      "id": 38,
+      "section": "Revolução da Comunicação",
+      "question": "Como as videochamadas mudaram a comunicação à distância?",
+      "options": [
+        "Tornaram a comunicação apenas de voz",
+        "Permitiram ver a pessoa com quem falamos",
+        "Funcionam apenas para trabalho",
+        "São mais lentas que cartas"
+      ],
+      "correct_answer": 1,
+      "explanation": "Videochamadas unem voz e imagem, permitindo que famílias e amigos se vejam mesmo estando em lugares diferentes.",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 39,
+      "section": "Revolução da Comunicação",
+      "question": "Qual é o impacto dos aplicativos de mensagem instantânea?",
+      "options": [
+        "Tornaram a comunicação mais lenta",
+        "Permitiram conversas em tempo real com textos, áudios e imagens",
+        "Funcionam apenas uma vez por semana",
+        "São mais caros que telefone"
+      ],
+      "correct_answer": 1,
+      "explanation": "Apps como WhatsApp permitem trocar mensagens, fotos, vídeos e áudios instantaneamente, mudando como nos comunicamos.",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 40,
+      "section": "Revolução da Comunicação",
+      "question": "Como a comunicação moderna afetou a velocidade das informações?",
+      "options": [
+        "Tornou tudo mais lento",
+        "Permitiu que notícias se espalhem pelo mundo em segundos",
+        "Não mudou nada",
+        "Funciona apenas em alguns países"
+      ],
+      "correct_answer": 1,
+      "explanation": "Hoje, uma notícia pode se espalhar pelo mundo inteiro em questão de segundos através da internet e redes sociais.",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 41,
+      "section": "Comparações: Ontem e Hoje",
+      "question": "Quanto tempo levava uma viagem de São Paulo ao Rio de Janeiro de carroça?",
+      "options": [
+        "2 horas",
+        "1 dia",
+        "Várias semanas",
+        "Alguns minutos"
+      ],
+      "correct_answer": 2,
+      "explanation": "De carroça, essa viagem podia levar várias semanas. Hoje, de carro leva cerca de 6 horas e de avião, 1 hora.",
+      "difficulty": "médio"
+    },
+    {
+      "id": 42,
+      "section": "Comparações: Ontem e Hoje",
+      "question": "Antigamente, quanto tempo uma carta levava do Brasil para a Europa?",
+      "options": [
+        "1 dia",
+        "1 semana",
+        "2 a 3 meses",
+        "1 ano"
+      ],
+      "correct_answer": 2,
+      "explanation": "Cartas entre Brasil e Europa levavam 2 a 3 meses de navio. Hoje, um e-mail chega em segundos.",
+      "difficulty": "médio"
+    },
+    {
+      "id": 43,
+      "section": "Comparações: Ontem e Hoje",
+      "question": "Como era saber notícias do mundo no passado comparado com hoje?",
+      "options": [
+        "Era mais rápido no passado",
+        "Hoje é muito mais rápido e fácil",
+        "Não havia diferença",
+        "No passado as notícias eram melhores"
+      ],
+      "correct_answer": 1,
+      "explanation": "Hoje sabemos notícias do mundo inteiro em tempo real. No passado, poderia levar meses para saber o que aconteceu em outros países.",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 44,
+      "section": "Comparações: Ontem e Hoje",
+      "question": "Qual a diferença entre viajar antigamente e hoje?",
+      "options": [
+        "Antigamente era mais rápido",
+        "Hoje é mais rápido, confortável e seguro",
+        "Não há diferença",
+        "Antigamente era mais barato"
+      ],
+      "correct_answer": 1,
+      "explanation": "Viagens modernas são muito mais rápidas, confortáveis e seguras, com ar-condicionado, assentos macios e proteção.",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 45,
+      "section": "Comparações: Ontem e Hoje",
+      "question": "Como mudou a forma de fazer compras com os meios de transporte modernos?",
+      "options": [
+        "Ficou mais difícil",
+        "Podemos comprar em lugares mais distantes e receber em casa",
+        "Não mudou nada",
+        "Só podemos comprar perto de casa"
+      ],
+      "correct_answer": 1,
+      "explanation": "Com caminhões, aviões e entrega, podemos comprar produtos de qualquer lugar do mundo e receber em casa.",
+      "difficulty": "médio"
+    },
+    {
+      "id": 46,
+      "section": "Comparações: Ontem e Hoje",
+      "question": "Qual a diferença entre estudar no passado e hoje em termos de comunicação?",
+      "options": [
+        "No passado era melhor",
+        "Hoje podemos pesquisar e aprender com pessoas do mundo todo",
+        "Não há diferença",
+        "Hoje é mais difícil"
+      ],
+      "correct_answer": 1,
+      "explanation": "Hoje, com internet, podemos acessar bibliotecas do mundo todo e aprender com professores de qualquer país.",
+      "difficulty": "médio"
+    },
+    {
+      "id": 47,
+      "section": "Comparações: Ontem e Hoje",
+      "question": "Como era manter contato com família distante no passado versus hoje?",
+      "options": [
+        "Era mais fácil no passado",
+        "Hoje é muito mais fácil e frequente",
+        "Não havia família no passado",
+        "É igual em ambos os períodos"
+      ],
+      "correct_answer": 1,
+      "explanation": "Hoje podemos falar diariamente com familiares distantes por videochamada. No passado, poderia levar meses para receber uma carta.",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 48,
+      "section": "Comparações: Ontem e Hoje",
+      "question": "Qual mudança mais impactou o trabalho das pessoas?",
+      "options": [
+        "Poder trabalhar e se comunicar de lugares distantes",
+        "Trabalhar ficou mais difícil",
+        "As pessoas pararam de trabalhar",
+        "Não houve mudanças"
+      ],
+      "correct_answer": 0,
+      "explanation": "Hoje, muitas pessoas podem trabalhar de casa ou de qualquer lugar, se comunicando com colegas do mundo todo.",
+      "difficulty": "médio"
+    },
+    {
+      "id": 49,
+      "section": "Comparações: Ontem e Hoje",
+      "question": "Como mudou a forma de se divertir com os avanços da comunicação?",
+      "options": [
+        "Ficou mais limitada",
+        "Podemos assistir, jogar e nos comunicar com pessoas do mundo todo",
+        "Não mudou nada",
+        "Era melhor no passado"
+      ],
+      "correct_answer": 1,
+      "explanation": "Hoje podemos assistir filmes de qualquer país, jogar com pessoas de outros continentes e compartilhar diversões online.",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 50,
+      "section": "Comparações: Ontem e Hoje",
+      "question": "Qual a principal diferença na velocidade entre transportes antigos e modernos?",
+      "options": [
+        "Antigos eram mais rápidos",
+        "Modernos são dezenas de vezes mais rápidos",
+        "Não há diferença",
+        "Depende do destino"
+      ],
+      "correct_answer": 1,
+      "explanation": "Um avião pode ser 100 vezes mais rápido que uma carroça, e um carro moderno é pelo menos 10 vezes mais rápido.",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 51,
+      "section": "Impactos na Sociedade",
+      "question": "Como os meios de transporte modernos mudaram onde as pessoas podem morar?",
+      "options": [
+        "As pessoas só podem morar no centro da cidade",
+        "Podem morar mais longe do trabalho e escola",
+        "Não mudou onde as pessoas moram",
+        "As pessoas não podem mais se mudar"
+      ],
+      "correct_answer": 1,
+      "explanation": "Com transporte rápido, as pessoas podem morar em bairros distantes ou até outras cidades e ir trabalhar ou estudar longe.",
+      "difficulty": "médio"
+    },
+    {
+      "id": 52,
+      "section": "Impactos na Sociedade",
+      "question": "Como a comunicação rápida mudou os negócios?",
+      "options": [
+        "Tornou os negócios mais lentos",
+        "Permitiu que empresas trabalhem com o mundo todo",
+        "Acabou com todos os negócios",
+        "Não afetou os negócios"
+      ],
+      "correct_answer": 1,
+      "explanation": "Empresas podem agora vender para qualquer país, ter funcionários distantes e receber pedidos 24 horas por dia.",
+      "difficulty": "médio"
+    },
+    {
+      "id": 53,
+      "section": "Impactos na Sociedade",
+      "question": "Qual impacto dos transportes modernos na alimentação?",
+      "options": [
+        "Só podemos comer comida local",
+        "Podemos comer frutas e comidas de qualquer lugar do mundo",
+        "A comida ficou pior",
+        "Não afetou a alimentação"
+      ],
+      "correct_answer": 1,
+      "explanation": "Aviões e navios rápidos trazem frutas, verduras e comidas de outros países para nossa mesa todos os dias.",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 54,
+      "section": "Impactos na Sociedade",
+      "question": "Como a comunicação moderna afetou a educação?",
+      "options": [
+        "Piorou a educação",
+        "Permitiu acesso a conhecimento de professores do mundo todo",
+        "Não mudou nada",
+        "Acabou com as escolas"
+      ],
+      "correct_answer": 1,
+      "explanation": "Hoje podemos assistir aulas online de universidades famosas e acessar bibliotecas digitais do mundo inteiro.",
+      "difficulty": "médio"
+    },
+    {
+      "id": 55,
+      "section": "Impactos na Sociedade",
+      "question": "Qual foi o impacto dos transportes rápidos no turismo?",
+      "options": [
+        "Acabou com o turismo",
+        "Permitiu que pessoas conheçam lugares distantes facilmente",
+        "Tornou o turismo mais caro",
+        "Não afetou o turismo"
+      ],
+      "correct_answer": 1,
+      "explanation": "Aviões baratos e rápidos permitiram que milhões de pessoas viajem para outros países como turistas.",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 56,
+      "section": "Impactos na Sociedade",
+      "question": "Como os meios de comunicação modernos afetaram as amizades?",
+      "options": [
+        "Acabaram com as amizades",
+        "Permitiram manter amizades à distância e fazer amigos pelo mundo",
+        "Não mudaram as amizades",
+        "Tornaram as amizades piores"
+      ],
+      "correct_answer": 1,
+      "explanation": "Podemos manter contato com amigos que se mudaram e até fazer amigos em outros países através da internet.",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 57,
+      "section": "Impactos na Sociedade",
+      "question": "Qual impacto na medicina dos transportes e comunicação modernos?",
+      "options": [
+        "Pioraram a medicina",
+        "Permitiram compartilhar conhecimento médico e transportar pacientes rapidamente",
+        "Não afetaram a medicina",
+        "Acabaram com os médicos"
+      ],
+      "correct_answer": 1,
+      "explanation": "Médicos podem consultar especialistas do mundo todo e ambulâncias/aviões médicos salvam vidas transportando pacientes rapidamente.",
+      "difficulty": "médio"
+    },
+    {
+      "id": 58,
+      "section": "Impactos na Sociedade",
+      "question": "Como mudou a forma de trabalhar em equipe?",
+      "options": [
+        "Só podemos trabalhar sozinhos",
+        "Podemos trabalhar em equipe com pessoas de qualquer lugar",
+        "Piorou o trabalho em equipe",
+        "Não mudou nada"
+      ],
+      "correct_answer": 1,
+      "explanation": "Hoje, uma equipe pode ter pessoas no Brasil, Estados Unidos e Japão trabalhando juntas em tempo real.",
+      "difficulty": "médio"
+    },
+    {
+      "id": 59,
+      "section": "Impactos na Sociedade",
+      "question": "Qual o impacto na cultura das pessoas?",
+      "options": [
+        "Cada país ficou isolado",
+        "Pessoas podem conhecer e apreciar culturas do mundo todo",
+        "A cultura ficou pior",
+        "Não houve impacto cultural"
+      ],
+      "correct_answer": 1,
+      "explanation": "Podemos ouvir música de outros países, conhecer seus costumes e até aprender seus idiomas pela internet.",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 60,
+      "section": "Impactos na Sociedade",
+      "question": "Qual é o maior benefício geral dos avanços em transporte e comunicação?",
+      "options": [
+        "Tornaram o mundo mais complicado",
+        "Conectaram as pessoas e tornaram o mundo menor",
+        "Não trouxeram benefícios",
+        "Beneficiaram apenas os ricos"
+      ],
+      "correct_answer": 1,
+      "explanation": "O mundo ficou 'menor' porque podemos nos comunicar e viajar facilmente, conectando pessoas de todos os lugares e culturas.",
+      "difficulty": "fácil"
+    }
+  ],
+  "evaluation": {
+    "include_evaluation": false
+  },
+  "settings": {
+    "public": true,
+    "allow_multiple_responses": false,
+    "show_progress_bar": true,
+    "collect_email": true,
+    "require_login": true
+  }
+}
