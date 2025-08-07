@@ -21,6 +21,23 @@ This project integrates with Google Forms API to create and manage forms program
 * If not specified, ask about the level of difficulty for the quiz.
 * After generating a new form, review all created questions and answers to ensure there are no duplicate answers.
 * Avoid naming sections in a way that suggests the answer to the question, e.g. Section: "Personal Pronouns" for the question "What type of pronoun is used in the sentence: ______ ?".
+* **NEVER include obvious answer hints in multiple choice options** - avoid parenthetical explanations like "Verde (vidro)", "Azul (papel)", "cantei (ação que terminou)", etc. that make the correct answer obvious and compromise educational assessment quality.
+* **AVOID obvious visual hints in question icons** - don't use 🚲 when asking about bicycles, 🌞 when asking about solar energy, 🚌 when asking about public transport, etc. Use neutral icons instead.
+
+## Pedagogical Quality Standards
+* Multiple choice questions should test genuine knowledge, not reading comprehension of hints
+* Remove obvious clues from answer options that reveal the correct choice
+* Avoid visual hints in emojis that give away the answer
+* Examples of what to AVOID:
+  - "Verde (vidro)" → Use "Verde" instead
+  - "cantei (ação que terminou)" → Use "cantei" instead  
+  - "parecer (conecta sujeito)" → Use "parecer" instead
+  - "🚲 Which transport is most sustainable?" → Use "🚶‍♀️" or "⚡" instead
+  - "🌞 Which energy source is cleanest?" → Use "⚡" instead
+  - "cantei (ação que terminou)" → Use "cantei" instead  
+  - "parecer (conecta sujeito)" → Use "parecer" instead
+* Maintain appropriate difficulty level without compromising educational integrity
+* Ensure all options are plausible to require actual subject knowledge
 
 ## Form Generation - IMPORTANT
 * **ALWAYS use the `form.py` script from the project root to create Google Forms**

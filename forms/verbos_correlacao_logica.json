@@ -1,0 +1,763 @@
+{
+  "metadata": {
+    "title": "🎯 Verbos, Correlação Temporal e Lógica Verbal",
+    "description": [
+      "Quiz focado nas áreas que mais precisam de atenção: diferença entre cantei/cantava, verbos de ligação, correlação temporal e discurso indireto!",
+      "Cada questão tem dicas especiais e explicações bem clarinhas para facilitar seu aprendizado.",
+      "Vamos dominar de vez: tempos verbais, parecer vs falar, regras de concordância e lógica inteligente!"
+    ],
+    "subject": "Português e Raciocínio Lógico",
+    "grade": "5ª série",
+    "topic": "Verbos, Correlação Temporal e Lógica Verbal",
+    "author": "IA",
+    "version": "1.0",
+    "created_date": "2025-08-07"
+  },
+  "content": {
+    "introduction": "Olá! Este quiz trabalha especificamente os conceitos que ainda precisam de treino: diferença entre 'cantei' e 'cantava', verbos de ligação como 'parecer', correlação temporal, discurso indireto e lógica verbal. Vamos praticar com foco total!",
+    "instructions": [
+      "Leia cada pergunta bem devagar, sem pressa.",
+      "Preste atenção nas palavras destacadas - elas são pistas importantes!",
+      "Se tiver dúvida, releia a pergunta e pense no que aprendemos.",
+      "Não se preocupe se errar - é assim que aprendemos!"
+    ],
+    "sections": [
+      {
+        "name": "Cantei vs Cantava - Dominando a Diferença",
+        "description": "Aprenda definitivamente quando usar ações terminadas vs contínuas."
+      },
+      {
+        "name": "Parecer vs Falar - Verbos de Ligação",
+        "description": "Descubra quais verbos conectam pessoas a características."
+      },
+      {
+        "name": "Regras de Correlação Temporal",
+        "description": "Entenda como combinar tempos verbais: passado + passado."
+      },
+      {
+        "name": "Discurso Indireto - Presente vira Imperfeito",
+        "description": "Aprenda a transformar: 'como' vira 'comia'."
+      },
+      {
+        "name": "Sequências Temporais Inteligentes",
+        "description": "Organize eventos na ordem correta do tempo."
+      },
+      {
+        "name": "Lógica Verbal - Condições Necessárias vs Suficientes",
+        "description": "Desenvolva raciocínio lógico com estratégias inteligentes."
+      }
+    ]
+  },
+  "questions": [
+    {
+      "id": 1,
+      "section": "Tempos Verbais - Dicas Especiais",
+      "question": "🎯 DICA IMPORTANTE: 'cantei' = ação que TERMINOU, 'cantava' = ação que DURAVA. Para sequência passado→presente→futuro, qual usar?",
+      "options": [
+        "cantava → canto → cantarei",
+        "cantei → canto → cantarei",
+        "canto → cantava → cantarei",
+        "cantarei → cantei → canto"
+      ],
+      "correct_answer": 1,
+      "explanation": "💡 LEMBRE-SE: Para sequências simples de tempo, sempre usamos ações que TERMINARAM (cantei), não que duravam (cantava). É como contar: ontem terminei, hoje faço, amanhã vou fazer!",
+      "difficulty": "médio"
+    },
+    {
+      "id": 2,
+      "section": "Tempos Verbais - Dicas Especiais",
+      "question": "📚 TREINO: Complete a sequência com ações que TERMINARAM: estudei (ontem), estudo (hoje), ___ (amanhã)",
+      "options": [
+        "estudava",
+        "estudarei",
+        "estudaria",
+        "estudo"
+      ],
+      "correct_answer": 1,
+      "explanation": "✅ Perfeito! Ontem estudei (terminou), hoje estudo (acontece agora), amanhã estudarei (vai acontecer). Sempre ações que terminam para sequências!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 3,
+      "section": "Tempos Verbais - Dicas Especiais",
+      "question": "🤔 Qual a diferença? 'Eu brincava no parque' vs 'Eu brinquei no parque'",
+      "options": [
+        "São iguais",
+        "Brincava = ação que durava; Brinquei = ação que terminou",
+        "Brincava = futuro; Brinquei = presente",
+        "Brincava = presente; Brinquei = passado"
+      ],
+      "correct_answer": 1,
+      "explanation": "🎈 Imagine: 'Brincava' = você ficou brincando por um tempão. 'Brinquei' = você brincou e depois parou. Para sequências, use sempre 'brinquei'!",
+      "difficulty": "médio"
+    },
+    {
+      "id": 4,
+      "section": "Tempos Verbais - Dicas Especiais",
+      "question": "🏃 PRÁTICA: corri (ontem), corro (hoje), ___ (amanhã). Complete com ação que VAI ACONTECER:",
+      "options": [
+        "corria",
+        "correrei",
+        "correria",
+        "corro"
+      ],
+      "correct_answer": 1,
+      "explanation": "🏃‍♂️ Isso mesmo! Amanhã você VAI CORRER = correrei. É o futuro simples e direto!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 5,
+      "section": "Tempos Verbais - Dicas Especiais",
+      "question": "📝 Para uma sequência temporal simples, na frase 'Ontem eu ___ muito', qual escolher?",
+      "options": [
+        "trabalhava",
+        "trabalhei",
+        "trabalho",
+        "trabalharei"
+      ],
+      "correct_answer": 1,
+      "explanation": "👍 Exato! Para sequências simples, 'trabalhei' (terminou) é melhor que 'trabalhava' (durava). Fica mais claro na linha do tempo!",
+      "difficulty": "médio"
+    },
+    {
+      "id": 6,
+      "section": "Verbos de Ligação - Desvendando o Mistério",
+      "question": "🔗 SUPER DICA: Verbos de ligação CONECTAM pessoas a características. Qual destes conecta?",
+      "options": [
+        "falar",
+        "parecer",
+        "correr",
+        "comer"
+      ],
+      "correct_answer": 1,
+      "explanation": "🌟 Perfeito! 'Parecer' conecta: 'Maria PARECE feliz' = conecta Maria à característica 'feliz'. 'Falar' é uma ação que fazemos!",
+      "difficulty": "médio"
+    },
+    {
+      "id": 7,
+      "section": "Verbos de Ligação - Desvendando o Mistério",
+      "question": "🎭 TESTE: Em qual frase o verbo CONECTA a pessoa a uma característica?",
+      "options": [
+        "Maria fala português (Maria FAZ a ação de falar)",
+        "João corre no parque (João FAZ a ação de correr)",
+        "Ana está feliz (Ana TEM a característica feliz)",
+        "Pedro come maçã (Pedro FAZ a ação de comer)"
+      ],
+      "correct_answer": 2,
+      "explanation": "👏 Muito bem! 'Ana está feliz' = o verbo 'estar' conecta Ana à característica 'feliz'. Os outros são ações que as pessoas fazem!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 8,
+      "section": "Verbos de Ligação - Desvendando o Mistério",
+      "question": "🧪 Em 'A água vira gelo', o verbo 'virar' indica:",
+      "options": [
+        "Movimento da água",
+        "Transformação (água SE TORNA gelo)",
+        "Ação da água",
+        "Localização"
+      ],
+      "correct_answer": 1,
+      "explanation": "❄️ Exato! A água SE TRANSFORMA em gelo. 'Virar' aqui significa 'se tornar'. É como dizer 'a água se torna gelo'!",
+      "difficulty": "médio"
+    },
+    {
+      "id": 9,
+      "section": "Verbos de Ligação - Desvendando o Mistério",
+      "question": "🏥 'João virou médico' - o verbo 'virar' aqui funciona como:",
+      "options": [
+        "Ação de movimento",
+        "Transformação (João SE TORNOU médico)",
+        "Movimento físico",
+        "Não é verbo"
+      ],
+      "correct_answer": 1,
+      "explanation": "👨‍⚕️ Isso mesmo! João SE TORNOU médico. 'Virar' = 'se tornar'. Conecta João à nova profissão dele!",
+      "difficulty": "médio"
+    },
+    {
+      "id": 10,
+      "section": "Concordância Temporal - Regras Simples",
+      "question": "⏰ REGRA DE OURO: Se a CAUSA está no passado, a CONSEQUÊNCIA também fica no passado. 'Ele não comeu, por isso ___':",
+      "options": [
+        "está com fome",
+        "estará com fome",
+        "estava com fome",
+        "estaria com fome"
+      ],
+      "correct_answer": 2,
+      "explanation": "🍽️ Perfeito! CAUSA passada (não comeu) + CONSEQUÊNCIA passada (estava com fome). É como domino: um no passado, outro no passado!",
+      "difficulty": "médio"
+    },
+    {
+      "id": 11,
+      "section": "Concordância Temporal - Regras Simples",
+      "question": "📅 Se algo aconteceu ONTEM, a consequência deve estar em que tempo?",
+      "options": [
+        "Presente",
+        "Futuro",
+        "Passado (mesmo tempo da causa)",
+        "Infinitivo"
+      ],
+      "correct_answer": 2,
+      "explanation": "⏰ Exato! ONTEM = passado. Se a causa foi ontem, a consequência também fica no passado. Tudo junto na mesma época!",
+      "difficulty": "médio"
+    },
+    {
+      "id": 12,
+      "section": "Concordância Temporal - Regras Simples",
+      "question": "🌧️ PRATICANDO: 'Como estava chovendo, eu ___ em casa.' Complete seguindo a regra:",
+      "options": [
+        "fico (presente)",
+        "ficarei (futuro)",
+        "fiquei (passado - igual à causa)",
+        "ficaria (condicional)"
+      ],
+      "correct_answer": 2,
+      "explanation": "🏠 Muito bem! 'Estava chovendo' (passado) = 'fiquei' (passado). Causa e consequência no mesmo tempo!",
+      "difficulty": "médio"
+    },
+    {
+      "id": 13,
+      "section": "Discurso Indireto - Truques Fáceis",
+      "question": "🗨️ TRUQUE MÁGICO: No discurso indireto, PRESENTE vira IMPERFEITO. 'Eu como pizza' vira:",
+      "options": [
+        "Ele disse que come pizza",
+        "Ele disse que comeu pizza",
+        "Ele disse que comia pizza",
+        "Ele disse que comerá pizza"
+      ],
+      "correct_answer": 2,
+      "explanation": "🍕 Perfeito! PRESENTE (como) vira IMPERFEITO (comia). É a regra mágica do discurso indireto: como → comia!",
+      "difficulty": "difícil"
+    },
+    {
+      "id": 14,
+      "section": "Discurso Indireto - Truques Fáceis",
+      "question": "📖 PRATICANDO: Alguém disse 'Eu estudo'. No discurso indireto fica:",
+      "options": [
+        "Ele disse que estuda",
+        "Ele disse que estudou",
+        "Ele disse que estudava",
+        "Ele disse que estudará"
+      ],
+      "correct_answer": 2,
+      "explanation": "📚 Isso mesmo! PRESENTE (estudo) vira IMPERFEITO (estudava). Lembre da regra: presente → imperfeito!",
+      "difficulty": "difícil"
+    },
+    {
+      "id": 15,
+      "section": "Discurso Indireto - Truques Fáceis",
+      "question": "🎯 MAIS PRÁTICA: Se alguém disse 'Eu brinco', no discurso indireto vira:",
+      "options": [
+        "Ele disse que brinca",
+        "Ele disse que brincou",
+        "Ele disse que brincava (presente → imperfeito)",
+        "Ele disse que brincará"
+      ],
+      "correct_answer": 2,
+      "explanation": "🎈 Excelente! Aplicou a regra: PRESENTE (brinco) → IMPERFEITO (brincava). Você está dominando!",
+      "difficulty": "difícil"
+    },
+    {
+      "id": 16,
+      "section": "Ordenação Lógica - Sequências Inteligentes",
+      "question": "🔢 SEQUÊNCIA DE VIDA: A) Ele nascerá B) Ele nasceu C) Ele vive. Qual ordem faz sentido no tempo?",
+      "options": [
+        "A, B, C (nascerá, nasceu, vive)",
+        "C, B, A (vive, nasceu, nascerá)",
+        "B, A, C (nasceu, nascerá, vive)",
+        "B, C, A (nasceu, vive, nascerá)"
+      ],
+      "correct_answer": 3,
+      "explanation": "👶➡️👦➡️👨 Pense na vida: B) Primeiro nasceu (passado), C) Agora vive (presente), A) Depois nascerá descendente (futuro). É a ordem da vida!",
+      "difficulty": "médio"
+    },
+    {
+      "id": 17,
+      "section": "Ordenação Lógica - Sequências Inteligentes",
+      "question": "🍽️ ORDEM DOS TEMPOS: 1. Jantarei 2. Jantei 3. Janto. Qual sequência PASSADO → PRESENTE → FUTURO?",
+      "options": [
+        "1, 2, 3 (jantarei, jantei, janto)",
+        "3, 2, 1 (janto, jantei, jantarei)",
+        "2, 3, 1 (jantei, janto, jantarei)",
+        "1, 3, 2 (jantarei, janto, jantei)"
+      ],
+      "correct_answer": 2,
+      "explanation": "🍽️ Perfeito! 2) Jantei (PASSADO), 3) Janto (PRESENTE), 1) Jantarei (FUTURO). É a linha do tempo do jantar!",
+      "difficulty": "médio"
+    },
+    {
+      "id": 18,
+      "section": "Lógica Verbal - Estratégias Inteligentes",
+      "question": "🏖️ LÓGICA ESPERTA: 'Só vou à praia quando faz sol' e 'não fui à praia'. Posso ter certeza que:",
+      "options": [
+        "Não fez sol",
+        "Pode ter outros motivos (doença, trabalho, etc.)",
+        "Fez sol com certeza",
+        "Estava chovendo"
+      ],
+      "correct_answer": 1,
+      "explanation": "🤔 Inteligente! Mesmo fazendo sol, você pode não ir por outros motivos: doença, trabalho, estudar... Sol é necessário, mas não é o único fator!",
+      "difficulty": "difícil"
+    },
+    {
+      "id": 19,
+      "section": "Lógica Verbal - Estratégias Inteligentes",
+      "question": "🔤 JOGO DE LETRAS: O que aparece 1x em 'minuto', 2x em 'momento', 0x em 'cem anos'?",
+      "options": [
+        "O som do relógio",
+        "A letra 'M' (conte as letras!)",
+        "Um piscar de olhos",
+        "O nascer do sol"
+      ],
+      "correct_answer": 1,
+      "explanation": "🔍 Muito bem! Conte: 'Minuto' tem 1 M, 'MoMento' tem 2 Ms, 'ceM aNos' tem 0 Ms (o M está em 'cem', não conta)!",
+      "difficulty": "médio"
+    },
+    {
+      "id": 20,
+      "section": "Lógica Verbal - Estratégias Inteligentes",
+      "question": "✈️ PEGADINHA: 'Avião cai na fronteira Brasil-Argentina, onde enterrar os sobreviventes?'",
+      "options": [
+        "No Brasil",
+        "Na Argentina",
+        "No país de origem",
+        "Em lugar nenhum (eles estão VIVOS!)"
+      ],
+      "correct_answer": 3,
+      "explanation": "😄 Pegadinha clássica! SOBREVIVENTES estão VIVOS! Não se enterra quem está vivo! Sempre leia as palavras-chave!",
+      "difficulty": "médio"
+    },
+    {
+      "id": 21,
+      "section": "Tempos Verbais - Dicas Especiais",
+      "question": "🎵 REFORÇO: Complete a sequência temporal: cantei (passado), canto (presente), ___",
+      "options": [
+        "cantaria",
+        "cantarei (futuro)",
+        "cantava",
+        "canto"
+      ],
+      "correct_answer": 1,
+      "explanation": "🎤 Perfeito! Ontem cantei, hoje canto, amanhã cantarei. Sequência temporal completa!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 22,
+      "section": "Verbos de Ligação - Desvendando o Mistério",
+      "question": "🌟 IDENTIFIQUE: Qual frase tem verbo que CONECTA sujeito a característica?",
+      "options": [
+        "O menino corre rápido",
+        "A menina come doce",
+        "O cachorro parece feliz",
+        "O gato brinca na sala"
+      ],
+      "correct_answer": 2,
+      "explanation": "🐕 Exato! 'Parece' conecta o cachorro à característica 'feliz'. Os outros são ações que alguém faz!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 23,
+      "section": "Concordância Temporal - Regras Simples",
+      "question": "💧 PRATICANDO A REGRA: 'Porque tinha sede, ele ___ água.'",
+      "options": [
+        "bebe (presente)",
+        "beberá (futuro)",
+        "bebeu (passado - mesmo tempo da causa)",
+        "beberia (condicional)"
+      ],
+      "correct_answer": 2,
+      "explanation": "🥤 Muito bem! CAUSA passada (tinha sede) = CONSEQUÊNCIA passada (bebeu água). Regra de ouro aplicada!",
+      "difficulty": "médio"
+    },
+    {
+      "id": 24,
+      "section": "Discurso Indireto - Truques Fáceis",
+      "question": "🎪 TRANSFORMAÇÃO: Alguém disse 'Eu danço'. Como fica no discurso indireto?",
+      "options": [
+        "Ele disse que dança",
+        "Ele disse que dançou",
+        "Ele disse que dançava (presente → imperfeito)",
+        "Ele disse que dançará"
+      ],
+      "correct_answer": 2,
+      "explanation": "💃 Perfeita aplicação! PRESENTE (danço) vira IMPERFEITO (dançava). Você memorizou a regra!",
+      "difficulty": "difícil"
+    },
+    {
+      "id": 25,
+      "section": "Ordenação Lógica - Sequências Inteligentes",
+      "question": "⏰ SEQUÊNCIA TEMPORAL: 1. Dormirei 2. Dormi 3. Durmo. Qual ordem passado→presente→futuro?",
+      "options": [
+        "1, 2, 3",
+        "3, 2, 1",
+        "2, 3, 1 (dormi, durmo, dormirei)",
+        "1, 3, 2"
+      ],
+      "correct_answer": 2,
+      "explanation": "😴 Perfeita sequência! 2) Dormi (PASSADO), 3) Durmo (PRESENTE), 1) Dormirei (FUTURO). Linha do tempo do sono!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 26,
+      "section": "Lógica Verbal - Estratégias Inteligentes",
+      "question": "🔢 CÁLCULO INTELIGENTE: Pai 40 anos, filho 10 anos. Em quantos anos o pai terá o DOBRO da idade do filho?",
+      "options": [
+        "10 anos",
+        "15 anos",
+        "20 anos (pai=60, filho=30: 60 é dobro de 30)",
+        "30 anos"
+      ],
+      "correct_answer": 2,
+      "explanation": "🧮 Genial! Em 20 anos: pai = 60, filho = 30. Como 60 ÷ 30 = 2, o pai terá o dobro! Matemática + lógica!",
+      "difficulty": "difícil"
+    },
+    {
+      "id": 27,
+      "section": "Tempos Verbais - Dicas Especiais",
+      "question": "🏊 MAIS PRÁTICA: nadei (passado), nado (presente), ___ (futuro)",
+      "options": [
+        "nadaria",
+        "nadarei",
+        "nadava",
+        "nado"
+      ],
+      "correct_answer": 1,
+      "explanation": "🏊‍♂️ Excelente! Ontem nadei, hoje nado, amanhã nadarei. Você dominou as sequências temporais!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 28,
+      "section": "Verbos de Ligação - Desvendando o Mistério",
+      "question": "🔗 COMPLETE a sequência de verbos de ligação: ser, estar, ficar, ___",
+      "options": [
+        "correr",
+        "parecer",
+        "falar",
+        "estudar"
+      ],
+      "correct_answer": 1,
+      "explanation": "✨ Perfeito! 'Parecer' completa a família dos verbos de ligação: ser, estar, ficar, parecer. Todos conectam!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 29,
+      "section": "Concordância Temporal - Regras Simples",
+      "question": "📚 APLICANDO: 'Maria estudou muito, por isso ___ uma boa nota.'",
+      "options": [
+        "tira (presente)",
+        "tirou (passado - igual à causa)",
+        "tirará (futuro)",
+        "tiraria (condicional)"
+      ],
+      "correct_answer": 1,
+      "explanation": "🎯 Exato! CAUSA passada (estudou) = CONSEQUÊNCIA passada (tirou). Maria colheu o fruto no passado!",
+      "difficulty": "médio"
+    },
+    {
+      "id": 30,
+      "section": "Discurso Indireto - Truques Fáceis",
+      "question": "🗣️ ÚLTIMA PRÁTICA: 'Eu corro' no discurso indireto vira:",
+      "options": [
+        "Ele disse que corre",
+        "Ele disse que correu",
+        "Ele disse que corria (mágica: presente→imperfeito)",
+        "Ele disse que correrá"
+      ],
+      "correct_answer": 2,
+      "explanation": "🏃‍♂️ Perfeita aplicação final! PRESENTE (corro) vira IMPERFEITO (corria). Você é um mestre da transformação!",
+      "difficulty": "difícil"
+    },
+    {
+      "id": 31,
+      "section": "Lógica Verbal - Estratégias Inteligentes",
+      "question": "🤓 Se todo quadrado tem 4 lados, e esta figura tem 4 lados, ela É um quadrado?",
+      "options": [
+        "Sim, sempre",
+        "Não, pode ser retângulo ou losango também",
+        "Depende da cor",
+        "Só se for grande"
+      ],
+      "correct_answer": 1,
+      "explanation": "🔳 Inteligente! Ter 4 lados é necessário para ser quadrado, mas não é suficiente. Retângulos e losangos também têm 4 lados!",
+      "difficulty": "médio"
+    },
+    {
+      "id": 32,
+      "section": "Lógica Verbal - Estratégias Inteligentes",
+      "question": "🍓 'Toda fruta cresce em árvore' - essa frase é verdadeira?",
+      "options": [
+        "Sim, sempre",
+        "Não, morangos crescem no chão!",
+        "Só frutas vermelhas",
+        "Depende do tamanho"
+      ],
+      "correct_answer": 1,
+      "explanation": "🍓 Muito bem! Contraexemplo: morangos crescem em plantas no chão, não em árvores. Nem toda fruta cresce em árvore!",
+      "difficulty": "médio"
+    },
+    {
+      "id": 33,
+      "section": "Lógica Verbal - Estratégias Inteligentes",
+      "question": "🏃 Se 'correr causa cansaço' e 'não corri', posso garantir que 'não me cansei'?",
+      "options": [
+        "Sim, com certeza",
+        "Não, posso ter me cansado estudando, trabalhando...",
+        "Só se dormiu bem",
+        "Depende da idade"
+      ],
+      "correct_answer": 1,
+      "explanation": "😅 Esperto! Existem outras causas de cansaço: estudar, trabalhar, jogar futebol... Correr é UMA causa, não a única!",
+      "difficulty": "difícil"
+    },
+    {
+      "id": 34,
+      "section": "Lógica Verbal - Estratégias Inteligentes",
+      "question": "🧩 'Eu sempre minto'. Por que esta frase é um paradoxo?",
+      "options": [
+        "É muito simples",
+        "Se for verdade, é mentira; se for mentira, é verdade",
+        "Fala sobre mentiras",
+        "É fácil demais"
+      ],
+      "correct_answer": 1,
+      "explanation": "🤯 Paradoxo incrível! Se a frase é verdade, então ele mente (logo é mentira). Se é mentira, então ele não sempre mente (logo é verdade). Ciclo infinito!",
+      "difficulty": "difícil"
+    },
+    {
+      "id": 35,
+      "section": "Tempos Verbais - Dicas Especiais",
+      "question": "🎨 CRIATIVIDADE: pintei (passado), pinto (presente), ___ (futuro)",
+      "options": [
+        "pintaria",
+        "pintarei (completando a sequência)",
+        "pintava",
+        "pinto"
+      ],
+      "correct_answer": 1,
+      "explanation": "🎨 Artístico! Ontem pintei um quadro, hoje pinto outro, amanhã pintarei mais um. Sequência perfeita!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 36,
+      "section": "Verbos de Ligação - Desvendando o Mistério",
+      "question": "🌸 'A flor fica bonita' - o verbo 'ficar' indica:",
+      "options": [
+        "Movimento da flor",
+        "Mudança de estado (se tornou bonita)",
+        "Ação da flor",
+        "Localização"
+      ],
+      "correct_answer": 1,
+      "explanation": "🌺 Lindo! A flor SE TORNOU bonita. 'Ficar' conecta a flor à característica 'bonita'. Mudança de estado!",
+      "difficulty": "médio"
+    },
+    {
+      "id": 37,
+      "section": "Concordância Temporal - Regras Simples",
+      "question": "🌅 DESAFIO: 'Já que estava tarde, eu ___ para casa.'",
+      "options": [
+        "vou (presente)",
+        "irei (futuro)",
+        "fui (passado - mesma época da causa)",
+        "iria (condicional)"
+      ],
+      "correct_answer": 2,
+      "explanation": "🏠 Perfeita aplicação! CAUSA passada (estava tarde) = CONSEQUÊNCIA passada (fui para casa). Regra dominada!",
+      "difficulty": "médio"
+    },
+    {
+      "id": 38,
+      "section": "Ordenação Lógica - Sequências Inteligentes",
+      "question": "🦷 ORDEM CRONOLÓGICA: 1. Escovei os dentes 2. Escovo os dentes 3. Escovarei os dentes",
+      "options": [
+        "1, 2, 3 (passado, presente, futuro)",
+        "3, 2, 1",
+        "2, 3, 1",
+        "1, 3, 2"
+      ],
+      "correct_answer": 0,
+      "explanation": "🦷 Higiene perfeita! 1) Escovei (PASSADO), 2) Escovo (PRESENTE), 3) Escovarei (FUTURO). Ordem natural do tempo!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 39,
+      "section": "Lógica Verbal - Estratégias Inteligentes",
+      "question": "📅 DESAFIO TEMPORAL: 'Se ontem fosse amanhã, hoje seria sexta-feira'. Que dia é hoje?",
+      "options": [
+        "Quarta-feira (pense na lógica reversa)",
+        "Quinta-feira",
+        "Sexta-feira",
+        "Domingo"
+      ],
+      "correct_answer": 0,
+      "explanation": "🗓️ Lógica complexa! Se ontem (terça) fosse amanhã de algum dia, esse dia seria domingo. Mas a frase é sobre hoje = quarta-feira!",
+      "difficulty": "difícil"
+    },
+    {
+      "id": 40,
+      "section": "Lógica Verbal - Estratégias Inteligentes",
+      "question": "👨‍👦 ENIGMA DA FAMÍLIA: 'O pai deste homem é filho do meu pai, mas não tenho irmãos'. De quem é o retrato?",
+      "options": [
+        "Dele mesmo",
+        "Do pai dele",
+        "Do filho dele (se não tem irmãos, 'filho do meu pai' = ele mesmo)",
+        "Do avô dele"
+      ],
+      "correct_answer": 2,
+      "explanation": "👨‍👧‍👦 Genial! Se não tem irmãos, 'filho do meu pai' só pode ser ele mesmo. Logo: 'O pai deste homem sou eu' = retrato do FILHO dele!",
+      "difficulty": "difícil"
+    },
+    {
+      "id": 41,
+      "section": "Tempos Verbais - Dicas Especiais",
+      "question": "⚽ ESPORTE: joguei (passado), jogo (presente), ___ (futuro)",
+      "options": [
+        "jogaria",
+        "jogarei (sequência esportiva)",
+        "jogava",
+        "jogo"
+      ],
+      "correct_answer": 1,
+      "explanation": "⚽ Gol! Ontem joguei futebol, hoje jogo vôlei, amanhã jogarei basquete. Sequência esportiva completa!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 42,
+      "section": "Verbos de Ligação - Desvendando o Mistério",
+      "question": "🎭 'A criança permanece quieta'. Qual é o verbo de ligação?",
+      "options": [
+        "criança",
+        "permanece (conecta criança a quieta)",
+        "quieta",
+        "não há verbo de ligação"
+      ],
+      "correct_answer": 1,
+      "explanation": "🤫 Exato! 'Permanece' conecta a criança à característica 'quieta'. É como dizer 'a criança continua quieta'!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 43,
+      "section": "Concordância Temporal - Regras Simples",
+      "question": "🍎 CAUSA E EFEITO: 'Como estava com fome, ela ___ uma maçã.'",
+      "options": [
+        "come (presente)",
+        "comerá (futuro)",
+        "comeu (passado - regra aplicada)",
+        "comeria (condicional)"
+      ],
+      "correct_answer": 2,
+      "explanation": "🍎 Delicioso! CAUSA passada (estava com fome) = CONSEQUÊNCIA passada (comeu uma maçã). Fome saciada no passado!",
+      "difficulty": "médio"
+    },
+    {
+      "id": 44,
+      "section": "Discurso Indireto - Truques Fáceis",
+      "question": "🎵 MÚSICA: Alguém disse 'Eu canto'. No discurso indireto:",
+      "options": [
+        "Ele disse que canta",
+        "Ele disse que cantou",
+        "Ele disse que cantava (transformação mágica)",
+        "Ele disse que cantará"
+      ],
+      "correct_answer": 2,
+      "explanation": "🎤 Melodia perfeita! PRESENTE (canto) vira IMPERFEITO (cantava). A música da transformação gramatical!",
+      "difficulty": "difícil"
+    },
+    {
+      "id": 45,
+      "section": "Ordenação Lógica - Sequências Inteligentes",
+      "question": "🌱 PLANTIO: Para plantar uma árvore: 1. Regar 2. Fazer buraco 3. Colocar muda",
+      "options": [
+        "1, 2, 3",
+        "2, 3, 1 (buraco, muda, regar)",
+        "3, 2, 1",
+        "2, 1, 3"
+      ],
+      "correct_answer": 1,
+      "explanation": "🌳 Jardinagem perfeita! 2) Fazer buraco, 3) Colocar muda, 1) Regar. Sequência lógica para a árvore crescer!",
+      "difficulty": "médio"
+    },
+    {
+      "id": 46,
+      "section": "Lógica Verbal - Estratégias Inteligentes",
+      "question": "🗺️ CHARADA: 'Tenho cidades mas não casas, montanhas mas não árvores, água mas não peixes.' O que sou?",
+      "options": [
+        "Um sonho",
+        "Um mapa (representa tudo, mas não tem os detalhes)",
+        "Um livro",
+        "Um deserto"
+      ],
+      "correct_answer": 1,
+      "explanation": "🗺️ Navegação perfeita! Um mapa mostra cidades, montanhas e água, mas não desenha casas, árvores ou peixes específicos!",
+      "difficulty": "médio"
+    },
+    {
+      "id": 47,
+      "section": "Lógica Verbal - Estratégias Inteligentes",
+      "question": "🕳️ CHARADA CLÁSSICA: O que quanto mais se tira, maior fica?",
+      "options": [
+        "Um buraco (quanto mais terra tira, maior o buraco)",
+        "Dinheiro do banco",
+        "Uma foto",
+        "Uma nota baixa"
+      ],
+      "correct_answer": 0,
+      "explanation": "⛏️ Escavação inteligente! Quanto mais terra você TIRA (escava), maior fica o buraco. Charada clássica!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 48,
+      "section": "Lógica Verbal - Estratégias Inteligentes",
+      "question": "🏃‍♀️ CORRIDA: Se você ultrapassa o SEGUNDO colocado, em que posição fica?",
+      "options": [
+        "Primeiro",
+        "Segundo (toma o lugar dele)",
+        "Terceiro",
+        "Último"
+      ],
+      "correct_answer": 1,
+      "explanation": "🥈 Posicionamento correto! Se você ultrapassa o segundo, você toma o lugar dele = fica em SEGUNDO lugar (não primeiro)!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 49,
+      "section": "Lógica Verbal - Estratégias Inteligentes",
+      "question": "📖 ESTRATÉGIA FINAL: Para resolver problemas de lógica verbal, é importante:",
+      "options": [
+        "Responder rapidamente",
+        "Ler com atenção e analisar palavras-chave",
+        "Escolher sempre a primeira opção",
+        "Não pensar muito"
+      ],
+      "correct_answer": 1,
+      "explanation": "🧠 Sabedoria final! LEIA com calma, encontre as PALAVRAS-CHAVE, analise cada opção. Paciência é a chave da lógica!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 50,
+      "section": "Tempos Verbais - Dicas Especiais",
+      "question": "🎉 CELEBRAÇÃO FINAL: Complete sua última sequência: aprendi (passado), aprendo (presente), ___ (futuro)",
+      "options": [
+        "aprenderia",
+        "aprenderei (você vai continuar aprendendo!)",
+        "aprendia",
+        "aprendo"
+      ],
+      "correct_answer": 1,
+      "explanation": "🎓 PARABÉNS! Ontem aprendi muito, hoje aprendo ainda mais, amanhã aprenderei coisas novas! Você é um campeão do aprendizado! 🌟",
+      "difficulty": "fácil"
+    }
+  ],
+  "evaluation": {
+    "include_evaluation": false
+  },
+  "settings": {
+    "public": true,
+    "allow_multiple_responses": false,
+    "show_progress_bar": true,
+    "collect_email": true,
+    "require_login": true
+  }
+}

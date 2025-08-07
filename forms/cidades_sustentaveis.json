@@ -1,0 +1,763 @@
+{
+  "metadata": {
+    "title": "🌱 Cidades Sustentáveis: Construindo o Futuro Verde",
+    "description": [
+      "Descubra como criar cidades mais verdes e sustentáveis! Aprenda sobre energia limpa, reciclagem, transporte ecológico e muito mais.",
+      "Cada questão ensina como cuidar melhor do nosso planeta e das nossas cidades.",
+      "Vamos construir juntos um futuro mais verde e sustentável para todos!"
+    ],
+    "subject": "Ciências e Sustentabilidade",
+    "grade": "5ª série",
+    "topic": "Cidades Sustentáveis e Meio Ambiente",
+    "author": "IA",
+    "version": "1.0",
+    "created_date": "2025-08-07"
+  },
+  "content": {
+    "introduction": "Bem-vindo ao mundo das cidades sustentáveis! Aqui você vai aprender como podemos tornar nossas cidades mais verdes, limpas e ecológicas. Vamos descobrir juntos como cuidar do meio ambiente enquanto vivemos nas cidades!",
+    "instructions": [
+      "Pense sempre no que é melhor para o meio ambiente.",
+      "Lembre-se: sustentabilidade significa cuidar do planeta para as futuras gerações.",
+      "Cada pequena ação pode fazer uma grande diferença!",
+      "Use sua criatividade para imaginar soluções ecológicas."
+    ],
+    "sections": [
+      {
+        "name": "Fontes de Energia Limpa",
+        "description": "Descubra as energias que não poluem nosso planeta."
+      },
+      {
+        "name": "Gestão da Água nas Cidades",
+        "description": "Aprenda sobre o ciclo da água urbana e sua importância."
+      },
+      {
+        "name": "Tratamento de Esgoto Ecológico",
+        "description": "Entenda como limpar a água antes de devolvê-la à natureza."
+      },
+      {
+        "name": "Transporte Sustentável",
+        "description": "Explore meios de transporte que respeitam o meio ambiente."
+      },
+      {
+        "name": "Gestão de Resíduos e Reciclagem",
+        "description": "Aprenda a separar, reutilizar e reciclar o lixo corretamente."
+      },
+      {
+        "name": "Planejamento Urbano Verde",
+        "description": "Descubra como criar espaços verdes nas cidades."
+      }
+    ]
+  },
+  "questions": [
+    {
+      "id": 1,
+      "section": "Fontes de Energia Limpa",
+      "question": "⚡ Qual fonte de energia é considerada mais sustentável para uma cidade?",
+      "options": [
+        "Carvão",
+        "Energia solar",
+        "Petróleo",
+        "Queima de lixo"
+      ],
+      "correct_answer": 1,
+      "explanation": "☀️ A energia solar é limpa e renovável! O sol é uma fonte inesgotável de energia que não polui o ar nem produz gases nocivos ao meio ambiente.",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 2,
+      "section": "Fontes de Energia Limpa",
+      "question": "⚡ Além do sol, qual outra fonte de energia limpa pode ser usada nas cidades?",
+      "options": [
+        "Energia eólica",
+        "Carvão mineral",
+        "Gasolina",
+        "Gás natural"
+      ],
+      "correct_answer": 0,
+      "explanation": "🌪️ O vento é uma excelente fonte de energia limpa! Os moinhos de vento (aerogeradores) transformam a força do vento em eletricidade sem poluir.",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 3,
+      "section": "Fontes de Energia Limpa",
+      "question": "🏠 Em uma casa sustentável, qual equipamento pode gerar energia limpa?",
+      "options": [
+        "Gerador a diesel",
+        "Painéis solares no telhado",
+        "Queimador de carvão",
+        "Motor a gasolina"
+      ],
+      "correct_answer": 1,
+      "explanation": "🔆 Painéis solares no telhado captam a luz do sol e transformam em energia elétrica para a casa! É uma forma inteligente de usar energia limpa.",
+      "difficulty": "médio"
+    },
+    {
+      "id": 4,
+      "section": "Fontes de Energia Limpa",
+      "question": "⚡ Por que a energia solar é considerada 'renovável'?",
+      "options": [
+        "Porque é cara",
+        "Porque o sol nunca vai acabar (na nossa escala de tempo)",
+        "Porque precisa de manutenção",
+        "Porque é nova tecnologia"
+      ],
+      "correct_answer": 1,
+      "explanation": "🌟 O sol brilhará por bilhões de anos! Diferente do petróleo que pode acabar, o sol é uma fonte de energia que se 'renova' todos os dias.",
+      "difficulty": "médio"
+    },
+    {
+      "id": 5,
+      "section": "Fontes de Energia Limpa",
+      "question": "🌊 A energia hidrelétrica (das águas) é sustentável quando:",
+      "options": [
+        "Polui os rios",
+        "Destrói florestas",
+        "É bem planejada respeitando o meio ambiente",
+        "Usa produtos químicos"
+      ],
+      "correct_answer": 2,
+      "explanation": "💧 Quando bem planejada, a energia das águas pode ser limpa! É importante proteger peixes, florestas e comunidades ao construir usinas hidrelétricas.",
+      "difficulty": "médio"
+    },
+    {
+      "id": 6,
+      "section": "Gestão da Água nas Cidades",
+      "question": "🚿 Para economizar água em casa, você deve:",
+      "options": [
+        "Deixar a torneira aberta enquanto escova os dentes",
+        "Tomar banhos muito longos",
+        "Fechar a torneira quando não está usando",
+        "Usar mangueira para lavar calçada"
+      ],
+      "correct_answer": 2,
+      "explanation": "💧 Economizar água é fundamental! Feche a torneira ao escovar dentes, tome banhos rápidos e use balde para lavar calçadas.",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 7,
+      "section": "Gestão da Água nas Cidades",
+      "question": "🌧️ O que acontece com a água da chuva em uma cidade sustentável?",
+      "options": [
+        "Vai toda para o esgoto",
+        "É desperdiçada",
+        "É coletada e reutilizada",
+        "Evapora completamente"
+      ],
+      "correct_answer": 2,
+      "explanation": "☔ Cidades inteligentes coletam água da chuva em cisternas e a reutilizam para regar plantas, lavar calçadas e outros usos!",
+      "difficulty": "médio"
+    },
+    {
+      "id": 8,
+      "section": "Gestão da Água nas Cidades",
+      "question": "🏢 Em prédios sustentáveis, a água usada para lavar louça pode ser:",
+      "options": [
+        "Jogada fora imediatamente",
+        "Tratada e reutilizada para regar jardins",
+        "Misturada com água potável",
+        "Guardada sem tratamento"
+      ],
+      "correct_answer": 1,
+      "explanation": "♻️ Água de reúso! Após tratamento adequado, a água usada em pias pode irrigar jardins e áreas verdes, economizando água potável.",
+      "difficulty": "médio"
+    },
+    {
+      "id": 9,
+      "section": "Gestão da Água nas Cidades",
+      "question": "🌱 Por que é importante ter áreas verdes nas cidades para a gestão da água?",
+      "options": [
+        "Só para ficar bonito",
+        "As plantas ajudam a absorver a água da chuva",
+        "Para ocupar espaço",
+        "Não tem relação com água"
+      ],
+      "correct_answer": 1,
+      "explanation": "🌳 As plantas são esponjas naturais! Elas absorvem água da chuva, evitam enchentes e ainda purificam o ar que respiramos.",
+      "difficulty": "médio"
+    },
+    {
+      "id": 10,
+      "section": "Gestão da Água nas Cidades",
+      "question": "💧 O que são 'jardins de chuva' em cidades sustentáveis?",
+      "options": [
+        "Jardins que só existem quando chove",
+        "Jardins especiais que captam e filtram água da chuva",
+        "Jardins feitos de plástico",
+        "Jardins que não precisam de água"
+      ],
+      "correct_answer": 1,
+      "explanation": "🌺 Jardins de chuva são geniais! São áreas com plantas especiais que captam água da chuva, filtram naturalmente e evitam enchentes.",
+      "difficulty": "difícil"
+    },
+    {
+      "id": 11,
+      "section": "Tratamento de Esgoto Ecológico",
+      "question": "🚽 Por que é importante tratar o esgoto antes de devolvê-lo à natureza?",
+      "options": [
+        "Para economizar dinheiro",
+        "Para proteger rios, peixes e nossa saúde",
+        "Não é importante",
+        "Só para seguir leis"
+      ],
+      "correct_answer": 1,
+      "explanation": "🐟 Tratar esgoto protege toda a vida aquática! Água limpa significa peixes saudáveis, rios despoluídos e menos doenças para todos.",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 12,
+      "section": "Tratamento de Esgoto Ecológico",
+      "question": "🌿 Em sistemas ecológicos de tratamento, as plantas podem:",
+      "options": [
+        "Poluir mais a água",
+        "Ajudar a limpar a água naturalmente",
+        "Impedir o tratamento",
+        "Só servir de decoração"
+      ],
+      "correct_answer": 1,
+      "explanation": "🌱 As plantas são filtros naturais incríveis! Suas raízes absorvem impurezas e suas folhas oxigenam a água, limpando-a naturalmente.",
+      "difficulty": "médio"
+    },
+    {
+      "id": 13,
+      "section": "Tratamento de Esgoto Ecológico",
+      "question": "🏭 O que acontece se uma cidade não tratar seu esgoto?",
+      "options": [
+        "Rios ficam poluídos e peixes morrem",
+        "Nada acontece",
+        "Fica mais barato",
+        "A água fica mais limpa"
+      ],
+      "correct_answer": 0,
+      "explanation": "😷 Sem tratamento, o esgoto polui rios, mata peixes, causa doenças e destrói ecossistemas. É essencial tratar antes de devolver à natureza!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 14,
+      "section": "Tratamento de Esgoto Ecológico",
+      "question": "💡 Uma estação de tratamento ecológica usa principalmente:",
+      "options": [
+        "Muitos produtos químicos",
+        "Processos naturais com plantas e bactérias boas",
+        "Máquinas poluentes",
+        "Energia suja"
+      ],
+      "correct_answer": 1,
+      "explanation": "🦠 A natureza é sábia! Bactérias benéficas e plantas trabalham juntas para limpar a água sem precisar de muitos produtos químicos.",
+      "difficulty": "médio"
+    },
+    {
+      "id": 15,
+      "section": "Tratamento de Esgoto Ecológico",
+      "question": "🔄 Após o tratamento, a água limpa pode ser:",
+      "options": [
+        "Devolvida aos rios com segurança",
+        "Jogada em qualquer lugar",
+        "Misturada com esgoto novo",
+        "Guardada para sempre"
+      ],
+      "correct_answer": 0,
+      "explanation": "🌊 Missão cumprida! Água bem tratada volta limpa aos rios, alimenta peixes, irriga plantações e continua o ciclo natural da vida.",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 16,
+      "section": "Transporte Sustentável",
+      "question": "Qual meio de transporte é mais sustentável para distâncias curtas na cidade?",
+      "options": [
+        "Carro movido a gasolina",
+        "Bicicleta",
+        "Moto muito barulhenta",
+        "Caminhão diesel"
+      ],
+      "correct_answer": 1,
+      "explanation": "🚴‍♀️ A bicicleta é campeã da sustentabilidade! Não polui, faz bem à saúde, economiza combustível e ainda ajuda no trânsito.",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 17,
+      "section": "Transporte Sustentável",
+      "question": "🏙️ Para transportar muitas pessoas, o mais sustentável é:",
+      "options": [
+        "Cada pessoa usar seu próprio carro",
+        "Transporte público (ônibus, metrô, trem)",
+        "Muitas motos pequenas",
+        "Caminhões individuais"
+      ],
+      "correct_answer": 1,
+      "explanation": "🚊 Transporte público é inteligente! Um ônibus carrega 40+ pessoas que, em carros, seriam 40 veículos poluindo. Menos poluição, menos trânsito!",
+      "difficulty": "médio"
+    },
+    {
+      "id": 18,
+      "section": "Transporte Sustentável",
+      "question": "⚡ Carros elétricos são mais sustentáveis porque:",
+      "options": [
+        "São mais rápidos",
+        "Não produzem gases poluentes durante o uso",
+        "São mais baratos",
+        "Fazem mais barulho"
+      ],
+      "correct_answer": 1,
+      "explanation": "🔋 Carros elétricos são o futuro! Não soltam fumaça poluente no ar, especialmente quando carregados com energia solar ou eólica.",
+      "difficulty": "médio"
+    },
+    {
+      "id": 19,
+      "section": "Transporte Sustentável",
+      "question": "🚶‍♀️ Caminhar pela cidade é sustentável porque:",
+      "options": [
+        "É mais devagar",
+        "Não produz poluição nenhuma e faz bem à saúde",
+        "É mais cansativo",
+        "Só funciona de dia"
+      ],
+      "correct_answer": 1,
+      "explanation": "👟 Caminhar é perfeito! Zero poluição, exercício gratuito, você conhece melhor sua cidade e ainda economiza dinheiro.",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 20,
+      "section": "Transporte Sustentável",
+      "question": "🛴 Patinetes elétricos compartilhados ajudam a sustentabilidade porque:",
+      "options": [
+        "Uma pessoa compra e muitas usam",
+        "São descartáveis",
+        "Poluem menos",
+        "São mais pesados"
+      ],
+      "correct_answer": 0,
+      "explanation": "🤝 Compartilhar é cuidar! Um patinete usado por várias pessoas substitui vários veículos particulares, reduzindo produção e poluição.",
+      "difficulty": "médio"
+    },
+    {
+      "id": 21,
+      "section": "Gestão de Resíduos e Reciclagem",
+      "question": "♻️ Qual a ordem correta dos 3 Rs da sustentabilidade?",
+      "options": [
+        "Reciclar, Reutilizar, Reduzir",
+        "Reduzir, Reutilizar, Reciclar",
+        "Reutilizar, Reduzir, Reciclar",
+        "Não importa a ordem"
+      ],
+      "correct_answer": 1,
+      "explanation": "🎯 A ordem é importante! 1° REDUZIR o que compramos, 2° REUTILIZAR o que já temos, 3° RECICLAR o que não serve mais.",
+      "difficulty": "médio"
+    },
+    {
+      "id": 22,
+      "section": "Gestão de Resíduos e Reciclagem",
+      "question": "🗂️ Garrafas de vidro devem ir para qual lixeira da coleta seletiva?",
+      "options": [
+        "Lixeira verde",
+        "Lixeira azul",
+        "Lixeira vermelha",
+        "Lixeira amarela"
+      ],
+      "correct_answer": 0,
+      "explanation": "💚 Verde para vidro! É fácil lembrar: garrafas, potes e cacos de vidro vão na lixeira verde da coleta seletiva.",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 23,
+      "section": "Gestão de Resíduos e Reciclagem",
+      "question": "📦 Caixas de papelão devem ir para qual cor na coleta seletiva?",
+      "options": [
+        "Azul",
+        "Verde",
+        "Vermelho",
+        "Amarelo"
+      ],
+      "correct_answer": 0,
+      "explanation": "💙 Azul para papel! Jornais, revistas, caixas de papelão e cadernos velhos vão todos na lixeira azul.",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 24,
+      "section": "Gestão de Resíduos e Reciclagem",
+      "question": "🥤 Garrafas PET (plástico) devem ir para qual lixeira?",
+      "options": [
+        "Verde",
+        "Azul",
+        "Vermelha",
+        "Amarela"
+      ],
+      "correct_answer": 2,
+      "explanation": "❤️ Vermelho para plástico! Garrafas PET, sacolas, potes e brinquedos de plástico vão na lixeira vermelha.",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 25,
+      "section": "Gestão de Resíduos e Reciclagem",
+      "question": "🥫 Latas de alumínio devem ir para qual cor?",
+      "options": [
+        "Verde",
+        "Azul",
+        "Vermelha",
+        "Amarela"
+      ],
+      "correct_answer": 3,
+      "explanation": "💛 Amarelo para metal! Latas de refrigerante, conservas e objetos de metal vão na lixeira amarela.",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 26,
+      "section": "Gestão de Resíduos e Reciclagem",
+      "question": "🍌 Restos de comida (lixo orgânico) podem virar:",
+      "options": [
+        "Adubo para plantas (compostagem)",
+        "Combustível para carros",
+        "Material de construção",
+        "Roupas novas"
+      ],
+      "correct_answer": 0,
+      "explanation": "🌱 Compostagem é mágica! Cascas de frutas, restos de verduras e folhas secas viram adubo natural para plantas crescerem.",
+      "difficulty": "médio"
+    },
+    {
+      "id": 27,
+      "section": "Gestão de Resíduos e Reciclagem",
+      "question": "🔋 Pilhas e baterias velhas devem ser:",
+      "options": [
+        "Jogadas no lixo comum",
+        "Levadas a pontos de coleta especiais",
+        "Queimadas",
+        "Enterradas no quintal"
+      ],
+      "correct_answer": 1,
+      "explanation": "⚠️ Pilhas são perigosas! Contêm metais tóxicos que poluem solo e água. Sempre leve a lojas ou postos de coleta especializados.",
+      "difficulty": "médio"
+    },
+    {
+      "id": 28,
+      "section": "Gestão de Resíduos e Reciclagem",
+      "question": "👕 Uma camiseta velha pode ser reutilizada como:",
+      "options": [
+        "Pano de limpeza",
+        "Fantasia criativa",
+        "Saco para compras",
+        "Todas as opções acima"
+      ],
+      "correct_answer": 3,
+      "explanation": "✨ Criatividade infinita! Roupas velhas podem virar panos, fantasias, sacolas, almofadas, brinquedos... Use sua imaginação!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 29,
+      "section": "Planejamento Urbano Verde",
+      "question": "🌳 Por que as cidades precisam de árvores?",
+      "options": [
+        "Só para decoração",
+        "Para limpar o ar, dar sombra e refrescar o ambiente",
+        "Para ocupar espaço",
+        "Não são importantes"
+      ],
+      "correct_answer": 1,
+      "explanation": "🍃 Árvores são super-heróis urbanos! Absorvem CO2, produzem oxigênio, dão sombra, refrescam o ar e ainda abrigam passarinhos.",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 30,
+      "section": "Planejamento Urbano Verde",
+      "question": "🏞️ O que são 'corredores verdes' em uma cidade sustentável?",
+      "options": [
+        "Ruas pintadas de verde",
+        "Caminhos conectando parques e áreas verdes",
+        "Corredores de prédios",
+        "Pontes coloridas"
+      ],
+      "correct_answer": 1,
+      "explanation": "🛤️ Corredores verdes são pontes da natureza! Conectam parques, praças e áreas verdes, permitindo que animais se movam e plantas se espalhem.",
+      "difficulty": "médio"
+    },
+    {
+      "id": 31,
+      "section": "Planejamento Urbano Verde",
+      "question": "🏢 'Telhados verdes' em prédios servem para:",
+      "options": [
+        "Apenas decoração",
+        "Isolar termicamente, captar chuva e purificar o ar",
+        "Ocupar espaço",
+        "Dificultar manutenção"
+      ],
+      "correct_answer": 1,
+      "explanation": "🌿 Telhados verdes são geniais! Mantêm o prédio fresco, captam água da chuva, filtram o ar e criam habitat para animais pequenos.",
+      "difficulty": "médio"
+    },
+    {
+      "id": 32,
+      "section": "Planejamento Urbano Verde",
+      "question": "🦋 Jardins com plantas nativas são importantes porque:",
+      "options": [
+        "São mais bonitas",
+        "Adaptam-se melhor ao clima local e atraem fauna nativa",
+        "São mais caras",
+        "Crescem mais devagar"
+      ],
+      "correct_answer": 1,
+      "explanation": "🌺 Plantas nativas são campeonas! Precisam de menos água, atraem borboletas e pássaros locais, e estão adaptadas ao nosso clima.",
+      "difficulty": "médio"
+    },
+    {
+      "id": 33,
+      "section": "Planejamento Urbano Verde",
+      "question": "🚶‍♂️ Calçadas com árvores incentivam as pessoas a:",
+      "options": [
+        "Usar mais carros",
+        "Caminhar mais (pela sombra e ambiente agradável)",
+        "Ficar em casa",
+        "Poluir mais"
+      ],
+      "correct_answer": 1,
+      "explanation": "🌞 Sombra convida à caminhada! Calçadas arborizadas são mais frescas e agradáveis, incentivando pessoas a andar a pé em vez de usar carros.",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 34,
+      "section": "Fontes de Energia Limpa",
+      "question": "🌡️ Painéis solares funcionam melhor quando:",
+      "options": [
+        "Está nublado",
+        "É noite",
+        "Há muito sol direto",
+        "Está chovendo"
+      ],
+      "correct_answer": 2,
+      "explanation": "☀️ Sol direto é o ideal! Quanto mais luz solar direta nos painéis, mais energia elétrica eles conseguem produzir para nossa casa.",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 35,
+      "section": "Gestão da Água nas Cidades",
+      "question": "🚿 Quanto tempo você deve demorar no banho para economizar água?",
+      "options": [
+        "30 minutos",
+        "20 minutos",
+        "5 minutos ou menos",
+        "1 hora"
+      ],
+      "correct_answer": 2,
+      "explanation": "⏱️ Banho rápido, planeta feliz! Em 5 minutos você se limpa bem e economiza muitos litros de água. Desligue o chuveiro para se ensaboar!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 36,
+      "section": "Tratamento de Esgoto Ecológico",
+      "question": "🌾 Que tipo de plantas são melhores para limpar água naturalmente?",
+      "options": [
+        "Plantas aquáticas (que vivem na água)",
+        "Cactos",
+        "Plantas artificiais",
+        "Flores coloridas apenas"
+      ],
+      "correct_answer": 0,
+      "explanation": "💧 Plantas aquáticas são filtros vivos! Aguapés, juncos e outras plantas de água absorvem poluentes pelas raízes, limpando naturalmente.",
+      "difficulty": "médio"
+    },
+    {
+      "id": 37,
+      "section": "Transporte Sustentável",
+      "question": "🚉 Uma cidade sustentável deve priorizar:",
+      "options": [
+        "Mais estacionamentos para carros",
+        "Ciclovias e transporte público eficiente",
+        "Ruas só para carros grandes",
+        "Menos calçadas"
+      ],
+      "correct_answer": 1,
+      "explanation": "🚴‍♂️ Transporte inteligente! Ciclovias seguras e bom transporte público incentivam pessoas a deixar o carro em casa, reduzindo poluição.",
+      "difficulty": "médio"
+    },
+    {
+      "id": 38,
+      "section": "Gestão de Resíduos e Reciclagem",
+      "question": "📱 Um celular velho pode ser:",
+      "options": [
+        "Jogado no lixo comum",
+        "Doado, vendido ou levado para reciclagem especializada",
+        "Enterrado no jardim",
+        "Queimado"
+      ],
+      "correct_answer": 1,
+      "explanation": "📲 Eletrônicos merecem cuidado especial! Celulares contêm metais valiosos que podem ser reciclados e materiais tóxicos que precisam de tratamento adequado.",
+      "difficulty": "médio"
+    },
+    {
+      "id": 39,
+      "section": "Planejamento Urbano Verde",
+      "question": "🏫 Uma escola sustentável deve ter:",
+      "options": [
+        "Apenas concreto",
+        "Jardim, horta, coleta seletiva e energia limpa",
+        "Muitas máquinas barulhentas",
+        "Lixo espalhado"
+      ],
+      "correct_answer": 1,
+      "explanation": "🌱 Escola verde educa para a vida! Hortas ensinam sobre alimentos, jardins sobre natureza, e coleta seletiva sobre responsabilidade ambiental.",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 40,
+      "section": "Fontes de Energia Limpa",
+      "question": "🏭 Fábricas sustentáveis podem usar energia:",
+      "options": [
+        "Só de carvão",
+        "Solar, eólica e outras fontes limpas",
+        "Apenas de combustíveis fósseis",
+        "Sem se preocupar com a fonte"
+      ],
+      "correct_answer": 1,
+      "explanation": "🏭 Indústria responsável! Fábricas modernas usam painéis solares, energia eólica e outras fontes limpas para produzir sem prejudicar o ambiente.",
+      "difficulty": "médio"
+    },
+    {
+      "id": 41,
+      "section": "Gestão da Água nas Cidades",
+      "question": "🏊‍♀️ Piscinas sustentáveis podem usar:",
+      "options": [
+        "Água tratada com muito cloro sempre",
+        "Sistemas naturais de limpeza com plantas",
+        "Água suja",
+        "Produtos químicos tóxicos"
+      ],
+      "correct_answer": 1,
+      "explanation": "🌿 Piscinas biológicas são incríveis! Usam plantas aquáticas e processos naturais para manter a água limpa, como lagos naturais.",
+      "difficulty": "difícil"
+    },
+    {
+      "id": 42,
+      "section": "Tratamento de Esgoto Ecológico",
+      "question": "🐸 Um sinal de que um rio está limpo e bem tratado é:",
+      "options": [
+        "Não ter vida aquática",
+        "Peixes, sapos e plantas aquáticas vivendo nele",
+        "Água com mau cheiro",
+        "Cor estranha"
+      ],
+      "correct_answer": 1,
+      "explanation": "🐟 Vida aquática é indicador de saúde! Quando peixes, sapos, libélulas e plantas vivem no rio, significa que a água está limpa e saudável.",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 43,
+      "section": "Transporte Sustentável",
+      "question": "🛵 Qual combustível é mais limpo para motos e carros?",
+      "options": [
+        "Gasolina comum",
+        "Etanol (feito de plantas) ou eletricidade",
+        "Diesel comum",
+        "Óleo usado"
+      ],
+      "correct_answer": 1,
+      "explanation": "🌽 Etanol vem de plantas que absorveram CO2 para crescer! E carros elétricos com energia limpa são ainda melhores para o ar que respiramos.",
+      "difficulty": "médio"
+    },
+    {
+      "id": 44,
+      "section": "Gestão de Resíduos e Reciclagem",
+      "question": "🧴 Para reduzir lixo plástico, você pode:",
+      "options": [
+        "Usar mais sacolas descartáveis",
+        "Levar sua própria sacola reutilizável às compras",
+        "Comprar mais produtos com embalagem",
+        "Jogar plástico na natureza"
+      ],
+      "correct_answer": 1,
+      "explanation": "🛍️ Sacola reutilizável é super! Uma sacola de pano ou reutilizável substitui centenas de sacolas plásticas ao longo da vida.",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 45,
+      "section": "Planejamento Urbano Verde",
+      "question": "🌸 Parques urbanos são importantes porque:",
+      "options": [
+        "Ocupam espaço inutilmente",
+        "Oferecem lazer, ar puro e contato com a natureza",
+        "São caros de manter",
+        "Atraem problemas"
+      ],
+      "correct_answer": 1,
+      "explanation": "🏃‍♀️ Parques são pulmões da cidade! Proporcionam exercício, ar limpo, relaxamento e conectam pessoas com a natureza, melhorando qualidade de vida.",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 46,
+      "section": "Fontes de Energia Limpa",
+      "question": "🔋 Baterias para armazenar energia solar são importantes porque:",
+      "options": [
+        "O sol não brilha 24 horas por dia",
+        "São pesadas",
+        "São caras",
+        "Fazem barulho"
+      ],
+      "correct_answer": 0,
+      "explanation": "🌙 Energia para a noite! Baterias guardam energia solar do dia para usar à noite ou em dias nublados, garantindo energia limpa sempre.",
+      "difficulty": "médio"
+    },
+    {
+      "id": 47,
+      "section": "Gestão da Água nas Cidades",
+      "question": "🌊 Rios urbanos limpos podem ser usados para:",
+      "options": [
+        "Despejar mais esgoto",
+        "Recreação, pesca e fonte de água tratada",
+        "Jogar lixo",
+        "Apenas olhar"
+      ],
+      "correct_answer": 1,
+      "explanation": "🎣 Rios vivos transformam cidades! Rios limpos oferecem pesca, passeios de barco, esportes aquáticos e água para tratamento e reúso.",
+      "difficulty": "médio"
+    },
+    {
+      "id": 48,
+      "section": "Transporte Sustentável",
+      "question": "🚇 Metrôs e trens são sustentáveis porque:",
+      "options": [
+        "Transportam muitas pessoas com pouca energia por pessoa",
+        "São mais lentos",
+        "Fazem mais barulho",
+        "Usam mais combustível"
+      ],
+      "correct_answer": 0,
+      "explanation": "🚅 Eficiência coletiva! Um trem carrega centenas de pessoas usando menos energia por passageiro que carros individuais. É matemática verde!",
+      "difficulty": "médio"
+    },
+    {
+      "id": 49,
+      "section": "Gestão de Resíduos e Reciclagem",
+      "question": "♻️ O símbolo da reciclagem tem três setas porque representa:",
+      "options": [
+        "Três cores diferentes",
+        "Reduzir, Reutilizar, Reciclar",
+        "Três tipos de lixo",
+        "Três pessoas"
+      ],
+      "correct_answer": 1,
+      "explanation": "🔄 Ciclo perfeito! As três setas simbolizam o ciclo: REDUZIR consumo → REUTILIZAR produtos → RECICLAR materiais. É o círculo da sustentabilidade!",
+      "difficulty": "médio"
+    },
+    {
+      "id": 50,
+      "section": "Planejamento Urbano Verde",
+      "question": "🌟 Uma cidade verdadeiramente sustentável é aquela que:",
+      "options": [
+        "Só pensa no presente",
+        "Cuida do planeta para as futuras gerações",
+        "Ignora o meio ambiente",
+        "Polui sem controle"
+      ],
+      "correct_answer": 1,
+      "explanation": "🌍 Pensando no futuro! Uma cidade sustentável planeja hoje para que nossos filhos e netos tenham ar limpo, água pura e um planeta saudável para viver. É o nosso presente para o futuro! 🎁",
+      "difficulty": "fácil"
+    }
+  ],
+  "evaluation": {
+    "include_evaluation": false
+  },
+  "settings": {
+    "public": true,
+    "allow_multiple_responses": false,
+    "show_progress_bar": true,
+    "collect_email": true,
+    "require_login": true
+  }
+}
