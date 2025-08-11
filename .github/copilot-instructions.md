@@ -48,5 +48,10 @@ This project integrates with Google Forms API to create and manage forms program
   - `python form.py pronomes` (creates form from forms/pronomes.json)
   - `python form.py verbos_e_logica_reforco` (creates reinforcement quiz)
 * The script automatically handles file paths, authentication, and form creation
+* **ASYNCHRONOUS PROCESSING:** Forms are generated asynchronously by Google's API
+  - Execute the command once and wait for completion
+  - Do NOT run the same command multiple times
+  - Google processes the form in the background
+  - Check `ultimo_formulario_criado.txt` for completion status
 * Results are saved in `ultimo_formulario_criado.txt` with links and details
 * If form generation fails, check the terminal output for specific error messages

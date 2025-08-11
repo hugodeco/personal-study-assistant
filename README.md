@@ -86,6 +86,17 @@ python form.py nome_do_quiz
 
 **❌ NÃO use o generator.py diretamente - use sempre o form.py da raiz!**
 
+### 🔄 Processamento Assíncrono
+
+**IMPORTANTE:** Os formulários são gerados de forma assíncrona pela API do Google Forms!
+
+- ✅ **Comando único**: Execute o comando uma vez e aguarde
+- ⏱️ **Processamento automático**: O Google processa o formulário em background
+- 🚫 **Não execute novamente**: Evite rodar o mesmo comando múltiplas vezes
+- 📄 **Verificação**: O arquivo `ultimo_formulario_criado.txt` é atualizado quando concluído
+
+**Dica:** Após executar o comando, aguarde alguns segundos para que o formulário seja processado completamente pela API do Google antes de verificar o resultado.
+
 ### 📋 Resultado do Último Formulário Criado
 
 Após cada execução bem-sucedida, o arquivo `ultimo_formulario_criado.txt` é atualizado com:

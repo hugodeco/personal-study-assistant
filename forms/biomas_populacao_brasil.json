@@ -1,0 +1,1140 @@
+{
+  "metadata": {
+    "title": "🌳 Biomas e População do Brasil: Natureza e Sociedade",
+    "description": [
+      "Explore os biomas brasileiros e compreenda como a população se organiza no território nacional!",
+      "Descubra a riqueza da nossa vegetação, a diversidade dos biomas e como as pessoas vivem em diferentes espaços.",
+      "Aprenda sobre preservação ambiental, crescimento populacional e a relação entre natureza e sociedade."
+    ],
+    "subject": "Geografia",
+    "grade": "5ª série",
+    "topic": "Biomas Brasileiros e População",
+    "author": "IA",
+    "version": "1.0",
+    "created_date": "2025-08-11"
+  },
+  "content": {
+    "introduction": "Bem-vindo a uma viagem pelo Brasil! Vamos descobrir nossos incríveis biomas - as 'casas' da natureza - e entender como nossa população se distribui pelo território. Cada bioma é único, com plantas e animais especiais, e as pessoas se adaptaram de formas diferentes a cada ambiente!",
+    "instructions": [
+      "Leia cada questão com atenção e observe as imagens mentalmente.",
+      "Pense na relação entre vegetação, clima e população.",
+      "Use seus conhecimentos sobre o Brasil para responder.",
+      "Lembre-se das características de cada bioma e região.",
+      "Conecte os conceitos de natureza e sociedade."
+    ],
+    "sections": [
+      {
+        "name": "Biomas Brasileiros",
+        "description": "Conhecendo nossos principais biomas e suas características únicas."
+      },
+      {
+        "name": "Floresta Amazônica",
+        "description": "O maior bioma brasileiro e sua importância mundial."
+      },
+      {
+        "name": "Cerrado e Caatinga",
+        "description": "Biomas do interior: savanas e semiárido brasileiro."
+      },
+      {
+        "name": "Mata Atlântica e Outros Biomas",
+        "description": "Bioma costeiro e demais formações vegetais do Brasil."
+      },
+      {
+        "name": "Preservação Ambiental",
+        "description": "Importância de cuidar dos nossos biomas e recursos naturais."
+      },
+      {
+        "name": "População Brasileira",
+        "description": "Características da nossa população e sua distribuição."
+      },
+      {
+        "name": "Rural x Urbano",
+        "description": "Diferenças entre campo e cidade no Brasil."
+      },
+      {
+        "name": "Grandes Cidades",
+        "description": "Principais centros urbanos brasileiros e suas características."
+      },
+      {
+        "name": "Migração e Crescimento",
+        "description": "Movimentos populacionais e crescimento das cidades."
+      }
+    ]
+  },
+  "questions": [
+    {
+      "id": 1,
+      "section": "Biomas Brasileiros",
+      "question": "🌱 O que é um bioma?",
+      "options": [
+        "Apenas um tipo de animal",
+        "Um conjunto de plantas, animais e clima de uma região",
+        "Somente a vegetação de um local",
+        "Apenas o clima de uma área"
+      ],
+      "correct_answer": 1,
+      "explanation": "🌍 Bioma é um conjunto formado pela vegetação, animais, clima, solo e outros elementos naturais que caracterizam uma região!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 2,
+      "section": "Biomas Brasileiros",
+      "question": "🇧🇷 Quantos biomas principais o Brasil possui?",
+      "options": [
+        "4 biomas",
+        "5 biomas",
+        "6 biomas",
+        "7 biomas"
+      ],
+      "correct_answer": 2,
+      "explanation": "🌿 O Brasil possui 6 biomas principais: Amazônia, Cerrado, Caatinga, Mata Atlântica, Pampa e Pantanal!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 3,
+      "section": "Biomas Brasileiros",
+      "question": "🌎 Qual é o maior bioma brasileiro?",
+      "options": [
+        "Cerrado",
+        "Amazônia",
+        "Mata Atlântica",
+        "Caatinga"
+      ],
+      "correct_answer": 1,
+      "explanation": "🌳 A Amazônia é o maior bioma brasileiro, ocupando cerca de 49% do território nacional!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 4,
+      "section": "Biomas Brasileiros",
+      "question": "🌿 Qual bioma é conhecido como 'savana brasileira'?",
+      "options": [
+        "Pantanal",
+        "Cerrado",
+        "Pampa",
+        "Caatinga"
+      ],
+      "correct_answer": 1,
+      "explanation": "🌾 O Cerrado é chamado de savana brasileira por ter árvores esparsas, arbustos e gramíneas, similar às savanas africanas!",
+      "difficulty": "médio"
+    },
+    {
+      "id": 5,
+      "section": "Biomas Brasileiros",
+      "question": "🏜️ Qual bioma está adaptado ao clima semiárido?",
+      "options": [
+        "Mata Atlântica",
+        "Caatinga",
+        "Pantanal",
+        "Amazônia"
+      ],
+      "correct_answer": 1,
+      "explanation": "🌵 A Caatinga está adaptada ao clima semiárido do Nordeste, com plantas que resistem à seca!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 6,
+      "section": "Biomas Brasileiros",
+      "question": "🌊 Qual bioma sofreu maior desmatamento e está mais ameaçado?",
+      "options": [
+        "Amazônia",
+        "Cerrado",
+        "Mata Atlântica",
+        "Pampa"
+      ],
+      "correct_answer": 2,
+      "explanation": "😢 A Mata Atlântica perdeu mais de 85% de sua cobertura original, sendo o bioma mais ameaçado do Brasil!",
+      "difficulty": "médio"
+    },
+    {
+      "id": 7,
+      "section": "Biomas Brasileiros",
+      "question": "🐄 Qual bioma é caracterizado por campos e pastagens no sul do Brasil?",
+      "options": [
+        "Cerrado",
+        "Pampa",
+        "Pantanal",
+        "Caatinga"
+      ],
+      "correct_answer": 1,
+      "explanation": "🌱 O Pampa, localizado no Rio Grande do Sul, é caracterizado por campos naturais e pastagens!",
+      "difficulty": "médio"
+    },
+    {
+      "id": 8,
+      "section": "Biomas Brasileiros",
+      "question": "🦆 Qual bioma é conhecido como 'planície inundável'?",
+      "options": [
+        "Pantanal",
+        "Amazônia",
+        "Cerrado",
+        "Mata Atlântica"
+      ],
+      "correct_answer": 0,
+      "explanation": "💧 O Pantanal é uma planície que alaga durante as chuvas, criando um ambiente único para a vida aquática!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 9,
+      "section": "Floresta Amazônica",
+      "question": "🌳 A Floresta Amazônica é conhecida mundialmente como:",
+      "options": [
+        "Deserto verde",
+        "Pulmão do mundo",
+        "Jardim do Brasil",
+        "Floresta seca"
+      ],
+      "correct_answer": 1,
+      "explanation": "🫁 A Amazônia é chamada de 'pulmão do mundo' por produzir muito oxigênio e absorver gás carbônico!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 10,
+      "section": "Floresta Amazônica",
+      "question": "🌍 Em quantos países a Floresta Amazônica se estende?",
+      "options": [
+        "Apenas no Brasil",
+        "Em 6 países",
+        "Em 9 países",
+        "Em 12 países"
+      ],
+      "correct_answer": 2,
+      "explanation": "🗺️ A Amazônia se estende por 9 países sul-americanos, sendo o Brasil o que possui a maior parte!",
+      "difficulty": "médio"
+    },
+    {
+      "id": 11,
+      "section": "Floresta Amazônica",
+      "question": "🌧️ Qual é o clima predominante na Amazônia?",
+      "options": [
+        "Semiárido",
+        "Tropical seco",
+        "Equatorial úmido",
+        "Temperado"
+      ],
+      "correct_answer": 2,
+      "explanation": "☔ O clima equatorial úmido da Amazônia é quente e chuvoso durante todo o ano!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 12,
+      "section": "Floresta Amazônica",
+      "question": "🐆 A Amazônia é importante porque possui:",
+      "options": [
+        "Apenas árvores grandes",
+        "A maior biodiversidade do planeta",
+        "Somente animais aquáticos",
+        "Poucas espécies de plantas"
+      ],
+      "correct_answer": 1,
+      "explanation": "🦋 A Amazônia abriga a maior biodiversidade do mundo, com milhões de espécies de plantas e animais!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 13,
+      "section": "Floresta Amazônica",
+      "question": "🏞️ O Rio Amazonas é importante para a região porque:",
+      "options": [
+        "É apenas um rio pequeno",
+        "É a principal via de transporte e fonte de vida",
+        "Não tem peixes",
+        "Está sempre seco"
+      ],
+      "correct_answer": 1,
+      "explanation": "🚢 O Rio Amazonas é fundamental para transporte, pesca, agricultura e toda a vida na região amazônica!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 14,
+      "section": "Floresta Amazônica",
+      "question": "👥 As populações tradicionais da Amazônia incluem:",
+      "options": [
+        "Apenas pessoas da cidade",
+        "Indígenas, ribeirinhos e quilombolas",
+        "Somente estrangeiros",
+        "Apenas fazendeiros"
+      ],
+      "correct_answer": 1,
+      "explanation": "🏘️ A Amazônia é lar de povos indígenas, ribeirinhos, quilombolas e outras comunidades tradicionais!",
+      "difficulty": "médio"
+    },
+    {
+      "id": 15,
+      "section": "Floresta Amazônica",
+      "question": "🌿 A vegetação amazônica é caracterizada por:",
+      "options": [
+        "Árvores baixas e esparsas",
+        "Árvores altas e densas",
+        "Apenas gramíneas",
+        "Plantas do deserto"
+      ],
+      "correct_answer": 1,
+      "explanation": "🌲 A floresta amazônica tem árvores muito altas e densas, formando uma cobertura que bloqueia a luz solar!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 16,
+      "section": "Cerrado e Caatinga",
+      "question": "🌾 O Cerrado ocupa principalmente qual região do Brasil?",
+      "options": [
+        "Região Norte",
+        "Região Centro-Oeste",
+        "Região Sul",
+        "Região Nordeste"
+      ],
+      "correct_answer": 1,
+      "explanation": "🗺️ O Cerrado está principalmente na região Centro-Oeste, estendendo-se também para outras regiões!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 17,
+      "section": "Cerrado e Caatinga",
+      "question": "🌳 As árvores do Cerrado têm troncos:",
+      "options": [
+        "Muito finos e lisos",
+        "Grossos e retorcidos",
+        "Sem cascas",
+        "Sempre verdes"
+      ],
+      "correct_answer": 1,
+      "explanation": "🌿 As árvores do Cerrado têm troncos grossos e retorcidos para armazenar água e resistir ao fogo!",
+      "difficulty": "médio"
+    },
+    {
+      "id": 18,
+      "section": "Cerrado e Caatinga",
+      "question": "🔥 O Cerrado tem uma característica natural importante:",
+      "options": [
+        "Nunca pega fogo",
+        "É resistente a queimadas naturais",
+        "Só cresce na sombra",
+        "Não tem animais"
+      ],
+      "correct_answer": 1,
+      "explanation": "🔥 O Cerrado evoluiu com o fogo natural, sendo resistente a queimadas que fazem parte do seu ciclo!",
+      "difficulty": "médio"
+    },
+    {
+      "id": 19,
+      "section": "Cerrado e Caatinga",
+      "question": "🏜️ A Caatinga está localizada principalmente em:",
+      "options": [
+        "Região Sul",
+        "Região Nordeste",
+        "Região Norte",
+        "Região Sudeste"
+      ],
+      "correct_answer": 1,
+      "explanation": "🌵 A Caatinga é o bioma característico do semiárido nordestino!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 20,
+      "section": "Cerrado e Caatinga",
+      "question": "💧 Durante a seca, as plantas da Caatinga:",
+      "options": [
+        "Morrem todas",
+        "Perdem as folhas para economizar água",
+        "Crescem mais rápido",
+        "Mudam de cor permanentemente"
+      ],
+      "correct_answer": 1,
+      "explanation": "🍃 Na seca, as plantas da Caatinga perdem folhas para economizar água, voltando a brotar nas chuvas!",
+      "difficulty": "médio"
+    },
+    {
+      "id": 21,
+      "section": "Cerrado e Caatinga",
+      "question": "🌵 Qual planta é típica da Caatinga?",
+      "options": [
+        "Pinheiro",
+        "Mandacaru",
+        "Samambaia",
+        "Lírio d'água"
+      ],
+      "correct_answer": 1,
+      "explanation": "🌵 O mandacaru é um cacto típico da Caatinga, adaptado às condições secas do semiárido!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 22,
+      "section": "Cerrado e Caatinga",
+      "question": "🐺 Qual animal é símbolo do Cerrado?",
+      "options": [
+        "Onça-pintada",
+        "Lobo-guará",
+        "Preguiça",
+        "Boto-cor-de-rosa"
+      ],
+      "correct_answer": 1,
+      "explanation": "🦊 O lobo-guará, com suas pernas longas, é o maior canídeo da América do Sul e símbolo do Cerrado!",
+      "difficulty": "médio"
+    },
+    {
+      "id": 23,
+      "section": "Cerrado e Caatinga",
+      "question": "🌾 O Cerrado é importante para a agricultura porque:",
+      "options": [
+        "Tem solos naturalmente férteis",
+        "Com correção, pode ser usado para plantio",
+        "Não serve para agricultura",
+        "Só produz cactos"
+      ],
+      "correct_answer": 1,
+      "explanation": "🚜 Com correção do solo e técnicas adequadas, o Cerrado se tornou uma grande região agrícola!",
+      "difficulty": "médio"
+    },
+    {
+      "id": 24,
+      "section": "Mata Atlântica e Outros Biomas",
+      "question": "🌊 A Mata Atlântica está localizada principalmente:",
+      "options": [
+        "No interior do país",
+        "Na região costeira",
+        "Apenas no Nordeste",
+        "Só no Sul"
+      ],
+      "correct_answer": 1,
+      "explanation": "🏖️ A Mata Atlântica acompanha a costa brasileira, do Rio Grande do Norte ao Rio Grande do Sul!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 25,
+      "section": "Mata Atlântica e Outros Biomas",
+      "question": "🌧️ O clima da Mata Atlântica é:",
+      "options": [
+        "Seco o ano todo",
+        "Tropical úmido",
+        "Frio e seco",
+        "Desértico"
+      ],
+      "correct_answer": 1,
+      "explanation": "🌦️ A Mata Atlântica tem clima tropical úmido, com boa quantidade de chuvas!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 26,
+      "section": "Mata Atlântica e Outros Biomas",
+      "question": "🏙️ A Mata Atlântica foi muito destruída porque:",
+      "options": [
+        "Não tinha árvores",
+        "Foi onde se concentrou a colonização e urbanização",
+        "Era muito pequena",
+        "Não servia para nada"
+      ],
+      "correct_answer": 1,
+      "explanation": "🏘️ A Mata Atlântica foi devastada pela colonização, crescimento das cidades e agricultura!",
+      "difficulty": "médio"
+    },
+    {
+      "id": 27,
+      "section": "Mata Atlântica e Outros Biomas",
+      "question": "🐒 Qual animal é típico da Mata Atlântica?",
+      "options": [
+        "Capivara",
+        "Mico-leão-dourado",
+        "Tucano",
+        "Todos os anteriores"
+      ],
+      "correct_answer": 3,
+      "explanation": "🦜 A Mata Atlântica abriga muitas espécies como mico-leão-dourado, tucanos e capivaras!",
+      "difficulty": "médio"
+    },
+    {
+      "id": 28,
+      "section": "Mata Atlântica e Outros Biomas",
+      "question": "💧 O Pantanal é importante porque:",
+      "options": [
+        "É seco o ano todo",
+        "É uma das maiores áreas úmidas do mundo",
+        "Não tem vida animal",
+        "Fica sempre congelado"
+      ],
+      "correct_answer": 1,
+      "explanation": "🦆 O Pantanal é uma das maiores áreas úmidas do planeta, berçário de muitas espécies!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 29,
+      "section": "Mata Atlântica e Outros Biomas",
+      "question": "🌾 O Pampa é caracterizado por:",
+      "options": [
+        "Florestas densas",
+        "Campos e pastagens naturais",
+        "Desertos",
+        "Pântanos"
+      ],
+      "correct_answer": 1,
+      "explanation": "🐄 O Pampa gaúcho é formado por campos naturais, ideais para a pecuária!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 30,
+      "section": "Mata Atlântica e Outros Biomas",
+      "question": "🏔️ Onde encontramos os campos de altitude no Brasil?",
+      "options": [
+        "Nas montanhas da Mata Atlântica",
+        "No Pantanal",
+        "Na Caatinga",
+        "No Cerrado"
+      ],
+      "correct_answer": 0,
+      "explanation": "⛰️ Os campos de altitude estão nas montanhas da Mata Atlântica, com vegetação adaptada ao frio!",
+      "difficulty": "difícil"
+    },
+    {
+      "id": 31,
+      "section": "Preservação Ambiental",
+      "question": "🌍 Por que é importante preservar os biomas?",
+      "options": [
+        "Apenas para ter árvores",
+        "Para manter a biodiversidade e o equilíbrio ambiental",
+        "Só para os animais",
+        "Não é importante"
+      ],
+      "correct_answer": 1,
+      "explanation": "🔄 Preservar biomas mantém a biodiversidade, o clima, a água e toda a vida na Terra!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 32,
+      "section": "Preservação Ambiental",
+      "question": "🦋 O que significa biodiversidade?",
+      "options": [
+        "Apenas plantas",
+        "Variedade de seres vivos em um ambiente",
+        "Só animais grandes",
+        "Apenas insetos"
+      ],
+      "correct_answer": 1,
+      "explanation": "🌿 Biodiversidade é a variedade de plantas, animais e microorganismos que vivem em um ambiente!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 33,
+      "section": "Preservação Ambiental",
+      "question": "🏞️ O que são Unidades de Conservação?",
+      "options": [
+        "Fábricas",
+        "Áreas protegidas para preservar a natureza",
+        "Cidades",
+        "Estradas"
+      ],
+      "correct_answer": 1,
+      "explanation": "🛡️ Unidades de Conservação são áreas protegidas por lei para preservar a fauna, flora e ecossistemas!",
+      "difficulty": "médio"
+    },
+    {
+      "id": 34,
+      "section": "Preservação Ambiental",
+      "question": "♻️ Qual atitude ajuda na preservação dos biomas?",
+      "options": [
+        "Desmatar áreas",
+        "Reciclagem e consumo consciente",
+        "Jogar lixo na natureza",
+        "Caçar animais"
+      ],
+      "correct_answer": 1,
+      "explanation": "🌱 Reciclar, consumir conscientemente e respeitar a natureza ajudam na preservação!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 35,
+      "section": "Preservação Ambiental",
+      "question": "🌡️ O desmatamento contribui para:",
+      "options": [
+        "Melhoria do clima",
+        "Mudanças climáticas",
+        "Mais chuvas",
+        "Temperaturas mais baixas"
+      ],
+      "correct_answer": 1,
+      "explanation": "🔥 O desmatamento contribui para o aquecimento global e mudanças no clima!",
+      "difficulty": "médio"
+    },
+    {
+      "id": 36,
+      "section": "Preservação Ambiental",
+      "question": "🔬 Por que estudar e conhecer os biomas é importante?",
+      "options": [
+        "Não é importante",
+        "Para poder protegê-los melhor",
+        "Só para passar em provas",
+        "Apenas por curiosidade"
+      ],
+      "correct_answer": 1,
+      "explanation": "📚 Conhecer os biomas nos ajuda a entender sua importância e como protegê-los!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 37,
+      "section": "Preservação Ambiental",
+      "question": "🏭 Qual atividade humana mais ameaça os biomas?",
+      "options": [
+        "Educação ambiental",
+        "Desmatamento e poluição",
+        "Turismo ecológico",
+        "Pesquisa científica"
+      ],
+      "correct_answer": 1,
+      "explanation": "⚠️ Desmatamento, poluição e uso inadequado dos recursos são as maiores ameaças aos biomas!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 38,
+      "section": "População Brasileira",
+      "question": "👥 Quantos habitantes o Brasil tem aproximadamente?",
+      "options": [
+        "100 milhões",
+        "150 milhões",
+        "215 milhões",
+        "300 milhões"
+      ],
+      "correct_answer": 2,
+      "explanation": "🇧🇷 O Brasil tem aproximadamente 215 milhões de habitantes, sendo o 5º país mais populoso do mundo!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 39,
+      "section": "População Brasileira",
+      "question": "📊 A população brasileira está distribuída de forma:",
+      "options": [
+        "Igual em todo território",
+        "Concentrada principalmente no litoral",
+        "Só no interior",
+        "Apenas no Norte"
+      ],
+      "correct_answer": 1,
+      "explanation": "🏖️ A população brasileira se concentra principalmente na região costeira e Sudeste!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 40,
+      "section": "População Brasileira",
+      "question": "🌍 A população brasileira é formada por:",
+      "options": [
+        "Apenas europeus",
+        "Mistura de povos: indígenas, africanos, europeus e outros",
+        "Só africanos",
+        "Apenas asiáticos"
+      ],
+      "correct_answer": 1,
+      "explanation": "🤝 O Brasil é um país miscigenado, formado pela mistura de vários povos ao longo da história!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 41,
+      "section": "População Brasileira",
+      "question": "📈 Atualmente, a população brasileira está:",
+      "options": [
+        "Diminuindo rapidamente",
+        "Crescendo mais devagar que no passado",
+        "Crescendo muito rápido",
+        "Não mudando"
+      ],
+      "correct_answer": 1,
+      "explanation": "📉 A taxa de crescimento populacional brasileira diminuiu, com menos filhos por família!",
+      "difficulty": "médio"
+    },
+    {
+      "id": 42,
+      "section": "População Brasileira",
+      "question": "👶 A estrutura etária brasileira mostra que:",
+      "options": [
+        "Só temos idosos",
+        "A população está envelhecendo",
+        "Só temos crianças",
+        "Não há jovens"
+      ],
+      "correct_answer": 1,
+      "explanation": "👴 O Brasil está passando por um envelhecimento populacional, com mais idosos e menos crianças!",
+      "difficulty": "médio"
+    },
+    {
+      "id": 43,
+      "section": "População Brasileira",
+      "question": "📍 Qual região brasileira é mais populosa?",
+      "options": [
+        "Norte",
+        "Nordeste",
+        "Sudeste",
+        "Sul"
+      ],
+      "correct_answer": 2,
+      "explanation": "🏙️ A região Sudeste é a mais populosa, concentrando cerca de 42% da população brasileira!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 44,
+      "section": "População Brasileira",
+      "question": "🏞️ Qual região tem menor densidade populacional?",
+      "options": [
+        "Sudeste",
+        "Norte",
+        "Sul",
+        "Nordeste"
+      ],
+      "correct_answer": 1,
+      "explanation": "🌳 A região Norte tem a menor densidade populacional devido à Floresta Amazônica e grandes distâncias!",
+      "difficulty": "médio"
+    },
+    {
+      "id": 45,
+      "section": "Rural x Urbano",
+      "question": "🏙️ Atualmente, a maioria dos brasileiros vive:",
+      "options": [
+        "Na zona rural",
+        "Na zona urbana",
+        "Igualmente dividida",
+        "Nas florestas"
+      ],
+      "correct_answer": 1,
+      "explanation": "🏢 Cerca de 85% dos brasileiros vivem em cidades, caracterizando o Brasil como país urbano!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 46,
+      "section": "Rural x Urbano",
+      "question": "🌾 A zona rural se caracteriza por:",
+      "options": [
+        "Muitos prédios",
+        "Atividades agropecuárias e menor densidade populacional",
+        "Apenas indústrias",
+        "Shoppings centers"
+      ],
+      "correct_answer": 1,
+      "explanation": "🚜 A zona rural se dedica à agricultura, pecuária e tem menos habitantes por km²!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 47,
+      "section": "Rural x Urbano",
+      "question": "🏘️ A zona urbana oferece principalmente:",
+      "options": [
+        "Apenas plantações",
+        "Serviços, comércio, indústrias e empregos variados",
+        "Só criação de animais",
+        "Apenas escolas rurais"
+      ],
+      "correct_answer": 1,
+      "explanation": "🏬 As cidades oferecem maior variedade de empregos, serviços, escolas e oportunidades!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 48,
+      "section": "Rural x Urbano",
+      "question": "🚜 Por que algumas pessoas preferem viver no campo?",
+      "options": [
+        "Não há motivos",
+        "Vida mais tranquila, contato com a natureza",
+        "Mais poluição",
+        "Menos espaço"
+      ],
+      "correct_answer": 1,
+      "explanation": "🌿 O campo oferece tranquilidade, ar puro, contato com a natureza e ritmo de vida diferente!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 49,
+      "section": "Rural x Urbano",
+      "question": "🏥 Uma vantagem da vida urbana é:",
+      "options": [
+        "Mais poluição",
+        "Melhor acesso a serviços de saúde e educação",
+        "Menos oportunidades",
+        "Só trânsito"
+      ],
+      "correct_answer": 1,
+      "explanation": "🏥 As cidades oferecem mais hospitais, escolas, universidades e serviços especializados!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 50,
+      "section": "Rural x Urbano",
+      "question": "🌱 A zona rural é importante para as cidades porque:",
+      "options": [
+        "Não tem importância",
+        "Produz alimentos e matérias-primas",
+        "Só atrapalha",
+        "Gasta muita água"
+      ],
+      "correct_answer": 1,
+      "explanation": "🥕 O campo produz os alimentos e matérias-primas que as cidades consomem!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 51,
+      "section": "Grandes Cidades",
+      "question": "🏙️ Qual é a cidade mais populosa do Brasil?",
+      "options": [
+        "Rio de Janeiro",
+        "São Paulo",
+        "Brasília",
+        "Salvador"
+      ],
+      "correct_answer": 1,
+      "explanation": "🏢 São Paulo é a cidade mais populosa do Brasil, com mais de 12 milhões de habitantes!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 52,
+      "section": "Grandes Cidades",
+      "question": "🌆 O que é uma região metropolitana?",
+      "options": [
+        "Uma cidade pequena",
+        "Uma grande cidade e municípios vizinhos integrados",
+        "Apenas o centro da cidade",
+        "Uma fazenda grande"
+      ],
+      "correct_answer": 1,
+      "explanation": "🗺️ Região metropolitana é uma grande cidade cercada por municípios menores que formam um conjunto urbano!",
+      "difficulty": "médio"
+    },
+    {
+      "id": 53,
+      "section": "Grandes Cidades",
+      "question": "🏛️ Qual é a capital do Brasil?",
+      "options": [
+        "São Paulo",
+        "Rio de Janeiro",
+        "Brasília",
+        "Salvador"
+      ],
+      "correct_answer": 2,
+      "explanation": "🏛️ Brasília é a capital federal do Brasil desde 1960, localizada no Centro-Oeste!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 54,
+      "section": "Grandes Cidades",
+      "question": "🎭 Qual cidade é conhecida como 'Cidade Maravilhosa'?",
+      "options": [
+        "São Paulo",
+        "Rio de Janeiro",
+        "Recife",
+        "Manaus"
+      ],
+      "correct_answer": 1,
+      "explanation": "🏖️ Rio de Janeiro é chamada de Cidade Maravilhosa por suas praias e belezas naturais!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 55,
+      "section": "Grandes Cidades",
+      "question": "🌊 Qual é a maior cidade da região Norte?",
+      "options": [
+        "Belém",
+        "Manaus",
+        "Porto Velho",
+        "Boa Vista"
+      ],
+      "correct_answer": 1,
+      "explanation": "🚢 Manaus é a maior cidade da região Norte e importante portal de entrada da Amazônia!",
+      "difficulty": "médio"
+    },
+    {
+      "id": 56,
+      "section": "Grandes Cidades",
+      "question": "🎪 Salvador é importante porque:",
+      "options": [
+        "É uma cidade pequena",
+        "Foi a primeira capital do Brasil",
+        "Não tem história",
+        "Fica longe do mar"
+      ],
+      "correct_answer": 1,
+      "explanation": "👑 Salvador foi a primeira capital do Brasil e centro importante da colonização!",
+      "difficulty": "médio"
+    },
+    {
+      "id": 57,
+      "section": "Grandes Cidades",
+      "question": "🏭 Por que São Paulo se tornou a maior cidade do Brasil?",
+      "options": [
+        "Só sorte",
+        "Industrialização e oportunidades de trabalho",
+        "Clima frio",
+        "Falta de recursos"
+      ],
+      "correct_answer": 1,
+      "explanation": "🏭 São Paulo cresceu com a industrialização, atraindo pessoas em busca de trabalho!",
+      "difficulty": "médio"
+    },
+    {
+      "id": 58,
+      "section": "Grandes Cidades",
+      "question": "🌆 As grandes cidades brasileiras enfrentam problemas como:",
+      "options": [
+        "Falta de pessoas",
+        "Trânsito, poluição e violência",
+        "Excesso de verde",
+        "Muita tranquilidade"
+      ],
+      "correct_answer": 1,
+      "explanation": "🚦 Grandes cidades têm desafios como trânsito intenso, poluição e problemas sociais!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 59,
+      "section": "Migração e Crescimento",
+      "question": "🚛 O que é migração?",
+      "options": [
+        "Pessoas que nunca saem de casa",
+        "Movimento de pessoas de um lugar para outro",
+        "Apenas viagens de férias",
+        "Mudança de estação"
+      ],
+      "correct_answer": 1,
+      "explanation": "🗺️ Migração é o movimento de pessoas que mudam de uma região para outra para viver!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 60,
+      "section": "Migração e Crescimento",
+      "question": "📈 No século XX, muitos brasileiros migraram:",
+      "options": [
+        "Das cidades para o campo",
+        "Do campo para as cidades",
+        "Apenas dentro das cidades",
+        "Para outros países"
+      ],
+      "correct_answer": 1,
+      "explanation": "🏭 O êxodo rural levou milhões de pessoas do campo para as cidades em busca de trabalho!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 61,
+      "section": "Migração e Crescimento",
+      "question": "🌾 O que é êxodo rural?",
+      "options": [
+        "Pessoas indo para o campo",
+        "Saída de pessoas do campo para a cidade",
+        "Mudança entre cidades",
+        "Viagem de turismo"
+      ],
+      "correct_answer": 1,
+      "explanation": "🚜➡️🏙️ Êxodo rural é a saída de pessoas do campo para as cidades, principalmente por motivos econômicos!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 62,
+      "section": "Migração e Crescimento",
+      "question": "🌵 Historicamente, muitos nordestinos migraram para:",
+      "options": [
+        "Outros países",
+        "Região Sudeste",
+        "Apenas dentro do Nordeste",
+        "Região Norte"
+      ],
+      "correct_answer": 1,
+      "explanation": "🚛 Muitos nordestinos migraram para o Sudeste, especialmente São Paulo, em busca de trabalho!",
+      "difficulty": "médio"
+    },
+    {
+      "id": 63,
+      "section": "Migração e Crescimento",
+      "question": "🏗️ O que motivava as migrações internas no Brasil?",
+      "options": [
+        "Apenas curiosidade",
+        "Busca de emprego e melhores condições de vida",
+        "Mudanças de clima",
+        "Falta de espaço"
+      ],
+      "correct_answer": 1,
+      "explanation": "💼 As pessoas migravam principalmente em busca de emprego, educação e melhor qualidade de vida!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 64,
+      "section": "Migração e Crescimento",
+      "question": "🏘️ A migração para as cidades causou:",
+      "options": [
+        "Diminuição das cidades",
+        "Crescimento urbano acelerado",
+        "Fim das indústrias",
+        "Volta ao campo"
+      ],
+      "correct_answer": 1,
+      "explanation": "🏗️ A migração causou crescimento rápido e desordenado das cidades brasileiras!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 65,
+      "section": "Migração e Crescimento",
+      "question": "🏠 O crescimento rápido das cidades gerou:",
+      "options": [
+        "Só benefícios",
+        "Problemas como favelas e falta de infraestrutura",
+        "Mais empregos para todos",
+        "Cidades perfeitas"
+      ],
+      "correct_answer": 1,
+      "explanation": "⚠️ O crescimento desordenado criou favelas, problemas de saneamento e transporte!",
+      "difficulty": "médio"
+    },
+    {
+      "id": 66,
+      "section": "Migração e Crescimento",
+      "question": "🌍 Atualmente, o Brasil também recebe:",
+      "options": [
+        "Apenas turistas",
+        "Imigrantes de outros países",
+        "Só brasileiros que voltam",
+        "Nenhum estrangeiro"
+      ],
+      "correct_answer": 1,
+      "explanation": "🤝 O Brasil recebe imigrantes de vários países, especialmente da América do Sul, África e Ásia!",
+      "difficulty": "médio"
+    },
+    {
+      "id": 67,
+      "section": "Migração e Crescimento",
+      "question": "🔄 Atualmente, também existe movimento:",
+      "options": [
+        "Apenas para as cidades",
+        "De volta para o campo (migração de retorno)",
+        "Só entre países",
+        "Nenhum movimento"
+      ],
+      "correct_answer": 1,
+      "explanation": "🌾 Algumas pessoas estão voltando para o campo em busca de qualidade de vida e novas oportunidades!",
+      "difficulty": "médio"
+    },
+    {
+      "id": 68,
+      "section": "Biomas Brasileiros",
+      "question": "🌿 Qual bioma brasileiro tem estações bem definidas (seca e chuvosa)?",
+      "options": [
+        "Amazônia",
+        "Mata Atlântica",
+        "Cerrado",
+        "Pampa"
+      ],
+      "correct_answer": 2,
+      "explanation": "☀️🌧️ O Cerrado tem duas estações bem marcadas: seca (maio a setembro) e chuvosa (outubro a abril)!",
+      "difficulty": "médio"
+    },
+    {
+      "id": 69,
+      "section": "Floresta Amazônica",
+      "question": "🛶 Qual é o principal meio de transporte na Amazônia?",
+      "options": [
+        "Aviões",
+        "Barcos e navios",
+        "Carros",
+        "Trens"
+      ],
+      "correct_answer": 1,
+      "explanation": "🚢 Na Amazônia, os rios são as principais 'estradas', sendo barcos o meio de transporte mais usado!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 70,
+      "section": "Preservação Ambiental",
+      "question": "🔥 Qual é um dos maiores problemas ambientais do Cerrado?",
+      "options": [
+        "Excesso de água",
+        "Queimadas descontroladas",
+        "Falta de sol",
+        "Temperatura baixa"
+      ],
+      "correct_answer": 1,
+      "explanation": "🔥 Queimadas descontroladas para agricultura e pecuária ameaçam o Cerrado!",
+      "difficulty": "médio"
+    },
+    {
+      "id": 71,
+      "section": "População Brasileira",
+      "question": "🏖️ Por que a população se concentra no litoral?",
+      "options": [
+        "Apenas pelo clima",
+        "Processo histórico de colonização",
+        "Só por causa das praias",
+        "Não há motivo específico"
+      ],
+      "correct_answer": 1,
+      "explanation": "🏰 A colonização começou pelo litoral, concentrando população, cidades e atividades econômicas!",
+      "difficulty": "médio"
+    },
+    {
+      "id": 72,
+      "section": "Rural x Urbano",
+      "question": "🚜 Qual atividade é essencial na zona rural?",
+      "options": [
+        "Turismo apenas",
+        "Agropecuária",
+        "Indústria automobilística",
+        "Comércio de roupas"
+      ],
+      "correct_answer": 1,
+      "explanation": "🌾 A agropecuária (agricultura + pecuária) é a principal atividade da zona rural!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 73,
+      "section": "Grandes Cidades",
+      "question": "🌆 O que caracteriza uma metrópole?",
+      "options": [
+        "Cidade pequena",
+        "Grande cidade com influência regional",
+        "Apenas área rural",
+        "Cidade abandonada"
+      ],
+      "correct_answer": 1,
+      "explanation": "🏙️ Metrópole é uma grande cidade que influencia economicamente uma região, oferecendo serviços especializados!",
+      "difficulty": "médio"
+    },
+    {
+      "id": 74,
+      "section": "Migração e Crescimento",
+      "question": "📊 Como está a taxa de natalidade brasileira atualmente?",
+      "options": [
+        "Muito alta",
+        "Diminuindo",
+        "Aumentando rapidamente",
+        "Sem mudanças há décadas"
+      ],
+      "correct_answer": 1,
+      "explanation": "📉 A taxa de natalidade brasileira está diminuindo - as famílias têm menos filhos que no passado!",
+      "difficulty": "médio"
+    },
+    {
+      "id": 75,
+      "section": "Preservação Ambiental",
+      "question": "🌟 DESAFIO FINAL: Qual é a relação entre biomas e população?",
+      "options": [
+        "Não há relação",
+        "Os biomas influenciam como e onde as pessoas vivem",
+        "Só a população influencia os biomas",
+        "Biomas não importam para a sociedade"
+      ],
+      "correct_answer": 1,
+      "explanation": "🤝 Os biomas influenciam o modo de vida, atividades econômicas e distribuição da população, enquanto as pessoas também transformam os biomas!",
+      "difficulty": "difícil"
+    }
+  ],
+  "evaluation": {
+    "include_evaluation": true,
+    "evaluation_questions": [
+      {
+        "question": "Como você se sentiu estudando sobre biomas e população brasileira?",
+        "options": ["🌟 Muito interessante, aprendi bastante!", "😊 Gostei, alguns temas eram novos para mim", "😐 Foi ok, nem fácil nem difícil", "😅 Algumas partes foram confusas", "😰 Achei bem complicado"]
+      },
+      {
+        "question": "Qual tema você achou mais interessante?",
+        "options": ["🌳 Biomas brasileiros", "🌿 Floresta Amazônica", "🏜️ Cerrado e Caatinga", "🌊 Mata Atlântica", "♻️ Preservação ambiental", "👥 População brasileira", "🏙️ Cidades e migração"]
+      },
+      {
+        "question": "Depois deste quiz, você se sente mais consciente sobre a importância da preservação ambiental?",
+        "options": ["✨ Muito mais consciente!", "😊 Um pouco mais consciente", "😐 Mesma consciência de antes", "😔 Ainda tenho dúvidas", "❓ Preciso estudar mais sobre o assunto"]
+      }
+    ]
+  },
+  "settings": {
+    "public": true,
+    "allow_multiple_responses": false,
+    "show_progress_bar": true,
+    "collect_email": true,
+    "require_login": true
+  }
+}
