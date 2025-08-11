@@ -1,0 +1,761 @@
+{
+  "metadata": {
+    "title": "📚 Interpretação de Texto: Compreendendo e Analisando",
+    "description": [
+      "Desenvolva suas habilidades de leitura e compreensão textual!",
+      "Aprenda a identificar ideias principais, fazer inferências e analisar diferentes tipos de texto.",
+      "Questões que exercitam a capacidade de interpretação, análise crítica e compreensão leitora."
+    ],
+    "subject": "Língua Portuguesa",
+    "grade": "5ª série",
+    "topic": "Interpretação e Compreensão Textual",
+    "author": "IA",
+    "version": "1.0",
+    "created_date": "2025-08-08"
+  },
+  "content": {
+    "introduction": "Bem-vindo ao mundo da interpretação de texto! Aqui você vai desenvolver suas habilidades de leitura e compreensão. Cada texto é uma janela para novas descobertas - vamos aprender a ler nas entrelinhas e compreender os significados mais profundos!",
+    "instructions": [
+      "Leia cada texto com atenção e calma.",
+      "Releia se necessário - a pressa é inimiga da compreensão.",
+      "Procure as pistas no próprio texto para responder às questões.",
+      "Não invente informações que não estão no texto.",
+      "Preste atenção ao contexto e às palavras-chave."
+    ],
+    "sections": [
+      {
+        "name": "Compreensão Literal",
+        "description": "Identificação de informações explícitas e diretas no texto."
+      },
+      {
+        "name": "Inferência e Dedução",
+        "description": "Descoberta de informações implícitas através de pistas textuais."
+      },
+      {
+        "name": "Análise de Personagens",
+        "description": "Compreensão das características e motivações dos personagens."
+      },
+      {
+        "name": "Identificação do Tema Central",
+        "description": "Reconhecimento da ideia principal e mensagem do texto."
+      },
+      {
+        "name": "Análise de Linguagem",
+        "description": "Compreensão do uso de linguagem figurada e recursos expressivos."
+      },
+      {
+        "name": "Contexto e Ambiente",
+        "description": "Identificação de tempo, espaço e circunstâncias da narrativa."
+      }
+    ]
+  },
+  "questions": [
+    {
+      "id": 1,
+      "section": "Compreensão Literal",
+      "question": "📖 Leia o texto: 'Maria acordou cedo naquela manhã de terça-feira. Tomou café rapidamente e saiu correndo para não perder o ônibus das 7h30.' Em que dia da semana Maria acordou cedo?",
+      "options": [
+        "Segunda-feira",
+        "Terça-feira",
+        "Quarta-feira",
+        "Não é possível saber"
+      ],
+      "correct_answer": 1,
+      "explanation": "📅 O texto diz claramente 'naquela manhã de terça-feira', então Maria acordou cedo na terça-feira!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 2,
+      "section": "Compreensão Literal",
+      "question": "🏠 Texto: 'João guardou o livro na estante da sala, pegou a mochila no quarto e desceu para tomar café na cozinha.' Em quantos cômodos da casa João esteve?",
+      "options": [
+        "Dois",
+        "Três",
+        "Quatro",
+        "Um"
+      ],
+      "correct_answer": 1,
+      "explanation": "🏘️ João esteve em três cômodos: sala (guardou livro), quarto (pegou mochila) e cozinha (tomar café)!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 3,
+      "section": "Compreensão Literal",
+      "question": "🌧️ Leia: 'O céu estava cinzento e pesado. Grossas gotas começaram a cair sobre a cidade adormecida. Em poucos minutos, uma tempestade se formou.' O que aconteceu com o tempo?",
+      "options": [
+        "Fez sol",
+        "Nevou",
+        "Choveu",
+        "Ventou muito"
+      ],
+      "correct_answer": 2,
+      "explanation": "💧 O texto menciona 'grossas gotas' e 'tempestade', indicando claramente que choveu!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 4,
+      "section": "Compreensão Literal",
+      "question": "🎂 Texto: 'Ana fez 12 anos ontem. Seus pais organizaram uma festa surpresa com 15 amigos da escola.' Quantos amigos participaram da festa?",
+      "options": [
+        "12",
+        "15",
+        "27",
+        "Não é mencionado"
+      ],
+      "correct_answer": 1,
+      "explanation": "🎉 O texto diz claramente que havia '15 amigos da escola' na festa!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 5,
+      "section": "Compreensão Literal",
+      "question": "🚗 Leia: 'O carro azul parou no semáforo vermelho. Quando abriu o sinal verde, o motorista pisou no acelerador e seguiu pela avenida principal.' Qual era a cor do carro?",
+      "options": [
+        "Vermelho",
+        "Verde",
+        "Azul",
+        "Não é mencionado"
+      ],
+      "correct_answer": 2,
+      "explanation": "🚙 O texto informa que era um 'carro azul' logo no início!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 6,
+      "section": "Inferência e Dedução",
+      "question": "🔍 Texto: 'Pedro chegou em casa com as roupas molhadas, os sapatos cheios de lama e um sorriso enorme no rosto.' O que provavelmente aconteceu com Pedro?",
+      "options": [
+        "Ele caiu em uma poça",
+        "Ele se divertiu brincando na chuva ou lama",
+        "Ele teve um acidente",
+        "Ele estava triste"
+      ],
+      "correct_answer": 1,
+      "explanation": "😊 O 'sorriso enorme' indica que Pedro se divertiu, mesmo molhado e sujo. Ele provavelmente brincou!",
+      "difficulty": "médio"
+    },
+    {
+      "id": 7,
+      "section": "Inferência e Dedução",
+      "question": "🎒 Leia: 'Marina olhou para o relógio: 7h45. Pegou rapidamente os livros, a mochila e correu para a porta. No caminho, encontrou alguns colegas de turma.' Para onde Marina provavelmente estava indo?",
+      "options": [
+        "Para o trabalho",
+        "Para a escola",
+        "Para o shopping",
+        "Para casa da avó"
+      ],
+      "correct_answer": 1,
+      "explanation": "🎓 As pistas são: horário matutino, livros, mochila e colegas de turma. Tudo indica que vai para a escola!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 8,
+      "section": "Inferência e Dedução",
+      "question": "🍳 Texto: 'O cheiro delicioso vinha da cozinha. Carlos ouviu o barulho da frigideira e viu fumaça saindo pela porta. Seu estômago começou a roncar.' O que estava acontecendo na cozinha?",
+      "options": [
+        "Alguém estava limpando",
+        "Havia um incêndio",
+        "Alguém estava cozinhando",
+        "Estava muito frio"
+      ],
+      "correct_answer": 2,
+      "explanation": "👨‍🍳 As pistas são: cheiro delicioso, barulho da frigideira e estômago roncando. Claramente alguém cozinhava!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 9,
+      "section": "Inferência e Dedução",
+      "question": "🏥 Leia: 'Dra. Santos vestiu o jaleco branco, lavou bem as mãos e pegou o estetoscópio. Havia muitos pacientes esperando na sala ao lado.' Qual é a profissão da Dra. Santos?",
+      "options": [
+        "Professora",
+        "Médica",
+        "Enfermeira",
+        "Veterinária"
+      ],
+      "correct_answer": 1,
+      "explanation": "👩‍⚕️ Jaleco branco, estetoscópio e pacientes são pistas claras de que ela é médica!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 10,
+      "section": "Inferência e Dedução",
+      "question": "🌙 Texto: 'As estrelas brilhavam intensamente. João bocejou, escovou os dentes e vestiu o pijama. Amanhã seria um dia importante.' Que período do dia é descrito?",
+      "options": [
+        "Manhã",
+        "Tarde",
+        "Noite",
+        "Madrugada"
+      ],
+      "correct_answer": 2,
+      "explanation": "🌟 Estrelas brilhando, bocejo, escovar dentes e vestir pijama são ações típicas da noite!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 11,
+      "section": "Análise de Personagens",
+      "question": "👧 Texto: 'Luiza sempre ajudava os colegas com as tarefas de matemática. Quando alguém não entendia, ela explicava com paciência até a pessoa compreender. Nunca cobrava nada por isso.' Como podemos descrever Luiza?",
+      "options": [
+        "Egoísta e preguiçosa",
+        "Generosa e paciente",
+        "Impaciente e brava",
+        "Tímida e quieta"
+      ],
+      "correct_answer": 1,
+      "explanation": "💝 Luiza ajuda os outros, explica com paciência e não cobra nada. Isso mostra generosidade e paciência!",
+      "difficulty": "médio"
+    },
+    {
+      "id": 12,
+      "section": "Análise de Personagens",
+      "question": "🏃‍♂️ Leia: 'Roberto treina todos os dias, mesmo quando chove. Levanta às 5h da manhã para correr. Nunca desiste, mesmo quando se sente cansado.' Qual característica melhor define Roberto?",
+      "options": [
+        "Preguiçoso",
+        "Determinado",
+        "Desorganizado",
+        "Nervoso"
+      ],
+      "correct_answer": 1,
+      "explanation": "💪 Treinar todo dia, acordar cedo e nunca desistir são sinais de muita determinação!",
+      "difficulty": "médio"
+    },
+    {
+      "id": 13,
+      "section": "Análise de Personagens",
+      "question": "🎨 Texto: 'Sofia adora inventar histórias. Nas aulas de redação, suas narrativas sempre surpreendem a professora. Ela cria personagens únicos e aventuras incríveis.' Qual é o principal talento de Sofia?",
+      "options": [
+        "Matemática",
+        "Esportes",
+        "Criatividade",
+        "Música"
+      ],
+      "correct_answer": 2,
+      "explanation": "✨ Inventar histórias, surpreender e criar personagens únicos demonstram grande criatividade!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 14,
+      "section": "Análise de Personagens",
+      "question": "😰 Leia: 'Quando o professor anunciou a apresentação, Miguel ficou pálido. Suas mãos começaram a suar e ele olhou para o chão. Falou baixinho que preferia fazer um trabalho escrito.' Como Miguel se sentia?",
+      "options": [
+        "Animado",
+        "Nervoso",
+        "Bravo",
+        "Entediado"
+      ],
+      "correct_answer": 1,
+      "explanation": "😟 Ficar pálido, mãos suando e preferir trabalho escrito mostram que Miguel estava nervoso com a apresentação!",
+      "difficulty": "médio"
+    },
+    {
+      "id": 15,
+      "section": "Análise de Personagens",
+      "question": "🤝 Texto: 'Quando a nova aluna chegou, estava sozinha no recreio. Amanda se aproximou, se apresentou e a convidou para brincar com seu grupo.' O que isso revela sobre Amanda?",
+      "options": [
+        "Ela é tímida",
+        "Ela é acolhedora",
+        "Ela é brava",
+        "Ela é competitiva"
+      ],
+      "correct_answer": 1,
+      "explanation": "🤗 Aproximar-se de alguém sozinho e convidar para brincar mostra que Amanda é acolhedora e gentil!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 16,
+      "section": "Identificação do Tema Central",
+      "question": "🌱 Texto: 'A pequena semente foi plantada em solo fértil. Com água, sol e cuidado, ela germinou. Lentamente cresceu, desenvolveu folhas e se tornou uma árvore frondosa que dava sombra para todos.' Qual é o tema principal?",
+      "options": [
+        "A importância da paciência",
+        "O crescimento e desenvolvimento",
+        "A beleza da natureza",
+        "O valor da amizade"
+      ],
+      "correct_answer": 1,
+      "explanation": "🌳 O texto acompanha todo o processo de crescimento: semente → germinação → árvore. O tema é crescimento!",
+      "difficulty": "médio"
+    },
+    {
+      "id": 17,
+      "section": "Identificação do Tema Central",
+      "question": "👫 Leia: 'Pedro e João eram diferentes em tudo: um alto, outro baixo; um calado, outro falante. Mas quando estavam juntos, se divertiam muito e se ajudavam sempre.' A mensagem principal é:",
+      "options": [
+        "As diferenças não impedem a amizade",
+        "É melhor ser parecido com os amigos",
+        "Pessoas altas são melhores",
+        "Falar muito é ruim"
+      ],
+      "correct_answer": 0,
+      "explanation": "🤝 Apesar de serem diferentes, eles se divertem e se ajudam. A mensagem é que diferenças não impedem amizade!",
+      "difficulty": "médio"
+    },
+    {
+      "id": 18,
+      "section": "Identificação do Tema Central",
+      "question": "📚 Texto: 'Ana não gostava de ler. Achava chato e difícil. Um dia, encontrou um livro de aventuras e se apaixonou. Desde então, lê todos os dias e descobriu um mundo novo.' O tema central é:",
+      "options": [
+        "Livros são chatos",
+        "A descoberta do prazer da leitura",
+        "Aventuras são perigosas",
+        "Ana é uma boa aluna"
+      ],
+      "correct_answer": 1,
+      "explanation": "📖 O texto mostra a transformação de Ana: de não gostar de ler para se apaixonar pela leitura!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 19,
+      "section": "Identificação do Tema Central",
+      "question": "🏆 Leia: 'Marcos treinou muito para a competição. Acordava cedo, seguia uma dieta e se dedicava totalmente. No dia da prova, não ficou em primeiro lugar, mas estava orgulhoso do seu esforço.' A ideia principal é:",
+      "options": [
+        "Ganhar é o mais importante",
+        "Treinar não adianta nada",
+        "O esforço e dedicação têm valor próprio",
+        "Competições são injustas"
+      ],
+      "correct_answer": 2,
+      "explanation": "💪 Mesmo não ganhando, Marcos se orgulhava do esforço. A mensagem é que a dedicação tem valor independente do resultado!",
+      "difficulty": "médio"
+    },
+    {
+      "id": 20,
+      "section": "Identificação do Tema Central",
+      "question": "🌍 Texto: 'A cidade estava muito poluída. Os moradores se uniram, organizaram mutirões de limpeza e plantaram árvores. Em poucos meses, o ar ficou mais puro e a cidade mais bonita.' O tema é:",
+      "options": [
+        "A união faz a força",
+        "Poluição é ruim",
+        "Árvores são bonitas",
+        "Cidades são sujas"
+      ],
+      "correct_answer": 0,
+      "explanation": "🤝 O texto mostra como os moradores se uniram para resolver um problema coletivo. A união fez a força!",
+      "difficulty": "médio"
+    },
+    {
+      "id": 21,
+      "section": "Análise de Linguagem",
+      "question": "☀️ No texto 'O sol sorria para as crianças no parque', a expressão 'o sol sorria' é um exemplo de:",
+      "options": [
+        "Comparação",
+        "Personificação",
+        "Metáfora",
+        "Rima"
+      ],
+      "correct_answer": 1,
+      "explanation": "😊 Personificação é dar características humanas a objetos ou elementos da natureza. O sol não pode sorrir!",
+      "difficulty": "médio"
+    },
+    {
+      "id": 22,
+      "section": "Análise de Linguagem",
+      "question": "🌊 Leia: 'O mar estava bravo naquele dia.' A palavra 'bravo' significa que o mar estava:",
+      "options": [
+        "Calmo",
+        "Agitado",
+        "Limpo",
+        "Quente"
+      ],
+      "correct_answer": 1,
+      "explanation": "🌊 'Mar bravo' é uma expressão que significa mar agitado, com ondas fortes e movimento!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 23,
+      "section": "Análise de Linguagem",
+      "question": "💎 No texto 'Seus olhos eram duas estrelas brilhantes', temos um exemplo de:",
+      "options": [
+        "Personificação",
+        "Metáfora",
+        "Onomatopeia",
+        "Ironia"
+      ],
+      "correct_answer": 1,
+      "explanation": "✨ Metáfora compara duas coisas sem usar 'como'. Os olhos SÃO estrelas (comparação direta)!",
+      "difficulty": "médio"
+    },
+    {
+      "id": 24,
+      "section": "Análise de Linguagem",
+      "question": "🐸 A palavra 'coaxar' no texto 'O sapo coaxava no lago' é um exemplo de:",
+      "options": [
+        "Metáfora",
+        "Personificação",
+        "Onomatopeia",
+        "Comparação"
+      ],
+      "correct_answer": 2,
+      "explanation": "🔊 Onomatopeia é a palavra que imita um som. 'Coaxar' imita o som que o sapo faz!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 25,
+      "section": "Análise de Linguagem",
+      "question": "🏃‍♀️ Em 'Ana correu como um raio', a expressão 'como um raio' indica que Ana:",
+      "options": [
+        "Correu devagar",
+        "Correu muito rápido",
+        "Estava com medo",
+        "Se machucou"
+      ],
+      "correct_answer": 1,
+      "explanation": "⚡ 'Como um raio' é uma comparação que indica grande velocidade. Ana correu muito rápido!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 26,
+      "section": "Contexto e Ambiente",
+      "question": "🏔️ Texto: 'A neve cobria as montanhas. O vento gelado cortava o rosto dos alpinistas. Eles usavam roupas especiais para se proteger do frio intenso.' Que tipo de ambiente é descrito?",
+      "options": [
+        "Deserto",
+        "Praia",
+        "Montanha nevada",
+        "Floresta tropical"
+      ],
+      "correct_answer": 2,
+      "explanation": "❄️ Neve, montanhas, vento gelado e frio intenso descrevem claramente um ambiente de montanha nevada!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 27,
+      "section": "Contexto e Ambiente",
+      "question": "🌅 Leia: 'O galo cantou ao longe. O céu começava a clarear e os pássaros despertavam. Dona Maria acendeu o fogão para preparar o café.' Que momento do dia é descrito?",
+      "options": [
+        "Meio-dia",
+        "Tarde",
+        "Noite",
+        "Amanhecer"
+      ],
+      "correct_answer": 3,
+      "explanation": "🐓 Galo cantando, céu clareando e pássaros despertando são sinais típicos do amanhecer!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 28,
+      "section": "Contexto e Ambiente",
+      "question": "🏫 Texto: 'A campainha tocou. Os alunos guardaram os materiais rapidamente e formaram fila no corredor. A professora os acompanhou até o pátio.' Onde acontece a cena?",
+      "options": [
+        "Em casa",
+        "Na escola",
+        "No shopping",
+        "No hospital"
+      ],
+      "correct_answer": 1,
+      "explanation": "🎒 Campainha, alunos, materiais, professora e pátio são elementos típicos do ambiente escolar!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 29,
+      "section": "Contexto e Ambiente",
+      "question": "🎪 Leia: 'As luzes coloridas piscavam, a música animada tocava alto e o cheiro de pipoca perfumava o ar. Crianças corriam de um brinquedo para outro, gritando de alegria.' Que tipo de lugar é descrito?",
+      "options": [
+        "Biblioteca",
+        "Hospital",
+        "Parque de diversões",
+        "Escola"
+      ],
+      "correct_answer": 2,
+      "explanation": "🎠 Luzes coloridas, música alta, pipoca e brinquedos caracterizam um parque de diversões!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 30,
+      "section": "Contexto e Ambiente",
+      "question": "🌊 Texto: 'O barco balançava suavemente. As gaivotas voavam em círculos e o som das ondas era relaxante. O pescador lançou sua rede esperando uma boa pesca.' Onde se passa a cena?",
+      "options": [
+        "No lago",
+        "No mar",
+        "Na piscina",
+        "No rio"
+      ],
+      "correct_answer": 1,
+      "explanation": "🐟 Barco, gaivotas, ondas e pescador com rede são elementos típicos do ambiente marinho!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 31,
+      "section": "Inferência e Dedução",
+      "question": "🛒 Texto: 'Sandra fez uma lista, pegou várias sacolas reutilizáveis e dirigiu até um lugar cheio de corredores com produtos variados. Lá, escolheu frutas, verduras e outros itens da lista.' Onde Sandra foi?",
+      "options": [
+        "Ao banco",
+        "Ao supermercado",
+        "À farmácia",
+        "À escola"
+      ],
+      "correct_answer": 1,
+      "explanation": "🛍️ Lista de compras, sacolas, corredores com produtos e frutas/verduras indicam supermercado!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 32,
+      "section": "Compreensão Literal",
+      "question": "📝 Leia: 'O teste tinha 20 questões. Paulo acertou 15, Ana acertou 18 e Carlos acertou 12.' Quem teve o melhor resultado?",
+      "options": [
+        "Paulo",
+        "Ana",
+        "Carlos",
+        "Todos iguais"
+      ],
+      "correct_answer": 1,
+      "explanation": "🏆 Ana acertou 18 questões, Paulo 15 e Carlos 12. Ana teve o melhor resultado!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 33,
+      "section": "Análise de Personagens",
+      "question": "🎭 Texto: 'Laura sempre conta histórias engraçadas para animar os amigos quando estão tristes. Ela consegue fazer todos rirem mesmo nos momentos difíceis.' Qual é a principal qualidade de Laura?",
+      "options": [
+        "Inteligência",
+        "Alegria e empatia",
+        "Força física",
+        "Timidez"
+      ],
+      "correct_answer": 1,
+      "explanation": "😄 Contar histórias para animar amigos tristes mostra alegria e capacidade de sentir empatia pelos outros!",
+      "difficulty": "médio"
+    },
+    {
+      "id": 34,
+      "section": "Identificação do Tema Central",
+      "question": "♻️ Leia: 'Marina sempre separa o lixo em casa, apaga as luzes quando sai do quarto e fecha bem a torneira. Ela ensina os amigos a fazer o mesmo.' O tema principal é:",
+      "options": [
+        "Economia de dinheiro",
+        "Cuidado com o meio ambiente",
+        "Organização pessoal",
+        "Obediência aos pais"
+      ],
+      "correct_answer": 1,
+      "explanation": "🌍 Separar lixo, economizar energia e água são ações de cuidado ambiental que Marina compartilha!",
+      "difficulty": "médio"
+    },
+    {
+      "id": 35,
+      "section": "Análise de Linguagem",
+      "question": "🎵 No texto 'A chuva fazia tic-tac-tic nas janelas', a expressão 'tic-tac-tic' representa:",
+      "options": [
+        "O som da chuva",
+        "A cor da chuva",
+        "A velocidade da chuva",
+        "O cheiro da chuva"
+      ],
+      "correct_answer": 0,
+      "explanation": "🔊 'Tic-tac-tic' é uma onomatopeia que imita o som das gotas de chuva batendo na janela!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 36,
+      "section": "Contexto e Ambiente",
+      "question": "🌙 Texto: 'As velas eram a única iluminação. O vento fazia as cortinas dançarem e sons estranhos vinham do andar de cima. Marina segurava forte a boneca.' Que tipo de ambiente é criado?",
+      "options": [
+        "Alegre e festivo",
+        "Misterioso e assombrado",
+        "Calmo e relaxante",
+        "Movimentado e barulhento"
+      ],
+      "correct_answer": 1,
+      "explanation": "👻 Velas como única luz, vento, sons estranhos e criança com medo criam um ambiente misterioso!",
+      "difficulty": "médio"
+    },
+    {
+      "id": 37,
+      "section": "Inferência e Dedução",
+      "question": "🏃‍♂️ Leia: 'Ricardo chegou em casa ofegante, com as roupas suadas e um grande sorriso. Pendurou uma medalha na parede ao lado de outras cinco.' O que provavelmente aconteceu?",
+      "options": [
+        "Ele brigou com alguém",
+        "Ele ganhou uma competição esportiva",
+        "Ele perdeu alguma coisa",
+        "Ele estava doente"
+      ],
+      "correct_answer": 1,
+      "explanation": "🥇 Ofegante, suado, sorrindo e ganhando uma medalha (junto a outras) indicam vitória esportiva!",
+      "difficulty": "médio"
+    },
+    {
+      "id": 38,
+      "section": "Análise de Personagens",
+      "question": "📚 Texto: 'Mesmo com dificuldades em matemática, Bruno nunca desiste. Estuda todos os dias, pede ajuda quando precisa e comemora cada pequeno progresso.' Como podemos descrever Bruno?",
+      "options": [
+        "Desistente e preguiçoso",
+        "Persistente e esforçado",
+        "Inteligente e rápido",
+        "Tímido e calado"
+      ],
+      "correct_answer": 1,
+      "explanation": "💪 Não desistir, estudar sempre e celebrar progressos mostra persistência e esforço!",
+      "difficulty": "médio"
+    },
+    {
+      "id": 39,
+      "section": "Identificação do Tema Central",
+      "question": "🌱 Leia: 'Toda manhã, o Sr. José rega suas plantas com carinho. Fala com elas, remove as folhas secas e fica feliz quando vê novos brotos. Seu jardim é o mais bonito da rua.' A mensagem principal é:",
+      "options": [
+        "Plantas precisam de água",
+        "O cuidado e dedicação trazem bons resultados",
+        "Jardins são bonitos",
+        "Falar sozinho é estranho"
+      ],
+      "correct_answer": 1,
+      "explanation": "🌸 O cuidado carinhoso do Sr. José resulta no jardim mais bonito. A dedicação traz bons frutos!",
+      "difficulty": "médio"
+    },
+    {
+      "id": 40,
+      "section": "Análise de Linguagem",
+      "question": "🦁 No texto 'João é corajoso como um leão', temos um exemplo de:",
+      "options": [
+        "Metáfora",
+        "Comparação",
+        "Personificação",
+        "Ironia"
+      ],
+      "correct_answer": 1,
+      "explanation": "🔗 Comparação usa 'como' para comparar duas coisas. João é comparado ao leão usando 'como'!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 41,
+      "section": "Contexto e Ambiente",
+      "question": "🌡️ Texto: 'O termômetro marcava 38°C. As pessoas procuravam sombra e bebiam muita água. Os sorvetes eram disputados e as praias ficaram lotadas.' Que estação do ano é descrita?",
+      "options": [
+        "Inverno",
+        "Outono",
+        "Primavera",
+        "Verão"
+      ],
+      "correct_answer": 3,
+      "explanation": "☀️ Temperatura alta, busca por sombra, muito sorvete e praias lotadas são típicos do verão!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 42,
+      "section": "Inferência e Dedução",
+      "question": "🎂 Leia: 'A casa estava decorada com balões coloridos. Na mesa, havia um bolo com velas acesas. Todos cantavam parabéns e batiam palmas.' Que tipo de evento acontecia?",
+      "options": [
+        "Casamento",
+        "Aniversário",
+        "Formatura",
+        "Reunião de trabalho"
+      ],
+      "correct_answer": 1,
+      "explanation": "🎉 Balões, bolo com velas e canção de parabéns são elementos clássicos de festa de aniversário!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 43,
+      "section": "Análise de Personagens",
+      "question": "🤝 Texto: 'Sempre que há um conflito na sala, Beatriz conversa com todos os lados, ouve com atenção e ajuda a encontrar uma solução que agrade a todos.' Beatriz tem perfil de:",
+      "options": [
+        "Líder autoritária",
+        "Mediadora pacificadora",
+        "Pessoa tímida",
+        "Estudante bagunceira"
+      ],
+      "correct_answer": 1,
+      "explanation": "☮️ Conversar com todos, ouvir e buscar soluções que agradem mostra perfil de mediadora!",
+      "difficulty": "médio"
+    },
+    {
+      "id": 44,
+      "section": "Identificação do Tema Central",
+      "question": "🎯 Leia: 'Carla queria muito aprender violão. No início era difícil, os dedos doíam e os acordes saíam tortos. Mas ela não desistiu. Hoje toca lindamente suas músicas favoritas.' O tema é:",
+      "options": [
+        "Música é difícil",
+        "A persistência leva ao sucesso",
+        "Violão é o melhor instrumento",
+        "Carla é talentosa"
+      ],
+      "correct_answer": 1,
+      "explanation": "🎸 A transformação de Carla (dificuldade → não desistir → sucesso) mostra que persistência leva ao sucesso!",
+      "difficulty": "médio"
+    },
+    {
+      "id": 45,
+      "section": "Análise de Linguagem",
+      "question": "💨 No texto 'O vento sussurrava segredos entre as árvores', a palavra 'sussurrava' sugere que o vento fazia:",
+      "options": [
+        "Muito barulho",
+        "Um som suave e baixo",
+        "Sons assustadores",
+        "Nenhum som"
+      ],
+      "correct_answer": 1,
+      "explanation": "🤫 'Sussurrar' significa falar muito baixinho. O vento fazia um som suave e delicado!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 46,
+      "section": "Contexto e Ambiente",
+      "question": "⛪ Texto: 'O sino badala ao longe chamando os fiéis. As pessoas caminham calmamente pelas ruas de pedra. O padre organiza os livros no altar.' Que tipo de ambiente é descrito?",
+      "options": [
+        "Cidade grande e moderna",
+        "Praia movimentada",
+        "Cidade pequena e tradicional",
+        "Floresta selvagem"
+      ],
+      "correct_answer": 2,
+      "explanation": "🔔 Sino, fiéis, ruas de pedra e padre no altar caracterizam uma cidade pequena e tradicional!",
+      "difficulty": "médio"
+    },
+    {
+      "id": 47,
+      "section": "Inferência e Dedução",
+      "question": "📚 Leia: 'Clara fechou o livro com um suspiro satisfeito. Olhou o relógio: 2h da manhã. Amanhã contaria para as amigas como a história terminou.' O que Clara estava fazendo?",
+      "options": [
+        "Estudando para prova",
+        "Lendo um livro interessante",
+        "Fazendo lição de casa",
+        "Assistindo televisão"
+      ],
+      "correct_answer": 1,
+      "explanation": "📖 Fechar livro satisfeita, ler até tarde e querer contar o final indicam leitura prazerosa!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 48,
+      "section": "Análise de Personagens",
+      "question": "🌟 Texto: 'Quando Débora entra na sala, todos percebem. Ela cumprimenta a todos, conta histórias engraçadas e faz questão de incluir os mais tímidos nas conversas.' Débora é uma pessoa:",
+      "options": [
+        "Tímida e reservada",
+        "Extrovertida e inclusiva",
+        "Brava e impaciente",
+        "Quieta e estudiosa"
+      ],
+      "correct_answer": 1,
+      "explanation": "✨ Cumprimentar todos, contar histórias e incluir os tímidos mostra que Débora é extrovertida e inclusiva!",
+      "difficulty": "médio"
+    },
+    {
+      "id": 49,
+      "section": "Identificação do Tema Central",
+      "question": "🔄 Leia: 'Daniel quebrou o vaso favorito da mãe. Ficou com medo de contar. Depois de muito pensar, decidiu ser honesto. A mãe ficou triste, mas o elogiou pela coragem de dizer a verdade.' A lição é:",
+      "options": [
+        "Mentir é melhor às vezes",
+        "A honestidade é sempre o melhor caminho",
+        "Mães são muito bravas",
+        "Vasos são frágeis"
+      ],
+      "correct_answer": 1,
+      "explanation": "💯 Mesmo com medo, Daniel escolheu a honestidade e foi elogiado. A verdade é sempre melhor!",
+      "difficulty": "médio"
+    },
+    {
+      "id": 50,
+      "section": "Análise de Linguagem",
+      "question": "🌟 DESAFIO FINAL: No texto 'A noite engoliu a cidade com seu manto escuro', temos uma:",
+      "options": [
+        "Comparação",
+        "Metáfora",
+        "Onomatopeia",
+        "Rima"
+      ],
+      "correct_answer": 1,
+      "explanation": "🌙 Metáfora porque a noite É um manto (comparação direta sem 'como'). A escuridão da noite é comparada a um manto que cobre tudo!",
+      "difficulty": "difícil"
+    }
+  ],
+  "settings": {
+    "public": true,
+    "allow_multiple_responses": false,
+    "show_progress_bar": true,
+    "collect_email": true,
+    "require_login": true
+  }
+}

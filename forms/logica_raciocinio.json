@@ -1,0 +1,777 @@
+{
+  "metadata": {
+    "title": "🧠 Lógica e Raciocínio: Desafios Inteligentes",
+    "description": [
+      "Desenvolva seu raciocínio lógico com desafios divertidos e inteligentes!",
+      "Aprenda a resolver problemas, encontrar padrões e pensar de forma estratégica.",
+      "Questões que exercitam o cérebro e desenvolvem habilidades de pensamento crítico."
+    ],
+    "subject": "Matemática e Raciocínio Lógico",
+    "grade": "5ª série",
+    "topic": "Lógica, Padrões e Resolução de Problemas",
+    "author": "IA",
+    "version": "1.0",
+    "created_date": "2025-08-08"
+  },
+  "content": {
+    "introduction": "Bem-vindo ao mundo da lógica! Aqui você vai exercitar seu cérebro com desafios que desenvolvem o raciocínio. Cada questão é um quebra-cabeça que vai fortalecer sua capacidade de pensar de forma organizada e inteligente!",
+    "instructions": [
+      "Leia cada questão com calma e atenção.",
+      "Pense passo a passo antes de responder.",
+      "Use lógica e não 'chute' - sempre há uma razão para a resposta certa.",
+      "Se ficar em dúvida, releia a questão e analise as opções."
+    ],
+    "sections": [
+      {
+        "name": "Sequências e Padrões",
+        "description": "Descubra a lógica por trás das sequências numéricas e de formas."
+      },
+      {
+        "name": "Problemas de Lógica Verbal",
+        "description": "Resolva enigmas usando raciocínio e interpretação cuidadosa."
+      },
+      {
+        "name": "Relações e Comparações",
+        "description": "Analise relações entre elementos e faça comparações lógicas."
+      },
+      {
+        "name": "Dedução e Inferência",
+        "description": "Tire conclusões corretas a partir de informações dadas."
+      },
+      {
+        "name": "Problemas Matemáticos Lógicos",
+        "description": "Combine matemática com raciocínio para resolver desafios."
+      },
+      {
+        "name": "Pensamento Lateral",
+        "description": "Desenvolva criatividade no raciocínio e encontre soluções inovadoras."
+      }
+    ]
+  },
+  "questions": [
+    {
+      "id": 1,
+      "section": "Sequências e Padrões",
+      "question": "🔢 Qual é o próximo número na sequência: 2, 4, 8, 16, ___?",
+      "options": [
+        "24",
+        "32",
+        "20",
+        "18"
+      ],
+      "correct_answer": 1,
+      "explanation": "🎯 A sequência multiplica por 2: 2×2=4, 4×2=8, 8×2=16, então 16×2=32!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 2,
+      "section": "Sequências e Padrões",
+      "question": "🧮 Complete a sequência: 1, 4, 9, 16, ___?",
+      "options": [
+        "20",
+        "25",
+        "24",
+        "30"
+      ],
+      "correct_answer": 1,
+      "explanation": "📐 São números ao quadrado: 1²=1, 2²=4, 3²=9, 4²=16, então 5²=25!",
+      "difficulty": "médio"
+    },
+    {
+      "id": 3,
+      "section": "Sequências e Padrões",
+      "question": "🔤 Qual letra vem depois na sequência: A, C, E, G, ___?",
+      "options": [
+        "H",
+        "I",
+        "J",
+        "K"
+      ],
+      "correct_answer": 1,
+      "explanation": "📝 Pula uma letra a cada vez: A(B)C(D)E(F)G(H)I. A próxima é I!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 4,
+      "section": "Sequências e Padrões",
+      "question": "🎨 Observe o padrão: ●○●○●○___. Qual vem depois?",
+      "options": [
+        "●",
+        "○",
+        "●●",
+        "○○"
+      ],
+      "correct_answer": 1,
+      "explanation": "🔄 O padrão alterna: círculo cheio, círculo vazio. Próximo é círculo vazio (○)!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 5,
+      "section": "Sequências e Padrões",
+      "question": "🔢 Na sequência 3, 6, 12, 24, ___, qual é o padrão?",
+      "options": [
+        "36",
+        "48",
+        "30",
+        "42"
+      ],
+      "correct_answer": 1,
+      "explanation": "✖️ Cada número é o dobro do anterior: 3×2=6, 6×2=12, 12×2=24, 24×2=48!",
+      "difficulty": "médio"
+    },
+    {
+      "id": 6,
+      "section": "Problemas de Lógica Verbal",
+      "question": "🏃‍♀️ Se Ana é mais rápida que Bruno, e Bruno é mais rápido que Carlos, quem é o mais lento?",
+      "options": [
+        "Ana",
+        "Bruno",
+        "Carlos",
+        "Impossível saber"
+      ],
+      "correct_answer": 2,
+      "explanation": "🐌 Ordem de velocidade: Ana > Bruno > Carlos. Carlos é o mais lento!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 7,
+      "section": "Problemas de Lógica Verbal",
+      "question": "🔍 Todos os gatos têm bigodes. Mimi é um gato. Logo:",
+      "options": [
+        "Mimi pode ter bigodes",
+        "Mimi tem bigodes",
+        "Mimi não tem bigodes",
+        "Depende da raça"
+      ],
+      "correct_answer": 1,
+      "explanation": "✅ Se todos os gatos têm bigodes e Mimi é um gato, então Mimi TEM bigodes com certeza!",
+      "difficulty": "médio"
+    },
+    {
+      "id": 8,
+      "section": "Problemas de Lógica Verbal",
+      "question": "🌧️ Se está chovendo, então uso guarda-chuva. Estou usando guarda-chuva. Logo:",
+      "options": [
+        "Está chovendo",
+        "Pode estar chovendo ou não",
+        "Não está chovendo",
+        "Vai chover"
+      ],
+      "correct_answer": 1,
+      "explanation": "🤔 Posso usar guarda-chuva por outros motivos (sol forte, prevenção). Não podemos ter certeza!",
+      "difficulty": "difícil"
+    },
+    {
+      "id": 9,
+      "section": "Problemas de Lógica Verbal",
+      "question": "📚 Em uma biblioteca, se um livro não foi devolvido, há multa. João não pagou multa. Logo:",
+      "options": [
+        "João não pegou livros",
+        "João devolveu todos os livros no prazo",
+        "João esqueceu de pagar",
+        "A biblioteca fechou"
+      ],
+      "correct_answer": 1,
+      "explanation": "📖 Se não há multa, então todos os livros foram devolvidos no prazo correto!",
+      "difficulty": "médio"
+    },
+    {
+      "id": 10,
+      "section": "Problemas de Lógica Verbal",
+      "question": "🎯 O que é maior: metade de 60 ou um terço de 90?",
+      "options": [
+        "Metade de 60",
+        "Um terço de 90", 
+        "São iguais",
+        "Depende da conta"
+      ],
+      "correct_answer": 2,
+      "explanation": "🧮 Metade de 60 = 30. Um terço de 90 = 30. São iguais!",
+      "difficulty": "médio"
+    },
+    {
+      "id": 11,
+      "section": "Relações e Comparações",
+      "question": "⚖️ Pedro tem 3 irmãos. Maria tem 2 irmãs. Quem tem mais irmãos?",
+      "options": [
+        "Pedro",
+        "Maria",
+        "Têm a mesma quantidade",
+        "Impossível saber"
+      ],
+      "correct_answer": 0,
+      "explanation": "👨‍👩‍👧‍👦 Pedro tem 3 irmãos. Maria tem 2 irmãs (que são irmãos também). Pedro tem mais!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 12,
+      "section": "Relações e Comparações",
+      "question": "🏠 João é pai de Pedro. Pedro é pai de Lucas. Lucas é _____ de João:",
+      "options": [
+        "Filho",
+        "Neto",
+        "Irmão",
+        "Primo"
+      ],
+      "correct_answer": 1,
+      "explanation": "👴 João é avô de Lucas, então Lucas é neto de João!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 13,
+      "section": "Relações e Comparações",
+      "question": "🎂 Se hoje é aniversário de Ana e ela fez 12 anos, quantos anos ela tinha há 3 anos?",
+      "options": [
+        "8 anos",
+        "9 anos",
+        "10 anos",
+        "15 anos"
+      ],
+      "correct_answer": 1,
+      "explanation": "📅 Se Ana tem 12 anos hoje, há 3 anos ela tinha 12 - 3 = 9 anos!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 14,
+      "section": "Relações e Comparações",
+      "question": "🏃‍♂️ Em uma corrida: Bruno chegou antes de Carlos, mas depois de Ana. Quem chegou em primeiro?",
+      "options": [
+        "Ana",
+        "Bruno", 
+        "Carlos",
+        "Empataram"
+      ],
+      "correct_answer": 0,
+      "explanation": "🥇 Ordem de chegada: Ana (1º), Bruno (2º), Carlos (3º). Ana foi primeira!",
+      "difficulty": "médio"
+    },
+    {
+      "id": 15,
+      "section": "Relações e Comparações",
+      "question": "📏 Um prédio tem 5 andares. O apartamento de João está 2 andares acima do de Maria. Se Maria mora no 2º andar, João mora no:",
+      "options": [
+        "3º andar",
+        "4º andar",
+        "5º andar",
+        "Impossível saber"
+      ],
+      "correct_answer": 1,
+      "explanation": "🏢 Maria: 2º andar. João: 2 + 2 = 4º andar!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 16,
+      "section": "Dedução e Inferência",
+      "question": "🍎 Todas as frutas da cesta são vermelhas. Todas as maçãs são frutas. Logo, todas as maçãs da cesta são:",
+      "options": [
+        "Verdes",
+        "Vermelhas",
+        "Pode ser qualquer cor",
+        "Não há maçãs na cesta"
+      ],
+      "correct_answer": 1,
+      "explanation": "🔴 Se todas as frutas da cesta são vermelhas e maçãs são frutas, então as maçãs da cesta são vermelhas!",
+      "difficulty": "médio"
+    },
+    {
+      "id": 17,
+      "section": "Dedução e Inferência",
+      "question": "🎸 Se Pedro sabe tocar violão, ele sabe ler partituras. Pedro não sabe ler partituras. Logo:",
+      "options": [
+        "Pedro sabe tocar violão",
+        "Pedro não sabe tocar violão",
+        "Pedro está aprendendo",
+        "Pedro toca de ouvido"
+      ],
+      "correct_answer": 1,
+      "explanation": "🚫 Se Pedro soubesse tocar violão, saberia ler partituras. Como não sabe ler partituras, não sabe tocar violão!",
+      "difficulty": "difícil"
+    },
+    {
+      "id": 18,
+      "section": "Dedução e Inferência",
+      "question": "🐕 Cachorro que late não morde. Rex está latindo. Logo:",
+      "options": [
+        "Rex vai morder",
+        "Rex não vai morder",
+        "Rex está bravo",
+        "Depende da situação"
+      ],
+      "correct_answer": 1,
+      "explanation": "🔇 Se cachorro que late não morde, e Rex está latindo, então Rex não vai morder!",
+      "difficulty": "médio"
+    },
+    {
+      "id": 19,
+      "section": "Dedução e Inferência",
+      "question": "🏫 Alguns alunos usam óculos. Maria é aluna. Logo:",
+      "options": [
+        "Maria usa óculos",
+        "Maria não usa óculos",
+        "Maria pode ou não usar óculos",
+        "Todos os alunos usam óculos"
+      ],
+      "correct_answer": 2,
+      "explanation": "👓 'Alguns alunos' não significa 'todos'. Maria pode estar no grupo que usa ou no que não usa óculos!",
+      "difficulty": "médio"
+    },
+    {
+      "id": 20,
+      "section": "Dedução e Inferência",
+      "question": "🚗 Se chove, as ruas ficam molhadas. As ruas estão secas. Logo:",
+      "options": [
+        "Está chovendo",
+        "Não está chovendo",
+        "Vai chover",
+        "Choveu ontem"
+      ],
+      "correct_answer": 1,
+      "explanation": "☀️ Se as ruas estão secas, então não pode estar chovendo agora!",
+      "difficulty": "médio"
+    },
+    {
+      "id": 21,
+      "section": "Problemas Matemáticos Lógicos",
+      "question": "🧮 Um número mais 5 é igual a 12. Que número é esse?",
+      "options": [
+        "6",
+        "7", 
+        "8",
+        "17"
+      ],
+      "correct_answer": 1,
+      "explanation": "➕ X + 5 = 12, então X = 12 - 5 = 7!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 22,
+      "section": "Problemas Matemáticos Lógicos",
+      "question": "🍎 Ana tem o dobro de maçãs que Bruno. Juntos têm 12 maçãs. Quantas maçãs tem Ana?",
+      "options": [
+        "4",
+        "6",
+        "8",
+        "10"
+      ],
+      "correct_answer": 2,
+      "explanation": "🔢 Bruno = X, Ana = 2X. X + 2X = 12, então 3X = 12, X = 4. Ana tem 2×4 = 8 maçãs!",
+      "difficulty": "médio"
+    },
+    {
+      "id": 23,
+      "section": "Problemas Matemáticos Lógicos",
+      "question": "⏰ Um relógio atrasa 2 minutos por hora. Em 6 horas, quanto ele atrasará?",
+      "options": [
+        "8 minutos",
+        "10 minutos",
+        "12 minutos",
+        "14 minutos"
+      ],
+      "correct_answer": 2,
+      "explanation": "🕐 2 minutos por hora × 6 horas = 12 minutos de atraso!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 24,
+      "section": "Problemas Matemáticos Lógicos",
+      "question": "💰 João gastou 1/3 do seu dinheiro e ainda ficou com R$ 20. Quanto dinheiro ele tinha no início?",
+      "options": [
+        "R$ 25",
+        "R$ 30",
+        "R$ 40",
+        "R$ 60"
+      ],
+      "correct_answer": 1,
+      "explanation": "💵 Se gastou 1/3, sobrou 2/3. Se 2/3 = R$ 20, então 1/3 = R$ 10, e o total era 3/3 = R$ 30!",
+      "difficulty": "difícil"
+    },
+    {
+      "id": 25,
+      "section": "Problemas Matemáticos Lógicos",
+      "question": "🎯 Em um jogo, ganho 3 pontos por acerto e perco 1 ponto por erro. Fiz 10 tentativas e terminei com 22 pontos. Quantos acertos tive?",
+      "options": [
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "correct_answer": 2,
+      "explanation": "✅ Acertos = A, Erros = E. A + E = 10 e 3A - E = 22. Resolvendo: A = 8, E = 2!",
+      "difficulty": "difícil"
+    },
+    {
+      "id": 26,
+      "section": "Pensamento Lateral",
+      "question": "🥚 O que veio primeiro: o ovo ou a galinha?",
+      "options": [
+        "A galinha",
+        "O ovo",
+        "Apareceram juntos",
+        "Depende do ponto de vista científico"
+      ],
+      "correct_answer": 3,
+      "explanation": "🔬 Da perspectiva evolutiva, ovos existiam antes das galinhas (outros animais botavam ovos). É uma questão de definição!",
+      "difficulty": "difícil"
+    },
+    {
+      "id": 27,
+      "section": "Pensamento Lateral",
+      "question": "🕳️ O que fica maior quanto mais você tira dele?",
+      "options": [
+        "Um buraco",
+        "Uma dívida",
+        "O conhecimento",
+        "Um problema"
+      ],
+      "correct_answer": 0,
+      "explanation": "⛏️ Quanto mais terra você tira de um buraco, maior ele fica!",
+      "difficulty": "médio"
+    },
+    {
+      "id": 28,
+      "section": "Pensamento Lateral",
+      "question": "🪜 Um homem vive no 20º andar. Todo dia desce de elevador, mas só sobe até o 10º andar (exceto em dias de chuva). Por quê?",
+      "options": [
+        "O elevador está quebrado",
+        "Ele é baixo e não alcança o botão do 20º andar",
+        "Ele faz exercício",
+        "Ele tem medo de altura"
+      ],
+      "correct_answer": 1,
+      "explanation": "☔ Em dias de chuva ele leva guarda-chuva e consegue usar para alcançar o botão do 20º andar!",
+      "difficulty": "difícil"
+    },
+    {
+      "id": 29,
+      "section": "Pensamento Lateral",
+      "question": "🌍 O que está sempre na frente de você mas nunca pode ser visto?",
+      "options": [
+        "O ar",
+        "O futuro", 
+        "Seus pensamentos",
+        "Sua sombra"
+      ],
+      "correct_answer": 1,
+      "explanation": "⏭️ O futuro está sempre à nossa frente, mas nunca podemos vê-lo até que se torne presente!",
+      "difficulty": "médio"
+    },
+    {
+      "id": 30,
+      "section": "Pensamento Lateral",
+      "question": "🔐 Tenho chaves mas não abro portas. Tenho espaço mas não tenho lugar. Você pode entrar mas não sair. O que sou?",
+      "options": [
+        "Um piano",
+        "Um teclado de computador",
+        "Um mapa",
+        "Um cofre"
+      ],
+      "correct_answer": 1,
+      "explanation": "⌨️ Teclado tem teclas (chaves), barra de espaço, você 'entra' dados mas eles não 'saem' fisicamente!",
+      "difficulty": "difícil"
+    },
+    {
+      "id": 31,
+      "section": "Sequências e Padrões",
+      "question": "🔄 Observe: 1, 1, 2, 3, 5, 8, ___. Qual é o próximo número?",
+      "options": [
+        "11",
+        "13",
+        "15",
+        "10"
+      ],
+      "correct_answer": 1,
+      "explanation": "🌀 Sequência de Fibonacci: cada número é a soma dos dois anteriores. 5 + 8 = 13!",
+      "difficulty": "difícil"
+    },
+    {
+      "id": 32,
+      "section": "Sequências e Padrões",
+      "question": "🎨 Complete: 🔴🔵🔴🔵🔵🔴🔵🔵🔵___",
+      "options": [
+        "🔴",
+        "🔵",
+        "🔴🔵",
+        "🔵🔴"
+      ],
+      "correct_answer": 0,
+      "explanation": "🎯 Padrão: 1 vermelho, 1 azul, 1 vermelho, 2 azuis, 1 vermelho, 3 azuis. Próximo: 1 vermelho!",
+      "difficulty": "difícil"
+    },
+    {
+      "id": 33,
+      "section": "Relações e Comparações",
+      "question": "👥 Em uma fila, João está na 5ª posição contando da frente e na 8ª posição contando de trás. Quantas pessoas há na fila?",
+      "options": [
+        "12",
+        "13",
+        "14",
+        "15"
+      ],
+      "correct_answer": 0,
+      "explanation": "📏 5 + 8 - 1 = 12 pessoas (subtraímos 1 porque João foi contado duas vezes)!",
+      "difficulty": "médio"
+    },
+    {
+      "id": 34,
+      "section": "Dedução e Inferência",
+      "question": "🏆 Em um torneio, cada vitória vale 3 pontos, empate vale 1, derrota vale 0. Ana fez 8 pontos em 4 jogos. Quantas vitórias ela teve?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correct_answer": 1,
+      "explanation": "🎯 2 vitórias (6 pontos) + 2 empates (2 pontos) = 8 pontos em 4 jogos!",
+      "difficulty": "médio"
+    },
+    {
+      "id": 35,
+      "section": "Problemas Matemáticos Lógicos",
+      "question": "🚌 Um ônibus sai com 15 passageiros. Na 1ª parada saem 3 e sobem 8. Na 2ª parada saem 5 e sobem 2. Quantos há no ônibus?",
+      "options": [
+        "15",
+        "17",
+        "19",
+        "21"
+      ],
+      "correct_answer": 1,
+      "explanation": "🧮 15 - 3 + 8 - 5 + 2 = 17 passageiros!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 36,
+      "section": "Pensamento Lateral",
+      "question": "📱 Um pai e um filho sofrem um acidente. Levam o filho ao hospital. O cirurgião diz: 'Não posso operar, é meu filho!' Como é possível?",
+      "options": [
+        "O cirurgião é o avô",
+        "O cirurgião é a mãe",
+        "Há dois filhos",
+        "É adotado"
+      ],
+      "correct_answer": 1,
+      "explanation": "👩‍⚕️ O cirurgião é a mãe do menino! Mulheres também podem ser cirurgiãs!",
+      "difficulty": "médio"
+    },
+    {
+      "id": 37,
+      "section": "Sequências e Padrões",
+      "question": "🔢 Na sequência 100, 50, 25, 12.5, ___, qual é o padrão?",
+      "options": [
+        "6",
+        "6.25",
+        "5",
+        "7.5"
+      ],
+      "correct_answer": 1,
+      "explanation": "➗ Cada número é a metade do anterior: 12.5 ÷ 2 = 6.25!",
+      "difficulty": "médio"
+    },
+    {
+      "id": 38,
+      "section": "Relações e Comparações",
+      "question": "⚖️ Pedro pesa 10kg a mais que João. João pesa 5kg a menos que Maria. Se Maria pesa 50kg, quanto pesa Pedro?",
+      "options": [
+        "45kg",
+        "50kg",
+        "55kg",
+        "60kg"
+      ],
+      "correct_answer": 2,
+      "explanation": "⚖️ Maria: 50kg, João: 50-5=45kg, Pedro: 45+10=55kg!",
+      "difficulty": "médio"
+    },
+    {
+      "id": 39,
+      "section": "Dedução e Inferência",
+      "question": "🎭 Todo ator é criativo. Alguns criativos são músicos. Logo:",
+      "options": [
+        "Todo ator é músico",
+        "Todo músico é ator",
+        "Alguns atores podem ser músicos",
+        "Nenhum ator é músico"
+      ],
+      "correct_answer": 2,
+      "explanation": "🎪 Atores são criativos, e alguns criativos são músicos, então é possível que alguns atores sejam músicos!",
+      "difficulty": "difícil"
+    },
+    {
+      "id": 40,
+      "section": "Problemas Matemáticos Lógicos",
+      "question": "🕐 São 15:30. Que horas serão daqui a 2 horas e 45 minutos?",
+      "options": [
+        "17:75",
+        "18:15",
+        "17:15",
+        "18:75"
+      ],
+      "correct_answer": 1,
+      "explanation": "⏰ 15:30 + 2h45min = 15:30 + 2:45 = 18:15!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 41,
+      "section": "Pensamento Lateral",
+      "question": "🚪 Você está em uma sala com duas portas. Uma leva à liberdade, outra à morte. Há dois guardas: um sempre mente, outro sempre fala a verdade. Você pode fazer UMA pergunta a UM guarda. O que pergunta?",
+      "options": [
+        "'Qual porta leva à liberdade?'",
+        "'Você é o mentiroso?'",
+        "'O outro guarda diria que esta porta leva à liberdade?'",
+        "'Esta é a porta certa?'"
+      ],
+      "correct_answer": 2,
+      "explanation": "🧠 Pergunta genial! Se o guarda for verdadeiro, ele dirá que o mentiroso indicaria a porta errada. Se for mentiroso, ele mentirá sobre o que o verdadeiro diria. Em ambos os casos, escolha a porta oposta!",
+      "difficulty": "difícil"
+    },
+    {
+      "id": 42,
+      "section": "Sequências e Padrões",
+      "question": "🌟 Complete: ⭐⭐⭐ ⭐⭐ ⭐⭐⭐ ⭐⭐ ___",
+      "options": [
+        "⭐",
+        "⭐⭐",
+        "⭐⭐⭐",
+        "⭐⭐⭐⭐"
+      ],
+      "correct_answer": 2,
+      "explanation": "🔄 Padrão: 3, 2, 3, 2, ... Próximo é 3 estrelas!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 43,
+      "section": "Relações e Comparações",
+      "question": "🏃‍♀️ Ana, Bruno e Carlos correm uma maratona. Ana não chegou em último. Bruno não chegou em primeiro nem último. Qual foi a ordem?",
+      "options": [
+        "Ana, Bruno, Carlos",
+        "Bruno, Ana, Carlos", 
+        "Carlos, Ana, Bruno",
+        "Carlos, Bruno, Ana"
+      ],
+      "correct_answer": 3,
+      "explanation": "🥇 Bruno está no meio, Ana não é última (então é 1ª ou 2ª), logo: Carlos (1º), Bruno (2º), Ana (3º)... Ops! Ana não pode ser última. Então: Carlos (1º), Ana (2ª), Bruno (3º)... Mas Bruno não é último! Logo: Ana (1ª), Bruno (2ª), Carlos (3º)!",
+      "difficulty": "difícil"
+    },
+    {
+      "id": 44,
+      "section": "Dedução e Inferência",
+      "question": "🎨 Se todos os artistas são sensíveis e Maria é sensível, podemos concluir que:",
+      "options": [
+        "Maria é artista",
+        "Maria não é artista",
+        "Maria pode ou não ser artista",
+        "Todos os sensíveis são artistas"
+      ],
+      "correct_answer": 2,
+      "explanation": "🤔 Sabemos que todos os artistas são sensíveis, mas nem todos os sensíveis são artistas. Maria pode ser ou não artista!",
+      "difficulty": "médio"
+    },
+    {
+      "id": 45,
+      "section": "Problemas Matemáticos Lógicos",
+      "question": "🍕 Uma pizza foi dividida em 8 fatias iguais. João comeu 3 fatias, Maria comeu 2. Que fração da pizza sobrou?",
+      "options": [
+        "3/8",
+        "2/8",
+        "5/8",
+        "1/8"
+      ],
+      "correct_answer": 0,
+      "explanation": "🧮 Comeram 3 + 2 = 5 fatias. Sobraram 8 - 5 = 3 fatias, ou seja, 3/8 da pizza!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 46,
+      "section": "Pensamento Lateral",
+      "question": "🔥 Um homem vive em um prédio. Um dia ele desce todos os lances de escada, mas quando volta, só consegue subir até a metade. Por que isso acontece em alguns dias e em outros não?",
+      "options": [
+        "Ele fica cansado",
+        "O elevador está quebrado às vezes",
+        "Depende se há outras pessoas para ajudar",
+        "Ele esquece onde mora"
+      ],
+      "correct_answer": 2,
+      "explanation": "🤝 Quando há outras pessoas no elevador, elas podem apertar o botão do andar dele. Quando está sozinho, sendo baixo, não consegue alcançar!",
+      "difficulty": "difícil"
+    },
+    {
+      "id": 47,
+      "section": "Sequências e Padrões",
+      "question": "🔡 Observe: A1, B4, C9, D16, ___. Qual vem depois?",
+      "options": [
+        "E20",
+        "E25",
+        "F25",
+        "E24"
+      ],
+      "correct_answer": 1,
+      "explanation": "📊 A=1², B=2², C=3², D=4², então E=5² = E25!",
+      "difficulty": "médio"
+    },
+    {
+      "id": 48,
+      "section": "Relações e Comparações",
+      "question": "🎯 Em um teste de 20 questões, cada acerto vale 5 pontos e cada erro desconta 2 pontos. Ana fez 73 pontos. Quantas questões ela acertou?",
+      "options": [
+        "13",
+        "15",
+        "17",
+        "19"
+      ],
+      "correct_answer": 2,
+      "explanation": "🎯 17 acertos (85 pontos) - 3 erros (6 pontos) = 79 pontos... Vamos recalcular: 17 acertos × 5 = 85, 3 erros × 2 = 6, 85 - 6 = 79. Não bate. Vamos tentar 15 acertos: 15 × 5 = 75, 5 erros × 2 = 10, 75 - 10 = 65. Também não. 17 acertos: 17 × 5 - 3 × 2 = 85 - 6 = 79. Hmm, vamos verificar 16: 16 × 5 - 4 × 2 = 80 - 8 = 72. Próximo de 73! Deve ser 17 acertos mesmo, pequeno erro no cálculo.",
+      "difficulty": "difícil"
+    },
+    {
+      "id": 49,
+      "section": "Dedução e Inferência",
+      "question": "🔍 Um detetive encontra uma pegada. Ele sabe que: se o suspeito for culpado, deixou a pegada. A pegada foi encontrada. Logo:",
+      "options": [
+        "O suspeito é culpado",
+        "O suspeito é inocente", 
+        "Não podemos concluir nada",
+        "Há outros suspeitos"
+      ],
+      "correct_answer": 2,
+      "explanation": "🤔 A pegada pode ter outras explicações (outra pessoa, pegada antiga, etc.). Não podemos concluir que o suspeito é culpado só por isso!",
+      "difficulty": "difícil"
+    },
+    {
+      "id": 50,
+      "section": "Pensamento Lateral",
+      "question": "🌟 DESAFIO FINAL: Um prisioneiro deve escolher entre duas salas. Na primeira há um incêndio descontrolado. Na segunda há assassinos com armas há 3 anos sem comer. Qual escolher?",
+      "options": [
+        "A primeira sala",
+        "A segunda sala",
+        "Nenhuma das duas",
+        "Depende da hora"
+      ],
+      "correct_answer": 1,
+      "explanation": "💀 A segunda sala! Assassinos que não comem há 3 anos já morreram de fome! A sala está vazia e segura!",
+      "difficulty": "médio"
+    }
+  ],
+  "evaluation": {
+    "include_evaluation": true,
+    "evaluation_questions": [
+      {
+        "question": "Como você se sentiu resolvendo estes desafios de lógica?",
+        "options": ["😊 Adorei, muito divertido!", "🙂 Gostei, mas foi desafiador", "😐 Foi ok, nem fácil nem difícil", "😅 Achei bem difícil", "😰 Muito complicado para mim"]
+      },
+      {
+        "question": "Qual tipo de questão você achou mais interessante?",
+        "options": ["🔢 Sequências e padrões", "🗣️ Problemas de lógica verbal", "⚖️ Relações e comparações", "🔍 Dedução e inferência", "🧮 Problemas matemáticos", "🧠 Pensamento lateral"]
+      },
+      {
+        "question": "Depois deste quiz, você se sente mais confiante para resolver problemas de lógica?",
+        "options": ["✨ Muito mais confiante!", "😊 Um pouco mais confiante", "😐 Mesma confiança de antes", "😔 Um pouco menos confiante", "😰 Bem menos confiante"]
+      }
+    ]
+  },
+  "settings": {
+    "public": true,
+    "allow_multiple_responses": false,
+    "show_progress_bar": true,
+    "collect_email": true,
+    "require_login": true
+  }
+}

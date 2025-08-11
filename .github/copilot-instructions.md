@@ -38,6 +38,7 @@ This project integrates with Google Forms API to create and manage forms program
   - "parecer (conecta sujeito)" → Use "parecer" instead
 * Maintain appropriate difficulty level without compromising educational integrity
 * Ensure all options are plausible to require actual subject knowledge
+* By default, do not create evaluation questions
 
 ## Form Generation - IMPORTANT
 * **ALWAYS use the `form.py` script from the project root to create Google Forms**
