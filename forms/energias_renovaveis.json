@@ -1,0 +1,1140 @@
+{
+  "metadata": {
+    "title": "⚡ Energias Renováveis: O Futuro Sustentável do Planeta",
+    "description": [
+      "Descubra as fontes de energia limpa que podem salvar nosso planeta!",
+      "Aprenda sobre energia solar, eólica, hidrelétrica e outras fontes renováveis.",
+      "Compreenda a importância das energias sustentáveis para o meio ambiente e o futuro."
+    ],
+    "subject": "Geografia e Ciências",
+    "grade": "5ª série",
+    "topic": "Energias Renováveis e Sustentabilidade",
+    "author": "IA",
+    "version": "1.0",
+    "created_date": "2025-08-12"
+  },
+  "content": {
+    "introduction": "Bem-vindos ao mundo das energias renováveis! Hoje vamos descobrir como o Sol, o vento, a água e outras forças da natureza podem fornecer energia limpa para nossas casas, escolas e cidades. Essas energias são o futuro do nosso planeta!",
+    "instructions": [
+      "Pense nas diferentes fontes de energia que conhece no seu dia a dia.",
+      "Relacione cada fonte com suas vantagens e desvantagens.",
+      "Considere o impacto ambiental de cada tipo de energia.",
+      "Lembre-se das discussões em sala sobre sustentabilidade.",
+      "Use seus conhecimentos sobre geografia e meio ambiente."
+    ],
+    "sections": [
+      {
+        "name": "Conceitos Fundamentais",
+        "description": "O que são energias renováveis e não renováveis."
+      },
+      {
+        "name": "Energia Solar",
+        "description": "Aproveitando a força do Sol para gerar eletricidade."
+      },
+      {
+        "name": "Energia Eólica",
+        "description": "Transformando a força dos ventos em energia elétrica."
+      },
+      {
+        "name": "Energia Hidrelétrica",
+        "description": "O poder da água em movimento para gerar energia."
+      },
+      {
+        "name": "Outras Energias Renováveis",
+        "description": "Biomassa, geotérmica e outras fontes sustentáveis."
+      },
+      {
+        "name": "Energias Não Renováveis",
+        "description": "Petróleo, carvão e gás natural - problemas e limitações."
+      },
+      {
+        "name": "Impactos Ambientais",
+        "description": "Como diferentes energias afetam o meio ambiente."
+      },
+      {
+        "name": "Sustentabilidade e Futuro",
+        "description": "A importância das energias renováveis para o planeta."
+      },
+      {
+        "name": "Brasil e Energias Renováveis",
+        "description": "O potencial energético sustentável do nosso país."
+      }
+    ]
+  },
+  "questions": [
+    {
+      "id": 1,
+      "section": "Conceitos Fundamentais",
+      "question": "⚡ O que são energias renováveis?",
+      "options": [
+        "Energias que se esgotam rapidamente",
+        "Energias que se renovam naturalmente e não se esgotam",
+        "Energias que só funcionam de dia",
+        "Energias que são muito caras"
+      ],
+      "correct_answer": 1,
+      "explanation": "🔄 Energias renováveis são aquelas que se renovam constantemente na natureza, como sol, vento e água, não se esgotando!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 2,
+      "section": "Conceitos Fundamentais",
+      "question": "🌍 Por que as energias renováveis são importantes para o meio ambiente?",
+      "options": [
+        "Porque são mais baratas",
+        "Porque não poluem ou poluem muito pouco",
+        "Porque funcionam melhor",
+        "Porque são mais bonitas"
+      ],
+      "correct_answer": 1,
+      "explanation": "🌱 As energias renováveis são limpas, não emitem gases poluentes e ajudam a preservar o meio ambiente!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 3,
+      "section": "Conceitos Fundamentais",
+      "question": "🔋 Qual é a principal diferença entre energias renováveis e não renováveis?",
+      "options": [
+        "O preço",
+        "A cor",
+        "A capacidade de se renovar na natureza",
+        "O tamanho"
+      ],
+      "correct_answer": 2,
+      "explanation": "♻️ A principal diferença é que as renováveis se renovam naturalmente, enquanto as não renováveis se esgotam!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 4,
+      "section": "Conceitos Fundamentais",
+      "question": "🌿 Quais são exemplos de energias renováveis?",
+      "options": [
+        "Petróleo e carvão",
+        "Solar, eólica e hidrelétrica",
+        "Gasolina e diesel",
+        "Gás natural e urânio"
+      ],
+      "correct_answer": 1,
+      "explanation": "☀️💨💧 Solar (sol), eólica (vento) e hidrelétrica (água) são as principais energias renováveis!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 5,
+      "section": "Conceitos Fundamentais",
+      "question": "⏰ As energias renováveis estão disponíveis:",
+      "options": [
+        "Apenas de manhã",
+        "Só no verão",
+        "Continuamente na natureza",
+        "Uma vez por ano"
+      ],
+      "correct_answer": 2,
+      "explanation": "🔄 As energias renováveis estão sempre disponíveis na natureza - sol, vento e água não param!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 6,
+      "section": "Conceitos Fundamentais",
+      "question": "🏭 O que significa 'energia limpa'?",
+      "options": [
+        "Energia que é lavada com água",
+        "Energia que não polui o meio ambiente",
+        "Energia transparente",
+        "Energia que funciona em casa limpa"
+      ],
+      "correct_answer": 1,
+      "explanation": "🌿 Energia limpa é aquela que não polui o ar, a água ou o solo, preservando o meio ambiente!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 7,
+      "section": "Conceitos Fundamentais",
+      "question": "🔌 Para que usamos energia no nosso dia a dia?",
+      "options": [
+        "Apenas para luz",
+        "Iluminação, eletrodomésticos, transporte e aquecimento",
+        "Só para televisão",
+        "Apenas para carros"
+      ],
+      "correct_answer": 1,
+      "explanation": "💡 Usamos energia para tudo: luz, geladeira, computador, transporte, aquecimento e muito mais!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 8,
+      "section": "Conceitos Fundamentais",
+      "question": "📊 Atualmente, o mundo usa mais energia:",
+      "options": [
+        "100% renovável",
+        "Principalmente não renovável (petróleo, carvão)",
+        "50% renovável, 50% não renovável",
+        "Só energia solar"
+      ],
+      "correct_answer": 1,
+      "explanation": "⚠️ Infelizmente, ainda usamos principalmente energias não renováveis, mas isso precisa mudar!",
+      "difficulty": "médio"
+    },
+    {
+      "id": 9,
+      "section": "Energia Solar",
+      "question": "☀️ Como funciona a energia solar?",
+      "options": [
+        "Captando o calor do sol para aquecer água",
+        "Convertendo luz solar em eletricidade através de painéis",
+        "Usando espelhos para refletir luz",
+        "Todas as alternativas anteriores"
+      ],
+      "correct_answer": 3,
+      "explanation": "🌞 A energia solar funciona de várias formas: painéis fotovoltaicos, aquecimento solar e concentração solar!",
+      "difficulty": "médio"
+    },
+    {
+      "id": 10,
+      "section": "Energia Solar",
+      "question": "🔆 O que são painéis solares?",
+      "options": [
+        "Espelhos grandes",
+        "Equipamentos que transformam luz solar em eletricidade",
+        "Janelas especiais",
+        "Antenas de TV"
+      ],
+      "correct_answer": 1,
+      "explanation": "⚡ Painéis solares captam a luz do sol e a transformam em energia elétrica para uso em casas e empresas!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 11,
+      "section": "Energia Solar",
+      "question": "🏠 Onde podemos instalar painéis solares?",
+      "options": [
+        "Apenas no deserto",
+        "Telhados de casas, prédios e terrenos",
+        "Só em laboratórios",
+        "Apenas no espaço"
+      ],
+      "correct_answer": 1,
+      "explanation": "🏘️ Painéis solares podem ser instalados em telhados residenciais, prédios, escolas e grandes usinas solares!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 12,
+      "section": "Energia Solar",
+      "question": "🌤️ A energia solar funciona melhor quando:",
+      "options": [
+        "Está chovendo",
+        "Há muito sol e céu limpo",
+        "Está ventando",
+        "É noite"
+      ],
+      "correct_answer": 1,
+      "explanation": "☀️ Quanto mais sol e menos nuvens, mais energia os painéis solares conseguem produzir!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 13,
+      "section": "Energia Solar",
+      "question": "🌙 Durante a noite, os painéis solares:",
+      "options": [
+        "Funcionam normalmente",
+        "Não produzem energia",
+        "Produzem mais energia",
+        "Mudam de cor"
+      ],
+      "correct_answer": 1,
+      "explanation": "🌜 À noite não há sol, então os painéis não produzem energia. Por isso precisamos de baterias para armazenar!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 14,
+      "section": "Energia Solar",
+      "question": "🏖️ Quais regiões do Brasil têm mais potencial para energia solar?",
+      "options": [
+        "Regiões com pouco sol",
+        "Nordeste e outras áreas com muito sol",
+        "Apenas o Sul",
+        "Só as montanhas"
+      ],
+      "correct_answer": 1,
+      "explanation": "🌞 O Nordeste brasileiro tem excelente potencial solar devido ao clima ensolarado durante o ano todo!",
+      "difficulty": "médio"
+    },
+    {
+      "id": 15,
+      "section": "Energia Solar",
+      "question": "💰 Uma vantagem da energia solar é:",
+      "options": [
+        "Funciona só de dia",
+        "Após instalação, a luz do sol é gratuita",
+        "É muito cara sempre",
+        "Precisa de combustível"
+      ],
+      "correct_answer": 1,
+      "explanation": "💡 Depois de instalar os painéis, a luz do sol é gratuita para sempre - não precisa comprar combustível!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 16,
+      "section": "Energia Eólica",
+      "question": "💨 Como funciona a energia eólica?",
+      "options": [
+        "Usando o calor do vento",
+        "Turbinas captam o vento e geram eletricidade",
+        "Queimando vento",
+        "Misturando vento com água"
+      ],
+      "correct_answer": 1,
+      "explanation": "🌪️ Turbinas eólicas (aerogeradores) captam a força do vento e a transformam em energia elétrica!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 17,
+      "section": "Energia Eólica",
+      "question": "🌀 O que são aerogeradores?",
+      "options": [
+        "Máquinas que fazem vento",
+        "Torres altas com hélices que captam vento",
+        "Ventiladores domésticos",
+        "Aparelhos de ar condicionado"
+      ],
+      "correct_answer": 1,
+      "explanation": "🗼 Aerogeradores são torres altas com grandes hélices que giram com o vento e produzem energia!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 18,
+      "section": "Energia Eólica",
+      "question": "🏔️ Onde são instalados os parques eólicos?",
+      "options": [
+        "Apenas em cidades",
+        "Locais com ventos constantes e fortes",
+        "Só em florestas",
+        "Apenas no subsolo"
+      ],
+      "correct_answer": 1,
+      "explanation": "💨 Parques eólicos ficam em locais ventosos: litorais, montanhas e planícies abertas!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 19,
+      "section": "Energia Eólica",
+      "question": "🌊 No Brasil, muitos parques eólicos estão localizados:",
+      "options": [
+        "Na Amazônia",
+        "No litoral nordestino",
+        "Apenas em São Paulo",
+        "No Pantanal"
+      ],
+      "correct_answer": 1,
+      "explanation": "🏖️ O litoral nordestino tem ventos constantes e fortes, ideais para energia eólica!",
+      "difficulty": "médio"
+    },
+    {
+      "id": 20,
+      "section": "Energia Eólica",
+      "question": "🔊 Um possível problema da energia eólica é:",
+      "options": [
+        "Não produz energia",
+        "Ruído das turbinas",
+        "Polui muito",
+        "Esquenta o planeta"
+      ],
+      "correct_answer": 1,
+      "explanation": "🔇 As turbinas fazem algum ruído, mas é um problema menor comparado aos benefícios ambientais!",
+      "difficulty": "médio"
+    },
+    {
+      "id": 21,
+      "section": "Energia Eólica",
+      "question": "⚡ A energia eólica é considerada limpa porque:",
+      "options": [
+        "Usa detergente",
+        "Não emite gases poluentes",
+        "É transparente",
+        "Funciona com água limpa"
+      ],
+      "correct_answer": 1,
+      "explanation": "🌿 A energia eólica não queima combustível nem emite gases que poluem o ar!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 22,
+      "section": "Energia Eólica",
+      "question": "📈 Nos últimos anos, a energia eólica no Brasil:",
+      "options": [
+        "Diminuiu muito",
+        "Cresceu rapidamente",
+        "Parou de funcionar",
+        "Não mudou nada"
+      ],
+      "correct_answer": 1,
+      "explanation": "📊 O Brasil está investindo muito em energia eólica, que cresce a cada ano!",
+      "difficulty": "médio"
+    },
+    {
+      "id": 23,
+      "section": "Energia Eólica",
+      "question": "🌪️ Para a energia eólica funcionar bem, é necessário:",
+      "options": [
+        "Chuva constante",
+        "Ventos regulares e adequados",
+        "Muito calor",
+        "Terremotos"
+      ],
+      "correct_answer": 1,
+      "explanation": "💨 A energia eólica depende de ventos constantes e com velocidade adequada para girar as turbinas!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 24,
+      "section": "Energia Hidrelétrica",
+      "question": "💧 Como funciona uma usina hidrelétrica?",
+      "options": [
+        "Queimando água",
+        "Usando a força da água em movimento para girar turbinas",
+        "Fervendo água",
+        "Congelando água"
+      ],
+      "correct_answer": 1,
+      "explanation": "🌊 A força da água que cai ou flui gira turbinas, que geram energia elétrica!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 25,
+      "section": "Energia Hidrelétrica",
+      "question": "🏗️ O que é uma barragem?",
+      "options": [
+        "Um tipo de peixe",
+        "Uma construção que represas água formando um lago",
+        "Uma ponte",
+        "Um tipo de rocha"
+      ],
+      "correct_answer": 1,
+      "explanation": "🌊 Barragem é uma construção que bloqueia um rio, formando um reservatório de água para a usina!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 26,
+      "section": "Energia Hidrelétrica",
+      "question": "⚡ Itaipu é famosa por ser:",
+      "options": [
+        "Uma montanha",
+        "Uma das maiores usinas hidrelétricas do mundo",
+        "Uma cidade",
+        "Um rio"
+      ],
+      "correct_answer": 1,
+      "explanation": "🏆 Itaipu, na fronteira Brasil-Paraguai, é uma das maiores usinas hidrelétricas do mundo!",
+      "difficulty": "médio"
+    },
+    {
+      "id": 27,
+      "section": "Energia Hidrelétrica",
+      "question": "🇧🇷 O Brasil depende muito da energia hidrelétrica porque:",
+      "options": [
+        "Não tem outras opções",
+        "Tem muitos rios e chuvas",
+        "É mais fácil",
+        "É mais barata sempre"
+      ],
+      "correct_answer": 1,
+      "explanation": "🌊 O Brasil tem muitos rios caudalosos e chuvas regulares, favorecendo a energia hidrelétrica!",
+      "difficulty": "médio"
+    },
+    {
+      "id": 28,
+      "section": "Energia Hidrelétrica",
+      "question": "🐟 Um impacto ambiental das hidrelétricas pode ser:",
+      "options": [
+        "Melhora para todos os peixes",
+        "Alteração do habitat aquático",
+        "Mais oxigênio na água",
+        "Nenhum impacto"
+      ],
+      "correct_answer": 1,
+      "explanation": "🐠 Barragens podem alterar o habitat de peixes e outros animais aquáticos, afetando o ecossistema!",
+      "difficulty": "médio"
+    },
+    {
+      "id": 29,
+      "section": "Energia Hidrelétrica",
+      "question": "☔ Em períodos de seca, as hidrelétricas:",
+      "options": [
+        "Funcionam melhor",
+        "Podem produzir menos energia",
+        "Não são afetadas",
+        "Produzem mais energia"
+      ],
+      "correct_answer": 1,
+      "explanation": "💧 Com menos água nos reservatórios durante a seca, as hidrelétricas produzem menos energia!",
+      "difficulty": "médio"
+    },
+    {
+      "id": 30,
+      "section": "Energia Hidrelétrica",
+      "question": "🏞️ Além de energia, os reservatórios das hidrelétricas podem ser usados para:",
+      "options": [
+        "Apenas decoração",
+        "Abastecimento de água, pesca e lazer",
+        "Nada mais",
+        "Só para animais"
+      ],
+      "correct_answer": 1,
+      "explanation": "🎣 Reservatórios servem para abastecimento urbano, pesca, navegação e atividades de lazer!",
+      "difficulty": "médio"
+    },
+    {
+      "id": 31,
+      "section": "Outras Energias Renováveis",
+      "question": "🌾 O que é biomassa?",
+      "options": [
+        "Massa de rochas",
+        "Material orgânico usado para produzir energia",
+        "Massa de água",
+        "Massa de ar"
+      ],
+      "correct_answer": 1,
+      "explanation": "🌱 Biomassa é material orgânico (madeira, bagaço de cana, restos vegetais) usado para energia!",
+      "difficulty": "médio"
+    },
+    {
+      "id": 32,
+      "section": "Outras Energias Renováveis",
+      "question": "🏭 Como a biomassa gera energia?",
+      "options": [
+        "Através da fotossíntese",
+        "Queimando material orgânico ou produzindo biogás",
+        "Misturando com água",
+        "Colocando no sol"
+      ],
+      "correct_answer": 1,
+      "explanation": "🔥 Biomassa pode ser queimada diretamente ou decomposta para produzir biogás metano!",
+      "difficulty": "médio"
+    },
+    {
+      "id": 33,
+      "section": "Outras Energias Renováveis",
+      "question": "🌋 O que é energia geotérmica?",
+      "options": [
+        "Energia do gelo",
+        "Energia do calor interno da Terra",
+        "Energia das estrelas",
+        "Energia da lua"
+      ],
+      "correct_answer": 1,
+      "explanation": "🔥 Energia geotérmica aproveita o calor natural do interior da Terra para gerar energia!",
+      "difficulty": "difícil"
+    },
+    {
+      "id": 34,
+      "section": "Outras Energias Renováveis",
+      "question": "🌊 A energia das marés funciona através:",
+      "options": [
+        "Do calor do mar",
+        "Do movimento de subida e descida das águas",
+        "Da cor da água",
+        "Do sal do mar"
+      ],
+      "correct_answer": 1,
+      "explanation": "🌙 A energia das marés aproveita o movimento das águas causado pela atração da Lua!",
+      "difficulty": "difícil"
+    },
+    {
+      "id": 35,
+      "section": "Outras Energias Renováveis",
+      "question": "🚗 O etanol é um biocombustível feito de:",
+      "options": [
+        "Petróleo",
+        "Cana-de-açúcar e outros vegetais",
+        "Carvão",
+        "Gás natural"
+      ],
+      "correct_answer": 1,
+      "explanation": "🌿 No Brasil, o etanol é produzido principalmente da cana-de-açúcar, sendo renovável!",
+      "difficulty": "médio"
+    },
+    {
+      "id": 36,
+      "section": "Outras Energias Renováveis",
+      "question": "♻️ Uma vantagem da biomassa é:",
+      "options": [
+        "Polui muito",
+        "Aproveita resíduos orgânicos",
+        "É muito cara",
+        "Não funciona"
+      ],
+      "correct_answer": 1,
+      "explanation": "🗂️ A biomassa aproveita resíduos que iriam para o lixo, dando-lhes uma utilidade energética!",
+      "difficulty": "médio"
+    },
+    {
+      "id": 37,
+      "section": "Outras Energias Renováveis",
+      "question": "🏠 Pequenas usinas podem usar energia:",
+      "options": [
+        "Apenas nuclear",
+        "Solar, eólica pequena, biomassa local",
+        "Só petróleo",
+        "Apenas gás"
+      ],
+      "correct_answer": 1,
+      "explanation": "🏘️ Comunidades pequenas podem usar painéis solares, pequenas turbinas e biomassa local!",
+      "difficulty": "médio"
+    },
+    {
+      "id": 38,
+      "section": "Energias Não Renováveis",
+      "question": "⛽ Quais são as principais energias não renováveis?",
+      "options": [
+        "Sol, vento e água",
+        "Petróleo, carvão e gás natural",
+        "Madeira e plantas",
+        "Ondas e marés"
+      ],
+      "correct_answer": 1,
+      "explanation": "🛢️ Petróleo, carvão e gás natural são combustíveis fósseis que se formaram há milhões de anos!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 39,
+      "section": "Energias Não Renováveis",
+      "question": "⏰ Por que o petróleo é considerado não renovável?",
+      "options": [
+        "Porque é líquido",
+        "Demora milhões de anos para se formar",
+        "Porque é preto",
+        "Porque está no subsolo"
+      ],
+      "correct_answer": 1,
+      "explanation": "🦕 O petróleo levou milhões de anos para se formar a partir de organismos antigos - não se renova rapidamente!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 40,
+      "section": "Energias Não Renováveis",
+      "question": "💨 A queima de combustíveis fósseis produz:",
+      "options": [
+        "Apenas vapor d'água",
+        "Gases que poluem o ar e causam efeito estufa",
+        "Oxigênio puro",
+        "Apenas luz"
+      ],
+      "correct_answer": 1,
+      "explanation": "🏭 Queimar petróleo, carvão e gás libera CO2 e outros gases que poluem e aquecem o planeta!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 41,
+      "section": "Energias Não Renováveis",
+      "question": "🌡️ O efeito estufa intensificado causa:",
+      "options": [
+        "Resfriamento global",
+        "Aquecimento global e mudanças climáticas",
+        "Mais oxigênio",
+        "Menos chuvas sempre"
+      ],
+      "correct_answer": 1,
+      "explanation": "🔥 Excesso de gases estufa aquece o planeta, causando mudanças no clima mundial!",
+      "difficulty": "médio"
+    },
+    {
+      "id": 42,
+      "section": "Energias Não Renováveis",
+      "question": "📉 Um grande problema das energias não renováveis é:",
+      "options": [
+        "São muito limpas",
+        "Vão se esgotar um dia",
+        "Não produzem energia",
+        "São muito baratas"
+      ],
+      "correct_answer": 1,
+      "explanation": "⚠️ Combustíveis fósseis são finitos - um dia vão acabar, por isso precisamos de alternativas!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 43,
+      "section": "Energias Não Renováveis",
+      "question": "⚡ A energia nuclear é considerada:",
+      "options": [
+        "Renovável",
+        "Não renovável",
+        "Semi-renovável",
+        "Impossível"
+      ],
+      "correct_answer": 1,
+      "explanation": "☢️ Energia nuclear usa urânio, que é um material finito na natureza, sendo não renovável!",
+      "difficulty": "médio"
+    },
+    {
+      "id": 44,
+      "section": "Energias Não Renováveis",
+      "question": "🚗 Os carros movidos a gasolina:",
+      "options": [
+        "Não poluem nada",
+        "Emitem gases poluentes pelo escapamento",
+        "Só produzem vapor d'água",
+        "Limpam o ar"
+      ],
+      "correct_answer": 1,
+      "explanation": "🚙 Carros a gasolina queimam combustível fóssil e liberam gases poluentes no ar!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 45,
+      "section": "Impactos Ambientais",
+      "question": "🌍 Qual energia tem menor impacto ambiental?",
+      "options": [
+        "Carvão",
+        "Solar e eólica",
+        "Petróleo",
+        "Gás natural"
+      ],
+      "correct_answer": 1,
+      "explanation": "🌿 Solar e eólica são as mais limpas - não emitem gases nem poluem o ambiente!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 46,
+      "section": "Impactos Ambientais",
+      "question": "🐧 O aquecimento global pode causar:",
+      "options": [
+        "Mais gelo nos polos",
+        "Derretimento de geleiras e aumento do nível do mar",
+        "Resfriamento dos oceanos",
+        "Mais neve no Brasil"
+      ],
+      "correct_answer": 1,
+      "explanation": "🌊 O aquecimento derrete geleiras, eleva o nível do mar e ameaça cidades costeiras!",
+      "difficulty": "médio"
+    },
+    {
+      "id": 47,
+      "section": "Impactos Ambientais",
+      "question": "🏥 A poluição do ar pode causar problemas de:",
+      "options": [
+        "Audição",
+        "Respiração e saúde",
+        "Visão apenas",
+        "Movimento"
+      ],
+      "correct_answer": 1,
+      "explanation": "😷 Ar poluído causa asma, alergias e outros problemas respiratórios, afetando a saúde!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 48,
+      "section": "Impactos Ambientais",
+      "question": "🌧️ A chuva ácida é causada por:",
+      "options": [
+        "Muita água",
+        "Poluição do ar que se mistura com a chuva",
+        "Vento forte",
+        "Sol muito forte"
+      ],
+      "correct_answer": 1,
+      "explanation": "☔ Gases poluentes se misturam com vapor d'água formando chuva ácida que prejudica plantas e construções!",
+      "difficulty": "médio"
+    },
+    {
+      "id": 49,
+      "section": "Impactos Ambientais",
+      "question": "🐟 Vazamentos de petróleo nos oceanos:",
+      "options": [
+        "Fazem bem aos peixes",
+        "Matam vida marinha e poluem praias",
+        "Limpam a água",
+        "Não causam problemas"
+      ],
+      "correct_answer": 1,
+      "explanation": "🛢️ Petróleo no mar mata peixes, aves marinhas e polui as praias por muito tempo!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 50,
+      "section": "Impactos Ambientais",
+      "question": "🏭 Usinas termelétricas (que queimam combustível) liberam:",
+      "options": [
+        "Apenas oxigênio",
+        "Gases poluentes e partículas",
+        "Apenas vapor d'água",
+        "Perfume"
+      ],
+      "correct_answer": 1,
+      "explanation": "💨 Termelétricas queimam combustível e liberam CO2, cinzas e outros poluentes no ar!",
+      "difficulty": "médio"
+    },
+    {
+      "id": 51,
+      "section": "Sustentabilidade e Futuro",
+      "question": "🌱 O que significa desenvolvimento sustentável?",
+      "options": [
+        "Desenvolver apenas a economia",
+        "Crescer sem comprometer o futuro do planeta",
+        "Parar todo desenvolvimento",
+        "Desenvolver só a tecnologia"
+      ],
+      "correct_answer": 1,
+      "explanation": "♻️ Desenvolvimento sustentável atende nossas necessidades sem prejudicar as futuras gerações!",
+      "difficulty": "médio"
+    },
+    {
+      "id": 52,
+      "section": "Sustentabilidade e Futuro",
+      "question": "⚡ Por que precisamos mudar nossa matriz energética?",
+      "options": [
+        "Para gastar mais dinheiro",
+        "Para proteger o meio ambiente e garantir energia no futuro",
+        "Para complicar as coisas",
+        "Não precisamos mudar"
+      ],
+      "correct_answer": 1,
+      "explanation": "🌍 Mudar para energias renováveis protege o planeta e garante energia para sempre!",
+      "difficulty": "médio"
+    },
+    {
+      "id": 53,
+      "section": "Sustentabilidade e Futuro",
+      "question": "🔋 No futuro, as cidades poderão ser abastecidas por:",
+      "options": [
+        "Apenas petróleo",
+        "100% energias renováveis",
+        "Só carvão",
+        "Energia impossível"
+      ],
+      "correct_answer": 1,
+      "explanation": "🏙️ Já existem cidades que usam quase 100% de energia renovável - é o futuro sustentável!",
+      "difficulty": "médio"
+    },
+    {
+      "id": 54,
+      "section": "Sustentabilidade e Futuro",
+      "question": "👨‍👩‍👧‍👦 Como as famílias podem contribuir para um futuro energético sustentável?",
+      "options": [
+        "Usando mais energia",
+        "Economizando energia e usando fontes limpas",
+        "Não fazendo nada",
+        "Desperdiçando energia"
+      ],
+      "correct_answer": 1,
+      "explanation": "💡 Economizar energia, usar lâmpadas LED e painéis solares ajudam o planeta!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 55,
+      "section": "Sustentabilidade e Futuro",
+      "question": "🚗 Carros elétricos são melhores para o ambiente porque:",
+      "options": [
+        "São mais bonitos",
+        "Não emitem gases poluentes no escapamento",
+        "São mais rápidos",
+        "Custam menos"
+      ],
+      "correct_answer": 1,
+      "explanation": "🔌 Carros elétricos não queimam combustível, não poluindo o ar das cidades!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 56,
+      "section": "Sustentabilidade e Futuro",
+      "question": "🎓 A educação sobre energias renováveis é importante porque:",
+      "options": [
+        "É complicada",
+        "Prepara jovens para construir um futuro sustentável",
+        "É desnecessária",
+        "Só serve para provas"
+      ],
+      "correct_answer": 1,
+      "explanation": "📚 Educação ambiental prepara cidadãos conscientes para cuidar do planeta!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 57,
+      "section": "Sustentabilidade e Futuro",
+      "question": "🌍 O Acordo de Paris trata de:",
+      "options": [
+        "Turismo",
+        "Combate às mudanças climáticas",
+        "Comércio",
+        "Esportes"
+      ],
+      "correct_answer": 1,
+      "explanation": "🤝 O Acordo de Paris une países para reduzir emissões e combater o aquecimento global!",
+      "difficulty": "médio"
+    },
+    {
+      "id": 58,
+      "section": "Brasil e Energias Renováveis",
+      "question": "🇧🇷 O Brasil tem grande potencial para energias renováveis devido:",
+      "options": [
+        "Ao seu tamanho pequeno",
+        "À grande diversidade de recursos naturais",
+        "À falta de recursos",
+        "Ao clima sempre frio"
+      ],
+      "correct_answer": 1,
+      "explanation": "🌞🌊💨 Brasil tem muito sol, vento, rios e biomassa - recursos ideais para energia limpa!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 59,
+      "section": "Brasil e Energias Renováveis",
+      "question": "⚡ A maior parte da energia elétrica brasileira vem de:",
+      "options": [
+        "Petróleo",
+        "Usinas hidrelétricas",
+        "Carvão",
+        "Energia nuclear"
+      ],
+      "correct_answer": 1,
+      "explanation": "🌊 Cerca de 65% da energia elétrica brasileira vem de hidrelétricas!",
+      "difficulty": "médio"
+    },
+    {
+      "id": 60,
+      "section": "Brasil e Energias Renováveis",
+      "question": "🌾 O Brasil é pioneiro mundial em:",
+      "options": [
+        "Energia nuclear",
+        "Uso de etanol como combustível",
+        "Energia a carvão",
+        "Queima de petróleo"
+      ],
+      "correct_answer": 1,
+      "explanation": "🚗 O Brasil foi pioneiro no uso de etanol de cana-de-açúcar em carros!",
+      "difficulty": "médio"
+    },
+    {
+      "id": 61,
+      "section": "Brasil e Energias Renováveis",
+      "question": "🌞 Qual região brasileira tem maior potencial solar?",
+      "options": [
+        "Sul",
+        "Nordeste",
+        "Norte",
+        "Centro-Oeste"
+      ],
+      "correct_answer": 1,
+      "explanation": "☀️ O Nordeste tem alta incidência solar durante o ano todo, ideal para energia solar!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 62,
+      "section": "Brasil e Energias Renováveis",
+      "question": "💨 Os ventos do litoral nordestino são ideais para energia eólica porque:",
+      "options": [
+        "São fracos",
+        "São constantes e fortes",
+        "Só existem à noite",
+        "São raros"
+      ],
+      "correct_answer": 1,
+      "explanation": "🌊 Os ventos alísios do litoral nordestino são constantes e têm velocidade ideal!",
+      "difficulty": "médio"
+    },
+    {
+      "id": 63,
+      "section": "Brasil e Energias Renováveis",
+      "question": "🏭 O Programa Nacional de Produção e Uso do Biodiesel (PNPB) promove:",
+      "options": [
+        "Uso de gasolina",
+        "Combustível feito de óleos vegetais",
+        "Queima de carvão",
+        "Uso de gás"
+      ],
+      "correct_answer": 1,
+      "explanation": "🌿 PNPB incentiva biodiesel feito de soja, mamona e outros óleos vegetais!",
+      "difficulty": "difícil"
+    },
+    {
+      "id": 64,
+      "section": "Brasil e Energias Renováveis",
+      "question": "🌊 O Brasil tem potencial para energia das ondas e marés porque:",
+      "options": [
+        "Não tem litoral",
+        "Tem uma extensa costa marítima",
+        "Tem poucos rios",
+        "Fica longe do mar"
+      ],
+      "correct_answer": 1,
+      "explanation": "🏖️ Com mais de 7.000 km de costa, o Brasil pode aproveitar energia dos oceanos!",
+      "difficulty": "médio"
+    },
+    {
+      "id": 65,
+      "section": "Brasil e Energias Renováveis",
+      "question": "📊 Nos últimos anos, no Brasil, as energias eólica e solar:",
+      "options": [
+        "Diminuíram",
+        "Cresceram muito rapidamente",
+        "Não mudaram",
+        "Desapareceram"
+      ],
+      "correct_answer": 1,
+      "explanation": "📈 Brasil está entre os países que mais investem em energia eólica e solar no mundo!",
+      "difficulty": "médio"
+    },
+    {
+      "id": 66,
+      "section": "Conceitos Fundamentais",
+      "question": "🏠 Em uma residência, podemos economizar energia:",
+      "options": [
+        "Deixando luzes acesas desnecessariamente",
+        "Usando lâmpadas LED e desligando aparelhos",
+        "Usando mais ar condicionado",
+        "Não fazendo nada"
+      ],
+      "correct_answer": 1,
+      "explanation": "💡 Lâmpadas LED gastam menos energia e desligar aparelhos evita desperdício!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 67,
+      "section": "Energia Solar",
+      "question": "🔋 Para usar energia solar à noite, precisamos de:",
+      "options": [
+        "Mais painéis",
+        "Baterias para armazenar energia",
+        "Espelhos",
+        "Não é possível"
+      ],
+      "correct_answer": 1,
+      "explanation": "🔋 Baterias armazenam energia solar do dia para usar à noite quando não há sol!",
+      "difficulty": "médio"
+    },
+    {
+      "id": 68,
+      "section": "Energia Eólica",
+      "question": "🦅 Para proteger aves, os parques eólicos podem:",
+      "options": [
+        "Não fazer nada",
+        "Estudar rotas migratórias e usar tecnologias de proteção",
+        "Aumentar a velocidade",
+        "Funcionar só à noite"
+      ],
+      "correct_answer": 1,
+      "explanation": "🐦 Estudos ambientais e tecnologias especiais ajudam a proteger aves em parques eólicos!",
+      "difficulty": "difícil"
+    },
+    {
+      "id": 69,
+      "section": "Energia Hidrelétrica",
+      "question": "🐠 Para minimizar impactos ambientais, hidrelétricas podem ter:",
+      "options": [
+        "Barragens maiores",
+        "Escadas para peixes e programas ambientais",
+        "Mais turbinas",
+        "Água mais quente"
+      ],
+      "correct_answer": 1,
+      "explanation": "🐟 Escadas para peixes e programas de preservação reduzem impactos ambientais!",
+      "difficulty": "difícil"
+    },
+    {
+      "id": 70,
+      "section": "Outras Energias Renováveis",
+      "question": "🌽 Qual cultura é muito usada para produzir etanol no Brasil?",
+      "options": [
+        "Trigo",
+        "Cana-de-açúcar",
+        "Arroz",
+        "Batata"
+      ],
+      "correct_answer": 1,
+      "explanation": "🌾 Cana-de-açúcar é a principal matéria-prima para etanol no Brasil!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 71,
+      "section": "Impactos Ambientais",
+      "question": "🌳 O desmatamento contribui para o aquecimento global porque:",
+      "options": [
+        "Árvores produzem calor",
+        "Árvores absorvem CO2 e quando cortadas liberam carbono",
+        "Árvores fazem frio",
+        "Não há relação"
+      ],
+      "correct_answer": 1,
+      "explanation": "🌲 Árvores capturam CO2 do ar. Quando cortadas, esse carbono volta para atmosfera!",
+      "difficulty": "médio"
+    },
+    {
+      "id": 72,
+      "section": "Sustentabilidade e Futuro",
+      "question": "🎯 As metas de energia renovável são importantes porque:",
+      "options": [
+        "São obrigatórias por lei",
+        "Ajudam países a planejar a transição energética",
+        "São impossíveis de cumprir",
+        "Não servem para nada"
+      ],
+      "correct_answer": 1,
+      "explanation": "📋 Metas orientam investimentos e políticas para transição energética sustentável!",
+      "difficulty": "médio"
+    },
+    {
+      "id": 73,
+      "section": "Brasil e Energias Renováveis",
+      "question": "⚡ A matriz energética brasileira é considerada relativamente limpa porque:",
+      "options": [
+        "Usa só petróleo",
+        "Tem alta participação de energias renováveis",
+        "Não produz energia",
+        "Só usa carvão"
+      ],
+      "correct_answer": 1,
+      "explanation": "🌿 Brasil tem uma das matrizes energéticas mais renováveis do mundo!",
+      "difficulty": "médio"
+    },
+    {
+      "id": 74,
+      "section": "Sustentabilidade e Futuro",
+      "question": "👶 Por que devemos cuidar do planeta para as futuras gerações?",
+      "options": [
+        "Não precisamos",
+        "Para que tenham ar limpo, água pura e energia sustentável",
+        "Só por obrigação",
+        "É impossível"
+      ],
+      "correct_answer": 1,
+      "explanation": "👨‍👩‍👧‍👦 Cuidar do planeta hoje garante que nossos filhos e netos tenham qualidade de vida!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 75,
+      "section": "Sustentabilidade e Futuro",
+      "question": "🌟 DESAFIO FINAL: O futuro energético ideal do planeta será:",
+      "options": [
+        "100% combustíveis fósseis",
+        "Combinação inteligente de diversas energias renováveis",
+        "Apenas uma fonte de energia",
+        "Sem energia"
+      ],
+      "correct_answer": 1,
+      "explanation": "🌈 O futuro sustentável combina solar, eólica, hidrelétrica, biomassa e outras renováveis, cada uma contribuindo conforme suas vantagens regionais!",
+      "difficulty": "médio"
+    }
+  ],
+  "evaluation": {
+    "include_evaluation": true,
+    "evaluation_questions": [
+      {
+        "question": "Como você se sentiu aprendendo sobre energias renováveis?",
+        "options": ["🌟 Muito inspirado a cuidar do planeta!", "😊 Interessado, aprendi coisas novas", "😐 Foi ok, alguns conceitos eram complexos", "😅 Algumas partes foram difíceis de entender", "😰 Achei muito complicado"]
+      },
+      {
+        "question": "Qual tipo de energia renovável você achou mais interessante?",
+        "options": ["☀️ Energia Solar", "💨 Energia Eólica", "💧 Energia Hidrelétrica", "🌾 Biomassa e Biocombustíveis", "🌋 Energia Geotérmica", "🌊 Energia das Marés", "🔋 Todas são interessantes!"]
+      },
+      {
+        "question": "Depois deste quiz, você se sente mais consciente sobre sustentabilidade energética?",
+        "options": ["✨ Muito mais consciente e motivado!", "😊 Um pouco mais consciente", "😐 Mesma consciência de antes", "😔 Ainda tenho muitas dúvidas", "❓ Preciso estudar mais sobre o assunto"]
+      }
+    ]
+  },
+  "settings": {
+    "public": true,
+    "allow_multiple_responses": false,
+    "show_progress_bar": true,
+    "collect_email": true,
+    "require_login": true
+  }
+}
