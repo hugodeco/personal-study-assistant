@@ -1,0 +1,1214 @@
+{
+  "metadata": {
+    "title": "🇺🇸 English Practice Quiz: Get Ready for Your Test!",
+    "description": [
+      "Pratique inglês com 80 questões variadas para se preparar para a prova!",
+      "Vocabulário, gramática, interpretação de texto e conversação básica.",
+      "Desenvolva suas habilidades em inglês de forma divertida e eficaz."
+    ],
+    "subject": "Língua Inglesa",
+    "grade": "5ª série",
+    "topic": "Inglês Básico - Preparação para Prova",
+    "author": "IA",
+    "version": "1.0",
+    "created_date": "2025-08-13"
+  },
+  "content": {
+    "introduction": "Welcome to your English practice quiz! Este quiz vai te ajudar a praticar vocabulário, gramática, interpretação de texto e conversação básica em inglês. Good luck! 🍀",
+    "instructions": [
+      "Leia cada pergunta com atenção antes de responder.",
+      "Pense no contexto das frases em inglês.",
+      "Lembre-se das regras gramaticais estudadas em aula.",
+      "Use seu conhecimento de vocabulário básico.",
+      "Se não souber uma palavra, tente deduzir pelo contexto."
+    ],
+    "sections": [
+      {
+        "name": "Vocabulary - Vocabulário",
+        "description": "Palavras básicas do dia a dia em inglês."
+      },
+      {
+        "name": "Grammar - Gramática",
+        "description": "Verb to be, present simple, plurais e artigos."
+      },
+      {
+        "name": "Numbers and Time",
+        "description": "Números, horas, dias da semana e meses."
+      },
+      {
+        "name": "Family and People",
+        "description": "Família, descrições de pessoas e características."
+      },
+      {
+        "name": "School and Objects",
+        "description": "Escola, objetos do cotidiano e lugares."
+      },
+      {
+        "name": "Animals and Nature",
+        "description": "Animais, natureza e meio ambiente."
+      },
+      {
+        "name": "Food and Drinks",
+        "description": "Comidas, bebidas e refeições."
+      },
+      {
+        "name": "Colors and Clothes",
+        "description": "Cores, roupas e aparência física."
+      },
+      {
+        "name": "Daily Activities",
+        "description": "Atividades diárias e rotina."
+      },
+      {
+        "name": "Reading Comprehension",
+        "description": "Interpretação de textos simples em inglês."
+      }
+    ]
+  },
+  "questions": [
+    {
+      "id": 1,
+      "section": "Vocabulary - Vocabulário",
+      "question": "🏠 What is 'casa' in English?",
+      "options": [
+        "House",
+        "Car",
+        "School",
+        "Park"
+      ],
+      "correct_answer": 0,
+      "explanation": "🏡 'Casa' em inglês é 'house'. É uma das palavras mais básicas do vocabulário!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 2,
+      "section": "Vocabulary - Vocabulário",
+      "question": "📚 Which word means 'livro'?",
+      "options": [
+        "Pen",
+        "Book",
+        "Table",
+        "Chair"
+      ],
+      "correct_answer": 1,
+      "explanation": "📖 'Livro' em inglês é 'book'. É um objeto muito comum na escola!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 3,
+      "section": "Vocabulary - Vocabulário",
+      "question": "🌙 What does 'good night' mean?",
+      "options": [
+        "Bom dia",
+        "Boa tarde",
+        "Boa noite",
+        "Até logo"
+      ],
+      "correct_answer": 2,
+      "explanation": "🌜 'Good night' significa 'boa noite' - usado quando vamos dormir!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 4,
+      "section": "Vocabulary - Vocabulário",
+      "question": "🚗 How do you say 'carro' in English?",
+      "options": [
+        "Bus",
+        "Car",
+        "Bike",
+        "Train"
+      ],
+      "correct_answer": 1,
+      "explanation": "🚙 'Carro' em inglês é 'car'. É um meio de transporte muito comum!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 5,
+      "section": "Vocabulary - Vocabulário",
+      "question": "💧 What is the English word for 'água'?",
+      "options": [
+        "Milk",
+        "Juice",
+        "Water",
+        "Coffee"
+      ],
+      "correct_answer": 2,
+      "explanation": "💦 'Água' em inglês é 'water'. É essencial para a vida!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 6,
+      "section": "Grammar - Gramática",
+      "question": "👋 Complete: 'I _____ a student.'",
+      "options": [
+        "am",
+        "is",
+        "are",
+        "be"
+      ],
+      "correct_answer": 0,
+      "explanation": "✅ Com 'I' (eu) sempre usamos 'am': I am a student (Eu sou um estudante).",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 7,
+      "section": "Grammar - Gramática",
+      "question": "👨 Complete: 'He _____ my brother.'",
+      "options": [
+        "am",
+        "is",
+        "are",
+        "be"
+      ],
+      "correct_answer": 1,
+      "explanation": "✅ Com 'he' (ele) sempre usamos 'is': He is my brother (Ele é meu irmão).",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 8,
+      "section": "Grammar - Gramática",
+      "question": "👥 Complete: 'They _____ happy.'",
+      "options": [
+        "am",
+        "is",
+        "are",
+        "be"
+      ],
+      "correct_answer": 2,
+      "explanation": "✅ Com 'they' (eles/elas) sempre usamos 'are': They are happy (Eles estão felizes).",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 9,
+      "section": "Grammar - Gramática",
+      "question": "📖 What is the plural of 'book'?",
+      "options": [
+        "books",
+        "bookes",
+        "bookies",
+        "book"
+      ],
+      "correct_answer": 0,
+      "explanation": "📚 O plural de 'book' é 'books' - simplesmente adicionamos 's'!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 10,
+      "section": "Grammar - Gramática",
+      "question": "🍎 What is the plural of 'apple'?",
+      "options": [
+        "apple",
+        "apples",
+        "appl",
+        "applees"
+      ],
+      "correct_answer": 1,
+      "explanation": "🍏 O plural de 'apple' é 'apples' - adicionamos 's' no final!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 11,
+      "section": "Numbers and Time",
+      "question": "🔢 How do you write 'cinco' in English?",
+      "options": [
+        "Four",
+        "Five",
+        "Six",
+        "Seven"
+      ],
+      "correct_answer": 1,
+      "explanation": "5️⃣ 'Cinco' em inglês é 'five' - um número muito importante!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 12,
+      "section": "Numbers and Time",
+      "question": "🕐 What time is it? (1:00)",
+      "options": [
+        "It's one o'clock",
+        "It's two o'clock",
+        "It's twelve o'clock",
+        "It's eleven o'clock"
+      ],
+      "correct_answer": 0,
+      "explanation": "🕐 1:00 em inglês é 'It's one o'clock' (É uma hora).",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 13,
+      "section": "Numbers and Time",
+      "question": "📅 What day comes after Monday?",
+      "options": [
+        "Sunday",
+        "Tuesday",
+        "Wednesday",
+        "Saturday"
+      ],
+      "correct_answer": 1,
+      "explanation": "📆 Depois de Monday (segunda) vem Tuesday (terça-feira)!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 14,
+      "section": "Numbers and Time",
+      "question": "🌸 Which month comes after March?",
+      "options": [
+        "February",
+        "April",
+        "May",
+        "January"
+      ],
+      "correct_answer": 1,
+      "explanation": "🌷 Depois de March (março) vem April (abril)!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 15,
+      "section": "Numbers and Time",
+      "question": "🔟 How do you say 'dez' in English?",
+      "options": [
+        "Nine",
+        "Ten",
+        "Eleven",
+        "Eight"
+      ],
+      "correct_answer": 1,
+      "explanation": "🔟 'Dez' em inglês é 'ten' - um número fundamental!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 16,
+      "section": "Family and People",
+      "question": "👪 What is 'mãe' in English?",
+      "options": [
+        "Father",
+        "Mother",
+        "Sister",
+        "Brother"
+      ],
+      "correct_answer": 1,
+      "explanation": "👩 'Mãe' em inglês é 'mother' - também pode ser 'mom' informalmente!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 17,
+      "section": "Family and People",
+      "question": "👨 How do you say 'pai' in English?",
+      "options": [
+        "Father",
+        "Mother",
+        "Son",
+        "Daughter"
+      ],
+      "correct_answer": 0,
+      "explanation": "👨 'Pai' em inglês é 'father' - também pode ser 'dad' informalmente!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 18,
+      "section": "Family and People",
+      "question": "👧 What does 'sister' mean?",
+      "options": [
+        "Irmão",
+        "Irmã",
+        "Prima",
+        "Tia"
+      ],
+      "correct_answer": 1,
+      "explanation": "👭 'Sister' significa 'irmã' - membro feminino da família!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 19,
+      "section": "Family and People",
+      "question": "👦 Complete: 'My _____ is 10 years old.' (referring to male sibling)",
+      "options": [
+        "sister",
+        "brother",
+        "mother",
+        "father"
+      ],
+      "correct_answer": 1,
+      "explanation": "👬 Para irmão homem usamos 'brother': My brother is 10 years old.",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 20,
+      "section": "Family and People",
+      "question": "👴 What is 'avô' in English?",
+      "options": [
+        "Uncle",
+        "Grandfather",
+        "Cousin",
+        "Nephew"
+      ],
+      "correct_answer": 1,
+      "explanation": "👴 'Avô' em inglês é 'grandfather' - também pode ser 'grandpa'!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 21,
+      "section": "School and Objects",
+      "question": "✏️ What is 'lápis' in English?",
+      "options": [
+        "Pen",
+        "Pencil",
+        "Eraser",
+        "Ruler"
+      ],
+      "correct_answer": 1,
+      "explanation": "✏️ 'Lápis' em inglês é 'pencil' - material escolar básico!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 22,
+      "section": "School and Objects",
+      "question": "🎒 How do you say 'mochila' in English?",
+      "options": [
+        "Bag",
+        "Backpack",
+        "Box",
+        "Case"
+      ],
+      "correct_answer": 1,
+      "explanation": "🎒 'Mochila' em inglês é 'backpack' - onde guardamos os materiais escolares!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 23,
+      "section": "School and Objects",
+      "question": "📐 What does 'ruler' mean?",
+      "options": [
+        "Lápis",
+        "Régua",
+        "Borracha",
+        "Caderno"
+      ],
+      "correct_answer": 1,
+      "explanation": "📏 'Ruler' significa 'régua' - usada para medir e desenhar linhas retas!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 24,
+      "section": "School and Objects",
+      "question": "🏫 What is 'escola' in English?",
+      "options": [
+        "House",
+        "School",
+        "Library",
+        "Hospital"
+      ],
+      "correct_answer": 1,
+      "explanation": "🏫 'Escola' em inglês é 'school' - onde estudamos e aprendemos!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 25,
+      "section": "School and Objects",
+      "question": "🖊️ Complete: 'I write with a _____.'",
+      "options": [
+        "pen",
+        "book",
+        "desk",
+        "chair"
+      ],
+      "correct_answer": 0,
+      "explanation": "🖊️ Escrevemos com 'pen' (caneta): I write with a pen.",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 26,
+      "section": "Animals and Nature",
+      "question": "🐶 What is 'cachorro' in English?",
+      "options": [
+        "Cat",
+        "Dog",
+        "Bird",
+        "Fish"
+      ],
+      "correct_answer": 1,
+      "explanation": "🐕 'Cachorro' em inglês é 'dog' - o melhor amigo do homem!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 27,
+      "section": "Animals and Nature",
+      "question": "🐱 How do you say 'gato' in English?",
+      "options": [
+        "Dog",
+        "Cat",
+        "Mouse",
+        "Rabbit"
+      ],
+      "correct_answer": 1,
+      "explanation": "🐈 'Gato' em inglês é 'cat' - animal doméstico muito popular!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 28,
+      "section": "Animals and Nature",
+      "question": "🐦 What does 'bird' mean?",
+      "options": [
+        "Peixe",
+        "Pássaro",
+        "Coelho",
+        "Cavalo"
+      ],
+      "correct_answer": 1,
+      "explanation": "🕊️ 'Bird' significa 'pássaro' - animal que voa!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 29,
+      "section": "Animals and Nature",
+      "question": "🌳 What is 'árvore' in English?",
+      "options": [
+        "Flower",
+        "Tree",
+        "Grass",
+        "Leaf"
+      ],
+      "correct_answer": 1,
+      "explanation": "🌲 'Árvore' em inglês é 'tree' - planta grande que dá sombra!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 30,
+      "section": "Animals and Nature",
+      "question": "🌺 How do you say 'flor' in English?",
+      "options": [
+        "Tree",
+        "Flower",
+        "Plant",
+        "Garden"
+      ],
+      "correct_answer": 1,
+      "explanation": "🌸 'Flor' em inglês é 'flower' - parte colorida e bonita das plantas!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 31,
+      "section": "Food and Drinks",
+      "question": "🍎 What is 'maçã' in English?",
+      "options": [
+        "Orange",
+        "Apple",
+        "Banana",
+        "Grape"
+      ],
+      "correct_answer": 1,
+      "explanation": "🍏 'Maçã' em inglês é 'apple' - fruta muito saudável!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 32,
+      "section": "Food and Drinks",
+      "question": "🍌 How do you say 'banana' in English?",
+      "options": [
+        "Orange",
+        "Banana",
+        "Apple",
+        "Lemon"
+      ],
+      "correct_answer": 1,
+      "explanation": "🍌 'Banana' é igual em inglês: banana! Algumas palavras são iguais.",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 33,
+      "section": "Food and Drinks",
+      "question": "🥛 What does 'milk' mean?",
+      "options": [
+        "Água",
+        "Leite",
+        "Suco",
+        "Refrigerante"
+      ],
+      "correct_answer": 1,
+      "explanation": "🥛 'Milk' significa 'leite' - bebida nutritiva e branca!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 34,
+      "section": "Food and Drinks",
+      "question": "🍞 What is 'pão' in English?",
+      "options": [
+        "Cake",
+        "Bread",
+        "Rice",
+        "Pasta"
+      ],
+      "correct_answer": 1,
+      "explanation": "🥖 'Pão' em inglês é 'bread' - alimento básico feito de farinha!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 35,
+      "section": "Food and Drinks",
+      "question": "🧀 How do you say 'queijo' in English?",
+      "options": [
+        "Butter",
+        "Cheese",
+        "Milk",
+        "Cream"
+      ],
+      "correct_answer": 1,
+      "explanation": "🧀 'Queijo' em inglês é 'cheese' - derivado do leite!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 36,
+      "section": "Colors and Clothes",
+      "question": "🔴 What is 'vermelho' in English?",
+      "options": [
+        "Blue",
+        "Red",
+        "Green",
+        "Yellow"
+      ],
+      "correct_answer": 1,
+      "explanation": "❤️ 'Vermelho' em inglês é 'red' - cor do sangue e do amor!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 37,
+      "section": "Colors and Clothes",
+      "question": "💙 How do you say 'azul' in English?",
+      "options": [
+        "Blue",
+        "Green",
+        "Purple",
+        "Pink"
+      ],
+      "correct_answer": 0,
+      "explanation": "💙 'Azul' em inglês é 'blue' - cor do céu e do mar!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 38,
+      "section": "Colors and Clothes",
+      "question": "👕 What does 'shirt' mean?",
+      "options": [
+        "Calça",
+        "Camisa",
+        "Sapato",
+        "Chapéu"
+      ],
+      "correct_answer": 1,
+      "explanation": "👔 'Shirt' significa 'camisa' - roupa para a parte superior do corpo!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 39,
+      "section": "Colors and Clothes",
+      "question": "👖 What is 'calça' in English?",
+      "options": [
+        "Shirt",
+        "Pants",
+        "Shoes",
+        "Hat"
+      ],
+      "correct_answer": 1,
+      "explanation": "👖 'Calça' em inglês é 'pants' - roupa para as pernas!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 40,
+      "section": "Colors and Clothes",
+      "question": "👟 How do you say 'sapato' in English?",
+      "options": [
+        "Socks",
+        "Shoes",
+        "Pants",
+        "Gloves"
+      ],
+      "correct_answer": 1,
+      "explanation": "👟 'Sapato' em inglês é 'shoes' - sempre no plural quando falamos do par!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 41,
+      "section": "Daily Activities",
+      "question": "😴 What does 'sleep' mean?",
+      "options": [
+        "Comer",
+        "Dormir",
+        "Correr",
+        "Estudar"
+      ],
+      "correct_answer": 1,
+      "explanation": "💤 'Sleep' significa 'dormir' - atividade que fazemos à noite!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 42,
+      "section": "Daily Activities",
+      "question": "🍽️ What is 'comer' in English?",
+      "options": [
+        "Drink",
+        "Eat",
+        "Sleep",
+        "Play"
+      ],
+      "correct_answer": 1,
+      "explanation": "🍽️ 'Comer' em inglês é 'eat' - atividade essencial para viver!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 43,
+      "section": "Daily Activities",
+      "question": "🏃 How do you say 'correr' in English?",
+      "options": [
+        "Walk",
+        "Run",
+        "Jump",
+        "Sit"
+      ],
+      "correct_answer": 1,
+      "explanation": "🏃‍♂️ 'Correr' em inglês é 'run' - movimento rápido com as pernas!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 44,
+      "section": "Daily Activities",
+      "question": "📖 What does 'study' mean?",
+      "options": [
+        "Brincar",
+        "Estudar",
+        "Trabalhar",
+        "Descansar"
+      ],
+      "correct_answer": 1,
+      "explanation": "📚 'Study' significa 'estudar' - o que fazemos na escola!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 45,
+      "section": "Daily Activities",
+      "question": "🎮 What is 'brincar' in English?",
+      "options": [
+        "Work",
+        "Play",
+        "Study",
+        "Read"
+      ],
+      "correct_answer": 1,
+      "explanation": "🎲 'Brincar' em inglês é 'play' - atividade divertida e recreativa!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 46,
+      "section": "Grammar - Gramática",
+      "question": "📝 Complete: 'She _____ a teacher.'",
+      "options": [
+        "am",
+        "is",
+        "are",
+        "be"
+      ],
+      "correct_answer": 1,
+      "explanation": "✅ Com 'she' (ela) sempre usamos 'is': She is a teacher (Ela é professora).",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 47,
+      "section": "Grammar - Gramática",
+      "question": "🌟 Which article goes before 'apple'?",
+      "options": [
+        "a",
+        "an",
+        "the",
+        "no article"
+      ],
+      "correct_answer": 1,
+      "explanation": "🍎 Usamos 'an' antes de palavras que começam com som de vogal: an apple.",
+      "difficulty": "médio"
+    },
+    {
+      "id": 48,
+      "section": "Grammar - Gramática",
+      "question": "📚 Which article goes before 'book'?",
+      "options": [
+        "a",
+        "an",
+        "the",
+        "no article"
+      ],
+      "correct_answer": 0,
+      "explanation": "📖 Usamos 'a' antes de palavras que começam com som de consoante: a book.",
+      "difficulty": "médio"
+    },
+    {
+      "id": 49,
+      "section": "Numbers and Time",
+      "question": "⏰ What time is it? (3:30)",
+      "options": [
+        "It's three thirty",
+        "It's four thirty",
+        "It's two thirty",
+        "It's three fifteen"
+      ],
+      "correct_answer": 0,
+      "explanation": "🕞 3:30 em inglês é 'It's three thirty' ou 'It's half past three'.",
+      "difficulty": "médio"
+    },
+    {
+      "id": 50,
+      "section": "Numbers and Time",
+      "question": "📅 What is the first day of the week?",
+      "options": [
+        "Monday",
+        "Sunday",
+        "Saturday",
+        "Tuesday"
+      ],
+      "correct_answer": 1,
+      "explanation": "📆 Sunday (domingo) é tradicionalmente o primeiro dia da semana em inglês!",
+      "difficulty": "médio"
+    },
+    {
+      "id": 51,
+      "section": "Family and People",
+      "question": "👵 What is 'avó' in English?",
+      "options": [
+        "Aunt",
+        "Grandmother",
+        "Mother",
+        "Sister"
+      ],
+      "correct_answer": 1,
+      "explanation": "👵 'Avó' em inglês é 'grandmother' - também pode ser 'grandma'!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 52,
+      "section": "School and Objects",
+      "question": "🗑️ What does 'eraser' mean?",
+      "options": [
+        "Lápis",
+        "Borracha",
+        "Caneta",
+        "Papel"
+      ],
+      "correct_answer": 1,
+      "explanation": "🗑️ 'Eraser' significa 'borracha' - usada para apagar lápis!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 53,
+      "section": "Animals and Nature",
+      "question": "🐠 What is 'peixe' in English?",
+      "options": [
+        "Bird",
+        "Fish",
+        "Cat",
+        "Dog"
+      ],
+      "correct_answer": 1,
+      "explanation": "🐟 'Peixe' em inglês é 'fish' - animal que vive na água!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 54,
+      "section": "Food and Drinks",
+      "question": "🥤 What does 'juice' mean?",
+      "options": [
+        "Água",
+        "Suco",
+        "Leite",
+        "Café"
+      ],
+      "correct_answer": 1,
+      "explanation": "🍊 'Juice' significa 'suco' - bebida feita de frutas!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 55,
+      "section": "Colors and Clothes",
+      "question": "💚 What is 'verde' in English?",
+      "options": [
+        "Blue",
+        "Green",
+        "Yellow",
+        "Purple"
+      ],
+      "correct_answer": 1,
+      "explanation": "💚 'Verde' em inglês é 'green' - cor da natureza e das plantas!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 56,
+      "section": "Daily Activities",
+      "question": "🚶 What does 'walk' mean?",
+      "options": [
+        "Correr",
+        "Caminhar",
+        "Pular",
+        "Sentar"
+      ],
+      "correct_answer": 1,
+      "explanation": "🚶‍♀️ 'Walk' significa 'caminhar' - movimento tranquilo a pé!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 57,
+      "section": "Grammar - Gramática",
+      "question": "👫 Complete: 'We _____ friends.'",
+      "options": [
+        "am",
+        "is",
+        "are",
+        "be"
+      ],
+      "correct_answer": 2,
+      "explanation": "✅ Com 'we' (nós) sempre usamos 'are': We are friends (Nós somos amigos).",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 58,
+      "section": "Grammar - Gramática",
+      "question": "🏠 What is the plural of 'house'?",
+      "options": [
+        "houses",
+        "house",
+        "housees",
+        "hice"
+      ],
+      "correct_answer": 0,
+      "explanation": "🏘️ O plural de 'house' é 'houses' - adicionamos 's' no final!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 59,
+      "section": "Vocabulary - Vocabulário",
+      "question": "☀️ What does 'sun' mean?",
+      "options": [
+        "Lua",
+        "Sol",
+        "Estrela",
+        "Nuvem"
+      ],
+      "correct_answer": 1,
+      "explanation": "☀️ 'Sun' significa 'sol' - estrela que ilumina nosso planeta!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 60,
+      "section": "Vocabulary - Vocabulário",
+      "question": "🌙 What is 'lua' in English?",
+      "options": [
+        "Sun",
+        "Moon",
+        "Star",
+        "Sky"
+      ],
+      "correct_answer": 1,
+      "explanation": "🌙 'Lua' em inglês é 'moon' - satélite natural da Terra!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 61,
+      "section": "Numbers and Time",
+      "question": "🔢 How do you say 'quinze' in English?",
+      "options": [
+        "Fourteen",
+        "Fifteen",
+        "Sixteen",
+        "Thirteen"
+      ],
+      "correct_answer": 1,
+      "explanation": "1️⃣5️⃣ 'Quinze' em inglês é 'fifteen' - número entre 14 e 16!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 62,
+      "section": "Family and People",
+      "question": "👨‍👩‍👧‍👦 What does 'family' mean?",
+      "options": [
+        "Casa",
+        "Família",
+        "Amigos",
+        "Escola"
+      ],
+      "correct_answer": 1,
+      "explanation": "👨‍👩‍👧‍👦 'Family' significa 'família' - pessoas que vivem juntas e se amam!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 63,
+      "section": "School and Objects",
+      "question": "💺 What is 'cadeira' in English?",
+      "options": [
+        "Table",
+        "Chair",
+        "Desk",
+        "Board"
+      ],
+      "correct_answer": 1,
+      "explanation": "💺 'Cadeira' em inglês é 'chair' - móvel para sentar!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 64,
+      "section": "Animals and Nature",
+      "question": "🐰 What does 'rabbit' mean?",
+      "options": [
+        "Gato",
+        "Coelho",
+        "Cachorro",
+        "Pássaro"
+      ],
+      "correct_answer": 1,
+      "explanation": "🐰 'Rabbit' significa 'coelho' - animal que come cenouras!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 65,
+      "section": "Food and Drinks",
+      "question": "🍰 What is 'bolo' in English?",
+      "options": [
+        "Bread",
+        "Cake",
+        "Cookie",
+        "Pie"
+      ],
+      "correct_answer": 1,
+      "explanation": "🎂 'Bolo' em inglês é 'cake' - doce de aniversário!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 66,
+      "section": "Colors and Clothes",
+      "question": "💛 How do you say 'amarelo' in English?",
+      "options": [
+        "Orange",
+        "Yellow",
+        "Green",
+        "Purple"
+      ],
+      "correct_answer": 1,
+      "explanation": "💛 'Amarelo' em inglês é 'yellow' - cor do sol e da banana!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 67,
+      "section": "Daily Activities",
+      "question": "🛌 What does 'wake up' mean?",
+      "options": [
+        "Dormir",
+        "Acordar",
+        "Sonhar",
+        "Descansar"
+      ],
+      "correct_answer": 1,
+      "explanation": "⏰ 'Wake up' significa 'acordar' - parar de dormir!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 68,
+      "section": "Grammar - Gramática",
+      "question": "❓ Complete: '_____ you a student?'",
+      "options": [
+        "Am",
+        "Is",
+        "Are",
+        "Be"
+      ],
+      "correct_answer": 2,
+      "explanation": "❓ Em perguntas com 'you', usamos 'are': Are you a student?",
+      "difficulty": "médio"
+    },
+    {
+      "id": 69,
+      "section": "Grammar - Gramática",
+      "question": "🎈 What is the plural of 'party'?",
+      "options": [
+        "partys",
+        "parties",
+        "partyes",
+        "party"
+      ],
+      "correct_answer": 1,
+      "explanation": "🎉 Palavras terminadas em 'y' mudam para 'ies': party → parties!",
+      "difficulty": "médio"
+    },
+    {
+      "id": 70,
+      "section": "Reading Comprehension",
+      "question": "📖 Read: 'My name is John. I am 10 years old.' How old is John?",
+      "options": [
+        "9 years old",
+        "10 years old",
+        "11 years old",
+        "8 years old"
+      ],
+      "correct_answer": 1,
+      "explanation": "📖 O texto diz claramente: 'I am 10 years old' - John tem 10 anos!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 71,
+      "section": "Reading Comprehension",
+      "question": "📖 Read: 'I have a red car and a blue bike.' What color is the car?",
+      "options": [
+        "Blue",
+        "Red",
+        "Green",
+        "Yellow"
+      ],
+      "correct_answer": 1,
+      "explanation": "🚗 O texto diz 'red car' - o carro é vermelho!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 72,
+      "section": "Reading Comprehension",
+      "question": "📖 Read: 'My dog likes to play in the park.' Where does the dog play?",
+      "options": [
+        "At home",
+        "In the park",
+        "At school",
+        "In the car"
+      ],
+      "correct_answer": 1,
+      "explanation": "🐕 O texto diz 'play in the park' - o cachorro brinca no parque!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 73,
+      "section": "Reading Comprehension",
+      "question": "📖 Read: 'She eats an apple every morning.' When does she eat the apple?",
+      "options": [
+        "Every afternoon",
+        "Every morning",
+        "Every night",
+        "Every evening"
+      ],
+      "correct_answer": 1,
+      "explanation": "🍎 O texto diz 'every morning' - ela come a maçã toda manhã!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 74,
+      "section": "Reading Comprehension",
+      "question": "📖 Read: 'Tom has two cats and one dog.' How many cats does Tom have?",
+      "options": [
+        "One",
+        "Two",
+        "Three",
+        "Four"
+      ],
+      "correct_answer": 1,
+      "explanation": "🐱 O texto diz 'two cats' - Tom tem dois gatos!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 75,
+      "section": "Vocabulary - Vocabulário",
+      "question": "🎵 What does 'music' mean?",
+      "options": [
+        "Dança",
+        "Música",
+        "Arte",
+        "Teatro"
+      ],
+      "correct_answer": 1,
+      "explanation": "🎵 'Music' significa 'música' - sons organizados de forma harmoniosa!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 76,
+      "section": "Grammar - Gramática",
+      "question": "🏃‍♂️ Complete: 'I _____ to school every day.'",
+      "options": [
+        "go",
+        "goes",
+        "going",
+        "gone"
+      ],
+      "correct_answer": 0,
+      "explanation": "✅ Com 'I', usamos 'go': I go to school every day (Eu vou à escola todo dia).",
+      "difficulty": "médio"
+    },
+    {
+      "id": 77,
+      "section": "Grammar - Gramática",
+      "question": "👩 Complete: 'She _____ English very well.'",
+      "options": [
+        "speak",
+        "speaks",
+        "speaking",
+        "spoke"
+      ],
+      "correct_answer": 1,
+      "explanation": "✅ Com 'she', adicionamos 's': She speaks English very well.",
+      "difficulty": "médio"
+    },
+    {
+      "id": 78,
+      "section": "Daily Activities",
+      "question": "🛁 What does 'take a shower' mean?",
+      "options": [
+        "Escovar os dentes",
+        "Tomar banho",
+        "Lavar as mãos",
+        "Pentear o cabelo"
+      ],
+      "correct_answer": 1,
+      "explanation": "🚿 'Take a shower' significa 'tomar banho' - atividade de higiene!",
+      "difficulty": "médio"
+    },
+    {
+      "id": 79,
+      "section": "Reading Comprehension",
+      "question": "📖 Read: 'The library is open from 9 AM to 6 PM.' What time does the library close?",
+      "options": [
+        "9 AM",
+        "6 PM",
+        "5 PM",
+        "7 PM"
+      ],
+      "correct_answer": 1,
+      "explanation": "📚 O texto diz 'from 9 AM to 6 PM' - a biblioteca fecha às 6 PM!",
+      "difficulty": "médio"
+    },
+    {
+      "id": 80,
+      "section": "Reading Comprehension",
+      "question": "📖 Read: 'Sarah likes pizza but she doesn't like hamburgers.' What does Sarah like?",
+      "options": [
+        "Hamburgers",
+        "Pizza",
+        "Hot dogs",
+        "Sandwiches"
+      ],
+      "correct_answer": 1,
+      "explanation": "🍕 O texto diz 'Sarah likes pizza' - Sarah gosta de pizza!",
+      "difficulty": "médio"
+    }
+  ],
+  "evaluation": {
+    "include_evaluation": true,
+    "evaluation_questions": [
+      {
+        "question": "Como você se sentiu praticando inglês com este quiz?",
+        "options": ["🌟 Muito confiante! Estou pronto para a prova!", "😊 Bem preparado, aprendi bastante", "😐 Razoavelmente preparado, preciso revisar algumas partes", "😅 Ainda tenho dúvidas, preciso estudar mais", "😰 Sinto que preciso de muito mais prática"]
+      },
+      {
+        "question": "Qual área do inglês você sentiu mais facilidade?",
+        "options": ["🔤 Vocabulário básico", "📝 Gramática e verb to be", "🔢 Números e tempo", "👪 Família e pessoas", "🏫 Escola e objetos", "🐶 Animais e natureza", "🍎 Comida e bebidas", "🎨 Cores e roupas", "📖 Interpretação de texto"]
+      },
+      {
+        "question": "Este quiz te ajudou a se preparar para a prova?",
+        "options": ["✨ Muito! Me sinto muito mais preparado", "😊 Sim, me deu mais confiança", "😐 Um pouco, mas ainda preciso estudar", "😔 Percebi que preciso estudar muito mais", "❓ Não tenho certeza se estou preparado"]
+      }
+    ]
+  },
+  "settings": {
+    "public": true,
+    "allow_multiple_responses": false,
+    "show_progress_bar": true,
+    "collect_email": true,
+    "require_login": true
+  }
+}

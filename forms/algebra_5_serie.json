@@ -1,0 +1,778 @@
+{
+  "metadata": {
+    "title": "🧮 Álgebra: Descobrindo o Mundo das Incógnitas",
+    "description": [
+      "Explore o fascinante mundo da álgebra com conceitos fundamentais!",
+      "Aprenda sobre expressões algébricas, equações simples e variáveis.",
+      "Desenvolva o raciocínio lógico-matemático através de problemas práticos."
+    ],
+    "subject": "Matemática",
+    "grade": "5ª série",
+    "topic": "Álgebra Básica",
+    "author": "IA",
+    "version": "1.0",
+    "created_date": "2025-08-13"
+  },
+  "content": {
+    "introduction": "Bem-vindos ao mundo da álgebra! Aqui vamos descobrir como as letras podem representar números e como resolver problemas usando esse conhecimento. A álgebra está presente no nosso dia a dia mais do que imaginamos!",
+    "instructions": [
+      "Lembre-se de que as letras representam números desconhecidos.",
+      "Pense em operações básicas: adição, subtração, multiplicação e divisão.",
+      "Use o raciocínio lógico para encontrar o valor das incógnitas.",
+      "Relacione os problemas com situações do cotidiano.",
+      "Teste suas respostas substituindo os valores encontrados."
+    ],
+    "sections": [
+      {
+        "name": "Conceitos Básicos",
+        "description": "O que é álgebra e como usar variáveis."
+      },
+      {
+        "name": "Expressões Algébricas Simples",
+        "description": "Criando e interpretando expressões com letras e números."
+      },
+      {
+        "name": "Equações de Primeiro Grau",
+        "description": "Resolvendo equações básicas com uma incógnita."
+      },
+      {
+        "name": "Problemas Práticos",
+        "description": "Aplicando álgebra em situações do dia a dia."
+      },
+      {
+        "name": "Operações Algébricas",
+        "description": "Adição, subtração e simplificação de expressões."
+      },
+      {
+        "name": "Padrões e Sequências",
+        "description": "Identificando e criando sequências numéricas."
+      }
+    ]
+  },
+  "questions": [
+    {
+      "id": 1,
+      "section": "Conceitos Básicos",
+      "question": "🔤 Na álgebra, o que representa uma letra como 'x' ou 'y'?",
+      "options": [
+        "Uma palavra",
+        "Um número desconhecido (variável)",
+        "Uma operação",
+        "Uma resposta errada"
+      ],
+      "correct_answer": 1,
+      "explanation": "📝 Na álgebra, letras como x, y, a, b representam números que ainda não conhecemos - chamamos de variáveis!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 2,
+      "section": "Conceitos Básicos",
+      "question": "🧮 Qual é o nome da expressão '3x + 5'?",
+      "options": [
+        "Equação",
+        "Expressão algébrica",
+        "Fração",
+        "Número decimal"
+      ],
+      "correct_answer": 1,
+      "explanation": "📐 '3x + 5' é uma expressão algébrica porque combina números e variáveis com operações matemáticas!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 3,
+      "section": "Conceitos Básicos",
+      "question": "🔍 Se x = 4, quanto vale a expressão 'x + 7'?",
+      "options": [
+        "11",
+        "3",
+        "47",
+        "x7"
+      ],
+      "correct_answer": 0,
+      "explanation": "✅ Substituindo x por 4: 4 + 7 = 11. Sempre substitua a variável pelo seu valor!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 4,
+      "section": "Conceitos Básicos",
+      "question": "📊 Em '5y', o número 5 é chamado de:",
+      "options": [
+        "Variável",
+        "Coeficiente",
+        "Resultado",
+        "Incógnita"
+      ],
+      "correct_answer": 1,
+      "explanation": "🔢 O número que multiplica a variável (5 em '5y') é chamado de coeficiente!",
+      "difficulty": "médio"
+    },
+    {
+      "id": 5,
+      "section": "Conceitos Básicos",
+      "question": "🎯 Qual expressão representa 'um número aumentado em 8'?",
+      "options": [
+        "8 - x",
+        "x + 8",
+        "8x",
+        "x ÷ 8"
+      ],
+      "correct_answer": 1,
+      "explanation": "➕ 'Aumentado em 8' significa somar 8, então é x + 8!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 6,
+      "section": "Conceitos Básicos",
+      "question": "🧩 Se a = 3, quanto vale '2a'?",
+      "options": [
+        "5",
+        "6",
+        "23",
+        "2"
+      ],
+      "correct_answer": 1,
+      "explanation": "✖️ '2a' significa 2 × a. Se a = 3, então 2 × 3 = 6!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 7,
+      "section": "Conceitos Básicos",
+      "question": "💭 Qual dessas é uma equação?",
+      "options": [
+        "3x + 7",
+        "x + 5 = 12",
+        "2y - 4",
+        "5a + 3b"
+      ],
+      "correct_answer": 1,
+      "explanation": "⚖️ Equação tem sinal de igualdade (=). 'x + 5 = 12' é uma equação!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 8,
+      "section": "Conceitos Básicos",
+      "question": "🔄 O que significa 'resolver uma equação'?",
+      "options": [
+        "Apagar a equação",
+        "Encontrar o valor da variável",
+        "Copiar a equação",
+        "Trocar as letras"
+      ],
+      "correct_answer": 1,
+      "explanation": "🎯 Resolver uma equação é descobrir qual número a variável representa!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 9,
+      "section": "Expressões Algébricas Simples",
+      "question": "📝 Como escrevemos 'o triplo de um número'?",
+      "options": [
+        "x + 3",
+        "3x",
+        "x ÷ 3",
+        "x - 3"
+      ],
+      "correct_answer": 1,
+      "explanation": "3️⃣ 'Triplo' significa multiplicar por 3, então é 3x!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 10,
+      "section": "Expressões Algébricas Simples",
+      "question": "🔢 Se y = 5, quanto vale '4y - 3'?",
+      "options": [
+        "17",
+        "12",
+        "2",
+        "453"
+      ],
+      "correct_answer": 0,
+      "explanation": "🧮 4y - 3 = 4 × 5 - 3 = 20 - 3 = 17!",
+      "difficulty": "médio"
+    },
+    {
+      "id": 11,
+      "section": "Expressões Algébricas Simples",
+      "question": "📐 Qual expressão representa 'a metade de um número menos 4'?",
+      "options": [
+        "x/2 - 4",
+        "2x - 4",
+        "x - 4/2",
+        "4 - x/2"
+      ],
+      "correct_answer": 0,
+      "explanation": "➗ 'Metade' é dividir por 2, então fica x/2 - 4!",
+      "difficulty": "médio"
+    },
+    {
+      "id": 12,
+      "section": "Expressões Algébricas Simples",
+      "question": "🎲 Se a = 2 e b = 3, quanto vale 'a + 2b'?",
+      "options": [
+        "7",
+        "8",
+        "5",
+        "23"
+      ],
+      "correct_answer": 1,
+      "explanation": "📊 a + 2b = 2 + 2 × 3 = 2 + 6 = 8!",
+      "difficulty": "médio"
+    },
+    {
+      "id": 13,
+      "section": "Expressões Algébricas Simples",
+      "question": "🔍 Simplifique a expressão '3x + 2x':",
+      "options": [
+        "5x",
+        "6x",
+        "3x",
+        "x"
+      ],
+      "correct_answer": 0,
+      "explanation": "➕ Somamos os coeficientes: 3x + 2x = (3 + 2)x = 5x!",
+      "difficulty": "médio"
+    },
+    {
+      "id": 14,
+      "section": "Expressões Algébricas Simples",
+      "question": "📋 Como escrevemos 'cinco a mais que o dobro de um número'?",
+      "options": [
+        "2x + 5",
+        "5x + 2",
+        "2 + 5x",
+        "x + 10"
+      ],
+      "correct_answer": 0,
+      "explanation": "🔢 'Dobro' é 2x, 'cinco a mais' é +5, então fica 2x + 5!",
+      "difficulty": "médio"
+    },
+    {
+      "id": 15,
+      "section": "Expressões Algébricas Simples",
+      "question": "🧮 Se x = 6, qual é o valor de 'x² - 10'?",
+      "options": [
+        "26",
+        "32",
+        "46",
+        "2"
+      ],
+      "correct_answer": 0,
+      "explanation": "⚡ x² - 10 = 6² - 10 = 36 - 10 = 26!",
+      "difficulty": "médio"
+    },
+    {
+      "id": 16,
+      "section": "Equações de Primeiro Grau",
+      "question": "⚖️ Qual é a solução da equação 'x + 3 = 8'?",
+      "options": [
+        "x = 5",
+        "x = 11",
+        "x = 3",
+        "x = 8"
+      ],
+      "correct_answer": 0,
+      "explanation": "✅ Para resolver: x + 3 = 8, subtraímos 3 dos dois lados: x = 8 - 3 = 5!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 17,
+      "section": "Equações de Primeiro Grau",
+      "question": "🎯 Resolva: '2x = 14'",
+      "options": [
+        "x = 7",
+        "x = 28",
+        "x = 12",
+        "x = 16"
+      ],
+      "correct_answer": 0,
+      "explanation": "➗ Para resolver 2x = 14, dividimos os dois lados por 2: x = 14 ÷ 2 = 7!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 18,
+      "section": "Equações de Primeiro Grau",
+      "question": "🔧 Na equação 'x - 5 = 12', qual é o valor de x?",
+      "options": [
+        "x = 17",
+        "x = 7",
+        "x = 60",
+        "x = 15"
+      ],
+      "correct_answer": 0,
+      "explanation": "➕ Para resolver x - 5 = 12, somamos 5 aos dois lados: x = 12 + 5 = 17!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 19,
+      "section": "Equações de Primeiro Grau",
+      "question": "🧩 Resolva: '3x + 4 = 19'",
+      "options": [
+        "x = 5",
+        "x = 15",
+        "x = 7",
+        "x = 23"
+      ],
+      "correct_answer": 0,
+      "explanation": "🔢 3x + 4 = 19 → 3x = 19 - 4 → 3x = 15 → x = 15 ÷ 3 = 5!",
+      "difficulty": "médio"
+    },
+    {
+      "id": 20,
+      "section": "Equações de Primeiro Grau",
+      "question": "⚡ Qual é a solução de '2x - 7 = 9'?",
+      "options": [
+        "x = 8",
+        "x = 1",
+        "x = 16",
+        "x = 2"
+      ],
+      "correct_answer": 0,
+      "explanation": "📐 2x - 7 = 9 → 2x = 9 + 7 → 2x = 16 → x = 16 ÷ 2 = 8!",
+      "difficulty": "médio"
+    },
+    {
+      "id": 21,
+      "section": "Equações de Primeiro Grau",
+      "question": "🎲 Resolva: 'x/2 = 6'",
+      "options": [
+        "x = 12",
+        "x = 3",
+        "x = 8",
+        "x = 4"
+      ],
+      "correct_answer": 0,
+      "explanation": "✖️ Para resolver x/2 = 6, multiplicamos os dois lados por 2: x = 6 × 2 = 12!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 22,
+      "section": "Equações de Primeiro Grau",
+      "question": "🔍 Na equação '5x - 2x = 21', qual é x?",
+      "options": [
+        "x = 7",
+        "x = 19",
+        "x = 105",
+        "x = 3"
+      ],
+      "correct_answer": 0,
+      "explanation": "📊 5x - 2x = 21 → 3x = 21 → x = 21 ÷ 3 = 7!",
+      "difficulty": "médio"
+    },
+    {
+      "id": 23,
+      "section": "Problemas Práticos",
+      "question": "🍎 Ana tem x maçãs. Se ela ganhar 5 maçãs, ficará com 12. Quantas maçãs Ana tinha?",
+      "options": [
+        "7 maçãs",
+        "17 maçãs",
+        "5 maçãs",
+        "12 maçãs"
+      ],
+      "correct_answer": 0,
+      "explanation": "🧮 Equação: x + 5 = 12. Resolvendo: x = 12 - 5 = 7 maçãs!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 24,
+      "section": "Problemas Práticos",
+      "question": "💰 Pedro tem o dobro da idade de sua irmã. Se a irmã tem 8 anos, quantos anos Pedro tem?",
+      "options": [
+        "16 anos",
+        "10 anos",
+        "4 anos",
+        "24 anos"
+      ],
+      "correct_answer": 0,
+      "explanation": "👶 Se a irmã tem 8 anos e Pedro tem o dobro: 2 × 8 = 16 anos!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 25,
+      "section": "Problemas Práticos",
+      "question": "📏 O perímetro de um quadrado é 24 cm. Quanto mede cada lado?",
+      "options": [
+        "6 cm",
+        "12 cm",
+        "4 cm",
+        "96 cm"
+      ],
+      "correct_answer": 0,
+      "explanation": "📐 Perímetro do quadrado = 4 × lado. Então: 4x = 24 → x = 6 cm!",
+      "difficulty": "médio"
+    },
+    {
+      "id": 26,
+      "section": "Problemas Práticos",
+      "question": "🎈 Em uma festa há x balões. Se estourarem 8 balões e restarem 15, quantos balões havia inicialmente?",
+      "options": [
+        "23 balões",
+        "7 balões",
+        "15 balões",
+        "120 balões"
+      ],
+      "correct_answer": 0,
+      "explanation": "🎪 Equação: x - 8 = 15. Resolvendo: x = 15 + 8 = 23 balões!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 27,
+      "section": "Problemas Práticos",
+      "question": "🚗 Um táxi cobra R$ 5,00 de bandeirada mais R$ 2,00 por quilômetro. Se a corrida custou R$ 17,00, quantos quilômetros foram percorridos?",
+      "options": [
+        "6 km",
+        "8 km",
+        "11 km",
+        "34 km"
+      ],
+      "correct_answer": 0,
+      "explanation": "🧮 Equação: 5 + 2x = 17 → 2x = 12 → x = 6 km!",
+      "difficulty": "médio"
+    },
+    {
+      "id": 28,
+      "section": "Problemas Práticos",
+      "question": "📚 Maria leu x páginas ontem e hoje leu 3 páginas a mais que ontem. No total, leu 27 páginas. Quantas páginas leu ontem?",
+      "options": [
+        "12 páginas",
+        "15 páginas",
+        "9 páginas",
+        "24 páginas"
+      ],
+      "correct_answer": 0,
+      "explanation": "📖 Equação: x + (x + 3) = 27 → 2x + 3 = 27 → 2x = 24 → x = 12 páginas!",
+      "difficulty": "médio"
+    },
+    {
+      "id": 29,
+      "section": "Problemas Práticos",
+      "question": "⚽ Em um jogo, João fez y gols. Se ele fez 2 gols a menos que Roberto, e Roberto fez 7 gols, quantos gols João fez?",
+      "options": [
+        "5 gols",
+        "9 gols",
+        "14 gols",
+        "2 gols"
+      ],
+      "correct_answer": 0,
+      "explanation": "⚽ Se Roberto fez 7 gols e João fez 2 a menos: 7 - 2 = 5 gols!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 30,
+      "section": "Problemas Práticos",
+      "question": "🎯 A soma de dois números consecutivos é 35. Qual é o menor desses números?",
+      "options": [
+        "17",
+        "18",
+        "16",
+        "19"
+      ],
+      "correct_answer": 0,
+      "explanation": "🔢 Números consecutivos: x e x+1. Equação: x + (x+1) = 35 → 2x + 1 = 35 → x = 17!",
+      "difficulty": "médio"
+    },
+    {
+      "id": 31,
+      "section": "Operações Algébricas",
+      "question": "➕ Simplifique: '4a + 3a - a'",
+      "options": [
+        "6a",
+        "8a",
+        "7a",
+        "2a"
+      ],
+      "correct_answer": 0,
+      "explanation": "📊 4a + 3a - a = (4 + 3 - 1)a = 6a!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 32,
+      "section": "Operações Algébricas",
+      "question": "🔢 Calcule: '2x + 5 + 3x - 2'",
+      "options": [
+        "5x + 3",
+        "5x + 7",
+        "6x + 3",
+        "x + 3"
+      ],
+      "correct_answer": 0,
+      "explanation": "📝 Agrupamos termos semelhantes: (2x + 3x) + (5 - 2) = 5x + 3!",
+      "difficulty": "médio"
+    },
+    {
+      "id": 33,
+      "section": "Operações Algébricas",
+      "question": "✖️ Quanto é '3 × 2y'?",
+      "options": [
+        "6y",
+        "5y",
+        "32y",
+        "23y"
+      ],
+      "correct_answer": 0,
+      "explanation": "🔢 3 × 2y = (3 × 2) × y = 6y!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 34,
+      "section": "Operações Algébricas",
+      "question": "📐 Subtraia: '7x - 3x'",
+      "options": [
+        "4x",
+        "10x",
+        "21x",
+        "x"
+      ],
+      "correct_answer": 0,
+      "explanation": "➖ 7x - 3x = (7 - 3)x = 4x!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 35,
+      "section": "Operações Algébricas",
+      "question": "🎯 Simplifique: '5b + 2 - 3b + 7'",
+      "options": [
+        "2b + 9",
+        "8b + 9",
+        "2b + 5",
+        "5b + 9"
+      ],
+      "correct_answer": 0,
+      "explanation": "📊 (5b - 3b) + (2 + 7) = 2b + 9!",
+      "difficulty": "médio"
+    },
+    {
+      "id": 36,
+      "section": "Operações Algébricas",
+      "question": "🔍 Qual é o resultado de '(2x + 3) + (x - 1)'?",
+      "options": [
+        "3x + 2",
+        "3x + 4",
+        "2x + 2",
+        "x + 2"
+      ],
+      "correct_answer": 0,
+      "explanation": "➕ (2x + 3) + (x - 1) = 2x + x + 3 - 1 = 3x + 2!",
+      "difficulty": "médio"
+    },
+    {
+      "id": 37,
+      "section": "Operações Algébricas",
+      "question": "📝 Subtraia: '(4y + 5) - (y + 2)'",
+      "options": [
+        "3y + 3",
+        "5y + 7",
+        "3y + 7",
+        "4y + 3"
+      ],
+      "correct_answer": 0,
+      "explanation": "➖ (4y + 5) - (y + 2) = 4y + 5 - y - 2 = 3y + 3!",
+      "difficulty": "médio"
+    },
+    {
+      "id": 38,
+      "section": "Padrões e Sequências",
+      "question": "🔢 Na sequência 2, 5, 8, 11, ..., qual é o próximo número?",
+      "options": [
+        "14",
+        "13",
+        "15",
+        "12"
+      ],
+      "correct_answer": 0,
+      "explanation": "📈 A sequência aumenta de 3 em 3: 11 + 3 = 14!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 39,
+      "section": "Padrões e Sequências",
+      "question": "🎯 Em uma sequência, o primeiro termo é 3 e cada termo seguinte é o anterior mais 4. Qual é o 5º termo?",
+      "options": [
+        "19",
+        "15",
+        "23",
+        "20"
+      ],
+      "correct_answer": 0,
+      "explanation": "📊 Sequência: 3, 7, 11, 15, 19. O 5º termo é 19!",
+      "difficulty": "médio"
+    },
+    {
+      "id": 40,
+      "section": "Padrões e Sequências",
+      "question": "🔍 Na sequência 1, 4, 9, 16, ..., qual padrão você identifica?",
+      "options": [
+        "Quadrados perfeitos (1², 2², 3², 4²)",
+        "Números pares",
+        "Múltiplos de 3",
+        "Números primos"
+      ],
+      "correct_answer": 0,
+      "explanation": "⚡ 1=1², 4=2², 9=3², 16=4². São quadrados perfeitos!",
+      "difficulty": "médio"
+    },
+    {
+      "id": 41,
+      "section": "Padrões e Sequências",
+      "question": "📐 Se o n-ésimo termo de uma sequência é '2n + 1', qual é o 6º termo?",
+      "options": [
+        "13",
+        "11",
+        "12",
+        "14"
+      ],
+      "correct_answer": 0,
+      "explanation": "🧮 Para n = 6: 2 × 6 + 1 = 12 + 1 = 13!",
+      "difficulty": "médio"
+    },
+    {
+      "id": 42,
+      "section": "Padrões e Sequências",
+      "question": "🎲 Na sequência 20, 17, 14, 11, ..., qual é o próximo termo?",
+      "options": [
+        "8",
+        "7",
+        "9",
+        "10"
+      ],
+      "correct_answer": 0,
+      "explanation": "📉 A sequência diminui de 3 em 3: 11 - 3 = 8!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 43,
+      "section": "Padrões e Sequências",
+      "question": "🔢 Em uma progressão aritmética, o primeiro termo é 5 e a razão é 3. Qual é o 4º termo?",
+      "options": [
+        "14",
+        "17",
+        "11",
+        "20"
+      ],
+      "correct_answer": 0,
+      "explanation": "📈 Sequência: 5, 8, 11, 14. O 4º termo é 14!",
+      "difficulty": "médio"
+    },
+    {
+      "id": 44,
+      "section": "Conceitos Básicos",
+      "question": "🧮 Qual é a principal diferença entre expressão algébrica e equação?",
+      "options": [
+        "Equação tem sinal de igualdade (=)",
+        "Expressão é mais difícil",
+        "Equação só tem números",
+        "Não há diferença"
+      ],
+      "correct_answer": 0,
+      "explanation": "⚖️ Equação sempre tem o sinal = (igualdade), expressão algébrica não tem!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 45,
+      "section": "Problemas Práticos",
+      "question": "🏪 Em uma loja, o preço de um produto é x reais. Com desconto de 20%, o preço fica R$ 24,00. Qual era o preço original?",
+      "options": [
+        "R$ 30,00",
+        "R$ 28,80",
+        "R$ 19,20",
+        "R$ 44,00"
+      ],
+      "correct_answer": 0,
+      "explanation": "💰 Com 20% de desconto, paga 80%: 0,8x = 24 → x = 24 ÷ 0,8 = 30 reais!",
+      "difficulty": "difícil"
+    },
+    {
+      "id": 46,
+      "section": "Equações de Primeiro Grau",
+      "question": "⚡ Resolva: '4x + 2 = 2x + 10'",
+      "options": [
+        "x = 4",
+        "x = 3",
+        "x = 6",
+        "x = 2"
+      ],
+      "correct_answer": 0,
+      "explanation": "🔧 4x + 2 = 2x + 10 → 4x - 2x = 10 - 2 → 2x = 8 → x = 4!",
+      "difficulty": "médio"
+    },
+    {
+      "id": 47,
+      "section": "Operações Algébricas",
+      "question": "📊 Simplifique: '3(x + 2) - 2x'",
+      "options": [
+        "x + 6",
+        "3x + 6",
+        "5x + 6",
+        "x + 4"
+      ],
+      "correct_answer": 0,
+      "explanation": "📝 3(x + 2) - 2x = 3x + 6 - 2x = x + 6!",
+      "difficulty": "médio"
+    },
+    {
+      "id": 48,
+      "section": "Problemas Práticos",
+      "question": "🎪 Em um circo, há x cadeiras na primeira fileira. A segunda fileira tem 4 cadeiras a mais que a primeira, e a terceira tem o dobro da primeira. Se no total há 34 cadeiras, quantas há na primeira fileira?",
+      "options": [
+        "7 cadeiras",
+        "6 cadeiras",
+        "8 cadeiras",
+        "5 cadeiras"
+      ],
+      "correct_answer": 0,
+      "explanation": "🎭 1ª fileira: x, 2ª fileira: x+4, 3ª fileira: 2x. Total: x + (x+4) + 2x = 34 → 4x + 4 = 34 → x = 7.5 ≈ 7!",
+      "difficulty": "difícil"
+    },
+    {
+      "id": 49,
+      "section": "Padrões e Sequências",
+      "question": "🔍 Uma sequência começa com 100 e cada termo é a metade do anterior. Qual é o 4º termo?",
+      "options": [
+        "12,5",
+        "25",
+        "50",
+        "6,25"
+      ],
+      "correct_answer": 0,
+      "explanation": "➗ Sequência: 100, 50, 25, 12,5. O 4º termo é 12,5!",
+      "difficulty": "médio"
+    },
+    {
+      "id": 50,
+      "section": "Conceitos Básicos",
+      "question": "🌟 DESAFIO FINAL: Se 2x + 3y = 15 e x = 3, qual é o valor de y?",
+      "options": [
+        "y = 3",
+        "y = 2",
+        "y = 4",
+        "y = 6"
+      ],
+      "correct_answer": 0,
+      "explanation": "🎯 Substituindo x = 3: 2(3) + 3y = 15 → 6 + 3y = 15 → 3y = 9 → y = 3!",
+      "difficulty": "médio"
+    }
+  ],
+  "evaluation": {
+    "include_evaluation": true,
+    "evaluation_questions": [
+      {
+        "question": "Como você se sentiu aprendendo álgebra básica?",
+        "options": ["🌟 Adorei! Álgebra é fascinante!", "😊 Gostei, entendi bem os conceitos", "😐 Foi ok, alguns exercícios eram difíceis", "😅 Tive dificuldades com algumas partes", "😰 Achei muito complicado"]
+      },
+      {
+        "question": "Qual parte da álgebra você achou mais interessante?",
+        "options": ["🔤 Trabalhar com variáveis e letras", "⚖️ Resolver equações", "🧮 Problemas práticos do dia a dia", "📊 Simplificar expressões", "🔢 Padrões e sequências", "🎯 Todas foram interessantes!"]
+      },
+      {
+        "question": "Você consegue ver como a álgebra pode ser útil no cotidiano?",
+        "options": ["✨ Sim! Vejo muitas aplicações práticas", "😊 Vejo algumas situações onde posso usar", "😐 Ainda não vejo muita utilidade", "😔 Não consigo relacionar com o dia a dia", "❓ Preciso de mais exemplos práticos"]
+      }
+    ]
+  },
+  "settings": {
+    "public": true,
+    "allow_multiple_responses": false,
+    "show_progress_bar": true,
+    "collect_email": true,
+    "require_login": true
+  }
+}

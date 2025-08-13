@@ -1,0 +1,498 @@
+{
+  "metadata": {
+    "title": "🔢 English Numbers Quiz: Master Numbers in English!",
+    "description": [
+      "Pratique números em inglês de forma completa e divertida!",
+      "Números cardinais, ordinais, horas, datas e operações matemáticas.",
+      "Domine os números de 1 a 100 e muito mais em inglês!"
+    ],
+    "subject": "Língua Inglesa",
+    "grade": "5ª série",
+    "topic": "Numbers in English - Números em Inglês",
+    "author": "IA",
+    "version": "1.0",
+    "created_date": "2025-08-13"
+  },
+  "content": {
+    "introduction": "Welcome to the Numbers Quiz! Aqui você vai praticar números em inglês de todas as formas: cardinais, ordinais, horas, idades e muito mais. Let's count together! 🔢",
+    "instructions": [
+      "Leia cada número com atenção antes de responder.",
+      "Lembre-se da pronúncia dos números em inglês.",
+      "Preste atenção se é número cardinal (one, two) ou ordinal (first, second).",
+      "Para horas, lembre-se das expressões 'o'clock', 'half past', etc.",
+      "Pratique mentalmente a contagem em inglês."
+    ],
+    "sections": [
+      {
+        "name": "Basic Numbers 1-20",
+        "description": "Números básicos de 1 a 20 em inglês."
+      },
+      {
+        "name": "Numbers 21-100",
+        "description": "Números maiores e suas formações."
+      },
+      {
+        "name": "Ordinal Numbers",
+        "description": "Primeiro, segundo, terceiro... em inglês."
+      },
+      {
+        "name": "Time and Clock",
+        "description": "Horas e expressões de tempo."
+      },
+      {
+        "name": "Ages and Quantities",
+        "description": "Idades, quantidades e medidas."
+      },
+      {
+        "name": "Math Operations",
+        "description": "Operações matemáticas básicas em inglês."
+      }
+    ]
+  },
+  "questions": [
+    {
+      "id": 1,
+      "section": "Basic Numbers 1-20",
+      "question": "🔢 How do you say '3' in English?",
+      "options": [
+        "Two",
+        "Three",
+        "Four",
+        "Five"
+      ],
+      "correct_answer": 1,
+      "explanation": "3️⃣ 'Três' em inglês é 'three' - um dos números mais básicos!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 2,
+      "section": "Basic Numbers 1-20",
+      "question": "🔢 What number is 'seven'?",
+      "options": [
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "correct_answer": 1,
+      "explanation": "7️⃣ 'Seven' é o número 7 em inglês!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 3,
+      "section": "Basic Numbers 1-20",
+      "question": "🔢 How do you write 'onze' in English?",
+      "options": [
+        "Ten",
+        "Eleven",
+        "Twelve",
+        "Thirteen"
+      ],
+      "correct_answer": 1,
+      "explanation": "1️⃣1️⃣ 'Onze' em inglês é 'eleven' - número entre 10 e 12!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 4,
+      "section": "Basic Numbers 1-20",
+      "question": "🔢 What does 'sixteen' mean?",
+      "options": [
+        "15",
+        "16",
+        "17",
+        "18"
+      ],
+      "correct_answer": 1,
+      "explanation": "1️⃣6️⃣ 'Sixteen' significa 16 - formado por 'six' + 'teen'!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 5,
+      "section": "Basic Numbers 1-20",
+      "question": "🔢 How do you say '20' in English?",
+      "options": [
+        "Twelve",
+        "Twenty",
+        "Thirty",
+        "Forty"
+      ],
+      "correct_answer": 1,
+      "explanation": "2️⃣0️⃣ 'Vinte' em inglês é 'twenty' - primeiro número com 'ty'!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 6,
+      "section": "Numbers 21-100",
+      "question": "🔢 How do you write '25' in English?",
+      "options": [
+        "Twenty-four",
+        "Twenty-five",
+        "Twenty-six",
+        "Thirty-five"
+      ],
+      "correct_answer": 1,
+      "explanation": "2️⃣5️⃣ '25' em inglês é 'twenty-five' - twenty (20) + five (5)!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 7,
+      "section": "Numbers 21-100",
+      "question": "🔢 What number is 'thirty-eight'?",
+      "options": [
+        "28",
+        "38",
+        "48",
+        "58"
+      ],
+      "correct_answer": 1,
+      "explanation": "3️⃣8️⃣ 'Thirty-eight' é 38 - thirty (30) + eight (8)!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 8,
+      "section": "Numbers 21-100",
+      "question": "🔢 How do you say '50' in English?",
+      "options": [
+        "Forty",
+        "Fifty",
+        "Sixty",
+        "Seventy"
+      ],
+      "correct_answer": 1,
+      "explanation": "5️⃣0️⃣ 'Cinquenta' em inglês é 'fifty' - atenção: não é 'fivety'!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 9,
+      "section": "Numbers 21-100",
+      "question": "🔢 What does 'ninety-nine' mean?",
+      "options": [
+        "89",
+        "99",
+        "109",
+        "90"
+      ],
+      "correct_answer": 1,
+      "explanation": "9️⃣9️⃣ 'Ninety-nine' é 99 - quase 100!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 10,
+      "section": "Numbers 21-100",
+      "question": "🔢 How do you write 'cem' in English?",
+      "options": [
+        "Ten",
+        "One hundred",
+        "Thousand",
+        "Million"
+      ],
+      "correct_answer": 1,
+      "explanation": "💯 'Cem' em inglês é 'one hundred' - número redondo importante!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 11,
+      "section": "Ordinal Numbers",
+      "question": "🥇 How do you say 'primeiro' in English?",
+      "options": [
+        "One",
+        "First",
+        "Once",
+        "Primary"
+      ],
+      "correct_answer": 1,
+      "explanation": "🥇 'Primeiro' em inglês é 'first' - usado para posições e ordem!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 12,
+      "section": "Ordinal Numbers",
+      "question": "🥈 What does 'second' mean?",
+      "options": [
+        "Primeiro",
+        "Segundo",
+        "Terceiro",
+        "Quarto"
+      ],
+      "correct_answer": 1,
+      "explanation": "🥈 'Second' significa 'segundo' - a segunda posição!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 13,
+      "section": "Ordinal Numbers",
+      "question": "🥉 How do you write 'terceiro' in English?",
+      "options": [
+        "Three",
+        "Third",
+        "Thirty",
+        "Thirteen"
+      ],
+      "correct_answer": 1,
+      "explanation": "🥉 'Terceiro' em inglês é 'third' - a terceira posição!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 14,
+      "section": "Ordinal Numbers",
+      "question": "🔢 What is the ordinal form of 'five'?",
+      "options": [
+        "Fiveth",
+        "Fifth",
+        "Fifty",
+        "Fifteen"
+      ],
+      "correct_answer": 1,
+      "explanation": "5️⃣ O ordinal de 'five' é 'fifth' - quinto lugar!",
+      "difficulty": "médio"
+    },
+    {
+      "id": 15,
+      "section": "Ordinal Numbers",
+      "question": "🔢 How do you say 'décimo' in English?",
+      "options": [
+        "Ten",
+        "Tenth",
+        "Twenty",
+        "Twelve"
+      ],
+      "correct_answer": 1,
+      "explanation": "🔟 'Décimo' em inglês é 'tenth' - a décima posição!",
+      "difficulty": "médio"
+    },
+    {
+      "id": 16,
+      "section": "Time and Clock",
+      "question": "🕐 What time is '1:00'?",
+      "options": [
+        "It's one o'clock",
+        "It's two o'clock",
+        "It's one thirty",
+        "It's twelve o'clock"
+      ],
+      "correct_answer": 0,
+      "explanation": "🕐 1:00 em inglês é 'It's one o'clock' - hora exata!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 17,
+      "section": "Time and Clock",
+      "question": "🕕 How do you say '5:30' in English?",
+      "options": [
+        "It's five fifteen",
+        "It's five thirty",
+        "It's six o'clock",
+        "It's four thirty"
+      ],
+      "correct_answer": 1,
+      "explanation": "🕕 5:30 é 'It's five thirty' ou 'It's half past five'!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 18,
+      "section": "Time and Clock",
+      "question": "🕒 What does 'quarter past three' mean?",
+      "options": [
+        "3:00",
+        "3:15",
+        "3:30",
+        "3:45"
+      ],
+      "correct_answer": 1,
+      "explanation": "🕒 'Quarter past three' significa 3:15 - um quarto depois das três!",
+      "difficulty": "médio"
+    },
+    {
+      "id": 19,
+      "section": "Time and Clock",
+      "question": "🕘 How do you say '9:45' in English?",
+      "options": [
+        "Quarter to ten",
+        "Quarter past nine",
+        "Nine fifteen",
+        "Ten fifteen"
+      ],
+      "correct_answer": 0,
+      "explanation": "🕘 9:45 é 'quarter to ten' - um quarto para as dez!",
+      "difficulty": "médio"
+    },
+    {
+      "id": 20,
+      "section": "Time and Clock",
+      "question": "🕛 What time is 'twelve o'clock'?",
+      "options": [
+        "11:00",
+        "12:00",
+        "1:00",
+        "2:00"
+      ],
+      "correct_answer": 1,
+      "explanation": "🕛 'Twelve o'clock' é 12:00 - meio-dia ou meia-noite!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 21,
+      "section": "Ages and Quantities",
+      "question": "👶 How do you say 'Eu tenho 10 anos' in English?",
+      "options": [
+        "I have 10 years",
+        "I am 10 years old",
+        "I am 10 years",
+        "I have 10 old"
+      ],
+      "correct_answer": 1,
+      "explanation": "👶 Para idade em inglês usamos 'I am 10 years old' - não 'have'!",
+      "difficulty": "médio"
+    },
+    {
+      "id": 22,
+      "section": "Ages and Quantities",
+      "question": "📚 How do you say 'Eu tenho 15 livros'?",
+      "options": [
+        "I am fifteen books",
+        "I have fifteen books",
+        "I have fifteen book",
+        "I am fifteen book"
+      ],
+      "correct_answer": 1,
+      "explanation": "📚 Para quantidades usamos 'have': I have fifteen books!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 23,
+      "section": "Ages and Quantities",
+      "question": "👥 What does 'There are twenty students' mean?",
+      "options": [
+        "Há vinte professores",
+        "Há vinte estudantes",
+        "Há doze estudantes",
+        "Há dois estudantes"
+      ],
+      "correct_answer": 1,
+      "explanation": "👥 'There are twenty students' significa 'Há vinte estudantes'!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 24,
+      "section": "Ages and Quantities",
+      "question": "🍎 How do you say 'Há 8 maçãs na mesa'?",
+      "options": [
+        "There is eight apples on the table",
+        "There are eight apples on the table",
+        "There are eight apple on the table",
+        "There is eight apple on the table"
+      ],
+      "correct_answer": 1,
+      "explanation": "🍎 Para plural usamos 'are': There are eight apples on the table!",
+      "difficulty": "médio"
+    },
+    {
+      "id": 25,
+      "section": "Ages and Quantities",
+      "question": "💰 What does 'It costs fifty dollars' mean?",
+      "options": [
+        "Custa quinze dólares",
+        "Custa cinquenta dólares",
+        "Custa sessenta dólares",
+        "Custa cinco dólares"
+      ],
+      "correct_answer": 1,
+      "explanation": "💰 'It costs fifty dollars' significa 'Custa cinquenta dólares'!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 26,
+      "section": "Math Operations",
+      "question": "➕ How do you say '5 + 3 = 8' in English?",
+      "options": [
+        "Five minus three equals eight",
+        "Five plus three equals eight",
+        "Five times three equals eight",
+        "Five divided by three equals eight"
+      ],
+      "correct_answer": 1,
+      "explanation": "➕ '5 + 3 = 8' em inglês é 'Five plus three equals eight'!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 27,
+      "section": "Math Operations",
+      "question": "➖ What does '10 - 4 = 6' mean in English?",
+      "options": [
+        "Ten plus four equals six",
+        "Ten minus four equals six",
+        "Ten times four equals six",
+        "Ten divided by four equals six"
+      ],
+      "correct_answer": 1,
+      "explanation": "➖ '10 - 4 = 6' em inglês é 'Ten minus four equals six'!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 28,
+      "section": "Math Operations",
+      "question": "✖️ How do you say '3 × 4 = 12' in English?",
+      "options": [
+        "Three plus four equals twelve",
+        "Three times four equals twelve",
+        "Three minus four equals twelve",
+        "Three divided by four equals twelve"
+      ],
+      "correct_answer": 1,
+      "explanation": "✖️ '3 × 4 = 12' em inglês é 'Three times four equals twelve'!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 29,
+      "section": "Math Operations",
+      "question": "➗ What does '20 ÷ 5 = 4' mean in English?",
+      "options": [
+        "Twenty plus five equals four",
+        "Twenty divided by five equals four",
+        "Twenty minus five equals four",
+        "Twenty times five equals four"
+      ],
+      "correct_answer": 1,
+      "explanation": "➗ '20 ÷ 5 = 4' em inglês é 'Twenty divided by five equals four'!",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 30,
+      "section": "Numbers 21-100",
+      "question": "🌟 DESAFIO FINAL: How do you write 'setenta e sete' in English?",
+      "options": [
+        "Sixty-seven",
+        "Seventy-seven",
+        "Eighty-seven",
+        "Seventeen"
+      ],
+      "correct_answer": 1,
+      "explanation": "🎯 'Setenta e sete' em inglês é 'seventy-seven' - seventy (70) + seven (7)! Parabéns por completar o quiz! 🎉",
+      "difficulty": "médio"
+    }
+  ],
+  "evaluation": {
+    "include_evaluation": true,
+    "evaluation_questions": [
+      {
+        "question": "Como você se sentiu praticando números em inglês?",
+        "options": ["🌟 Muito confiante! Domino os números!", "😊 Bem preparado, entendi bem", "😐 Razoável, algumas partes foram difíceis", "😅 Preciso praticar mais alguns números", "😰 Achei muito complicado"]
+      },
+      {
+        "question": "Qual parte dos números você achou mais fácil?",
+        "options": ["🔢 Números básicos 1-20", "💯 Números 21-100", "🥇 Números ordinais", "🕐 Horas e tempo", "👥 Idades e quantidades", "➕ Operações matemáticas"]
+      },
+      {
+        "question": "Você se sente mais confiante com números em inglês agora?",
+        "options": ["✨ Muito mais confiante!", "😊 Um pouco mais confiante", "😐 Mesma confiança de antes", "😔 Ainda tenho muitas dúvidas", "❓ Preciso de muito mais prática"]
+      }
+    ]
+  },
+  "settings": {
+    "public": true,
+    "allow_multiple_responses": false,
+    "show_progress_bar": true,
+    "collect_email": true,
+    "require_login": true
+  }
+}
