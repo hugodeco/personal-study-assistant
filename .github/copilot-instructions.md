@@ -15,8 +15,12 @@ This project integrates with Google Forms API to create and manage forms program
 - Add comprehensive docstrings for all functions
 - Use environment variables for sensitive configuration
 
+## Schema
+* Each form must adhere to the schema defined in `global/schema.json`.
+* The schema includes fields for title, description, sections, and questions.
+* Each question must have a unique ID and specify its type (e.g., multiple_choice, short_answer).
+
 ## Forms
-* On creating a new form, ensure the JSON structure is valid and follows the defined schema `global/schema.json`.
 * Each form should be defined in a separate JSON file within the `forms/` directory.
 * If not specified, ask about the level of difficulty for the quiz.
 * After generating a new form, review all created questions and answers to ensure there are no duplicate answers.

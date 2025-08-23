@@ -471,23 +471,6 @@
       "difficulty": "médio"
     }
   ],
-  "evaluation": {
-    "include_evaluation": true,
-    "evaluation_questions": [
-      {
-        "question": "Como você se sentiu praticando números em inglês?",
-        "options": ["🌟 Muito confiante! Domino os números!", "😊 Bem preparado, entendi bem", "😐 Razoável, algumas partes foram difíceis", "😅 Preciso praticar mais alguns números", "😰 Achei muito complicado"]
-      },
-      {
-        "question": "Qual parte dos números você achou mais fácil?",
-        "options": ["🔢 Números básicos 1-20", "💯 Números 21-100", "🥇 Números ordinais", "🕐 Horas e tempo", "👥 Idades e quantidades", "➕ Operações matemáticas"]
-      },
-      {
-        "question": "Você se sente mais confiante com números em inglês agora?",
-        "options": ["✨ Muito mais confiante!", "😊 Um pouco mais confiante", "😐 Mesma confiança de antes", "😔 Ainda tenho muitas dúvidas", "❓ Preciso de muito mais prática"]
-      }
-    ]
-  },
   "settings": {
     "public": true,
     "allow_multiple_responses": false,

@@ -335,7 +335,7 @@ def criar_formulario_do_json(caminho_json):
         print("✅ Todas as questões foram criadas!")
         
         # 6. Adicionar questões de avaliação (se habilitado)
-        if config.get('evaluation', {}).get('include_evaluation', True):
+        if config.get('evaluation', {}).get('include_evaluation', False):
             print("📊 Adicionando seção de avaliação...")
             
             eval_questions = config.get('evaluation', {}).get('evaluation_questions', [
@@ -479,7 +479,7 @@ def criar_formulario_do_json(caminho_json):
         for secao, quantidade in secoes_stats.items():
             print(f"   • {secao}: {quantidade} questões")
         
-        if config.get('evaluation', {}).get('include_evaluation', True):
+        if config.get('evaluation', {}).get('include_evaluation', False):
             eval_count = len(config.get('evaluation', {}).get('evaluation_questions', []))
             print(f"   • Avaliação: {eval_count} questões")
         

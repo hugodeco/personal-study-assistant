@@ -1,0 +1,89 @@
+{
+  "metadata": {
+    "title": "🦕 Os Dinossauros — Quiz de 50 questões",
+    "description": "Quiz com 50 questões sobre dinossauros: períodos geológicos, tipos, alimentação, fósseis e descobertas.",
+    "subject": "Ciências/História Natural",
+    "grade": "5ª série",
+    "topic": "Dinossauros",
+    "author": "Equipe Educacional",
+    "version": "1.0",
+    "created_date": "2025-08-21"
+  },
+  "content": {
+    "introduction": "Responda cada pergunta sobre dinossauros. Boa sorte!",
+    "instructions": [
+      "Leia cada pergunta com atenção.",
+      "Escolha a alternativa correta entre quatro opções.",
+      "Tempo sugerido: 40 minutos."
+    ],
+    "sections": [
+      {"name": "Períodos", "description": "Perguntas sobre Triássico, Jurássico e Cretáceo."},
+      {"name": "Tipos", "description": "Diferentes grupos de dinossauros (herbívoros, carnívoros)."},
+      {"name": "Alimentação e comportamento", "description": "Hábitos alimentares e locomotion."},
+      {"name": "Fósseis e descobertas", "description": "Formação de fósseis e paleontologia."},
+      {"name": "Características", "description": "Tamanho, ovos, penas e dentes."}
+    ]
+  },
+  "questions": [
+    {"id": 1, "section": "Períodos", "question": "Em qual período geológico apareceram os primeiros dinossauros?", "options": ["Triássico", "Jurássico", "Cretáceo", "Paleógeno"], "correct_answer": 0, "difficulty": "médio"},
+    {"id": 2, "section": "Períodos", "question": "Qual período é famoso por grandes saurópodes e terópodes como o Allosaurus?", "options": ["Jurássico", "Triássico", "Cretáceo", "Permiano"], "correct_answer": 0, "difficulty": "médio"},
+    {"id": 3, "section": "Períodos", "question": "Em que período ocorreu a maior extinção dos dinossauros não-aviários?", "options": ["Cretáceo", "Jurássico", "Triássico", "Devoniano"], "correct_answer": 0, "difficulty": "médio"},
+    {"id": 4, "section": "Tipos", "question": "Como chamamos dinossauros que andavam sobre duas patas?", "options": ["Bípedes", "Quadrúpedes", "Planadores", "Nadadores"], "correct_answer": 0, "difficulty": "fácil"},
+    {"id": 5, "section": "Tipos", "question": "Que grupo inclui o famoso Tyrannosaurus rex?", "options": ["Terópodes", "Saurópodes", "Ornitópodes", "Ceratopsianos"], "correct_answer": 0, "difficulty": "fácil"},
+    {"id": 6, "section": "Alimentação e comportamento", "question": "Dinossauros herbívoros com pescoços longos, usados para alcançar folhas altas, são chamados de: ", "options": ["Saurópodes", "Terópodes", "Ceratopsianos", "Anquilossauros"], "correct_answer": 0, "difficulty": "fácil"},
+    {"id": 7, "section": "Alimentação e comportamento", "question": "Que tipo de dente é mais comum em dinossauros carnívoros?", "options": ["Dentes afiados e serrilhados", "Dentes chatos e largos", "Bicos córneos", "Dentes em forma de concha"], "correct_answer": 0, "difficulty": "médio"},
+    {"id": 8, "section": "Fósseis e descobertas", "question": "O que é um fóssil?", "options": ["Restos ou vestígios preservados de organismos antigos", "Uma rocha brilhante", "Um tipo de mineral novo", "Um lago seco"], "correct_answer": 0, "difficulty": "fácil"},
+    {"id": 9, "section": "Fósseis e descobertas", "question": "Qual é a ciência que estuda fósseis e seres antigos como dinossauros?", "options": ["Paleontologia", "Arqueologia", "Geografia", "Biologia marinha"], "correct_answer": 0, "difficulty": "fácil"},
+    {"id": 10, "section": "Características", "question": "Qual destas características é atribuída a muitos dinossauros terópodes modernos (aves)?", "options": ["Penas", "Escamas grossas", "Nadadeiras", "Guelras"], "correct_answer": 0, "difficulty": "médio"},
+    {"id": 11, "section": "Características", "question": "Como os paleontólogos normalmente datam fósseis com precisão?", "options": ["Usando datação por radiometricidade / isótopos", "Apenas pelo tamanho do fóssil", "Pelo local da escola", "Contando camadas de areia manualmente"], "correct_answer": 0, "difficulty": "difícil"},
+    {"id": 12, "section": "Tipos", "question": "Ceratopsianos, como o Triceratops, são conhecidos por: ", "options": ["Possuírem chifres e uma gola óssea", "Terem pescoços longos e caudas curtas", "Serem bípedes pequenos", "Viverem na água"], "correct_answer": 0, "difficulty": "médio"},
+    {"id": 13, "section": "Tipos", "question": "Os anquilossauros eram dinossauros: ", "options": ["Com armadura corporal e maça na cauda", "Velozes corredores carnívoros", "Marinhos e nadadores", "Com grandes chifres no nariz"], "correct_answer": 0, "difficulty": "médio"},
+    {"id": 14, "section": "Alimentação e comportamento", "question": "Que estratégia alimentar os hadrossauros (conhecidos como \"duck-billed\") usavam?", "options": ["Herbívoros que pastavam e mastigavam plantas", "Carnívoros que caçavam em bandos", "Onívoros que comiam insetos apenas", "Viviam de seiva"], "correct_answer": 0, "difficulty": "médio"},
+    {"id": 15, "section": "Períodos", "question": "Qual período é conhecido por apresentar a maior diversidade de dinossauros antes da extinção?", "options": ["Cretáceo", "Triássico", "Jurássico", "Carbonífero"], "correct_answer": 0, "difficulty": "médio"},
+    {"id": 16, "section": "Fósseis e descobertas", "question": "Como se chama o local onde fósseis são encontrados?", "options": ["Sítio paleontológico", "Museu", "Laboratório de química", "Caverna de gelo"], "correct_answer": 0, "difficulty": "fácil"},
+    {"id": 17, "section": "Fósseis e descobertas", "question": "Quem foi um famoso caçador e estudioso de fósseis de dinossauros no século XIX?", "options": ["Richard Owen", "Isaac Newton", "Charles Darwin", "Marie Curie"], "correct_answer": 0, "difficulty": "difícil"},
+    {"id": 18, "section": "Características", "question": "Os ovos de dinossauro mais antigos encontrados mostram que os dinossauros: ", "options": ["Reproduziam-se através de ovos", "Davam à luz filhotes vivos", "Se reproduziam por sementes", "Se dividiam como bactérias"], "correct_answer": 0, "difficulty": "fácil"},
+    {"id": 19, "section": "Características", "question": "O que indica que um dinossauro poderia ser um bom corredor?", "options": ["Membros posteriores longos e adaptados para corrida", "Pescoço longo", "Boca com bico largo", "Cauda curta"], "correct_answer": 0, "difficulty": "médio"},
+    {"id": 20, "section": "Tipos", "question": "Ornitópodes eram geralmente: ", "options": ["Herbívoros que andavam em dois ou quatro membros", "Grandes predadores carnívoros", "Animais aquáticos", "Pássaros modernos"], "correct_answer": 0, "difficulty": "médio"},
+    {"id": 21, "section": "Períodos", "question": "O que caracteriza o período Jurássico em relação aos dinossauros?", "options": ["A diversificação dos grandes saurópodes", "O aparecimento dos mamíferos modernos", "A grande glaciação", "O surgimento dos humanos"], "correct_answer": 0, "difficulty": "médio"},
+    {"id": 22, "section": "Alimentação e comportamento", "question": "Alguns terópodes têm evidências de ter: ", "options": ["Penas primitivas", "Guelras para respirar debaixo d'água", "Várias cabeças", "Escudos ósseos por todo o corpo"], "correct_answer": 0, "difficulty": "médio"},
+    {"id": 23, "section": "Fósseis e descobertas", "question": "O que é um esqueleto montado em um museu?", "options": ["Reconstrução de ossos fósseis em posição de vida", "Um esqueleto humano moderno", "Uma réplica de madeira", "Um fóssil de planta apenas"], "correct_answer": 0, "difficulty": "fácil"},
+    {"id": 24, "section": "Características", "question": "Qual dessas adaptações ajudava dinossauros a regular a temperatura?", "options": ["Penas e coberturas corporais", "Bexigas de ar gigantes", "Nadadeiras externas", "Guelras complexas"], "correct_answer": 0, "difficulty": "médio"},
+    {"id": 25, "section": "Alimentação e comportamento", "question": "Dinossauros carnívoros tipicamente: ", "options": ["Caçavam outros animais e tinham dentes afiados", "Comiam apenas plantas tenras", "Viviam em água salgada", "Se alimentavam de pedras"], "correct_answer": 0, "difficulty": "fácil"},
+    {"id": 26, "section": "Tipos", "question": "Qual desses dinossauros era um herbívoro com chifres?", "options": ["Triceratops", "Tyrannosaurus", "Velociraptor", "Spinosaurus"], "correct_answer": 0, "difficulty": "fácil"},
+    {"id": 27, "section": "Características", "question": "Que evidência sugere cuidado parental em alguns dinossauros?", "options": ["Ninhos com ovos e embrionários próximos", "Fósseis encontrados isolados", "Marcas de escavação humana", "Presença de dentes ocos"], "correct_answer": 0, "difficulty": "médio"},
+    {"id": 28, "section": "Fósseis e descobertas", "question": "O que é uma pegada fóssil (icno fóssil)?", "options": ["Marca deixada em sedimentos por um animal que depois fossilizou", "Um dente fossilizado", "Um fóssil de planta", "Uma pedra comum"], "correct_answer": 0, "difficulty": "fácil"},
+    {"id": 29, "section": "Períodos", "question": "Qual período veio primeiro na escala geológica: Triássico, Jurássico ou Cretáceo?", "options": ["Triássico", "Jurássico", "Cretáceo", "Quaternário"], "correct_answer": 0, "difficulty": "fácil"},
+    {"id": 30, "section": "Tipos", "question": "Velociraptor era provavelmente: ", "options": ["Um pequeno terópode ágil e carnívoro", "Um grande saurópode herbívoro", "Um dinossauro com chifres", "Um peixe pré-histórico"], "correct_answer": 0, "difficulty": "médio"},
+    {"id": 31, "section": "Características", "question": "Spinosaurus é conhecido por ter tido: ", "options": ["Uma vela dorsal e adaptações semi-aquáticas", "Chifres grandes como o Triceratops", "Penas coloridas como aves modernas", "Dentes chatos para mastigar folhas"], "correct_answer": 0, "difficulty": "médio"},
+    {"id": 32, "section": "Alimentação e comportamento", "question": "Alguns dinossauros formavam bandos. Qual vantagem isso pode ter oferecido?", "options": ["Proteção e caça cooperativa", "Maior isolamento", "Dificuldade em encontrar comida", "Menor chance de reprodução"], "correct_answer": 0, "difficulty": "médio"},
+    {"id": 33, "section": "Fósseis e descobertas", "question": "Qual instrumento é essencial em escavações paleontológicas?", "options": ["Pincéis finos e ferramentas manuais", "Serra elétrica grande", "Explosivos", "Motosserra"], "correct_answer": 0, "difficulty": "fácil"},
+    {"id": 34, "section": "Períodos", "question": "Quantos principais períodos da era dos dinossauros costumam ser ensinados?", "options": ["Três (Triássico, Jurássico, Cretáceo)", "Dois", "Quatro", "Cinco"], "correct_answer": 0, "difficulty": "fácil"},
+    {"id": 35, "section": "Tipos", "question": "Que dinossauro é famoso por seu grande tamanho e longo pescoço?", "options": ["Brachiosaurus (ou outros saurópodes)", "Velociraptor", "Tyrannosaurus", "Stegosaurus"], "correct_answer": 0, "difficulty": "fácil"},
+    {"id": 36, "section": "Características", "question": "Stegosaurus é conhecido por ter: ", "options": ["Placas ósseas nas costas", "Grandes chifres faciais", "Bico em forma de pato", "Nadadeiras"], "correct_answer": 0, "difficulty": "fácil"},
+    {"id": 37, "section": "Fósseis e descobertas", "question": "O que os paleontólogos aprendem ao estudar dentes de dinossauros?", "options": ["Dieta e hábitos alimentares", "Cor exata da pele", "Voz que faziam", "Número de olhos"], "correct_answer": 0, "difficulty": "médio"},
+    {"id": 38, "section": "Alimentação e comportamento", "question": "O que significa o termo 'onívoro'?", "options": ["Come plantas e carne", "Come apenas plantas", "Come apenas carne", "Não se alimenta"], "correct_answer": 0, "difficulty": "fácil"},
+    {"id": 39, "section": "Tipos", "question": "Quais dinossauros tinham bicos semelhantes a patos e frequentemente dentes na mandíbula?", "options": ["Hadrossauros", "Tiranossauros", "Ceratopsianos", "Stegosaurídeos"], "correct_answer": 0, "difficulty": "médio"},
+    {"id": 40, "section": "Períodos", "question": "Durante qual período muitos dos dinossauros gigantes viveram?", "options": ["Jurássico e Cretáceo", "Permiano", "Cambriano", "Quaternário"], "correct_answer": 0, "difficulty": "médio"},
+    {"id": 41, "section": "Características", "question": "Alguns dinossauros tinham cristas ou calombos na cabeça. Para quê podiam servir?", "options": ["Comunicação, exibição ou reconhecimento entre a espécie", "Nadar mais rápido", "Produzir som subaquático", "Armazenar água"], "correct_answer": 0, "difficulty": "médio"},
+    {"id": 42, "section": "Fósseis e descobertas", "question": "Por que nem todos os seres vivos viram fósseis?", "options": ["A fossilização exige condições especiais e muitos corpos não são preservados", "Porque os animais não queriam virar fósseis", "Fósseis só existem hoje em dia", "Somente plantas viram fósseis"], "correct_answer": 0, "difficulty": "médio"},
+    {"id": 43, "section": "Alimentação e comportamento", "question": "Spinosaurus provavelmente comia principalmente: ", "options": ["Peixes e animais aquáticos", "Plantas altas", "Folhas de árvores", "Insetos pequenos"], "correct_answer": 0, "difficulty": "médio"},
+    {"id": 44, "section": "Tipos", "question": "Que dinossauro tinha uma grande placa óssea alongada na cauda e era herbívoro com uma pequena cabeça?", "options": ["Anquilossauro", "Tiranossauro", "Velociraptor", "Diplodoco"], "correct_answer": 3, "difficulty": "médio"},
+    {"id": 45, "section": "Características", "question": "Qual é uma evidência de que aves modernas descendem de dinossauros?", "options": ["Penas e estruturas ósseas semelhantes", "Guelras compartilhadas", "Morfologia de barbatanas", "Cinzas vulcânicas"], "correct_answer": 0, "difficulty": "difícil"},
+    {"id": 46, "section": "Fósseis e descobertas", "question": "O achado de um embrião fossilizado dentro de um ovo nos ajuda a entender: ", "options": ["Desenvolvimento dos filhotes e tipos de reprodução", "Como o dinossauro cantava", "A cor exata da pele", "Se tinham pelos como mamíferos"], "correct_answer": 0, "difficulty": "médio"},
+    {"id": 47, "section": "Alimentação e comportamento", "question": "O que é uma característica típica de predadores ágeis como velociraptores?", "options": ["Garras em forma de foice e agilidade", "Pescoço superlongo", "Boca em forma de bico para filtrar água", "Grande blindagem corporal"], "correct_answer": 0, "difficulty": "médio"},
+    {"id": 48, "section": "Tipos", "question": "Qual destes dinossauros é conhecido por seu enorme crânio com placas e chifres?", "options": ["Triceratops", "Brachiosaurus", "Microraptor", "Iguanodon"], "correct_answer": 0, "difficulty": "fácil"},
+    {"id": 49, "section": "Períodos", "question": "O que marcou o fim do período Cretáceo para os dinossauros não-aviários?", "options": ["Um evento de extinção em massa associado a um asteroide e mudanças ambientais", "A chegada dos primeiros humanos", "Uma era de frio extremo", "O surgimento de grandes florestas"], "correct_answer": 0, "difficulty": "médio"},
+    {"id": 50, "section": "Características", "question": "Por que o estudo dos dinossauros é importante hoje?", "options": ["Ajuda a entender a história da vida e mudanças ambientais na Terra", "Para aprender a construir fósseis", "Para prever o tempo amanhã", "Para criar dinossauros de novo facilmente"], "correct_answer": 0, "difficulty": "fácil"}
+  ],
+  "evaluation": {
+    "include_evaluation": false
+  },
+  "settings": {
+    "public": true,
+    "allow_multiple_responses": false,
+    "show_progress_bar": true,
+    "collect_email": false,
+    "require_login": false
+  }
+}

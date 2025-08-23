@@ -1,15 +1,33 @@
-"""
-Gerador Universal de Formulários (Versão Simplificada)
-Sistema global para criar/atualizar qualquer quiz a partir de arquivos JSON
+"""Universal Form Generator (simplified)
 
-USO:
-    python criar_formulario.py pronomes
-    python criar_formulario.py matematica
-    
-NOVIDADES:
-- ✅ Sistema de atualização: se o formulário já existir, será atualizado
-- ✅ Nome do arquivo = nome do formulário no Google Drive
-- ✅ Organização automática na pasta "Personal study assistant"
+This script creates or updates Google Forms from JSON quiz files located
+in the project's `forms/` directory. Before publishing, it runs the
+project validator `validate.py` (if present) to ensure the JSON meets the
+project schema constraints (metadata, content, questions, option uniqueness,
+correct answer indexes, etc.). If validation fails, the publication is
+aborted.
+
+Typical steps performed by this script:
+    1. Parse command-line argument: the quiz name (file name without .json)
+    2. Locate the JSON file under `forms/<quiz_name>.json`
+    3. If `validate.py` exists in project root, run it as:
+             python validate.py <quiz_name>
+         Abort if validation fails.
+    4. Load the JSON and call the internal generator to create or update
+         the corresponding Google Form.
+    5. Save a brief history in `ultimo_formulario_criado.txt` with links
+         and metadata returned by the generator.
+
+Usage examples:
+    python form.py pronomes
+    python form.py energia_renovavel_nao_renovavel
+
+Note:
+    - The script expects the `global` package and generator utilities to be
+        available in `global/` (project folder). In normal execution the
+        existing project structure resolves these imports.
+    - The validator is optional but recommended; keep `validate.py` at the
+        project root to enable automatic validation before publishing.
 """
 
 import sys
@@ -25,6 +43,7 @@ sys.path.append(global_dir)
 
 # Usar o novo generator
 from generator import criar_formulario_do_json
+import subprocess
 
 def main():
     """
@@ -68,6 +87,34 @@ def main():
         print("(título não disponível)")
     
     print(f"📁 Arquivo: {json_path}")
+
+    # Run validator before publishing
+    validate_script = os.path.join(current_dir, 'validate.py')
+    if os.path.exists(validate_script):
+        print("🔎 Validando o arquivo antes da publicação...")
+        try:
+            # Use lista de argumentos para evitar problemas de shell
+            completed = subprocess.run(
+                [sys.executable, validate_script, nome_quiz], 
+                check=False, 
+                capture_output=True, 
+                text=True,
+                encoding='utf-8'
+            )
+            if completed.stdout:
+                print(completed.stdout)
+            if completed.returncode != 0:
+                print("❌ Validação falhou. Abortando publicação.")
+                if completed.stderr:
+                    print(completed.stderr)
+                return None
+            else:
+                print("✅ Validação OK. Prosseguindo com a publicação...")
+        except Exception as e:
+            print(f"Erro ao executar validador: {e}")
+            return None
+    else:
+        print("⚠️ Validador 'validate.py' não encontrado. Pulando validação.")
     
     # Usar o form_generator (com sistema de atualização)
     resultado = criar_formulario_do_json(json_path)

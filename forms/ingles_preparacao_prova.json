@@ -1187,23 +1187,6 @@
       "difficulty": "médio"
     }
   ],
-  "evaluation": {
-    "include_evaluation": true,
-    "evaluation_questions": [
-      {
-        "question": "Como você se sentiu praticando inglês com este quiz?",
-        "options": ["🌟 Muito confiante! Estou pronto para a prova!", "😊 Bem preparado, aprendi bastante", "😐 Razoavelmente preparado, preciso revisar algumas partes", "😅 Ainda tenho dúvidas, preciso estudar mais", "😰 Sinto que preciso de muito mais prática"]
-      },
-      {
-        "question": "Qual área do inglês você sentiu mais facilidade?",
-        "options": ["🔤 Vocabulário básico", "📝 Gramática e verb to be", "🔢 Números e tempo", "👪 Família e pessoas", "🏫 Escola e objetos", "🐶 Animais e natureza", "🍎 Comida e bebidas", "🎨 Cores e roupas", "📖 Interpretação de texto"]
-      },
-      {
-        "question": "Este quiz te ajudou a se preparar para a prova?",
-        "options": ["✨ Muito! Me sinto muito mais preparado", "😊 Sim, me deu mais confiança", "😐 Um pouco, mas ainda preciso estudar", "😔 Percebi que preciso estudar muito mais", "❓ Não tenho certeza se estou preparado"]
-      }
-    ]
-  },
   "settings": {
     "public": true,
     "allow_multiple_responses": false,

@@ -146,7 +146,7 @@
       "properties": {
         "include_evaluation": {
           "type": "boolean",
-          "default": true,
+          "default": false,
           "description": "Se deve incluir questões de avaliação"
         },
         "evaluation_questions": {
