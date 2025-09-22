@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "title": "O Efeito Estufa e o Ciclo da Água - 5ª série",
+    "description": "Quiz de 50 questões sobre o efeito estufa e o ciclo da água para alunos da 5ª série.",
+    "subject": "Ciências",
+    "grade": "5ª série",
+    "topic": "Efeito Estufa e Ciclo da Água",
+    "evaluation": false
+  },
+  "content": {
+    "introduction": "Este quiz aborda dois importantes processos naturais: o efeito estufa e o ciclo da água. Vamos aprender como funcionam e sua importância para a vida na Terra.",
+    "instructions": [
+      "Leia cada pergunta com atenção e escolha a alternativa correta.",
+      "Este quiz tem 50 questões sobre efeito estufa e ciclo da água.",
+      "Pense nos processos naturais que acontecem ao nosso redor.",
+      "Tempo sugerido: 35 minutos."
+    ]
+  },
+  "questions": [
+    {"id": 1, "section": "Efeito Estufa", "question": "O que é o efeito estufa?", "options": ["Um processo que mantém a Terra aquecida", "Uma doença das plantas", "Um tipo de chuva", "Um fenômeno que só acontece no verão"], "correct_answer": 0},
+    {"id": 2, "section": "Efeito Estufa", "question": "Por que o efeito estufa é importante para a vida na Terra?", "options": ["Porque deixa a Terra na temperatura certa para a vida", "Porque produz oxigênio", "Porque cria as montanhas", "Porque forma os oceanos"], "correct_answer": 0},
+    {"id": 3, "section": "Efeito Estufa", "question": "Qual é a principal fonte de energia que aquece a Terra?", "options": ["O Sol", "A Lua", "As estrelas", "O centro da Terra"], "correct_answer": 0},
+    {"id": 4, "section": "Efeito Estufa", "question": "O que são gases do efeito estufa?", "options": ["Gases que ajudam a manter o calor na atmosfera", "Gases venenosos", "Gases que vêm do espaço", "Gases que só existem nas plantas"], "correct_answer": 0},
+    {"id": 5, "section": "Efeito Estufa", "question": "Qual é o principal gás do efeito estufa?", "options": ["Gás carbônico (CO₂)", "Oxigênio", "Nitrogênio", "Hidrogênio"], "correct_answer": 0},
+    {"id": 6, "section": "Efeito Estufa", "question": "Como a atmosfera age no efeito estufa?", "options": ["Como um cobertor que mantém o calor", "Como um espelho que reflete tudo", "Como um aspirador que suga o ar", "Como uma peneira que filtra a luz"], "correct_answer": 0},
+    {"id": 7, "section": "Efeito Estufa", "question": "O que aconteceria se não houvesse efeito estufa na Terra?", "options": ["A Terra seria muito fria para a vida", "A Terra seria muito quente", "Não mudaria nada", "Haveria mais chuva"], "correct_answer": 0},
+    {"id": 8, "section": "Efeito Estufa", "question": "Qual atividade humana aumenta os gases do efeito estufa?", "options": ["Queimar combustíveis (gasolina, carvão)", "Plantar árvores", "Beber água", "Dormir"], "correct_answer": 0},
+    {"id": 9, "section": "Efeito Estufa", "question": "As plantas ajudam a reduzir os gases do efeito estufa porque:", "options": ["Absorvem gás carbônico do ar", "Produzem calor", "Refletem a luz solar", "Criam vento"], "correct_answer": 0},
+    {"id": 10, "section": "Efeito Estufa", "question": "O que é o aquecimento global?", "options": ["O aumento da temperatura da Terra causado pelo excesso de gases do efeito estufa", "O calor do verão", "O aquecimento das casas", "A luz do Sol"], "correct_answer": 0},
+
+    {"id": 11, "section": "Efeito Estufa", "question": "Qual dessas ações ajuda a diminuir o efeito estufa excessivo?", "options": ["Plantar árvores", "Queimar lixo", "Usar mais carros", "Cortar todas as florestas"], "correct_answer": 0},
+    {"id": 12, "section": "Efeito Estufa", "question": "Por que as florestas são importantes para o clima?", "options": ["Porque absorvem gás carbônico e produzem oxigênio", "Porque fazem barulho", "Porque são bonitas", "Porque dão sombra apenas"], "correct_answer": 0},
+    {"id": 13, "section": "Efeito Estufa", "question": "O vapor d'água na atmosfera:", "options": ["Também é um gás do efeito estufa", "Não tem relação com o clima", "Só existe no inverno", "Vem apenas dos oceanos"], "correct_answer": 0},
+    {"id": 14, "section": "Efeito Estufa", "question": "Quando falamos em 'pegada de carbono', estamos nos referindo a:", "options": ["Quantidade de gás carbônico que nossas ações produzem", "Marcas que deixamos no chão", "Tipo de sapato", "Cor das folhas"], "correct_answer": 0},
+    {"id": 15, "section": "Efeito Estufa", "question": "Qual meio de transporte produz menos gases do efeito estufa?", "options": ["Bicicleta", "Carro", "Avião", "Motocicleta"], "correct_answer": 0},
+
+    {"id": 16, "section": "Ciclo da Água", "question": "O que é o ciclo da água?", "options": ["O movimento contínuo da água na natureza", "A água que bebemos", "A água do mar", "A água da chuva apenas"], "correct_answer": 0},
+    {"id": 17, "section": "Ciclo da Água", "question": "Qual é a primeira etapa do ciclo da água?", "options": ["Evaporação", "Chuva", "Neve", "Vento"], "correct_answer": 0},
+    {"id": 18, "section": "Ciclo da Água", "question": "O que causa a evaporação da água?", "options": ["O calor do Sol", "O vento forte", "A gravidade", "A lua"], "correct_answer": 0},
+    {"id": 19, "section": "Ciclo da Água", "question": "Para onde vai a água quando evapora?", "options": ["Para a atmosfera, virando vapor d'água", "Para debaixo da terra", "Para outro planeta", "Para as plantas"], "correct_answer": 0},
+    {"id": 20, "section": "Ciclo da Água", "question": "O que acontece quando o vapor d'água sobe e encontra ar frio?", "options": ["Ele se condensa e forma nuvens", "Ele desaparece", "Ele vira gelo imediatamente", "Ele volta para o mar"], "correct_answer": 0},
+
+    {"id": 21, "section": "Ciclo da Água", "question": "Como se formam as nuvens?", "options": ["Pelo acúmulo de vapor d'água que se condensa", "Pela fumaça das fábricas", "Pelo vento forte", "Pela respiração dos animais"], "correct_answer": 0},
+    {"id": 22, "section": "Ciclo da Água", "question": "O que é precipitação?", "options": ["Quando a água das nuvens cai como chuva, neve ou granizo", "Quando a água evapora", "Quando a água congela", "Quando a água ferve"], "correct_answer": 0},
+    {"id": 23, "section": "Ciclo da Água", "question": "Depois que chove, para onde vai a água?", "options": ["Parte infiltra no solo, parte vai para rios e parte evapora", "Toda desaparece", "Toda vai para o espaço", "Toda vira gelo"], "correct_answer": 0},
+    {"id": 24, "section": "Ciclo da Água", "question": "O que é infiltração?", "options": ["Quando a água da chuva penetra no solo", "Quando a água evapora", "Quando a água vira gelo", "Quando a água fica suja"], "correct_answer": 0},
+    {"id": 25, "section": "Ciclo da Água", "question": "Como a água subterrânea retorna à superfície?", "options": ["Através de nascentes e poços", "Através de vulcões", "Através de terremotos", "Nunca retorna"], "correct_answer": 0},
+
+    {"id": 26, "section": "Ciclo da Água", "question": "Os rios e oceanos participam do ciclo da água através da:", "options": ["Evaporação", "Respiração", "Digestão", "Reprodução"], "correct_answer": 0},
+    {"id": 27, "section": "Ciclo da Água", "question": "As plantas participam do ciclo da água através de:", "options": ["Transpiração (liberação de vapor d'água pelas folhas)", "Fotossíntese apenas", "Respiração apenas", "Crescimento"], "correct_answer": 0},
+    {"id": 28, "section": "Ciclo da Água", "question": "Por que o ciclo da água é importante?", "options": ["Porque renova e distribui a água doce pelo planeta", "Porque faz as plantas crescerem apenas", "Porque cria vento", "Porque muda as estações"], "correct_answer": 0},
+    {"id": 29, "section": "Ciclo da Água", "question": "A água que bebemos hoje:", "options": ["Já passou muitas vezes pelo ciclo da água", "É sempre nova", "Vem direto das nuvens", "Nunca foi usada antes"], "correct_answer": 0},
+    {"id": 30, "section": "Ciclo da Água", "question": "Qual é o estado físico da água nas nuvens?", "options": ["Vapor d'água e pequenas gotas líquidas", "Apenas líquido", "Apenas gás", "Apenas sólido"], "correct_answer": 0},
+
+    {"id": 31, "section": "Relações", "question": "Como o efeito estufa influencia o ciclo da água?", "options": ["O calor do efeito estufa ajuda na evaporação da água", "Não há relação entre eles", "O efeito estufa impede a evaporação", "O efeito estufa só afeta as plantas"], "correct_answer": 0},
+    {"id": 32, "section": "Relações", "question": "O vapor d'água na atmosfera:", "options": ["Contribui tanto para o efeito estufa quanto para o ciclo da água", "Só participa do ciclo da água", "Só contribui para o efeito estufa", "Não tem importância"], "correct_answer": 0},
+    {"id": 33, "section": "Relações", "question": "Se a Terra esquentar muito (aquecimento global), o que pode acontecer com o ciclo da água?", "options": ["Pode haver mais evaporação e mudanças nos padrões de chuva", "O ciclo para completamente", "Não muda nada", "A água vira gelo"], "correct_answer": 0},
+    {"id": 34, "section": "Relações", "question": "As florestas influenciam tanto o efeito estufa quanto o ciclo da água porque:", "options": ["Absorvem CO₂ e transpiram água", "Só fazem sombra", "Só produzem oxigênio", "Só evaporam água"], "correct_answer": 0},
+    {"id": 35, "section": "Relações", "question": "Quando há desmatamento, o que acontece?", "options": ["Aumenta o CO₂ no ar e diminui a transpiração das plantas", "Só aumenta a chuva", "Só diminui a temperatura", "Não muda nada"], "correct_answer": 0},
+
+    {"id": 36, "section": "Aplicação", "question": "Por que é importante economizar água?", "options": ["Para garantir água limpa para todos e preservar o ciclo natural", "Só para economizar dinheiro", "Porque a água vai acabar completamente", "Para que chova menos"], "correct_answer": 0},
+    {"id": 37, "section": "Aplicação", "question": "Qual ação ajuda tanto o clima quanto a preservação da água?", "options": ["Plantar árvores", "Queimar lixo", "Poluir rios", "Desperdiçar energia"], "correct_answer": 0},
+    {"id": 38, "section": "Aplicação", "question": "Por que não devemos poluir rios e lagos?", "options": ["Porque eles fazem parte do ciclo da água que todos os seres vivos dependem", "Só porque é feio", "Só para os peixes", "Porque é contra a lei apenas"], "correct_answer": 0},
+    {"id": 39, "section": "Aplicação", "question": "O que acontece se colocarmos muito CO₂ na atmosfera?", "options": ["O efeito estufa fica mais forte e a Terra esquenta demais", "A Terra esfria", "Não muda nada", "O ciclo da água para"], "correct_answer": 0},
+    {"id": 40, "section": "Aplicação", "question": "Como podemos ajudar a manter o equilíbrio do clima?", "options": ["Economizando energia, plantando árvores e não poluindo", "Só usando ar condicionado", "Cortando todas as plantas", "Desperdiçando água"], "correct_answer": 0},
+
+    {"id": 41, "section": "Conceitos", "question": "A água doce que usamos vem principalmente de:", "options": ["Rios, lagos e água subterrânea formados pelo ciclo da água", "Apenas do mar", "Apenas da chuva direta", "Apenas de geleiras"], "correct_answer": 0},
+    {"id": 42, "section": "Conceitos", "question": "O que são lençóis freáticos?", "options": ["Reservas de água doce no subsolo", "Roupas molhadas", "Nuvens baixas", "Rios subterrâneos apenas"], "correct_answer": 0},
+    {"id": 43, "section": "Conceitos", "question": "Por que o gelo das geleiras e polos é importante?", "options": ["Porque é uma grande reserva de água doce e ajuda a regular o clima", "Só para os pinguins", "Só para resfriar o planeta", "Não tem importância"], "correct_answer": 0},
+    {"id": 44, "section": "Conceitos", "question": "O que é evapotranspiração?", "options": ["A soma da evaporação da água do solo com a transpiração das plantas", "Apenas a respiração dos animais", "Apenas a evaporação dos oceanos", "Um tipo de chuva"], "correct_answer": 0},
+    {"id": 45, "section": "Conceitos", "question": "Por que existem desertos?", "options": ["Porque são regiões onde chove muito pouco devido aos padrões do ciclo da água", "Porque o Sol é mais forte lá", "Porque não há solo", "Porque os animais comeram toda a vegetação"], "correct_answer": 0},
+
+    {"id": 46, "section": "Observação", "question": "Quando vemos nossa respiração no frio, estamos vendo:", "options": ["Vapor d'água se condensando", "Fumaça", "Poeira", "Oxigênio"], "correct_answer": 0},
+    {"id": 47, "section": "Observação", "question": "O orvalho da manhã se forma porque:", "options": ["O vapor d'água do ar se condensa quando esfria durante a noite", "As plantas choram", "Choveu durante a noite", "É suor da Terra"], "correct_answer": 0},
+    {"id": 48, "section": "Observação", "question": "Por que no inverno faz mais frio mesmo com o efeito estufa?", "options": ["Porque a Terra recebe menos luz solar direta nessa época do ano", "Porque o efeito estufa para no inverno", "Porque há menos CO₂ no ar", "Porque as plantas dormem"], "correct_answer": 0},
+    {"id": 49, "section": "Observação", "question": "As nuvens são mais comuns:", "options": ["Onde há mais evaporação de água", "Onde não há plantas", "Apenas sobre os oceanos", "Apenas sobre as cidades"], "correct_answer": 0},
+    {"id": 50, "section": "Observação", "question": "Quando vemos vapor saindo de uma panela com água fervendo, isso representa qual etapa do ciclo da água?", "options": ["Evaporação", "Condensação", "Precipitação", "Infiltração"], "correct_answer": 0}
+  ]
+}
