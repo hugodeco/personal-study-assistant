@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "title": "O Efeito Estufa e o Ciclo da Água - 5ª série (Nível Intermediário)",
+    "description": "Quiz de 50 questões sobre o efeito estufa e o ciclo da água com dificuldade um pouco maior para alunos da 5ª série.",
+    "subject": "Ciências",
+    "grade": "5ª série",
+    "topic": "Efeito Estufa e Ciclo da Água",
+    "evaluation": false
+  },
+  "content": {
+    "introduction": "Este quiz aborda o efeito estufa e o ciclo da água com questões um pouco mais desafiadoras. Vamos explorar esses processos naturais com mais profundidade.",
+    "instructions": [
+      "Leia cada pergunta com atenção e pense bem antes de escolher a alternativa.",
+      "Este quiz tem 50 questões sobre efeito estufa e ciclo da água.",
+      "Algumas perguntas exigem mais raciocínio sobre os processos naturais.",
+      "Tempo sugerido: 40 minutos."
+    ]
+  },
+  "questions": [
+    {"id": 1, "section": "Efeito Estufa", "question": "Qual é a diferença entre efeito estufa natural e efeito estufa excessivo?", "options": ["O natural mantém a temperatura ideal; o excessivo causa aquecimento global", "O natural só acontece no verão; o excessivo no inverno", "Não há diferença", "O natural é causado pelas plantas"], "correct_answer": 0},
+    {"id": 2, "section": "Efeito Estufa", "question": "Por que a atmosfera terrestre é comparada a uma estufa?", "options": ["Porque deixa passar a luz solar mas retém o calor infravermelho", "Porque é feita de vidro", "Porque só funciona durante o dia", "Porque produz calor próprio"], "correct_answer": 0},
+    {"id": 3, "section": "Efeito Estufa", "question": "Qual gás do efeito estufa é produzido principalmente pela respiração dos seres vivos?", "options": ["Gás carbônico (CO₂)", "Metano (CH₄)", "Óxido nitroso (N₂O)", "Vapor d'água"], "correct_answer": 0},
+    {"id": 4, "section": "Efeito Estufa", "question": "O que acontece quando a radiação infravermelha emitida pela Terra encontra os gases do efeito estufa?", "options": ["É absorvida e reemitida, aquecendo a atmosfera", "Passa direto pelo espaço", "É refletida de volta para o Sol", "É transformada em luz visível"], "correct_answer": 0},
+    {"id": 5, "section": "Efeito Estufa", "question": "Qual é o principal efeito do aumento dos gases do efeito estufa na atmosfera?", "options": ["Aumento da temperatura média da Terra", "Diminuição da umidade do ar", "Aumento da pressão atmosférica", "Diminuição da luz solar"], "correct_answer": 0},
+    {"id": 6, "section": "Efeito Estufa", "question": "Por que Vênus tem temperatura muito alta apesar de estar mais longe do Sol que Mercúrio?", "options": ["Seu efeito estufa é muito intenso devido à atmosfera espessa", "Recebe mais luz solar", "Tem vulcões ativos", "Sua órbita é diferente"], "correct_answer": 0},
+    {"id": 7, "section": "Efeito Estufa", "question": "Qual atividade humana libera mais metano na atmosfera?", "options": ["Criação de gado e decomposição de lixo", "Queima de gasolina", "Uso de ar condicionado", "Cozinhar alimentos"], "correct_answer": 0},
+    {"id": 8, "section": "Efeito Estufa", "question": "O que é sequestro de carbono?", "options": ["Processo de captura e armazenamento de CO₂ da atmosfera", "Produção de carbono pelas fábricas", "Queima de combustíveis fósseis", "Respiração dos animais"], "correct_answer": 0},
+    {"id": 9, "section": "Efeito Estufa", "question": "Por que as florestas tropicais são chamadas de 'pulmões do mundo'?", "options": ["Porque absorvem grandes quantidades de CO₂ e produzem oxigênio", "Porque produzem mais oxigênio que outras florestas", "Porque são maiores", "Porque têm mais animais"], "correct_answer": 0},
+    {"id": 10, "section": "Efeito Estufa", "question": "Qual é a principal fonte de energia renovável que não produz gases do efeito estufa?", "options": ["Energia solar", "Energia eólica", "Energia hidrelétrica", "Todas as acima"], "correct_answer": 3},
+
+    {"id": 11, "section": "Efeito Estufa", "question": "O que é albedo?", "options": ["Capacidade de uma superfície refletir a luz solar", "Quantidade de calor absorvido", "Espessura da atmosfera", "Velocidade do vento"], "correct_answer": 0},
+    {"id": 12, "section": "Efeito Estufa", "question": "Por que o gelo polar é importante para regular a temperatura da Terra?", "options": ["Tem alto albedo e reflete a luz solar de volta ao espaço", "Produz oxigênio", "Armazena calor", "Causa ventos frios"], "correct_answer": 0},
+    {"id": 13, "section": "Efeito Estufa", "question": "O que pode acontecer se o aquecimento global derreter todo o gelo polar?", "options": ["Aumento do nível dos oceanos e mudanças climáticas", "Fim da vida marinha", "Diminuição da temperatura", "Aumento da biodiversidade"], "correct_answer": 0},
+    {"id": 14, "section": "Efeito Estufa", "question": "Qual é o efeito do desmatamento sobre o efeito estufa?", "options": ["Diminui a absorção de CO₂ e aumenta a concentração na atmosfera", "Aumenta a produção de oxigênio", "Não tem efeito", "Diminui a temperatura"], "correct_answer": 0},
+    {"id": 15, "section": "Efeito Estufa", "question": "O que é feedback positivo no aquecimento global?", "options": ["Um processo que acelera ainda mais o aquecimento", "Um processo que diminui o aquecimento", "Um equilíbrio climático", "Uma mudança sazonal"], "correct_answer": 0},
+
+    {"id": 16, "section": "Ciclo da Água", "question": "Qual é a ordem correta das etapas do ciclo da água?", "options": ["Evaporação → Condensação → Precipitação → Infiltração/Transpiração", "Precipitação → Evaporação → Condensação → Infiltração", "Condensação → Precipitação → Evaporação → Transpiração", "Infiltração → Evaporação → Precipitação → Condensação"], "correct_answer": 0},
+    {"id": 17, "section": "Ciclo da Água", "question": "O que é energia latente?", "options": ["Energia necessária para mudar o estado físico da água sem alterar a temperatura", "Energia do Sol", "Energia dos ventos", "Energia das plantas"], "correct_answer": 0},
+    {"id": 18, "section": "Ciclo da Água", "question": "Por que a água salgada dos oceanos não pode ser usada diretamente para beber?", "options": ["Contém sais minerais que precisam ser removidos", "É muito fria", "Não evapora", "É muito pesada"], "correct_answer": 0},
+    {"id": 19, "section": "Ciclo da Água", "question": "O que é dessalinização?", "options": ["Processo de retirada do sal da água do mar", "Processo de adicionar sal à água", "Processo de congelar a água", "Processo de ferver a água"], "correct_answer": 0},
+    {"id": 20, "section": "Ciclo da Água", "question": "Qual é a principal força que move a água no ciclo hidrológico?", "options": ["Energia solar", "Gravidade", "Vento", "Magnetismo"], "correct_answer": 0},
+
+    {"id": 21, "section": "Ciclo da Água", "question": "O que são nuvens cumulonimbus?", "options": ["Nuvens altas e densas que podem causar tempestades", "Nuvens finas e altas", "Nuvens baixas e espalhadas", "Nuvens médias e fofas"], "correct_answer": 0},
+    {"id": 22, "section": "Ciclo da Água", "question": "Por que algumas regiões têm mais chuvas que outras?", "options": ["Devido aos padrões de circulação atmosférica e correntes de ar", "Porque têm mais rios", "Porque são maiores", "Porque têm mais plantas"], "correct_answer": 0},
+    {"id": 23, "section": "Ciclo da Água", "question": "O que é umidade relativa?", "options": ["Porcentagem de vapor d'água presente no ar comparado ao máximo que pode conter", "Quantidade total de água no ar", "Temperatura do ar", "Velocidade do vento"], "correct_answer": 0},
+    {"id": 24, "section": "Ciclo da Água", "question": "Qual é a diferença entre evaporação e ebulição?", "options": ["Evaporação ocorre em qualquer temperatura; ebulição só no ponto de ebulição", "Ebulição é mais rápida", "Evaporação só acontece no mar", "Não há diferença"], "correct_answer": 0},
+    {"id": 25, "section": "Ciclo da Água", "question": "O que é um aquífero?", "options": ["Camada subterrânea permeável que armazena água", "Um tipo de nuvem", "Um rio subterrâneo", "Uma nascente"], "correct_answer": 0},
+
+    {"id": 26, "section": "Ciclo da Água", "question": "Por que a transpiração das plantas é importante para o ciclo da água?", "options": ["Libera vapor d'água na atmosfera, contribuindo para a formação de nuvens", "Produz água doce", "Absorve água do ar", "Diminui a evaporação"], "correct_answer": 0},
+    {"id": 27, "section": "Ciclo da Água", "question": "O que é recarga de aquíferos?", "options": ["Processo pelo qual a água da chuva infiltra no solo e recarrega as reservas subterrâneas", "Processo de bombear água dos poços", "Processo de dessalinizar água", "Processo de ferver água"], "correct_answer": 0},
+    {"id": 28, "section": "Ciclo da Água", "question": "Qual é o papel dos oceanos no ciclo da água?", "options": ["São a maior reserva de água e fonte principal de evaporação", "Só armazenam água salgada", "Não participam do ciclo", "São apenas fonte de água doce"], "correct_answer": 0},
+    {"id": 29, "section": "Ciclo da Água", "question": "O que é uma bacia hidrográfica?", "options": ["Área de terra que drena água para um mesmo rio ou lago", "Um tipo de nuvem", "Uma reserva de água subterrânea", "Um processo de evaporação"], "correct_answer": 0},
+    {"id": 30, "section": "Ciclo da Água", "question": "Por que o ciclo da água é considerado um ciclo biogeoquímico?", "options": ["Envolve processos biológicos, geológicos e químicos", "Só envolve água", "Só envolve plantas", "Só envolve animais"], "correct_answer": 0},
+
+    {"id": 31, "section": "Relações", "question": "Como o efeito estufa intensificado pode alterar o ciclo da água?", "options": ["Pode causar secas em algumas regiões e enchentes em outras", "Para o ciclo completamente", "Não afeta o ciclo", "Torna o ciclo mais lento"], "correct_answer": 0},
+    {"id": 32, "section": "Relações", "question": "O que é acidificação dos oceanos?", "options": ["Aumento da acidez da água do mar devido à absorção de CO₂", "Diminuição da salinidade", "Aumento da temperatura da água", "Diminuição do oxigênio dissolvido"], "correct_answer": 0},
+    {"id": 33, "section": "Relações", "question": "Por que o degelo das calotas polares pode acelerar o aquecimento global?", "options": ["Diminui o albedo e aumenta a absorção de calor solar", "Aumenta o albedo", "Diminui a evaporação", "Aumenta a produção de oxigênio"], "correct_answer": 0},
+    {"id": 34, "section": "Relações", "question": "Como as mudanças climáticas afetam a distribuição da água doce?", "options": ["Alteram os padrões de precipitação e podem causar escassez em algumas regiões", "Aumentam a água doce em todos os lugares", "Não afetam a distribuição", "Diminuem apenas a água salgada"], "correct_answer": 0},
+    {"id": 35, "section": "Relações", "question": "O que é resiliência hídrica?", "options": ["Capacidade de um sistema de lidar com variações na disponibilidade de água", "Quantidade de água armazenada", "Velocidade de evaporação", "Profundidade dos rios"], "correct_answer": 0},
+
+    {"id": 36, "section": "Aplicação", "question": "Qual tecnologia ajuda a capturar CO₂ da atmosfera?", "options": ["Captura e armazenamento de carbono (CCS)", "Painéis solares", "Turbinas eólicas", "Baterias"], "correct_answer": 0},
+    {"id": 37, "section": "Aplicação", "question": "O que é agricultura sustentável em relação ao ciclo da água?", "options": ["Práticas que conservam água e solo, evitando erosão e poluição", "Plantio em qualquer lugar", "Uso excessivo de água", "Desmatamento para plantio"], "correct_answer": 0},
+    {"id": 38, "section": "Aplicação", "question": "Por que é importante proteger manguezais?", "options": ["Atuam como barreiras contra tempestades e ajudam na recarga de água subterrânea", "Produzem frutas", "São habitats para pássaros apenas", "Não têm relação com água"], "correct_answer": 0},
+    {"id": 39, "section": "Aplicação", "question": "O que é gestão integrada de recursos hídricos?", "options": ["Abordagem que considera todos os usos da água de forma sustentável", "Uso de água apenas para beber", "Armazenamento de água em tanques", "Tratamento de água apenas"], "correct_answer": 0},
+    {"id": 40, "section": "Aplicação", "question": "Qual é o impacto da urbanização no ciclo da água?", "options": ["Aumenta o escoamento superficial e diminui a infiltração no solo", "Aumenta a infiltração", "Não tem impacto", "Diminui o escoamento"], "correct_answer": 0},
+
+    {"id": 41, "section": "Conceitos", "question": "O que é isotótopo na água?", "options": ["Átomos de hidrogênio com massas diferentes que ajudam a rastrear o ciclo da água", "Tipo de sal na água", "Temperatura da água", "Profundidade da água"], "correct_answer": 0},
+    {"id": 42, "section": "Conceitos", "question": "Por que a água é considerada uma molécula polar?", "options": ["Seus átomos de hidrogênio e oxigênio têm cargas elétricas diferentes", "É composta por três átomos", "Tem forma redonda", "Não tem carga elétrica"], "correct_answer": 0},
+    {"id": 43, "section": "Conceitos", "question": "O que é tensão superficial da água?", "options": ["Força que mantém as moléculas de água na superfície unidas", "Peso da água", "Temperatura da superfície", "Velocidade de evaporação"], "correct_answer": 0},
+    {"id": 44, "section": "Conceitos", "question": "Qual é a diferença entre água potável e água doce?", "options": ["Água potável é tratada e segura para beber; água doce é apenas não salgada", "São a mesma coisa", "Água doce é tratada", "Água potável não existe"], "correct_answer": 0},
+    {"id": 45, "section": "Conceitos", "question": "O que é hidrosfera?", "options": ["Conjunto de todas as águas da Terra (oceanos, rios, lagos, gelo, vapor)", "Apenas os oceanos", "Apenas a água subterrânea", "Apenas as nuvens"], "correct_answer": 0},
+
+    {"id": 46, "section": "Observação", "question": "Por que vemos arco-íris após a chuva?", "options": ["Refração e reflexão da luz solar nas gotículas de água suspensas no ar", "Reflexo nas poças", "Luz das nuvens", "Luz dos relâmpagos"], "correct_answer": 0},
+    {"id": 47, "section": "Observação", "question": "O que causa o efeito de miragem no deserto?", "options": ["Refração da luz devido a diferenças de densidade do ar aquecido", "Reflexo na areia", "Vapor d'água das plantas", "Luz do Sol refletida"], "correct_answer": 0},
+    {"id": 48, "section": "Observação", "question": "Por que o céu é azul?", "options": ["Espalhamento da luz azul pela atmosfera", "Reflexo dos oceanos", "Produção de luz azul pelo ar", "Absorção da luz vermelha"], "correct_answer": 0},
+    {"id": 49, "section": "Observação", "question": "O que são auroras polares?", "options": ["Luzes coloridas causadas pela interação de partículas solares com a atmosfera", "Reflexo do gelo", "Luz das estrelas", "Luz dos vulcões"], "correct_answer": 0},
+    {"id": 50, "section": "Observação", "question": "Por que sentimos frio quando suamos muito?", "options": ["A evaporação do suor retira calor do corpo", "O suor é frio", "O ar está frio", "Estamos doentes"], "correct_answer": 0}
+  ]
+}
