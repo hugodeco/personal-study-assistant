@@ -1,0 +1,73 @@
+{
+  "metadata": {
+    "title": "A Lua, Suas Fases e os Movimentos da Terra - 5ª série",
+    "description": "Atividade de avaliação com 50 questões sobre a Lua, suas fases e os movimentos de rotação e translação da Terra.",
+    "subject": "Ciências",
+    "grade": "5ª série",
+    "topic": "Lua, Fases da Lua, Movimentos da Terra",
+    "evaluation": true
+  },
+  "content": {
+    "introduction": "Esta é uma atividade de avaliação sobre a Lua, como a vemos da Terra (suas fases) e os importantes movimentos que nosso planeta realiza.",
+    "instructions": [
+      "Leia cada pergunta com atenção e escolha a alternativa correta.",
+      "São 50 questões para testar seu conhecimento.",
+      "Lembre-se do que estudamos sobre o céu, o dia, a noite e o ano."
+    ]
+  },
+  "questions": [
+    {"id": 1, "section": "A Lua", "question": "O que é a Lua?", "options": ["Um satélite natural da Terra", "Uma estrela", "Um planeta", "Um cometa"], "correct_answer": 0},
+    {"id": 2, "section": "A Lua", "question": "A Lua tem luz própria?", "options": ["Não, ela reflete a luz do Sol", "Sim, ela brilha como o Sol", "Sim, mas só à noite", "Não, ela é sempre escura"], "correct_answer": 0},
+    {"id": 3, "section": "A Lua", "question": "Por que vemos a Lua com manchas e buracos?", "options": ["Por causa das crateras, marcas de colisões de meteoritos", "Porque ela é feita de queijo", "São nuvens na superfície da Lua", "São sombras das montanhas da Terra"], "correct_answer": 0},
+    {"id": 4, "section": "A Lua", "question": "Quanto tempo a Lua leva para dar uma volta completa ao redor da Terra?", "options": ["Aproximadamente 28 dias", "24 horas", "365 dias", "12 horas"], "correct_answer": 0},
+    {"id": 5, "section": "A Lua", "question": "Existe ar na Lua para respirarmos?", "options": ["Não, a Lua não tem atmosfera", "Sim, mas é pouco", "Sim, igual ao da Terra", "Apenas durante o dia lunar"], "correct_answer": 0},
+
+    {"id": 6, "section": "Fases da Lua", "question": "Por que a Lua parece mudar de forma no céu?", "options": ["Por causa da posição dela em relação à Terra e ao Sol", "Porque ela muda de tamanho de verdade", "Porque as nuvens a cobrem", "Porque a Terra faz sombra nela o tempo todo"], "correct_answer": 0},
+    {"id": 7, "section": "Fases da Lua", "question": "Qual é o nome da fase em que não conseguimos ver a Lua no céu?", "options": ["Lua Nova", "Lua Cheia", "Lua Minguante", "Lua Crescente"], "correct_answer": 0},
+    {"id": 8, "section": "Fases da Lua", "question": "Na fase da Lua Cheia, como vemos a Lua da Terra?", "options": ["Totalmente iluminada pelo Sol", "Totalmente escura", "Apenas um pedacinho iluminado", "Metade iluminada"], "correct_answer": 0},
+    {"id": 9, "section": "Fases da Lua", "question": "O que significa 'Lua Crescente'?", "options": ["Que a parte iluminada que vemos está aumentando a cada noite", "Que a Lua está crescendo de tamanho", "Que a parte iluminada está diminuindo", "Que a Lua está mais perto da Terra"], "correct_answer": 0},
+    {"id": 10, "section": "Fases da Lua", "question": "O que significa 'Lua Minguante'?", "options": ["Que a parte iluminada que vemos está diminuindo a cada noite", "Que a Lua está diminuindo de tamanho", "Que a parte iluminada está aumentando", "Que a Lua está mais longe da Terra"], "correct_answer": 0},
+    {"id": 11, "section": "Fases da Lua", "question": "Na fase Quarto Crescente, a Lua parece ter a forma de qual letra?", "options": ["D", "C", "O", "L"], "correct_answer": 0},
+    {"id": 12, "section": "Fases da Lua", "question": "Na fase Quarto Minguante, a Lua parece ter a forma de qual letra?", "options": ["C", "D", "O", "S"], "correct_answer": 0},
+    {"id": 13, "section": "Fases da Lua", "question": "Qual fase da Lua vem imediatamente depois da Lua Nova?", "options": ["Lua Crescente", "Lua Cheia", "Lua Minguante", "Lua Nova de novo"], "correct_answer": 0},
+    {"id": 14, "section": "Fases da Lua", "question": "Qual fase da Lua vem imediatamente depois da Lua Cheia?", "options": ["Lua Minguante", "Lua Crescente", "Lua Nova", "Lua Cheia de novo"], "correct_answer": 0},
+    {"id": 15, "section": "Fases da Lua", "question": "O ciclo completo das fases da Lua dura aproximadamente:", "options": ["Um mês", "Um dia", "Um ano", "Uma semana"], "correct_answer": 0},
+    {"id": 16, "section": "Fases da Lua", "question": "Quando a Lua está entre o Sol e a Terra, qual fase acontece?", "options": ["Lua Nova", "Lua Cheia", "Quarto Minguante", "Quarto Crescente"], "correct_answer": 0},
+    {"id": 17, "section": "Fases da Lua", "question": "Quando a Terra está entre o Sol e a Lua, qual fase acontece?", "options": ["Lua Cheia", "Lua Nova", "Quarto Minguante", "Quarto Crescente"], "correct_answer": 0},
+    {"id": 18, "section": "Fases da Lua", "question": "A 'Lua Crescente Gibosa' acontece entre quais fases?", "options": ["Entre o Quarto Crescente e a Lua Cheia", "Entre a Lua Nova e o Quarto Crescente", "Entre a Lua Cheia e o Quarto Minguante", "Entre o Quarto Minguante e a Lua Nova"], "correct_answer": 0},
+    {"id": 19, "section": "Fases da Lua", "question": "A 'Lua Minguante Gibosa' acontece entre quais fases?", "options": ["Entre a Lua Cheia e o Quarto Minguante", "Entre o Quarto Minguante e a Lua Nova", "Entre a Lua Nova e o Quarto Crescente", "Entre o Quarto Crescente e a Lua Cheia"], "correct_answer": 0},
+    {"id": 20, "section": "Fases da Lua", "question": "As fases da Lua são causadas pelo(a):", "options": ["Movimento da Lua ao redor da Terra", "Movimento da Terra ao redor do Sol", "Rotação da Lua", "Rotação da Terra"], "correct_answer": 0},
+
+    {"id": 21, "section": "Movimentos da Terra", "question": "Qual é o nome do movimento que a Terra faz em torno de si mesma?", "options": ["Rotação", "Translação", "Revolução", "Precessão"], "correct_answer": 0},
+    {"id": 22, "section": "Movimentos da Terra", "question": "O que o movimento de rotação da Terra causa?", "options": ["Os dias e as noites", "As estações do ano", "As fases da Lua", "Os eclipses"], "correct_answer": 0},
+    {"id": 23, "section": "Movimentos da Terra", "question": "Quanto tempo dura o movimento de rotação da Terra?", "options": ["Aproximadamente 24 horas", "Aproximadamente 365 dias", "Aproximadamente 28 dias", "Aproximadamente 12 horas"], "correct_answer": 0},
+    {"id": 24, "section": "Movimentos da Terra", "question": "Qual é o nome do movimento que a Terra faz ao redor do Sol?", "options": ["Translação", "Rotação", "Sístole", "Diástole"], "correct_answer": 0},
+    {"id": 25, "section": "Movimentos da Terra", "question": "O que o movimento de translação da Terra causa?", "options": ["As estações do ano (primavera, verão, outono, inverno)", "Os dias e as noites", "As marés", "Os ventos"], "correct_answer": 0},
+    {"id": 26, "section": "Movimentos da Terra", "question": "Quanto tempo dura o movimento de translação da Terra?", "options": ["Aproximadamente 365 dias e 6 horas", "24 horas", "28 dias", "100 anos"], "correct_answer": 0},
+    {"id": 27, "section": "Movimentos da Terra", "question": "O que é o 'ano bissexto'?", "options": ["Um ano com 366 dias para ajustar as 6 horas que sobram da translação", "Um ano com menos dias", "Um ano em que a Lua não tem fases", "Um ano em que não há verão"], "correct_answer": 0},
+    {"id": 28, "section": "Movimentos da Terra", "question": "A Terra gira em torno de um eixo imaginário. Esse eixo é:", "options": ["Inclinado", "Reto (vertical)", "Horizontal", "Não tem eixo"], "correct_answer": 0},
+    {"id": 29, "section": "Movimentos da Terra", "question": "Por que temos as estações do ano?", "options": ["Por causa da inclinação do eixo da Terra e do movimento de translação", "Porque a Terra se aproxima e se afasta do Sol", "Por causa da rotação da Terra", "Por causa das fases da Lua"], "correct_answer": 0},
+    {"id": 30, "section": "Movimentos da Terra", "question": "Quando é verão no Hemisfério Sul, o que é no Hemisfério Norte?", "options": ["Inverno", "Verão também", "Primavera", "Outono"], "correct_answer": 0},
+    {"id": 31, "section": "Movimentos da Terra", "question": "O movimento aparente do Sol no céu durante o dia é causado pelo(a):", "options": ["Rotação da Terra", "Movimento do Sol", "Translação da Terra", "Fases da Lua"], "correct_answer": 0},
+    {"id": 32, "section": "Movimentos da Terra", "question": "Se a Terra não girasse (rotação), o que aconteceria?", "options": ["Um lado seria sempre dia e muito quente, e o outro sempre noite e muito frio", "Não haveria estações do ano", "A Lua não teria fases", "Não haveria ano bissexto"], "correct_answer": 0},
+    {"id": 33, "section": "Movimentos da Terra", "question": "O caminho que a Terra faz ao redor do Sol é chamado de:", "options": ["Órbita", "Estrada", "Atmosfera", "Equador"], "correct_answer": 0},
+    {"id": 34, "section": "Movimentos da Terra", "question": "A forma da órbita da Terra é:", "options": ["Uma elipse (levemente oval)", "Um círculo perfeito", "Um quadrado", "Uma linha reta"], "correct_answer": 0},
+    {"id": 35, "section": "Movimentos da Terra", "question": "O que é um ano?", "options": ["O tempo que a Terra leva para dar uma volta completa ao redor do Sol", "O tempo que a Terra leva para girar uma vez", "O tempo de um ciclo lunar completo", "O tempo de uma estação"], "correct_answer": 0},
+
+    {"id": 36, "section": "Relações e Curiosidades", "question": "O que é um eclipse solar?", "options": ["Quando a Lua passa na frente do Sol, bloqueando sua luz", "Quando a Terra faz sombra na Lua", "Quando o Sol desaparece", "Quando a Lua brilha mais forte"], "correct_answer": 0},
+    {"id": 37, "section": "Relações e Curiosidades", "question": "Em qual fase da Lua pode ocorrer um eclipse solar?", "options": ["Lua Nova", "Lua Cheia", "Quarto Crescente", "Quarto Minguante"], "correct_answer": 0},
+    {"id": 38, "section": "Relações e Curiosidades", "question": "O que é um eclipse lunar?", "options": ["Quando a Terra fica entre o Sol e a Lua, projetando sua sombra na Lua", "Quando a Lua cobre o Sol", "Quando a Lua desaparece", "Quando a Terra brilha na Lua"], "correct_answer": 0},
+    {"id": 39, "section": "Relações e Curiosidades", "question": "Em qual fase da Lua pode ocorrer um eclipse lunar?", "options": ["Lua Cheia", "Lua Nova", "Quarto Crescente", "Quarto Minguante"], "correct_answer": 0},
+    {"id": 40, "section": "Relações e Curiosidades", "question": "Por que não temos eclipses todos os meses?", "options": ["Porque a órbita da Lua é um pouco inclinada em relação à da Terra", "Porque o Sol é muito grande", "Porque a Terra gira muito rápido", "Porque a Lua está muito longe"], "correct_answer": 0},
+    {"id": 41, "section": "Relações e Curiosidades", "question": "O que são as marés?", "options": ["O sobe e desce do nível do mar, causado principalmente pela força da gravidade da Lua", "Ondas grandes na praia", "Correntes de vento", "Chuvas fortes"], "correct_answer": 0},
+    {"id": 42, "section": "Relações e Curiosidades", "question": "Qual astro tem maior influência sobre as marés da Terra?", "options": ["A Lua", "O Sol", "Marte", "Vênus"], "correct_answer": 0},
+    {"id": 43, "section": "Relações e Curiosidades", "question": "Por que sempre vemos o mesmo lado da Lua?", "options": ["Porque o tempo que ela leva para girar em si mesma é igual ao tempo que leva para girar ao redor da Terra", "Porque o outro lado é escuro", "Porque a Terra não se move", "Porque a Lua não gira"], "correct_answer": 0},
+    {"id": 44, "section": "Relações e Curiosidades", "question": "O que é o solstício de verão?", "options": ["O dia mais longo do ano, quando o verão começa", "O dia mais curto do ano", "O dia em que dia e noite têm a mesma duração", "O dia em que o inverno começa"], "correct_answer": 0},
+    {"id": 45, "section": "Relações e Curiosidades", "question": "O que é o equinócio?", "options": ["O dia em que o dia e a noite têm aproximadamente a mesma duração", "O dia mais longo do ano", "O dia mais curto do ano", "O dia em que a Lua fica azul"], "correct_answer": 0},
+    {"id": 46, "section": "Relações e Curiosidades", "question": "A gravidade na Lua é:", "options": ["Menor que a da Terra", "Maior que a da Terra", "Igual à da Terra", "Não existe gravidade na Lua"], "correct_answer": 0},
+    {"id": 47, "section": "Relações e Curiosidades", "question": "Se você pulasse na Lua, você iria:", "options": ["Mais alto do que na Terra", "Mais baixo do que na Terra", "A mesma altura que na Terra", "Ficaria flutuando para sempre"], "correct_answer": 0},
+    {"id": 48, "section": "Relações e Curiosidades", "question": "O que é um astronauta?", "options": ["Uma pessoa treinada para viajar ao espaço", "Um cientista que estuda estrelas de longe", "Um tipo de telescópio", "Um foguete"], "correct_answer": 0},
+    {"id": 49, "section": "Relações e Curiosidades", "question": "Qual foi a primeira pessoa a pisar na Lua?", "options": ["Neil Armstrong", "Santos Dumont", "Isaac Newton", "Galileu Galilei"], "correct_answer": 0},
+    {"id": 50, "section": "Relações e Curiosidades", "question": "O que é o Sistema Solar?", "options": ["O conjunto formado pelo Sol e todos os astros que giram ao seu redor, incluindo a Terra", "Apenas a Terra e a Lua", "A nossa galáxia", "Apenas os planetas"], "correct_answer": 0}
+  ]
+}
