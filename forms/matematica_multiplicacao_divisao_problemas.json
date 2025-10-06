@@ -1,0 +1,72 @@
+{
+  "metadata": {
+    "title": "Matemática: Multiplicação, Divisão e Problemas - 5ª série",
+    "description": "Quiz de 50 questões sobre multiplicação, divisão e resolução de problemas para a 5ª série.",
+    "subject": "Matemática",
+    "grade": "5ª série",
+    "topic": "Multiplicação, Divisão, Problemas",
+    "evaluation": false
+  },
+  "content": {
+    "introduction": "Este quiz é para praticar suas habilidades em multiplicação, divisão e como usar essas operações para resolver problemas do dia a dia.",
+    "instructions": [
+      "Leia cada questão com atenção.",
+      "Faça os cálculos necessários para encontrar a resposta certa.",
+      "São 50 questões para você treinar."
+    ]
+  },
+  "questions": [
+    {"id": 1, "section": "Multiplicação", "question": "Quanto é 45 x 7?", "options": ["315", "285", "355", "305"], "correct_answer": 0},
+    {"id": 2, "section": "Multiplicação", "question": "Uma caixa tem 24 lápis. Quantos lápis existem em 9 caixas?", "options": ["206", "216", "196", "226"], "correct_answer": 1},
+    {"id": 3, "section": "Multiplicação", "question": "Calcule: 152 x 6", "options": ["902", "962", "912", "812"], "correct_answer": 2},
+    {"id": 4, "section": "Multiplicação", "question": "Se um pacote de biscoitos custa R$ 3,50, quanto custarão 4 pacotes?", "options": ["R$ 12,00", "R$ 13,50", "R$ 14,50", "R$ 14,00"], "correct_answer": 3},
+    {"id": 5, "section": "Multiplicação", "question": "Quanto é 308 x 5?", "options": ["1540", "1500", "1520", "1640"], "correct_answer": 0},
+    {"id": 6, "section": "Multiplicação", "question": "Um prédio tem 12 andares com 4 apartamentos por andar. Quantos apartamentos há no prédio?", "options": ["46", "48", "52", "44"], "correct_answer": 1},
+    {"id": 7, "section": "Multiplicação", "question": "Calcule: 88 x 9", "options": ["782", "802", "792", "798"], "correct_answer": 2},
+    {"id": 8, "section": "Multiplicação", "question": "Uma bicicleta pode ser paga em 8 parcelas de R$ 75,00. Qual é o preço total da bicicleta?", "options": ["R$ 560,00", "R$ 650,00", "R$ 620,00", "R$ 600,00"], "correct_answer": 3},
+    {"id": 9, "section": "Multiplicação", "question": "Quanto é 250 x 10?", "options": ["2500", "250", "25", "25000"], "correct_answer": 0},
+    {"id": 10, "section": "Multiplicação", "question": "Se um livro tem 320 páginas, quantas páginas têm 3 livros iguais?", "options": ["900", "960", "930", "990"], "correct_answer": 1},
+    {"id": 11, "section": "Multiplicação", "question": "Calcule: 42 x 20", "options": ["820", "800", "840", "480"], "correct_answer": 2},
+    {"id": 12, "section": "Multiplicação", "question": "Uma hora tem 60 minutos. Quantos minutos têm 12 horas?", "options": ["600", "620", "700", "720"], "correct_answer": 3},
+    {"id": 13, "section": "Multiplicação", "question": "Quanto é 11 x 11?", "options": ["121", "111", "131", "101"], "correct_answer": 0},
+    {"id": 14, "section": "Multiplicação", "question": "Um saco de laranjas tem 15 unidades. Quantas laranjas há em 10 sacos?", "options": ["100", "150", "120", "200"], "correct_answer": 1},
+    {"id": 15, "section": "Multiplicação", "question": "Calcule: 99 x 3", "options": ["277", "287", "297", "300"], "correct_answer": 2},
+
+    {"id": 16, "section": "Divisão", "question": "Quanto é 81 ÷ 9?", "options": ["7", "8", "10", "9"], "correct_answer": 3},
+    {"id": 17, "section": "Divisão", "question": "Divida 125 por 5.", "options": ["25", "20", "30", "15"], "correct_answer": 0},
+    {"id": 18, "section": "Divisão", "question": "Se 96 doces são divididos igualmente entre 8 crianças, quantos doces cada uma recebe?", "options": ["10", "12", "11", "14"], "correct_answer": 1},
+    {"id": 19, "section": "Divisão", "question": "Calcule: 144 ÷ 12", "options": ["10", "11", "12", "13"], "correct_answer": 2},
+    {"id": 20, "section": "Divisão", "question": "Uma fita de 200 cm foi cortada em 10 pedaços iguais. Qual o tamanho de cada pedaço?", "options": ["25 cm", "15 cm", "10 cm", "20 cm"], "correct_answer": 3},
+    {"id": 21, "section": "Divisão", "question": "Quanto é 420 ÷ 7?", "options": ["60", "50", "70", "80"], "correct_answer": 0},
+    {"id": 22, "section": "Divisão", "question": "Um total de 150 alunos foi dividido em 6 turmas iguais. Quantos alunos por turma?", "options": ["20", "25", "30", "35"], "correct_answer": 1},
+    {"id": 23, "section": "Divisão", "question": "Calcule: 256 ÷ 8", "options": ["30", "34", "32", "36"], "correct_answer": 2},
+    {"id": 24, "section": "Divisão", "question": "Tenho 63 figurinhas para dividir entre 7 amigos. Quantas cada um ganha?", "options": ["10", "8", "7", "9"], "correct_answer": 3},
+    {"id": 25, "section": "Divisão", "question": "Quanto é 1000 ÷ 100?", "options": ["10", "1", "100", "1000"], "correct_answer": 0},
+    {"id": 26, "section": "Divisão", "question": "Dividindo 50 por 4, qual é o quociente e o resto?", "options": ["Quociente 10, resto 0", "Quociente 12, resto 2", "Quociente 11, resto 6", "Quociente 13, resto 2"], "correct_answer": 1},
+    {"id": 27, "section": "Divisão", "question": "Calcule: 315 ÷ 5", "options": ["65", "61", "63", "60"], "correct_answer": 2},
+    {"id": 28, "section": "Divisão", "question": "Um livro de 180 páginas deve ser lido em 9 dias. Quantas páginas por dia?", "options": ["15", "22", "18", "20"], "correct_answer": 3},
+    {"id": 29, "section": "Divisão", "question": "Quanto é 72 ÷ 6?", "options": ["12", "11", "13", "10"], "correct_answer": 0},
+    {"id": 30, "section": "Divisão", "question": "Se 240 cadeiras são arrumadas em 15 fileiras, quantas cadeiras por fileira?", "options": ["15", "16", "18", "20"], "correct_answer": 1},
+
+    {"id": 31, "section": "Resolução de Problemas", "question": "Ana comprou 5 cadernos por R$ 7,00 cada. Quanto ela gastou?", "options": ["R$ 30,00", "R$ 40,00", "R$ 35,00", "R$ 25,00"], "correct_answer": 2},
+    {"id": 32, "section": "Resolução de Problemas", "question": "Pedro tinha 50 reais. Ele comprou um lanche de R$ 15 e um suco de R$ 5. Com quanto ele ficou?", "options": ["R$ 25,00", "R$ 35,00", "R$ 20,00", "R$ 30,00"], "correct_answer": 3},
+    {"id": 33, "section": "Resolução de Problemas", "question": "Uma escola recebeu 3 caixas com 150 livros cada. Quantos livros a escola recebeu?", "options": ["450", "400", "500", "350"], "correct_answer": 0},
+    {"id": 34, "section": "Resolução de Problemas", "question": "Um ônibus tem 44 lugares. Para uma excursão com 132 alunos, quantos ônibus serão necessários?", "options": ["2", "3", "4", "5"], "correct_answer": 1},
+    {"id": 35, "section": "Resolução de Problemas", "question": "Maria comprou 3 blusas por R$ 25,00 cada e pagou com uma nota de R$ 100,00. Qual foi o troco?", "options": ["R$ 15,00", "R$ 35,00", "R$ 25,00", "R$ 50,00"], "correct_answer": 2},
+    {"id": 36, "section": "Resolução de Problemas", "question": "Um fazendeiro colheu 1.200 laranjas e quer colocá-las em sacos com 10 laranjas cada. Quantos sacos ele usará?", "options": ["100", "110", "130", "120"], "correct_answer": 3},
+    {"id": 37, "section": "Resolução de Problemas", "question": "Carlos corre 5 km por dia. Quantos quilômetros ele corre em 30 dias?", "options": ["150 km", "120 km", "100 km", "200 km"], "correct_answer": 0},
+    {"id": 38, "section": "Resolução de Problemas", "question": "Numa festa, 80 brigadeiros foram divididos igualmente em 16 pratinhos. Quantos brigadeiros em cada pratinho?", "options": ["4", "5", "6", "7"], "correct_answer": 1},
+    {"id": 39, "section": "Resolução de Problemas", "question": "Um cinema tem 20 fileiras com 15 poltronas cada. Qual a capacidade total do cinema?", "options": ["250", "350", "300", "400"], "correct_answer": 2},
+    {"id": 40, "section": "Resolução de Problemas", "question": "Joana comprou 4 pacotes de figurinhas com 6 unidades cada. Ela já tinha 10 figurinhas. Com quantas ficou?", "options": ["24", "30", "40", "34"], "correct_answer": 3},
+    {"id": 41, "section": "Resolução de Problemas", "question": "Um bolo foi dividido em 12 fatias. Se 3 pessoas comeram 2 fatias cada uma, quantas fatias sobraram?", "options": ["6", "4", "8", "5"], "correct_answer": 0},
+    {"id": 42, "section": "Resolução de Problemas", "question": "Um estacionamento cobra R$ 8,00 por hora. Se um carro ficou 4 horas, quanto o dono pagou?", "options": ["R$ 30,00", "R$ 32,00", "R$ 28,00", "R$ 36,00"], "correct_answer": 1},
+    {"id": 43, "section": "Resolução de Problemas", "question": "Uma turma tem 32 alunos. A professora quer formar grupos de 4 alunos. Quantos grupos serão formados?", "options": ["7", "9", "8", "10"], "correct_answer": 2},
+    {"id": 44, "section": "Resolução de Problemas", "question": "Um pacote de folhas tem 500 unidades. Se uma escola comprou 6 pacotes, quantas folhas comprou?", "options": ["2500", "3500", "2000", "3000"], "correct_answer": 3},
+    {"id": 45, "section": "Resolução de Problemas", "question": "Tenho R$ 100. Gastei metade em um livro e R$ 20 em um lanche. Quanto me sobrou?", "options": ["R$ 30,00", "R$ 50,00", "R$ 80,00", "R$ 20,00"], "correct_answer": 0},
+    {"id": 46, "section": "Resolução de Problemas", "question": "Um trem tem 8 vagões, e cada vagão transporta 50 pessoas. Qual a capacidade total do trem?", "options": ["350", "400", "450", "500"], "correct_answer": 1},
+    {"id": 47, "section": "Resolução de Problemas", "question": "Se um ano tem 52 semanas, quantas semanas há em 3 anos?", "options": ["150", "166", "156", "162"], "correct_answer": 2},
+    {"id": 48, "section": "Resolução de Problemas", "question": "Uma pizza foi dividida em 8 fatias. Se 4 amigos comeram 2 fatias cada, a pizza inteira foi comida?", "options": ["Não, sobrou 1 fatia", "Não, sobraram 2 fatias", "Não, sobrou metade", "Sim, a pizza inteira foi comida"], "correct_answer": 3},
+    {"id": 49, "section": "Resolução de Problemas", "question": "Um jogo custa R$ 120,00 e pode ser parcelado em 6 vezes sem juros. Qual o valor de cada parcela?", "options": ["R$ 20,00", "R$ 15,00", "R$ 25,00", "R$ 30,00"], "correct_answer": 0},
+    {"id": 50, "section": "Resolução de Problemas", "question": "Em uma gincana, a equipe Azul fez 150 pontos. A equipe Amarela fez o dobro. Quantos pontos fez a equipe Amarela?", "options": ["250", "300", "200", "350"], "correct_answer": 1}
+  ]
+}
