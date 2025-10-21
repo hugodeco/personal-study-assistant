@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "title": "Daily Routines - Intermediate Level (5ª série)",
+    "description": "Quiz de 50 questões sobre rotinas diárias em inglês: get dressed, get up, go to school, play with friends, do homework, take a shower, go to bed, come home.",
+    "subject": "Inglês",
+    "grade": "5ª série",
+    "topic": "Daily Routines - Intermediate",
+    "evaluation": false
+  },
+  "content": {
+    "introduction": "This quiz focuses on daily routine expressions in English. You'll practice vocabulary, sentence structure, and understanding when we do different activities during the day.",
+    "instructions": [
+      "Read each question carefully.",
+      "Choose the best answer for each question.",
+      "Think about the meaning and context of daily routine expressions.",
+      "There are 50 questions to practice your English skills."
+    ]
+  },
+  "questions": [
+    {"id": 1, "section": "Vocabulary", "question": "What does 'get up' mean?", "options": ["Wake up and leave the bed", "Go to sleep", "Put on clothes", "Take a shower"], "correct_answer": 0},
+    {"id": 2, "section": "Vocabulary", "question": "Which phrase means 'to put on your clothes'?", "options": ["get dressed", "get up", "take a shower", "go to bed"], "correct_answer": 0},
+    {"id": 3, "section": "Vocabulary", "question": "What do you do when you 'take a shower'?", "options": ["Sleep", "Wash your body with water", "Eat breakfast", "Study"], "correct_answer": 1},
+    {"id": 4, "section": "Vocabulary", "question": "'Come home' means:", "options": ["Leave your house", "Go to school", "Return to your house", "Play outside"], "correct_answer": 2},
+    {"id": 5, "section": "Vocabulary", "question": "When you 'do your homework', you:", "options": ["Play video games", "Watch TV", "Complete school assignments", "Go to bed"], "correct_answer": 2},
+    
+    {"id": 6, "section": "Sentence Completion", "question": "I _____ at 7 o'clock every morning.", "options": ["go to bed", "get up", "come home", "play with friends"], "correct_answer": 1},
+    {"id": 7, "section": "Sentence Completion", "question": "After I get up, I _____ and brush my teeth.", "options": ["take a shower", "go to school", "do homework", "play with friends"], "correct_answer": 0},
+    {"id": 8, "section": "Sentence Completion", "question": "She _____ before breakfast.", "options": ["goes to bed", "gets dressed", "comes home", "does homework"], "correct_answer": 1},
+    {"id": 9, "section": "Sentence Completion", "question": "We _____ at 8:30 in the morning.", "options": ["go to bed", "come home", "go to school", "play with friends"], "correct_answer": 2},
+    {"id": 10, "section": "Sentence Completion", "question": "They _____ in the afternoon, after school.", "options": ["get up", "go to school", "take a shower", "play with friends"], "correct_answer": 3},
+    
+    {"id": 11, "section": "Sentence Completion", "question": "I _____ at 3:30 p.m. from school.", "options": ["come home", "get up", "go to bed", "get dressed"], "correct_answer": 0},
+    {"id": 12, "section": "Sentence Completion", "question": "He _____ every evening before dinner.", "options": ["goes to school", "does his homework", "gets up", "plays outside all night"], "correct_answer": 1},
+    {"id": 13, "section": "Sentence Completion", "question": "My sister _____ at 9 p.m. because she's tired.", "options": ["gets up", "comes home", "goes to bed", "goes to school"], "correct_answer": 2},
+    {"id": 14, "section": "Sentence Completion", "question": "We _____ together at the park on weekends.", "options": ["do homework", "go to bed", "take showers", "play with friends"], "correct_answer": 3},
+    {"id": 15, "section": "Sentence Completion", "question": "Maria _____ quickly because she's late.", "options": ["gets dressed", "goes to bed", "does homework", "comes home slowly"], "correct_answer": 0},
+    
+    {"id": 16, "section": "Time Order", "question": "What do you do FIRST in the morning?", "options": ["Go to school", "Get up", "Come home", "Do homework"], "correct_answer": 1},
+    {"id": 17, "section": "Time Order", "question": "What is the correct order? 1. ___ 2. Get dressed 3. Go to school", "options": ["Come home", "Get up", "Go to bed", "Play with friends"], "correct_answer": 1},
+    {"id": 18, "section": "Time Order", "question": "After school, what do most students do FIRST?", "options": ["Go to bed", "Get dressed", "Come home", "Get up"], "correct_answer": 2},
+    {"id": 19, "section": "Time Order", "question": "What do you usually do BEFORE going to bed?", "options": ["Get up", "Go to school", "Take a shower", "Wake up"], "correct_answer": 2},
+    {"id": 20, "section": "Time Order", "question": "What is the LAST thing you do at night?", "options": ["Go to bed", "Get up", "Go to school", "Come home"], "correct_answer": 0},
+    
+    {"id": 21, "section": "Questions", "question": "What time do you get up?", "options": ["I get up at 7 a.m.", "I go to school at 8 a.m.", "I come home at 3 p.m.", "I go to bed at 9 p.m."], "correct_answer": 0},
+    {"id": 22, "section": "Questions", "question": "When do you go to school?", "options": ["At 7 o'clock in the evening", "In the morning", "At midnight", "Before I wake up"], "correct_answer": 1},
+    {"id": 23, "section": "Questions", "question": "What do you do after school?", "options": ["I get up", "I go to school again", "I come home and do my homework", "I go to bed immediately"], "correct_answer": 2},
+    {"id": 24, "section": "Questions", "question": "Do you play with your friends every day?", "options": ["Yes, I play to bed", "No, I play on weekends", "Yes, I get up", "No, I come dressed"], "correct_answer": 1},
+    {"id": 25, "section": "Questions", "question": "When do you take a shower?", "options": ["While I sleep", "In the morning or before bed", "During class", "While I do homework"], "correct_answer": 1},
+    
+    {"id": 26, "section": "Context", "question": "It's 6:30 a.m. and your alarm clock rings. What do you do?", "options": ["I go to bed", "I get up", "I go to school", "I come home"], "correct_answer": 1},
+    {"id": 27, "section": "Context", "question": "You just woke up and you're still in pajamas. What should you do next?", "options": ["Go to bed", "Get dressed", "Come home", "Go to school in pajamas"], "correct_answer": 1},
+    {"id": 28, "section": "Context", "question": "School is finished. It's 3 p.m. What do you do?", "options": ["Get up", "Go to school", "Come home", "Go to bed"], "correct_answer": 2},
+    {"id": 29, "section": "Context", "question": "Your teacher gave you exercises to complete at home. What do you need to do?", "options": ["Play video games", "Go to bed", "Do my homework", "Take a shower"], "correct_answer": 2},
+    {"id": 30, "section": "Context", "question": "It's Saturday afternoon and you're free. You want to have fun. What might you do?", "options": ["Go to school", "Get dressed for bed", "Play with friends", "Do homework all day"], "correct_answer": 2},
+    
+    {"id": 31, "section": "Grammar", "question": "Choose the correct sentence:", "options": ["She get up at 7 a.m.", "She gets up at 7 a.m.", "She getting up at 7 a.m.", "She is get up at 7 a.m."], "correct_answer": 1},
+    {"id": 32, "section": "Grammar", "question": "Choose the correct sentence:", "options": ["They goes to school by bus.", "They go to school by bus.", "They going to school by bus.", "They is go to school by bus."], "correct_answer": 1},
+    {"id": 33, "section": "Grammar", "question": "What is the negative form? 'I go to bed early.'", "options": ["I not go to bed early.", "I don't go to bed early.", "I doesn't go to bed early.", "I am not go to bed early."], "correct_answer": 1},
+    {"id": 34, "section": "Grammar", "question": "What is the question form? 'He takes a shower.'", "options": ["Does he takes a shower?", "Do he take a shower?", "Does he take a shower?", "Is he take a shower?"], "correct_answer": 2},
+    {"id": 35, "section": "Grammar", "question": "My brother _____ his homework before dinner.", "options": ["do", "does", "doing", "to do"], "correct_answer": 1},
+    
+    {"id": 36, "section": "Frequency", "question": "I _____ get up early on weekends.", "options": ["always", "never", "usually", "sometimes"], "correct_answer": 1},
+    {"id": 37, "section": "Frequency", "question": "She _____ plays with friends after school.", "options": ["rarely", "never", "often", "all are possible"], "correct_answer": 3},
+    {"id": 38, "section": "Frequency", "question": "How often do you do your homework?", "options": ["Every day", "Never", "Sometimes", "All answers are possible depending on the student"], "correct_answer": 3},
+    {"id": 39, "section": "Frequency", "question": "We _____ go to school on Sundays.", "options": ["always", "usually", "never", "often"], "correct_answer": 2},
+    {"id": 40, "section": "Frequency", "question": "Do you _____ take a shower in the morning?", "options": ["never", "always", "usually", "all are possible answers"], "correct_answer": 3},
+    
+    {"id": 41, "section": "Reading", "question": "Read: 'Tom gets up at 6:30. He takes a shower and gets dressed. Then he goes to school.' What does Tom do AFTER taking a shower?", "options": ["Gets up", "Gets dressed", "Goes to school", "Comes home"], "correct_answer": 1},
+    {"id": 42, "section": "Reading", "question": "Read: 'Mary comes home at 4 p.m. She does her homework and then plays with friends.' When does Mary play with friends?", "options": ["Before school", "After homework", "Before coming home", "During homework"], "correct_answer": 1},
+    {"id": 43, "section": "Reading", "question": "Read: 'On weekdays, I go to bed at 9 p.m. On weekends, I go to bed at 10 p.m.' When do I sleep later?", "options": ["On weekdays", "On weekends", "Every day is the same", "I never go to bed"], "correct_answer": 1},
+    {"id": 44, "section": "Reading", "question": "Read: 'After school, Jake comes home and takes a shower. Then he does his homework.' What does Jake do FIRST after school?", "options": ["Does homework", "Takes a shower", "Comes home", "Plays with friends"], "correct_answer": 2},
+    {"id": 45, "section": "Reading", "question": "Read: 'Lisa gets dressed, eats breakfast, and goes to school.' What is the correct order?", "options": ["Breakfast → get dressed → school", "Get dressed → breakfast → school", "School → breakfast → get dressed", "Get dressed → school → breakfast"], "correct_answer": 1},
+    
+    {"id": 46, "section": "Expression Practice", "question": "What's another way to say 'I return home'?", "options": ["I go home", "I come home", "I arrive home", "All of the above"], "correct_answer": 3},
+    {"id": 47, "section": "Expression Practice", "question": "Which is NOT a morning activity?", "options": ["Get up", "Get dressed", "Take a shower", "Go to bed"], "correct_answer": 3},
+    {"id": 48, "section": "Expression Practice", "question": "Complete the routine: Get up → _____ → Get dressed → Go to school", "options": ["Take a shower", "Go to bed", "Come home", "Do homework"], "correct_answer": 0},
+    {"id": 49, "section": "Expression Practice", "question": "What do you say when someone asks 'What do you do after dinner?'", "options": ["I get up", "I go to school", "I do my homework or watch TV", "I come home"], "correct_answer": 2},
+    {"id": 50, "section": "Expression Practice", "question": "Choose the sentence that makes sense:", "options": ["I go to bed in the morning", "I get up at night", "I come home after school", "I go to school before I get up"], "correct_answer": 2}
+  ]
+}

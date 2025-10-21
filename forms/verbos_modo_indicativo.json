@@ -1,0 +1,77 @@
+{
+  "metadata": {
+    "title": "Verbos no Modo Indicativo e suas Flexões - 5ª série",
+    "description": "Quiz de 50 questões sobre o modo indicativo e suas flexões: presente, pretérito perfeito, pretérito imperfeito, pretérito mais-que-perfeito, futuro do presente e futuro do pretérito.",
+    "subject": "Português",
+    "grade": "5ª série",
+    "topic": "Verbos - Modo Indicativo",
+    "evaluation": false
+  },
+  "content": {
+    "introduction": "Este quiz aborda os verbos no modo indicativo e suas diferentes flexões de tempo. O modo indicativo expressa ações certas, reais ou que consideramos verdadeiras.",
+    "instructions": [
+      "Leia cada questão com atenção.",
+      "Identifique o tempo verbal correto de cada forma destacada.",
+      "São 50 questões para você praticar os tempos do modo indicativo."
+    ]
+  },
+  "questions": [
+    {"id": 1, "section": "Conceito", "question": "O que expressa o modo indicativo dos verbos?", "options": ["Ações certas, reais ou consideradas verdadeiras", "Desejos e possibilidades", "Ordens e pedidos", "Condições impossíveis"], "correct_answer": 0},
+    {"id": 2, "section": "Conceito", "question": "Quantos tempos verbais possui o modo indicativo?", "options": ["Quatro", "Cinco", "Seis", "Três"], "correct_answer": 2},
+    {"id": 3, "section": "Conceito", "question": "Qual modo verbal usamos para expressar certeza sobre uma ação?", "options": ["Subjuntivo", "Indicativo", "Imperativo", "Infinitivo"], "correct_answer": 1},
+    
+    {"id": 4, "section": "Presente", "question": "Em qual tempo está o verbo na frase: 'Eu estudo todos os dias'?", "options": ["Pretérito perfeito", "Futuro do presente", "Presente", "Pretérito imperfeito"], "correct_answer": 2},
+    {"id": 5, "section": "Presente", "question": "Identifique o verbo no presente: 'Maria canta muito bem.'", "options": ["canta", "cantou", "cantará", "cantava"], "correct_answer": 0},
+    {"id": 6, "section": "Presente", "question": "Qual frase contém um verbo no presente do indicativo?", "options": ["Pedro jogará futebol amanhã.", "Eles jogam futebol aos sábados.", "Nós jogamos futebol ontem.", "Eu jogava futebol quando criança."], "correct_answer": 1},
+    {"id": 7, "section": "Presente", "question": "Complete: 'Nós _______ à escola todos os dias.' (ir - presente)", "options": ["íamos", "vamos", "fomos", "iremos"], "correct_answer": 1},
+    {"id": 8, "section": "Presente", "question": "O presente do indicativo pode expressar:", "options": ["Somente ações passadas", "Ações habituais e verdades universais", "Apenas desejos", "Somente ações futuras"], "correct_answer": 1},
+    
+    {"id": 9, "section": "Pretérito Perfeito", "question": "Em qual tempo está o verbo: 'Eu comprei um livro ontem'?", "options": ["Pretérito imperfeito", "Presente", "Pretérito perfeito", "Futuro do pretérito"], "correct_answer": 2},
+    {"id": 10, "section": "Pretérito Perfeito", "question": "O pretérito perfeito indica uma ação:", "options": ["Que aconteceu e foi completada no passado", "Que está acontecendo agora", "Que acontecerá no futuro", "Que acontecia habitualmente"], "correct_answer": 0},
+    {"id": 11, "section": "Pretérito Perfeito", "question": "Qual verbo está no pretérito perfeito? 'A professora _______ a lição.'", "options": ["explicava", "explica", "explicou", "explicará"], "correct_answer": 2},
+    {"id": 12, "section": "Pretérito Perfeito", "question": "Complete: 'Eles _______ o jogo na semana passada.' (vencer - pretérito perfeito)", "options": ["venceram", "vencem", "vencerão", "venciam"], "correct_answer": 0},
+    {"id": 13, "section": "Pretérito Perfeito", "question": "Identifique a frase com verbo no pretérito perfeito:", "options": ["Eu comerei pizza.", "Eu como pizza.", "Eu comi pizza ontem.", "Eu comia pizza sempre."], "correct_answer": 2},
+    {"id": 14, "section": "Pretérito Perfeito", "question": "Qual é a forma correta no pretérito perfeito de 'fazer' (1ª pessoa do singular)?", "options": ["faço", "fiz", "fazia", "farei"], "correct_answer": 1},
+    {"id": 15, "section": "Pretérito Perfeito", "question": "'Nós viajamos para a praia.' O verbo está em qual tempo?", "options": ["Futuro do presente", "Pretérito perfeito", "Presente", "Pretérito imperfeito"], "correct_answer": 1},
+    
+    {"id": 16, "section": "Pretérito Imperfeito", "question": "O pretérito imperfeito expressa uma ação:", "options": ["Que aconteceu e foi completada", "Que acontecia com frequência ou duração no passado", "Que acontecerá com certeza", "Que está acontecendo agora"], "correct_answer": 1},
+    {"id": 17, "section": "Pretérito Imperfeito", "question": "Em qual tempo está: 'Quando eu era criança, brincava muito'?", "options": ["Pretérito perfeito", "Pretérito imperfeito", "Presente", "Futuro do pretérito"], "correct_answer": 1},
+    {"id": 18, "section": "Pretérito Imperfeito", "question": "Complete: 'Antigamente, nós _______ de bicicleta.' (andar - pretérito imperfeito)", "options": ["andamos", "andávamos", "andaremos", "andaríamos"], "correct_answer": 1},
+    {"id": 19, "section": "Pretérito Imperfeito", "question": "Qual verbo está no pretérito imperfeito?", "options": ["Eu estudei matemática.", "Eu estudo matemática.", "Eu estudava matemática.", "Eu estudarei matemática."], "correct_answer": 2},
+    {"id": 20, "section": "Pretérito Imperfeito", "question": "Identifique o tempo verbal: 'Eles moravam em outra cidade.'", "options": ["Pretérito imperfeito", "Pretérito perfeito", "Presente", "Futuro do presente"], "correct_answer": 0},
+    {"id": 21, "section": "Pretérito Imperfeito", "question": "'Toda manhã ele corria no parque.' O verbo indica:", "options": ["Ação única no passado", "Ação habitual no passado", "Ação futura", "Ação presente"], "correct_answer": 1},
+    {"id": 22, "section": "Pretérito Imperfeito", "question": "Qual é a terminação típica do pretérito imperfeito dos verbos da 1ª conjugação (-ar)?", "options": ["-ei, -ou, -aram", "-ava, -ava, -avam", "-arei, -ará, -arão", "-o, -a, -am"], "correct_answer": 1},
+    
+    {"id": 23, "section": "Pretérito Mais-que-Perfeito", "question": "O pretérito mais-que-perfeito indica uma ação:", "options": ["Que acontecerá no futuro", "Que aconteceu antes de outra ação no passado", "Que está acontecendo agora", "Que acontece com frequência"], "correct_answer": 1},
+    {"id": 24, "section": "Pretérito Mais-que-Perfeito", "question": "Complete: 'Quando cheguei, ele já _______ embora.' (ir - pretérito mais-que-perfeito)", "options": ["foi", "fora", "ia", "irá"], "correct_answer": 1},
+    {"id": 25, "section": "Pretérito Mais-que-Perfeito", "question": "Identifique o verbo no pretérito mais-que-perfeito:", "options": ["Eu estudara muito antes da prova.", "Eu estudei muito antes da prova.", "Eu estudo muito antes da prova.", "Eu estudarei muito antes da prova."], "correct_answer": 0},
+    {"id": 26, "section": "Pretérito Mais-que-Perfeito", "question": "Qual frase usa o pretérito mais-que-perfeito corretamente?", "options": ["Nós cantamos na festa.", "Nós cantáramos na festa antes de você chegar.", "Nós cantaremos na festa.", "Nós cantávamos na festa."], "correct_answer": 1},
+    {"id": 27, "section": "Pretérito Mais-que-Perfeito", "question": "'Ele dissera a verdade antes do julgamento.' O tempo verbal é:", "options": ["Pretérito perfeito", "Futuro do pretérito", "Pretérito mais-que-perfeito", "Pretérito imperfeito"], "correct_answer": 2},
+    {"id": 28, "section": "Pretérito Mais-que-Perfeito", "question": "Atualmente, o pretérito mais-que-perfeito simples é:", "options": ["Muito usado na fala cotidiana", "Pouco usado, mais comum na escrita formal", "Usado apenas no futuro", "Não existe mais"], "correct_answer": 1},
+    
+    {"id": 29, "section": "Futuro do Presente", "question": "O futuro do presente indica:", "options": ["Uma ação passada", "Uma ação que acontecerá", "Uma ação que estaria acontecendo", "Uma ação habitual"], "correct_answer": 1},
+    {"id": 30, "section": "Futuro do Presente", "question": "Complete: 'Amanhã eu _______ ao cinema.' (ir - futuro do presente)", "options": ["vou", "fui", "irei", "ia"], "correct_answer": 2},
+    {"id": 31, "section": "Futuro do Presente", "question": "Qual verbo está no futuro do presente?", "options": ["Nós viajamos amanhã.", "Nós viajaremos amanhã.", "Nós viajávamos amanhã.", "Nós viajamos ontem."], "correct_answer": 1},
+    {"id": 32, "section": "Futuro do Presente", "question": "Identifique o tempo verbal: 'Eles comprarão presentes no fim de semana.'", "options": ["Presente", "Futuro do presente", "Pretérito perfeito", "Futuro do pretérito"], "correct_answer": 1},
+    {"id": 33, "section": "Futuro do Presente", "question": "'A professora corrigirá as provas.' O verbo está em qual tempo?", "options": ["Pretérito imperfeito", "Futuro do pretérito", "Futuro do presente", "Presente"], "correct_answer": 2},
+    {"id": 34, "section": "Futuro do Presente", "question": "Qual é a forma correta no futuro do presente de 'fazer' (3ª pessoa do plural)?", "options": ["fazem", "fizeram", "farão", "fariam"], "correct_answer": 2},
+    {"id": 35, "section": "Futuro do Presente", "question": "O futuro do presente expressa:", "options": ["Certeza sobre uma ação futura", "Dúvida sobre o passado", "Ação concluída", "Hábito passado"], "correct_answer": 0},
+    
+    {"id": 36, "section": "Futuro do Pretérito", "question": "O futuro do pretérito expressa:", "options": ["Ação futura certa", "Ação que aconteceria sob certas condições ou no passado", "Ação presente", "Ação concluída no passado"], "correct_answer": 1},
+    {"id": 37, "section": "Futuro do Pretérito", "question": "Complete: 'Eu _______ viajar se tivesse dinheiro.' (gostar - futuro do pretérito)", "options": ["gosto", "gostei", "gostaria", "gostarei"], "correct_answer": 2},
+    {"id": 38, "section": "Futuro do Pretérito", "question": "Identifique o verbo no futuro do pretérito:", "options": ["Nós jogaríamos futebol se não chovesse.", "Nós jogamos futebol.", "Nós jogaremos futebol.", "Nós jogávamos futebol."], "correct_answer": 0},
+    {"id": 39, "section": "Futuro do Pretérito", "question": "'Ela compraria aquele vestido.' O tempo verbal é:", "options": ["Futuro do presente", "Pretérito imperfeito", "Futuro do pretérito", "Pretérito perfeito"], "correct_answer": 2},
+    {"id": 40, "section": "Futuro do Pretérito", "question": "O futuro do pretérito é usado para expressar:", "options": ["Ordens", "Desejos, hipóteses ou ações condicionadas", "Certezas absolutas", "Ações em andamento"], "correct_answer": 1},
+    {"id": 41, "section": "Futuro do Pretérito", "question": "Qual é a forma correta no futuro do pretérito de 'ser' (1ª pessoa do singular)?", "options": ["sou", "fui", "seria", "serei"], "correct_answer": 2},
+    {"id": 42, "section": "Futuro do Pretérito", "question": "'Você poderia me ajudar?' Essa frase expressa:", "options": ["Ordem", "Pedido polido ou hipótese", "Certeza", "Ação concluída"], "correct_answer": 1},
+    
+    {"id": 43, "section": "Identificação Geral", "question": "Qual tempo verbal: 'Ontem choveu muito.'", "options": ["Pretérito perfeito", "Presente", "Futuro do presente", "Pretérito imperfeito"], "correct_answer": 0},
+    {"id": 44, "section": "Identificação Geral", "question": "Qual tempo verbal: 'Todos os dias eu leio um pouco.'", "options": ["Pretérito imperfeito", "Presente", "Futuro do presente", "Pretérito perfeito"], "correct_answer": 1},
+    {"id": 45, "section": "Identificação Geral", "question": "Qual tempo verbal: 'Nós chegaremos cedo.'", "options": ["Presente", "Pretérito perfeito", "Futuro do presente", "Futuro do pretérito"], "correct_answer": 2},
+    {"id": 46, "section": "Identificação Geral", "question": "Qual tempo verbal: 'Ele disse que viria.'", "options": ["Pretérito perfeito e futuro do pretérito", "Presente e futuro do presente", "Pretérito imperfeito", "Futuro do presente"], "correct_answer": 0},
+    {"id": 47, "section": "Identificação Geral", "question": "Qual tempo verbal: 'Antigamente eu trabalhava ali.'", "options": ["Pretérito perfeito", "Presente", "Pretérito imperfeito", "Futuro do pretérito"], "correct_answer": 2},
+    {"id": 48, "section": "Identificação Geral", "question": "Qual tempo verbal: 'Ele já partira quando chegamos.'", "options": ["Pretérito mais-que-perfeito", "Pretérito perfeito", "Pretérito imperfeito", "Futuro do pretérito"], "correct_answer": 0},
+    {"id": 49, "section": "Identificação Geral", "question": "Qual frase está no modo indicativo?", "options": ["Espero que você venha.", "Venha aqui!", "Você virá amanhã.", "Se eu pudesse, iria."], "correct_answer": 2},
+    {"id": 50, "section": "Identificação Geral", "question": "Todos os tempos do modo indicativo expressam:", "options": ["Dúvidas e incertezas", "Fatos reais, certos ou considerados verdadeiros", "Ordens", "Apenas possibilidades"], "correct_answer": 1}
+  ]
+}
