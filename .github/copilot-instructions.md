@@ -1,5 +1,3 @@
-<!-- Use this file to provide workspace-specific custom instructions to Copilot. For more details, visit https://code.visualstudio.com/docs/copilot/copilot-customization#_use-a-githubcopilotinstructionsmd-file -->
-
 # Google Forms API Integration Project
 
 This project integrates with Google Forms API to create and manage forms programmatically.
@@ -22,6 +20,7 @@ This project integrates with Google Forms API to create and manage forms program
 
 ## Forms
 * Each form should be defined in a separate JSON file within the `forms/` directory.
+* **Nível do Aluno:** Lembre-se que as questões devem ser adequadas para o nível de um aluno da 5ª série.
 * If not specified, ask about the level of difficulty for the quiz.
 * After generating a new form, review all created questions and answers to ensure there are no duplicate answers.
 * Avoid naming sections in a way that suggests the answer to the question, e.g. Section: "Personal Pronouns" for the question "What type of pronoun is used in the sentence: ______ ?".

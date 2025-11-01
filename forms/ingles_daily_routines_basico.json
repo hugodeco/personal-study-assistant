@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "title": "Daily Routines - Nível Básico (5ª série)",
+    "description": "Quiz de 50 questões básicas sobre rotinas diárias em inglês com enunciados em português e inglês.",
+    "subject": "Inglês",
+    "grade": "5ª série",
+    "topic": "Daily Routines - Basic",
+    "evaluation": false
+  },
+  "content": {
+    "introduction": "Este quiz trabalha vocabulário básico de rotinas diárias em inglês. As perguntas estão em português e inglês para facilitar o aprendizado.",
+    "instructions": [
+      "Leia cada questão com atenção.",
+      "Algumas perguntas estão em português, outras em inglês.",
+      "Escolha a melhor resposta.",
+      "São 50 questões para praticar vocabulário de rotinas diárias."
+    ]
+  },
+  "questions": [
+    {"id": 1, "section": "Tradução", "question": "Como se diz 'acordar e levantar da cama' em inglês?", "options": ["get up", "go to bed", "take a shower", "get dressed"], "correct_answer": 0},
+    {"id": 2, "section": "Tradução", "question": "O que significa 'get dressed'?", "options": ["Tomar banho", "Vestir-se", "Ir dormir", "Acordar"], "correct_answer": 1},
+    {"id": 3, "section": "Tradução", "question": "Como se diz 'tomar banho' em inglês?", "options": ["go to bed", "get up", "take a shower", "come home"], "correct_answer": 2},
+    {"id": 4, "section": "Tradução", "question": "O que significa 'go to school'?", "options": ["Voltar para casa", "Brincar com amigos", "Fazer lição de casa", "Ir para a escola"], "correct_answer": 3},
+    {"id": 5, "section": "Tradução", "question": "Como se diz 'brincar com amigos' em inglês?", "options": ["play with friends", "do homework", "go to bed", "get dressed"], "correct_answer": 0},
+    
+    {"id": 6, "section": "Tradução", "question": "O que significa 'do my homework'?", "options": ["Ir para a escola", "Fazer minha lição de casa", "Tomar banho", "Voltar para casa"], "correct_answer": 1},
+    {"id": 7, "section": "Tradução", "question": "Como se diz 'voltar para casa' em inglês?", "options": ["go to school", "get up", "come home", "go to bed"], "correct_answer": 2},
+    {"id": 8, "section": "Tradução", "question": "O que significa 'go to bed'?", "options": ["Levantar da cama", "Vestir-se", "Tomar banho", "Ir dormir"], "correct_answer": 3},
+    {"id": 9, "section": "Tradução", "question": "Qual é a tradução de 'I get up early'?", "options": ["Eu acordo cedo", "Eu durmo cedo", "Eu vou para a escola", "Eu volto para casa"], "correct_answer": 0},
+    {"id": 10, "section": "Tradução", "question": "Como se diz 'Eu vou para a escola' em inglês?", "options": ["I come home", "I go to school", "I go to bed", "I get dressed"], "correct_answer": 1},
+    
+    {"id": 11, "section": "Vocabulário", "question": "What do you do in the morning when you wake up?", "options": ["I go to bed", "I get up", "I do homework", "I come home"], "correct_answer": 1},
+    {"id": 12, "section": "Vocabulário", "question": "Qual atividade você faz ANTES de ir para a escola?", "options": ["come home", "do homework", "get dressed", "go to bed"], "correct_answer": 2},
+    {"id": 13, "section": "Vocabulário", "question": "What do you do when you are dirty?", "options": ["Get dressed", "Go to school", "Take a shower", "Go to bed"], "correct_answer": 2},
+    {"id": 14, "section": "Vocabulário", "question": "Quando você está cansado à noite, o que você faz?", "options": ["get up", "play with friends", "take a shower", "go to bed"], "correct_answer": 3},
+    {"id": 15, "section": "Vocabulário", "question": "What do students do after school at home?", "options": ["Do their homework", "Get up", "Go to school again", "Get dressed"], "correct_answer": 0},
+    
+    {"id": 16, "section": "Completar", "question": "Complete: I _____ at 7 o'clock. (acordar)", "options": ["go to bed", "get up", "come home", "take a shower"], "correct_answer": 1},
+    {"id": 17, "section": "Completar", "question": "Complete a frase: She _____ before breakfast. (vestir-se)", "options": ["goes to bed", "gets dressed", "comes home", "plays outside"], "correct_answer": 1},
+    {"id": 18, "section": "Completar", "question": "Complete: We _____ at 8 a.m. (ir para a escola)", "options": ["come home", "go to bed", "go to school", "get up"], "correct_answer": 2},
+    {"id": 19, "section": "Completar", "question": "Complete a frase: I _____ in the afternoon. (brincar com amigos)", "options": ["go to bed", "get up", "do homework", "play with friends"], "correct_answer": 3},
+    {"id": 20, "section": "Completar", "question": "Complete: He _____ after school. (fazer lição)", "options": ["does his homework", "gets up", "goes to school", "takes breakfast"], "correct_answer": 0},
+    
+    {"id": 21, "section": "Completar", "question": "Complete a frase: They _____ at 3 p.m. (voltar para casa)", "options": ["get up", "come home", "go to bed", "get dressed"], "correct_answer": 1},
+    {"id": 22, "section": "Completar", "question": "Complete: I _____ before dinner. (tomar banho)", "options": ["go to school", "get dressed", "take a shower", "go to bed"], "correct_answer": 2},
+    {"id": 23, "section": "Completar", "question": "Complete a frase: My sister _____ at 9 p.m. (ir dormir)", "options": ["gets up", "comes home", "plays with friends", "goes to bed"], "correct_answer": 3},
+    {"id": 24, "section": "Completar", "question": "Complete: Every morning I _____ and brush my teeth. (levantar)", "options": ["get up", "go to bed", "come home", "do homework"], "correct_answer": 0},
+    {"id": 25, "section": "Completar", "question": "Complete a frase: After I wake up, I _____. (vestir-se)", "options": ["go to bed", "get dressed", "come home", "go to school"], "correct_answer": 1},
+    
+    {"id": 26, "section": "Escolha", "question": "Qual é a ordem correta pela manhã?", "options": ["go to bed → get dressed → go to school", "get up → get dressed → go to school", "come home → get up → go to school", "do homework → get up → go to school"], "correct_answer": 1},
+    {"id": 27, "section": "Escolha", "question": "What is the correct order after school?", "options": ["Go to bed → do homework → play", "Come home → do homework → play with friends", "Get up → go to school → come home", "Get dressed → take a shower → go to bed"], "correct_answer": 1},
+    {"id": 28, "section": "Escolha", "question": "O que você faz PRIMEIRO de manhã?", "options": ["Go to school", "Get up", "Do homework", "Come home"], "correct_answer": 1},
+    {"id": 29, "section": "Escolha", "question": "What is the LAST thing you do at night?", "options": ["Get up", "Take a shower", "Go to bed", "Go to school"], "correct_answer": 2},
+    {"id": 30, "section": "Escolha", "question": "Depois da escola, o que você faz primeiro?", "options": ["Go to bed", "Get up", "Get dressed", "Come home"], "correct_answer": 3},
+    
+    {"id": 31, "section": "Perguntas", "question": "What time do you get up?", "options": ["I get up at 7 a.m.", "I go to school", "I come home", "I take a shower"], "correct_answer": 0},
+    {"id": 32, "section": "Perguntas", "question": "Quando você vai para a escola?", "options": ["At night", "In the morning", "At midnight", "Before I sleep"], "correct_answer": 1},
+    {"id": 33, "section": "Perguntas", "question": "What do you do after school?", "options": ["I get up", "I go to school again", "I come home", "I wake up"], "correct_answer": 2},
+    {"id": 34, "section": "Perguntas", "question": "Onde você brinca com seus amigos?", "options": ["At school, at the park, at home", "Only at midnight", "Only in bed", "Only in the shower"], "correct_answer": 0},
+    {"id": 35, "section": "Perguntas", "question": "When do you do your homework?", "options": ["While sleeping", "After school", "Before waking up", "During breakfast"], "correct_answer": 1},
+    
+    {"id": 36, "section": "Identificar", "question": "Qual frase está CORRETA?", "options": ["I go to bed in the morning.", "I get up at night.", "I go to school in the morning.", "I come home before school."], "correct_answer": 2},
+    {"id": 37, "section": "Identificar", "question": "Escolha a frase INCORRETA:", "options": ["I take a shower every day.", "I get dressed before school.", "I do homework after school.", "I get up at 11 p.m."], "correct_answer": 3},
+    {"id": 38, "section": "Identificar", "question": "Which sentence makes sense?", "options": ["I come home after school.", "I go to school after I go to bed.", "I get up after I go to school.", "I get dressed while I sleep."], "correct_answer": 0},
+    {"id": 39, "section": "Identificar", "question": "Qual atividade é noturna (à noite)?", "options": ["Get up", "Go to school", "Come home from school", "Go to bed"], "correct_answer": 3},
+    {"id": 40, "section": "Identificar", "question": "Which is a morning activity?", "options": ["Go to bed", "Do homework", "Get up", "Come home from school"], "correct_answer": 2},
+    
+    {"id": 41, "section": "Verdadeiro ou Falso", "question": "'Get up' significa 'ir dormir'?", "options": ["Verdadeiro", "Falso", "Às vezes", "Não sei"], "correct_answer": 1},
+    {"id": 42, "section": "Verdadeiro ou Falso", "question": "'Take a shower' means 'tomar banho'?", "options": ["Yes", "No", "Maybe", "I don't know"], "correct_answer": 0},
+    {"id": 43, "section": "Verdadeiro ou Falso", "question": "Você faz 'homework' na escola?", "options": ["Sim, sempre", "Não, faço em casa", "Sim, só na escola", "Nunca faço"], "correct_answer": 1},
+    {"id": 44, "section": "Verdadeiro ou Falso", "question": "'Come home' significa 'sair de casa'?", "options": ["Sim", "Não, significa voltar para casa", "Às vezes", "Sim, sempre"], "correct_answer": 1},
+    {"id": 45, "section": "Verdadeiro ou Falso", "question": "You 'get dressed' depois de acordar?", "options": ["Yes, usually", "No, never", "Yes, but only at night", "No, before sleeping"], "correct_answer": 0},
+    
+    {"id": 46, "section": "Associar", "question": "Relacione: 'I am sleepy' → I need to _____", "options": ["get up", "go to school", "play with friends", "go to bed"], "correct_answer": 3},
+    {"id": 47, "section": "Associar", "question": "Relacione: 'School is over' → I _____", "options": ["come home", "get up", "get dressed", "go to bed"], "correct_answer": 0},
+    {"id": 48, "section": "Associar", "question": "Match: 'I'm wearing pajamas' → I need to _____", "options": ["go to bed", "get dressed", "go to school", "do homework"], "correct_answer": 1},
+    {"id": 49, "section": "Associar", "question": "Relacione: 'The teacher gave exercises' → I need to _____", "options": ["play all day", "sleep immediately", "do my homework", "get up"], "correct_answer": 2},
+    {"id": 50, "section": "Associar", "question": "Match: 'My alarm clock is ringing at 7 a.m.' → I _____", "options": ["go to bed", "come home", "take a shower only", "get up"], "correct_answer": 3}
+  ]
+}

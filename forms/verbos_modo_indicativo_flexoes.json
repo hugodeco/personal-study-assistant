@@ -1,0 +1,705 @@
+{
+  "metadata": {
+    "title": "📝 Verbos no Modo Indicativo e Suas Flexões",
+    "description": "Um quiz para testar seus conhecimentos sobre os tempos verbais do modo indicativo: Presente, Pretérito Perfeito, Pretérito Imperfeito, Pretérito Mais-que-perfeito, Futuro do Presente e Futuro do Pretérito.",
+    "subject": "Português",
+    "grade": "Ensino Fundamental e Médio",
+    "topic": "Verbos no Modo Indicativo"
+  },
+  "content": {
+    "introduction": "Bem-vindo ao quiz sobre verbos no modo indicativo! O modo indicativo expressa fatos e certezas. Vamos testar seu conhecimento sobre suas flexões verbais.",
+    "instructions": "Para cada questão, leia a frase e escolha a alternativa que completa corretamente a lacuna ou responde à pergunta.",
+    "sections": [
+      {
+        "name": "O que é o Modo Indicativo?",
+        "description": "Questões sobre o conceito do modo indicativo."
+      },
+      {
+        "name": "Presente do Indicativo",
+        "description": "Ações que ocorrem no momento da fala."
+      },
+      {
+        "name": "Pretérito Perfeito do Indicativo",
+        "description": "Ações concluídas no passado."
+      },
+      {
+        "name": "Pretérito Imperfeito do Indicativo",
+        "description": "Ações habituais ou contínuas no passado."
+      },
+      {
+        "name": "Pretérito Mais-que-perfeito do Indicativo",
+        "description": "Ação que ocorreu antes de outra ação já passada."
+      },
+      {
+        "name": "Futuro do Presente do Indicativo",
+        "description": "Ações que certamente ocorrerão no futuro."
+      },
+      {
+        "name": "Futuro do Pretérito do Indicativo",
+        "description": "Ações que poderiam ter ocorrido, condicionadas a algo."
+      }
+    ]
+  },
+  "questions": [
+    {
+      "id": 1,
+      "section": "O que é o Modo Indicativo?",
+      "question": "Qual das alternativas melhor define o Modo Indicativo?",
+      "options": [
+        "Expressa uma ordem ou pedido.",
+        "Expressa uma dúvida, possibilidade ou desejo.",
+        "Expressa um fato, uma certeza, uma realidade.",
+        "Expressa uma condição para que outra ação ocorra."
+      ],
+      "correct_answer": 2,
+      "difficulty": "fácil"
+    },
+    {
+      "id": 2,
+      "section": "O que é o Modo Indicativo?",
+      "question": "Na frase 'O sol brilha forte hoje', o verbo 'brilha' está em que modo verbal?",
+      "options": [
+        "Modo Subjuntivo",
+        "Modo Imperativo",
+        "Modo Indicativo",
+        "Modo Infinitivo"
+      ],
+      "correct_answer": 2,
+      "difficulty": "fácil"
+    },
+    {
+      "id": 3,
+      "section": "Presente do Indicativo",
+      "question": "Complete a frase: 'Eu _______ todos os dias de manhã.'",
+      "options": [
+        "corro",
+        "correria",
+        "corri",
+        "correrei"
+      ],
+      "correct_answer": 0,
+      "difficulty": "fácil"
+    },
+    {
+      "id": 4,
+      "section": "Presente do Indicativo",
+      "question": "Qual a conjugação correta do verbo 'ser' na 3ª pessoa do plural do presente do indicativo?",
+      "options": [
+        "somos",
+        "são",
+        "é",
+        "sois"
+      ],
+      "correct_answer": 1,
+      "difficulty": "fácil"
+    },
+    {
+      "id": 5,
+      "section": "Presente do Indicativo",
+      "question": "Complete: 'Nós _______ muito para a prova.'",
+      "options": [
+        "estudamos",
+        "estudaremos",
+        "estudávamos",
+        "estudássemos"
+      ],
+      "correct_answer": 0,
+      "difficulty": "fácil"
+    },
+    {
+      "id": 6,
+      "section": "Presente do Indicativo",
+      "question": "A frase 'Eles sempre trazem doces' usa o verbo 'trazer' no presente do indicativo para expressar:",
+      "options": [
+        "Uma ação futura.",
+        "Uma ação habitual.",
+        "Uma ação concluída.",
+        "Uma ação duvidosa."
+      ],
+      "correct_answer": 1,
+      "difficulty": "médio"
+    },
+    {
+      "id": 7,
+      "section": "Pretérito Perfeito do Indicativo",
+      "question": "Complete a frase: 'Ontem, ela _______ um livro inteiro.'",
+      "options": [
+        "lia",
+        "lerá",
+        "leu",
+        "lê"
+      ],
+      "correct_answer": 2,
+      "difficulty": "fácil"
+    },
+    {
+      "id": 8,
+      "section": "Pretérito Perfeito do Indicativo",
+      "question": "Qual verbo está no Pretérito Perfeito do Indicativo?",
+      "options": [
+        "cantava",
+        "cantei",
+        "cantarei",
+        "cantaria"
+      ],
+      "correct_answer": 1,
+      "difficulty": "fácil"
+    },
+    {
+      "id": 9,
+      "section": "Pretérito Perfeito do Indicativo",
+      "question": "Complete: 'Na semana passada, nós _______ ao cinema.'",
+      "options": [
+        "fomos",
+        "íamos",
+        "iremos",
+        "iríamos"
+      ],
+      "correct_answer": 0,
+      "difficulty": "fácil"
+    },
+    {
+      "id": 10,
+      "section": "Pretérito Perfeito do Indicativo",
+      "question": "A frase 'Eu terminei o projeto' indica uma ação:",
+      "options": [
+        "Que ainda está acontecendo.",
+        "Que era habitual no passado.",
+        "Que foi totalmente concluída no passado.",
+        "Que acontecerá no futuro."
+      ],
+      "correct_answer": 2,
+      "difficulty": "médio"
+    },
+    {
+      "id": 11,
+      "section": "Pretérito Imperfeito do Indicativo",
+      "question": "Complete a frase: 'Quando eu era criança, eu _______ muito de bicicleta.'",
+      "options": [
+        "andei",
+        "andava",
+        "andarei",
+        "andaria"
+      ],
+      "correct_answer": 1,
+      "difficulty": "fácil"
+    },
+    {
+      "id": 12,
+      "section": "Pretérito Imperfeito do Indicativo",
+      "question": "Qual verbo está no Pretérito Imperfeito do Indicativo?",
+      "options": [
+        "estudei",
+        "estudarei",
+        "estudava",
+        "estudo"
+      ],
+      "correct_answer": 2,
+      "difficulty": "fácil"
+    },
+    {
+      "id": 13,
+      "section": "Pretérito Imperfeito do Indicativo",
+      "question": "Complete: 'Antigamente, as pessoas _______ mais cartas.'",
+      "options": [
+        "escreverão",
+        "escreveram",
+        "escreviam",
+        "escreveriam"
+      ],
+      "correct_answer": 2,
+      "difficulty": "fácil"
+    },
+    {
+      "id": 14,
+      "section": "Pretérito Imperfeito do Indicativo",
+      "question": "O pretérito imperfeito é usado para descrever uma ação passada que era:",
+      "options": [
+        "Pontual e concluída.",
+        "Contínua, habitual ou que servia de pano de fundo para outra.",
+        "Anterior a outra ação passada.",
+        "Condicionada a outro evento."
+      ],
+      "correct_answer": 1,
+      "difficulty": "médio"
+    },
+    {
+      "id": 15,
+      "section": "Pretérito Imperfeito do Indicativo",
+      "question": "Na frase 'Enquanto ele dormia, o telefone tocou', qual verbo indica a ação que estava em andamento?",
+      "options": [
+        "tocou",
+        "dormia",
+        "ambos",
+        "nenhum"
+      ],
+      "correct_answer": 1,
+      "difficulty": "médio"
+    },
+    {
+      "id": 16,
+      "section": "Pretérito Mais-que-perfeito do Indicativo",
+      "question": "Complete a frase: 'Quando a polícia chegou, o ladrão já _______.'",
+      "options": [
+        "fugiu",
+        "fugia",
+        "fugira",
+        "fugiria"
+      ],
+      "correct_answer": 2,
+      "difficulty": "médio"
+    },
+    {
+      "id": 17,
+      "section": "Pretérito Mais-que-perfeito do Indicativo",
+      "question": "Qual verbo está no Pretérito Mais-que-perfeito do Indicativo?",
+      "options": [
+        "falei",
+        "falava",
+        "falaria",
+        "falara"
+      ],
+      "correct_answer": 3,
+      "difficulty": "médio"
+    },
+    {
+      "id": 18,
+      "section": "Pretérito Mais-que-perfeito do Indicativo",
+      "question": "O pretérito mais-que-perfeito indica uma ação que ocorreu:",
+      "options": [
+        "Depois de outra ação passada.",
+        "Ao mesmo tempo que outra ação passada.",
+        "Antes de outra ação já passada.",
+        "No futuro do passado."
+      ],
+      "correct_answer": 2,
+      "difficulty": "médio"
+    },
+    {
+      "id": 19,
+      "section": "Pretérito Mais-que-perfeito do Indicativo",
+      "question": "Complete: 'Eu já _______ o relatório quando meu chefe o pediu.'",
+      "options": [
+        "terminava",
+        "tinha terminado",
+        "terminaria",
+        "termino"
+      ],
+      "correct_answer": 1,
+      "difficulty": "médio"
+    },
+    {
+      "id": 20,
+      "section": "Pretérito Mais-que-perfeito do Indicativo",
+      "question": "A forma 'vendêramos' corresponde a qual pessoa e tempo verbal?",
+      "options": [
+        "1ª pessoa do plural do Futuro do Pretérito.",
+        "1ª pessoa do plural do Pretérito Mais-que-perfeito.",
+        "3ª pessoa do plural do Pretérito Perfeito.",
+        "1ª pessoa do plural do Futuro do Presente."
+      ],
+      "correct_answer": 1,
+      "difficulty": "difícil"
+    },
+    {
+      "id": 21,
+      "section": "Futuro do Presente do Indicativo",
+      "question": "Complete a frase: 'Amanhã, eu _______ cedo.'",
+      "options": [
+        "acordaria",
+        "acordei",
+        "acordava",
+        "acordarei"
+      ],
+      "correct_answer": 3,
+      "difficulty": "fácil"
+    },
+    {
+      "id": 22,
+      "section": "Futuro do Presente do Indicativo",
+      "question": "Qual verbo está no Futuro do Presente do Indicativo?",
+      "options": [
+        "viajei",
+        "viajaria",
+        "viajarei",
+        "viajava"
+      ],
+      "correct_answer": 2,
+      "difficulty": "fácil"
+    },
+    {
+      "id": 23,
+      "section": "Futuro do Presente do Indicativo",
+      "question": "Complete: 'No próximo ano, eles _______ de casa.'",
+      "options": [
+        "mudarão",
+        "mudaram",
+        "mudariam",
+        "mudavam"
+      ],
+      "correct_answer": 0,
+      "difficulty": "fácil"
+    },
+    {
+      "id": 24,
+      "section": "Futuro do Presente do Indicativo",
+      "question": "O futuro do presente indica uma ação que:",
+      "options": [
+        "É uma certeza no passado.",
+        "É uma possibilidade no futuro.",
+        "É uma certeza ou fato que ocorrerá no futuro.",
+        "Depende de uma condição para acontecer."
+      ],
+      "correct_answer": 2,
+      "difficulty": "médio"
+    },
+    {
+      "id": 25,
+      "section": "Futuro do Pretérito do Indicativo",
+      "question": "Complete a frase: 'Se eu pudesse, eu _______ o mundo.'",
+      "options": [
+        "viajarei",
+        "viajei",
+        "viajaria",
+        "viajava"
+      ],
+      "correct_answer": 2,
+      "difficulty": "fácil"
+    },
+    {
+      "id": 26,
+      "section": "Futuro do Pretérito do Indicativo",
+      "question": "Qual verbo está no Futuro do Pretérito do Indicativo?",
+      "options": [
+        "comprará",
+        "comprava",
+        "comprou",
+        "compraria"
+      ],
+      "correct_answer": 3,
+      "difficulty": "fácil"
+    },
+    {
+      "id": 27,
+      "section": "Futuro do Pretérito do Indicativo",
+      "question": "Complete: 'Eu não faria isso, se _______ você.'",
+      "options": [
+        "era",
+        "fosse",
+        "fui",
+        "serei"
+      ],
+      "correct_answer": 1,
+      "difficulty": "médio"
+    },
+    {
+      "id": 28,
+      "section": "Futuro do Pretérito do Indicativo",
+      "question": "O futuro do pretérito é frequentemente usado para expressar:",
+      "options": [
+        "Uma ação futura e certa.",
+        "Uma ação passada e concluída.",
+        "Uma ação futura que depende de uma condição; uma hipótese.",
+        "Uma ordem ou conselho."
+      ],
+      "correct_answer": 2,
+      "difficulty": "médio"
+    },
+    {
+      "id": 29,
+      "section": "Futuro do Pretérito do Indicativo",
+      "question": "Na frase 'Ele disse que chegaria mais tarde', o verbo 'chegaria' indica:",
+      "options": [
+        "Uma certeza no presente.",
+        "Uma ação futura em relação a um momento passado.",
+        "Uma ação habitual no passado.",
+        "Uma ação concluída."
+      ],
+      "correct_answer": 1,
+      "difficulty": "difícil"
+    },
+    {
+      "id": 30,
+      "section": "O que é o Modo Indicativo?",
+      "question": "Qual frase NÃO contém um verbo no modo indicativo?",
+      "options": [
+        "Talvez ele venha à festa.",
+        "Eu estudo português.",
+        "O time ganhou o campeonato.",
+        "Nós viajaremos nas férias."
+      ],
+      "correct_answer": 0,
+      "difficulty": "médio"
+    },
+    {
+      "id": 31,
+      "section": "Presente do Indicativo",
+      "question": "Complete: 'Tu _______ a verdade?'",
+      "options": [
+        "sabe",
+        "sabes",
+        "sabeis",
+        "sabem"
+      ],
+      "correct_answer": 1,
+      "difficulty": "médio"
+    },
+    {
+      "id": 32,
+      "section": "Pretérito Perfeito do Indicativo",
+      "question": "Complete: 'Vós _______ a lição.'",
+      "options": [
+        "entendestes",
+        "entendíeis",
+        "entendereis",
+        "entenderíeis"
+      ],
+      "correct_answer": 0,
+      "difficulty": "difícil"
+    },
+    {
+      "id": 33,
+      "section": "Pretérito Imperfeito do Indicativo",
+      "question": "Qual a forma correta do verbo 'pôr' na 3ª pessoa do plural do pretérito imperfeito?",
+      "options": [
+        "puseram",
+        "porão",
+        "punham",
+        "poriam"
+      ],
+      "correct_answer": 2,
+      "difficulty": "difícil"
+    },
+    {
+      "id": 34,
+      "section": "Pretérito Mais-que-perfeito do Indicativo",
+      "question": "A forma composta 'tínhamos feito' é equivalente a qual forma simples do Pretérito Mais-que-perfeito?",
+      "options": [
+        "fazíamos",
+        "fizemos",
+        "faríamos",
+        "fizéramos"
+      ],
+      "correct_answer": 3,
+      "difficulty": "médio"
+    },
+    {
+      "id": 35,
+      "section": "Futuro do Presente do Indicativo",
+      "question": "Complete: 'Nós _______ o que for preciso.'",
+      "options": [
+        "faríamos",
+        "faremos",
+        "fazíamos",
+        "fizemos"
+      ],
+      "correct_answer": 1,
+      "difficulty": "fácil"
+    },
+    {
+      "id": 36,
+      "section": "Futuro do Pretérito do Indicativo",
+      "question": "Complete: 'Com mais dinheiro, eles _______ uma casa maior.'",
+      "options": [
+        "comprarão",
+        "compraram",
+        "comprariam",
+        "compravam"
+      ],
+      "correct_answer": 2,
+      "difficulty": "fácil"
+    },
+    {
+      "id": 37,
+      "section": "O que é o Modo Indicativo?",
+      "question": "Identifique o tempo e o modo do verbo na frase: 'Eu sempre leio antes de dormir.'",
+      "options": [
+        "Presente do Subjuntivo",
+        "Presente do Indicativo",
+        "Pretérito Imperfeito do Indicativo",
+        "Futuro do Presente do Indicativo"
+      ],
+      "correct_answer": 1,
+      "difficulty": "fácil"
+    },
+    {
+      "id": 38,
+      "section": "Presente do Indicativo",
+      "question": "Qual a conjugação correta do verbo 'vir' na 1ª pessoa do plural do presente do indicativo?",
+      "options": [
+        "vimos",
+        "viemos",
+        "viremos",
+        "vínhamos"
+      ],
+      "correct_answer": 1,
+      "difficulty": "médio"
+    },
+    {
+      "id": 39,
+      "section": "Pretérito Perfeito do Indicativo",
+      "question": "Identifique o tempo do verbo na frase: 'Ele não me disse a verdade.'",
+      "options": [
+        "Pretérito Imperfeito",
+        "Presente",
+        "Pretérito Perfeito",
+        "Futuro do Pretérito"
+      ],
+      "correct_answer": 2,
+      "difficulty": "fácil"
+    },
+    {
+      "id": 40,
+      "section": "Pretérito Imperfeito do Indicativo",
+      "question": "Complete: 'Enquanto eu _______, você _______.'",
+      "options": [
+        "estudava, brincava",
+        "estudei, brincou",
+        "estudarei, brincará",
+        "estudaria, brincaria"
+      ],
+      "correct_answer": 0,
+      "difficulty": "fácil"
+    },
+    {
+      "id": 41,
+      "section": "Pretérito Mais-que-perfeito do Indicativo",
+      "question": "Qual frase usa corretamente o Pretérito Mais-que-perfeito?",
+      "options": [
+        "Quando cheguei, ele já saíra.",
+        "Quando cheguei, ele já saía.",
+        "Quando cheguei, ele já saiu.",
+        "Quando cheguei, ele já sairia."
+      ],
+      "correct_answer": 0,
+      "difficulty": "médio"
+    },
+    {
+      "id": 42,
+      "section": "Futuro do Presente do Indicativo",
+      "question": "A forma 'direi' é a 1ª pessoa do singular do futuro do presente de qual verbo?",
+      "options": [
+        "Dar",
+        "Dizer",
+        "Dever",
+        "Doer"
+      ],
+      "correct_answer": 1,
+      "difficulty": "médio"
+    },
+    {
+      "id": 43,
+      "section": "Futuro do Pretérito do Indicativo",
+      "question": "Qual o valor semântico do futuro do pretérito na frase: 'Seriam dez horas quando ele ligou'?",
+      "options": [
+        "Certeza absoluta",
+        "Condição",
+        "Dúvida ou incerteza sobre um fato passado",
+        "Fato futuro"
+      ],
+      "correct_answer": 2,
+      "difficulty": "difícil"
+    },
+    {
+      "id": 44,
+      "section": "O que é o Modo Indicativo?",
+      "question": "Na frase 'Chove muito nesta cidade', o verbo expressa:",
+      "options": [
+        "Um desejo",
+        "Uma ordem",
+        "Uma dúvida",
+        "Um fato da natureza"
+      ],
+      "correct_answer": 3,
+      "difficulty": "fácil"
+    },
+    {
+      "id": 45,
+      "section": "Presente do Indicativo",
+      "question": "Complete: 'O que vocês _______ sobre isso?'",
+      "options": [
+        "dizem",
+        "dizeis",
+        "diz",
+        "digo"
+      ],
+      "correct_answer": 0,
+      "difficulty": "fácil"
+    },
+    {
+      "id": 46,
+      "section": "Pretérito Perfeito do Indicativo",
+      "question": "Complete: 'Eu _______ a chave em casa.'",
+      "options": [
+        "esqueceria",
+        "esquecia",
+        "esquecerei",
+        "esqueci"
+      ],
+      "correct_answer": 3,
+      "difficulty": "fácil"
+    },
+    {
+      "id": 47,
+      "section": "Pretérito Imperfeito do Indicativo",
+      "question": "A terminação '-ava' (como em 'cantava') é característica de qual tempo verbal para verbos da 1ª conjugação (-ar)?",
+      "options": [
+        "Pretérito Perfeito",
+        "Futuro do Presente",
+        "Pretérito Imperfeito",
+        "Presente"
+      ],
+      "correct_answer": 2,
+      "difficulty": "médio"
+    },
+    {
+      "id": 48,
+      "section": "Pretérito Mais-que-perfeito do Indicativo",
+      "question": "Complete: 'Ela já _______ o filme quando fomos ao cinema.'",
+      "options": [
+        "vira",
+        "verá",
+        "via",
+        "veria"
+      ],
+      "correct_answer": 0,
+      "difficulty": "médio"
+    },
+    {
+      "id": 49,
+      "section": "Futuro do Presente do Indicativo",
+      "question": "Complete: 'Eles _______ a verdade um dia.'",
+      "options": [
+        "saberiam",
+        "souberam",
+        "sabiam",
+        "saberão"
+      ],
+      "correct_answer": 3,
+      "difficulty": "fácil"
+    },
+    {
+      "id": 50,
+      "section": "Futuro do Pretérito do Indicativo",
+      "question": "Qual frase expressa uma polidez ou um pedido mais suave?",
+      "options": [
+        "Você me ajuda?",
+        "Você poderia me ajudar?",
+        "Você me ajudará?",
+        "Você me ajudou?"
+      ],
+      "correct_answer": 1,
+      "difficulty": "médio"
+    }
+  ],
+  "evaluation": {
+    "include_evaluation": false
+  },
+  "settings": {
+    "public": true,
+    "allow_multiple_responses": true,
+    "show_progress_bar": true,
+    "collect_email": false,
+    "require_login": false
+  }
+}
