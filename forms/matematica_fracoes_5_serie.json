@@ -1,0 +1,702 @@
+{
+  "metadata": {
+    "title": "🔢 Quiz de Frações - Matemática 5ª Série",
+    "description": "Um quiz divertido para praticar seus conhecimentos sobre frações, incluindo leitura, comparação, equivalência e operações básicas.",
+    "subject": "Matemática",
+    "grade": "5ª série",
+    "topic": "Frações"
+  },
+  "content": {
+    "introduction": "Olá! Bem-vindo ao nosso quiz sobre frações. As frações estão por toda parte! Vamos ver o quanto você já sabe sobre elas.",
+    "instructions": "Leia cada pergunta com atenção e escolha a melhor resposta. Boa sorte!",
+    "sections": [
+      {
+        "name": "O que é uma Fração?",
+        "description": "Questões para entender o conceito básico de frações."
+      },
+      {
+        "name": "Leitura e Representação",
+        "description": "Como lemos e representamos as frações."
+      },
+      {
+        "name": "Comparando Frações",
+        "description": "Qual fração é maior ou menor?"
+      },
+      {
+        "name": "Frações Equivalentes",
+        "description": "Frações que representam a mesma quantidade."
+      },
+      {
+        "name": "Soma e Subtração de Frações",
+        "description": "Operações básicas com frações."
+      },
+      {
+        "name": "Problemas com Frações",
+        "description": "Aplicando frações em situações do dia a dia."
+      }
+    ]
+  },
+  "questions": [
+    {
+      "id": 1,
+      "section": "O que é uma Fração?",
+      "question": "O que o número de baixo em uma fração representa?",
+      "options": [
+        "O número de partes que pegamos.",
+        "O número total de partes em que o todo foi dividido.",
+        "O número de inteiros.",
+        "O resultado da divisão."
+      ],
+      "correct_answer": 1,
+      "difficulty": "fácil"
+    },
+    {
+      "id": 2,
+      "section": "O que é uma Fração?",
+      "question": "Na fração 3/4, o número 3 é chamado de:",
+      "options": [
+        "Denominador",
+        "Quociente",
+        "Numerador",
+        "Produto"
+      ],
+      "correct_answer": 2,
+      "difficulty": "fácil"
+    },
+    {
+      "id": 3,
+      "section": "O que é uma Fração?",
+      "question": "Se uma pizza é dividida em 8 pedaços iguais e você come 1 pedaço, que fração da pizza você comeu?",
+      "options": [
+        "1/7",
+        "8/1",
+        "1/8",
+        "7/8"
+      ],
+      "correct_answer": 2,
+      "difficulty": "fácil"
+    },
+    {
+      "id": 4,
+      "section": "O que é uma Fração?",
+      "question": "Qual fração representa um inteiro?",
+      "options": [
+        "1/2",
+        "5/5",
+        "3/4",
+        "1/10"
+      ],
+      "correct_answer": 1,
+      "difficulty": "fácil"
+    },
+    {
+      "id": 5,
+      "section": "Leitura e Representação",
+      "question": "Como se lê a fração 2/5?",
+      "options": [
+        "Dois quintos",
+        "Cinco meios",
+        "Dois cinco avos",
+        "Dois e cinco"
+      ],
+      "correct_answer": 0,
+      "difficulty": "fácil"
+    },
+    {
+      "id": 6,
+      "section": "Leitura e Representação",
+      "question": "Qual fração representa a imagem de uma barra de chocolate com 6 partes, onde 4 estão coloridas?",
+      "options": [
+        "6/4",
+        "2/6",
+        "4/6",
+        "4/10"
+      ],
+      "correct_answer": 2,
+      "difficulty": "fácil"
+    },
+    {
+      "id": 7,
+      "section": "Leitura e Representação",
+      "question": "A fração 'sete décimos' é escrita como:",
+      "options": [
+        "7/10",
+        "10/7",
+        "7/100",
+        "7,10"
+      ],
+      "correct_answer": 0,
+      "difficulty": "fácil"
+    },
+    {
+      "id": 8,
+      "section": "Leitura e Representação",
+      "question": "Como se lê a fração 1/2?",
+      "options": [
+        "Um dois avos",
+        "Um segundo",
+        "Um meio ou metade",
+        "Dois um"
+      ],
+      "correct_answer": 2,
+      "difficulty": "fácil"
+    },
+    {
+      "id": 9,
+      "section": "Comparando Frações",
+      "question": "Qual fração é maior: 1/3 ou 1/4?",
+      "options": [
+        "1/3",
+        "1/4",
+        "São iguais",
+        "Não dá para comparar"
+      ],
+      "correct_answer": 0,
+      "difficulty": "médio"
+    },
+    {
+      "id": 10,
+      "section": "Comparando Frações",
+      "question": "Qual sinal devemos usar para comparar 3/5 e 4/5? (3/5 __ 4/5)",
+      "options": [
+        "> (maior que)",
+        "< (menor que)",
+        "= (igual a)",
+        "≠ (diferente de)"
+      ],
+      "correct_answer": 1,
+      "difficulty": "fácil"
+    },
+    {
+      "id": 11,
+      "section": "Comparando Frações",
+      "question": "Ana comeu 2/8 de um bolo e Bia comeu 5/8 do mesmo bolo. Quem comeu mais?",
+      "options": [
+        "Ana",
+        "Bia",
+        "As duas comeram a mesma quantidade",
+        "Não é possível saber"
+      ],
+      "correct_answer": 1,
+      "difficulty": "fácil"
+    },
+    {
+      "id": 12,
+      "section": "Comparando Frações",
+      "question": "Qual fração é menor: 2/7 ou 2/9?",
+      "options": [
+        "2/7",
+        "São iguais",
+        "2/9",
+        "Nenhuma das duas"
+      ],
+      "correct_answer": 2,
+      "difficulty": "médio"
+    },
+    {
+      "id": 13,
+      "section": "Frações Equivalentes",
+      "question": "Qual fração é equivalente a 1/2?",
+      "options": [
+        "1/3",
+        "2/3",
+        "3/4",
+        "5/10"
+      ],
+      "correct_answer": 3,
+      "difficulty": "fácil"
+    },
+    {
+      "id": 14,
+      "section": "Frações Equivalentes",
+      "question": "Para encontrar uma fração equivalente, podemos:",
+      "options": [
+        "Somar o mesmo número ao numerador e ao denominador.",
+        "Subtrair o mesmo número do numerador e do denominador.",
+        "Multiplicar ou dividir o numerador e o denominador pelo mesmo número (diferente de zero).",
+        "Inverter o numerador e o denominador."
+      ],
+      "correct_answer": 2,
+      "difficulty": "médio"
+    },
+    {
+      "id": 15,
+      "section": "Frações Equivalentes",
+      "question": "A fração 6/8 pode ser simplificada para:",
+      "options": [
+        "1/2",
+        "3/4",
+        "2/3",
+        "6/4"
+      ],
+      "correct_answer": 1,
+      "difficulty": "médio"
+    },
+    {
+      "id": 16,
+      "section": "Frações Equivalentes",
+      "question": "Complete a fração para que seja equivalente: 2/3 = ?/9",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "correct_answer": 2,
+      "difficulty": "médio"
+    },
+    {
+      "id": 17,
+      "section": "Frações Equivalentes",
+      "question": "Qual das frações NÃO é equivalente a 1/3?",
+      "options": [
+        "2/6",
+        "3/9",
+        "4/12",
+        "3/6"
+      ],
+      "correct_answer": 3,
+      "difficulty": "médio"
+    },
+    {
+      "id": 18,
+      "section": "Soma e Subtração de Frações",
+      "question": "Qual o resultado de 1/5 + 3/5?",
+      "options": [
+        "4/10",
+        "4/5",
+        "2/5",
+        "4/25"
+      ],
+      "correct_answer": 1,
+      "difficulty": "fácil"
+    },
+    {
+      "id": 19,
+      "section": "Soma e Subtração de Frações",
+      "question": "Qual o resultado de 7/8 - 3/8?",
+      "options": [
+        "4/8",
+        "4/0",
+        "10/8",
+        "4/16"
+      ],
+      "correct_answer": 0,
+      "difficulty": "fácil"
+    },
+    {
+      "id": 20,
+      "section": "Soma e Subtração de Frações",
+      "question": "Para somar ou subtrair frações com denominadores iguais, nós:",
+      "options": [
+        "Somamos os numeradores e os denominadores.",
+        "Mantemos o numerador e somamos os denominadores.",
+        "Somamos os numeradores e mantemos o denominador.",
+        "Multiplicamos tudo."
+      ],
+      "correct_answer": 2,
+      "difficulty": "fácil"
+    },
+    {
+      "id": 21,
+      "section": "Soma e Subtração de Frações",
+      "question": "Lucas pintou 2/6 de um muro e Pedro pintou 3/6. Que fração do muro eles pintaram juntos?",
+      "options": [
+        "5/12",
+        "1/6",
+        "5/6",
+        "6/5"
+      ],
+      "correct_answer": 2,
+      "difficulty": "fácil"
+    },
+    {
+      "id": 22,
+      "section": "Problemas com Frações",
+      "question": "Uma barra de chocolate tem 10 pedaços. Se você come 3/10, quantos pedaços você comeu?",
+      "options": [
+        "10",
+        "7",
+        "3",
+        "13"
+      ],
+      "correct_answer": 2,
+      "difficulty": "fácil"
+    },
+    {
+      "id": 23,
+      "section": "Problemas com Frações",
+      "question": "Em uma classe de 25 alunos, 1/5 são meninos. Quantos meninos há na classe?",
+      "options": [
+        "5",
+        "10",
+        "15",
+        "20"
+      ],
+      "correct_answer": 0,
+      "difficulty": "médio"
+    },
+    {
+      "id": 24,
+      "section": "Problemas com Frações",
+      "question": "Maria tinha uma dúzia de ovos (12 ovos). Ela usou 1/4 para fazer um bolo. Quantos ovos ela usou?",
+      "options": [
+        "4",
+        "6",
+        "3",
+        "2"
+      ],
+      "correct_answer": 2,
+      "difficulty": "médio"
+    },
+    {
+      "id": 25,
+      "section": "Problemas com Frações",
+      "question": "João leu 1/3 de um livro de 90 páginas. Quantas páginas ele leu?",
+      "options": [
+        "10",
+        "20",
+        "30",
+        "45"
+      ],
+      "correct_answer": 2,
+      "difficulty": "médio"
+    },
+    {
+      "id": 26,
+      "section": "O que é uma Fração?",
+      "question": "Na fração 5/9, o que o número 9 representa?",
+      "options": [
+        "O numerador, quantas partes foram tomadas.",
+        "O denominador, o total de partes.",
+        "A fração inteira.",
+        "O número de partes que sobraram."
+      ],
+      "correct_answer": 1,
+      "difficulty": "fácil"
+    },
+    {
+      "id": 27,
+      "section": "Leitura e Representação",
+      "question": "Como se escreve 'três oitavos'?",
+      "options": [
+        "3/8",
+        "8/3",
+        "3,8",
+        "38"
+      ],
+      "correct_answer": 0,
+      "difficulty": "fácil"
+    },
+    {
+      "id": 28,
+      "section": "Comparando Frações",
+      "question": "Qual fração é maior: 5/10 ou 3/10?",
+      "options": [
+        "3/10",
+        "São iguais",
+        "5/10",
+        "Não é possível comparar"
+      ],
+      "correct_answer": 2,
+      "difficulty": "fácil"
+    },
+    {
+      "id": 29,
+      "section": "Frações Equivalentes",
+      "question": "A fração 2/4 é equivalente a qual outra fração?",
+      "options": [
+        "1/4",
+        "1/2",
+        "3/4",
+        "2/2"
+      ],
+      "correct_answer": 1,
+      "difficulty": "fácil"
+    },
+    {
+      "id": 30,
+      "section": "Soma e Subtração de Frações",
+      "question": "Calcule: 5/9 + 2/9",
+      "options": [
+        "7/18",
+        "3/9",
+        "7/9",
+        "7/0"
+      ],
+      "correct_answer": 2,
+      "difficulty": "fácil"
+    },
+    {
+      "id": 31,
+      "section": "Soma e Subtração de Frações",
+      "question": "Calcule: 10/12 - 5/12",
+      "options": [
+        "15/12",
+        "5/0",
+        "5/12",
+        "5/24"
+      ],
+      "correct_answer": 2,
+      "difficulty": "fácil"
+    },
+    {
+      "id": 32,
+      "section": "Problemas com Frações",
+      "question": "Se um bolo foi dividido em 8 partes e você comeu 3, que fração do bolo sobrou?",
+      "options": [
+        "3/8",
+        "8/5",
+        "5/8",
+        "3/5"
+      ],
+      "correct_answer": 2,
+      "difficulty": "médio"
+    },
+    {
+      "id": 33,
+      "section": "O que é uma Fração?",
+      "question": "Uma fração em que o numerador é maior que o denominador (como 7/5) é chamada de:",
+      "options": [
+        "Fração própria",
+        "Fração imprópria",
+        "Fração aparente",
+        "Fração unitária"
+      ],
+      "correct_answer": 1,
+      "difficulty": "difícil"
+    },
+    {
+      "id": 34,
+      "section": "Leitura e Representação",
+      "question": "Como lemos a fração 1/100?",
+      "options": [
+        "Um cem",
+        "Um centésimo",
+        "Cem avos",
+        "Um sobre cem"
+      ],
+      "correct_answer": 1,
+      "difficulty": "médio"
+    },
+    {
+      "id": 35,
+      "section": "Comparando Frações",
+      "question": "Qual fração é menor: 1/2 ou 1/5?",
+      "options": [
+        "1/2",
+        "1/5",
+        "São iguais",
+        "Não sei"
+      ],
+      "correct_answer": 1,
+      "difficulty": "médio"
+    },
+    {
+      "id": 36,
+      "section": "Frações Equivalentes",
+      "question": "Qual é a forma mais simples da fração 10/20?",
+      "options": [
+        "1/2",
+        "2/4",
+        "5/10",
+        "10/20"
+      ],
+      "correct_answer": 0,
+      "difficulty": "médio"
+    },
+    {
+      "id": 37,
+      "section": "Soma e Subtração de Frações",
+      "question": "Qual o resultado de 1/4 + 2/4?",
+      "options": [
+        "3/8",
+        "3/4",
+        "2/8",
+        "3/16"
+      ],
+      "correct_answer": 1,
+      "difficulty": "fácil"
+    },
+    {
+      "id": 38,
+      "section": "Problemas com Frações",
+      "question": "Tenho 15 lápis. 1/3 deles são vermelhos. Quantos lápis vermelhos eu tenho?",
+      "options": [
+        "3",
+        "10",
+        "5",
+        "15"
+      ],
+      "correct_answer": 2,
+      "difficulty": "médio"
+    },
+    {
+      "id": 39,
+      "section": "O que é uma Fração?",
+      "question": "Qual fração representa a metade de uma laranja?",
+      "options": [
+        "1/4",
+        "2/1",
+        "1/2",
+        "2/2"
+      ],
+      "correct_answer": 2,
+      "difficulty": "fácil"
+    },
+    {
+      "id": 40,
+      "section": "Leitura e Representação",
+      "question": "A fração 4/7 é lida como:",
+      "options": [
+        "Quatro sete",
+        "Sete quartos",
+        "Quatro sétimos",
+        "Quatro sobre sete"
+      ],
+      "correct_answer": 2,
+      "difficulty": "fácil"
+    },
+    {
+      "id": 41,
+      "section": "Comparando Frações",
+      "question": "Se você tem 3/4 de um real e seu amigo tem 1/2 de um real, quem tem mais dinheiro?",
+      "options": [
+        "Eu",
+        "Meu amigo",
+        "Temos a mesma quantia",
+        "Não é possível saber"
+      ],
+      "correct_answer": 0,
+      "difficulty": "médio"
+    },
+    {
+      "id": 42,
+      "section": "Frações Equivalentes",
+      "question": "Encontre a fração que falta para ser equivalente: 1/5 = 3/?",
+      "options": [
+        "5",
+        "10",
+        "3",
+        "15"
+      ],
+      "correct_answer": 3,
+      "difficulty": "médio"
+    },
+    {
+      "id": 43,
+      "section": "Soma e Subtração de Frações",
+      "question": "Uma pizza foi cortada em 10 pedaços. A família comeu 7/10. Que fração da pizza sobrou?",
+      "options": [
+        "7/10",
+        "10/3",
+        "3/10",
+        "17/10"
+      ],
+      "correct_answer": 2,
+      "difficulty": "fácil"
+    },
+    {
+      "id": 44,
+      "section": "Problemas com Frações",
+      "question": "De um pacote com 20 balas, dei 1/4 para meu irmão. Com quantas balas eu fiquei?",
+      "options": [
+        "5",
+        "10",
+        "15",
+        "4"
+      ],
+      "correct_answer": 2,
+      "difficulty": "médio"
+    },
+    {
+      "id": 45,
+      "section": "Soma e Subtração de Frações",
+      "question": "Qual o resultado de 1/2 + 1/4?",
+      "options": [
+        "2/6",
+        "1/8",
+        "3/4",
+        "2/4"
+      ],
+      "correct_answer": 2,
+      "difficulty": "difícil"
+    },
+    {
+      "id": 46,
+      "section": "Soma e Subtração de Frações",
+      "question": "Qual o resultado de 3/4 - 1/2?",
+      "options": [
+        "2/2",
+        "1/4",
+        "2/4",
+        "4/6"
+      ],
+      "correct_answer": 1,
+      "difficulty": "difícil"
+    },
+    {
+      "id": 47,
+      "section": "Frações Equivalentes",
+      "question": "Qual é a forma mais simples da fração 9/12?",
+      "options": [
+        "1/4",
+        "3/4",
+        "1/3",
+        "9/12"
+      ],
+      "correct_answer": 1,
+      "difficulty": "médio"
+    },
+    {
+      "id": 48,
+      "section": "Comparando Frações",
+      "question": "Ordene as frações da menor para a maior: 1/2, 1/5, 1/3",
+      "options": [
+        "1/2, 1/3, 1/5",
+        "1/5, 1/3, 1/2",
+        "1/3, 1/5, 1/2",
+        "1/2, 1/5, 1/3"
+      ],
+      "correct_answer": 1,
+      "difficulty": "difícil"
+    },
+    {
+      "id": 49,
+      "section": "Problemas com Frações",
+      "question": "Um dia tem 24 horas. Que fração do dia representam 8 horas?",
+      "options": [
+        "1/8",
+        "8/24",
+        "1/3",
+        "1/4"
+      ],
+      "correct_answer": 2,
+      "explanation": "A fração é 8/24, que pode ser simplificada para 1/3.",
+      "difficulty": "difícil"
+    },
+    {
+      "id": 50,
+      "section": "Problemas com Frações",
+      "question": "Gastei 1/2 do meu dinheiro e depois gastei 1/4. Que fração do meu dinheiro eu gastei no total?",
+      "options": [
+        "2/6",
+        "1/8",
+        "3/4",
+        "2/4"
+      ],
+      "correct_answer": 2,
+      "difficulty": "difícil"
+    }
+  ],
+  "evaluation": {
+    "include_evaluation": false
+  },
+  "settings": {
+    "public": true,
+    "allow_multiple_responses": true,
+    "show_progress_bar": true,
+    "collect_email": false,
+    "require_login": false
+  }
+}
